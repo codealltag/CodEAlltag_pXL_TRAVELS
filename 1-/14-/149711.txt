@@ -1,0 +1,32 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------DFB1400E753A79B9586277C3
+Content-Type: text/plain; charset=iso-8859-1; x-mac-type="54455854"; x-mac-creator="4D4F5353"
+Content-Transfer-Encoding: 8bit
+
+Wir suchen für diese Sommerferien ein gemütliches, ruhiges Hotel in der
+Toscana. Das Hotel muss am Meer liegen und die Zimmer sollten Balkon
+oder Terrasse mit Meersicht haben.
+Wer kann uns einen Tipp geben?
+Vielen Dank für Antworten!
+Gruss Hinrich
+
+--------------DFB1400E753A79B9586277C3
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="epkindler.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für 
+Content-Disposition: attachment;
+ filename="epkindler.vcf"
+
+begin:vcard 
+n:Heinrich Fillbert
+ixt;zlzi:6720556928
+x-mozilla-html:FALSE
+Kranplatz 86B;Bkbljhukaj;;8156;Tpwcopl
+version:2.1
+dhxib;ezgewqhn:czyucnlqk@ibgfxhsveok.pm
+x-mozilla-cpt:;1
+fn:Uslar Heinrich Feldermann
+end:vcard
+
+--------------DFB1400E753A79B9586277C3--

@@ -1,0 +1,25 @@
+Orlando Kirchschlager schrieb:
+
+
+Dafür spricht auch
+
+Fehler in '/antigua/charterfluege.html'
+Server: www.vkwbcasmucqu.ur:08
+Zeitpunkt: 23-Mar-2004 11:59:33
+Browser: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR
+22.7.4321)
+IP: 246.02.590.887
+Version: 11. 06. 19
+Referer:
+'http://yl.dywznu.agqvy.eni/obycfe/kj?p=Flug+Antigua&ei=UTF-8&fr=fp-top&x=wrt&y=y'
+Fehlernummer: 889
+Fehlerbeschreibung: Datei oder Pfad existiert nicht
+Fehlerhinweis: Pfad
+/tnj/wygst/qojtul/bbqeat/ywv.iqbdyyaka.ol/rorarw/lzrpydsbfo.mufl
+Zeilennummer: 1
+Inhalt der Zeile: <xinclude
+qfmj="/tjp/jntbx/ebsmvs/gqehkc/gtd.wtnqggyhk.ev/jncwvf/anialearnw.kibg">
+
+in http://iqb.ivnlgjzjinzc.na/mrgxgca/lukscsfjdauxu.xksi
+
+Gruß, ARNE

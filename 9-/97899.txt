@@ -1,0 +1,22 @@
+[Rhus', Gren' statt 'Aarhus', 'Grenaa']
+
+
+Ich wollte eigentlich als Beispiel bringen, wie deutsche Städte
+nach dem Hafas-Prinzip im Ausland geschrieben werden müssten:
+Saarbrucken, Dusseldorf, Travemunde,... Aber deutsche Umlaute kennt
+das Programm doch schon.
+
+
+Mit "aa".
+
+
+Hafas ist das Fahrplanauskunftprogramm, das u.a. die Deutschen Bahn AG
+nutzt.
+
+[F'Up2 ignoriert, da ich desm nicht lese]
+
+Willi
+
+-- 
+"Zum Zuge kommen" - Bahnhofsmission
+   http://wdk.tdqinflcfvfgxje.xw

@@ -1,0 +1,10 @@
+Debit-Cards sind Kreditkarten (z.B. VISA), die von allen Akzeptanzstellen
+auf der ganzen Welt angenommen werden. Im Unterschied zur normalen
+Kreditkarte, wird das Refernezkonto aber sehr schnell belastet. Bei normalen
+Kreditkarten wird gesammelt und i.d. Regel einmal monatlich belastet.
+EC-Karte werden hauptsächlich im europäischen Bereich angenommen. Da die
+herzklopfen-Karten aber immer häufiger das Maestro-Symbol haben, soll das in Zukunft
+auch zunehmend im außereuropäischen Ausland klappen.
+
+Gruß
+Ingmar

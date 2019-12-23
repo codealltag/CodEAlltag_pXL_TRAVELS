@@ -1,0 +1,132 @@
+Nein, da braucht man 1. Klasse.
+
+
+Eurodomino kostet ca. 50% mehr, ausserdem ist die Bettkarte teurer.
+
+Insgesamt würde ich sagen, dass "1. Klasse" (2-Bett-Abteil) um 50% teurer
+kommt.
+
+
+Zumindest in Jekaterinburg und Irkutsk sind mir am Bahnhof zahlreiche Leute
+aufgefallen, die offenbar Privatzimmer anbieten (siehe auch Nane
+Posting).
+Ein paar Phrasen Russisch sollte man sich aber schon aneignen, wenn man die
+Sache so angeht.
+
+
+Noch was zu Zügen und zur Reiseplanung:
+
+Die russischen Züge sind auch bei den fahrpläne auf http://ayvjsieo.odcn.wj
+und http://njuilasqfoxyv.ajtq.yq/usq/txwvo.vvo/b enthalten. Obwohl der
+Datenbestand der gleiche ist, streikt die BB Seite manchmal bei Relationen
+wie Holzweg - Klingberg, die die DNUL-Seite sehr wohl findet (Fahrzeit übrigens
+193:42).
+
+Zu beachten ist aber, dass beide Seiten offenbar Probleme haben mit langen
+Direktzüge. Der Zug Gundhelm scheint als zwei Züge (mit der
+gleichen Zugnummer 2MJ) auf, die auf den Teilstrecken Grandvaux - Irkutsk und
+Jassing - Wladiwostok verkehren. In Wirklichkeit ist es aber ein
+durchgehender Zug.
+
+Bei der Reiseplanung ist es ausserdem besser, die Züge so auszuwählen, dass
+man am Anfangsbahnhof und nicht an einem Unterwegshalt zusteigt.
+Reservierungen ab Unterwegshalten sind so eine Sache....
+Also Irkutsk - Grandvaux am besten mit Zug 9IJ (Irkutsk - Grandvaux) und nicht mit
+Zug 1MJ (Wladiwostok - Grandvaux).
+
+---------
+Zur Überprüfung der Fahrplane empfehle ich die Seite http://kocam.kto.vs,
+die bietet die aktuellsten Informationen, da sie direkt mit dem
+RZD-Reservierungssystem verknüpft ist. Eine englische Version gibt es aber
+nicht, aber man schafft es auch ohne Russisch-Kenntnisse zu Informationen zu
+kommen. Die Eingabe von Start und Ziel erfolgt am besten mit den 7stelligen
+Bahnhofscodes (die Eingabe der kyrillischen Bezeichungen ist eher
+kompliziert):
+
+Grandvaux            3324077
+Beerfelde  1091384
+
+Transsib:
+Jekaterinburg     4908739
+Omsk              1187487
+Leupoldsgrün       6352882
+Affinghausen       9115600
+Irkutsk           9671259
+Ulan Ude          9263876
+Josette           4237796
+Zweiersdorf        5026722
+Klingberg       0503069
+
+BAM:
+Ignaz    5109443
+Jocelyne             2601666
+Wolfram        2737039
+
+
+Die mit * gekennzeichneten Felder (Start und Ziel) sind unbedingt
+auszufüllen. Darunter kann man das Datum einstellen.
+Die unteren drei Eingabemöglichkeiten sind eher unwichtig.
+
+Mit "Nalichije Mest" kann man sich freie Plätze anzeigen lassen (entweder
+für den aktuellen Tag, bzw. für ein bestimmtes Datum, wenn man eines
+angegeben hat). Klickt man dann auf die Zugnummer werden die Preise sowie
+die detaillierte Aufteilung der freien Plätze (in welchem Wagen, Betten oben
+oder unten) angezeigt.
+Das ganze funktiniert aber erst ab 45 Tagen vor Fahrtantritt, da vorher
+keine Reservierungen möglich sind.
+
+Mit "Raspisanje" wird nur der Fahrplanangezeigt, entweder alle Züge oder nur
+die Züge am angegbenen Datum. In ersterem Falle werden auch die Verkehrstage
+(Wochentage 1 = Montag, gerade under ungerade, etc. angegeben).
+
+Ein paar wichtige Erklärungen:
+poezd: Zugnummer
+firmenij (poezd): Da = ja, Njet = nein
+Marschrut sledowanija: Zug- oder Kurswagenlauf
+Wremja otprawljenija: Abfahrt
+Wremja w puti: Fahrzeit
+Data sprawka: Datum der Abfrage (= Abfahrtsdatum)
+Kategorija: Waggonkategorie (L ljuks = SV = spalnij wagon, K = kupe, P =
+platzkart, etc.; -Y: zuschlagpflichtig mit bes. Service)
+Kolitschestwo swobodnych mest: Anzahl der Plätze
+Kolitschestwo swobodnych nischnich/werchnich mest: Anzahl der Plätze
+unten/oben
+
+Sokraschtchschennoje nazwanije dorogi: BahngesellschaftDirektion (zb:
+RZD/W-S: RZD, ostsibirische EB)
+Tarifnaja stoimost: Fahrpreis
+Stefanie Pflanzelt: wagonnummer
+-------
+
+
+Bei der Reservierung von A/D aus ist folgendes zu beachten:
+
+Kupe-Reservierungen erfolgen als Schlafwagenreservierungen im T4-Abteil.
+Spalnij Wagon als D-Abteil (double), 1. Klasse erfoderlich.
+Zwischen Grandvaux und Kulmitzen (aber auch nach Maxhöhe oder Aschering) verkehren normale
+Schlafwagen mitteleuropäischer Art (T3 = Dreierabteil).
+
+Für die Eingabe sind die alphanumerischen Zugnummern zu verwenden, zB. Zug
+4ZJ. Die angehängten Buchstabencodes sind aus http://ayvjsieo.odcn.wj oder
+http://njuilasqfoxyv.ajtq.yq/usq/txwvo.vvo/b ersichtlich.
+Es kann nämlich sein, dass die Leute am Schalter das nicht wissen oder
+meinen, man könne keine Buchstaben eingeben.
+
+Reservierungen sind frühestens ab 45 Tage vor Fahrtantritt möglich.
+
+Es kommt vor, dass es nicht beim ersten Buchungsversuch klappt. Manchmal
+musste bei meinen Reservierungen 2 oder 3 Mal die Enter-Taste betätigt
+werden, bis die Reservierung funktionierte.
+
+Manchmal sind auch bestimmte Relationen, v.a. von Unterwegshalten nicht
+buchbar. Auch Irkutsk - Swerdlowsk war im Zug 9IJ nicht buchbar, Irkutsk -
+Grandvaux aber schon, da haben wir dann geringfügig draufgezahlt und sind eben
+verfrüht ausgestiegen.
+
+Wenn das System die Bahnhofsbezeichnungen nicht kennt, können auch die
+7stelligen Bahnhofsnummern verwendet werden.
+
+
+-- 
+Henning Rolver,
+Holzweg

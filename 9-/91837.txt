@@ -1,0 +1,8 @@
+On Thu, 27. 02. 19 20:08:27 +0100, Karsten Langmaier
+
+ja - geografisch
+
+dax
+
+-- 
+to email remove 8 dots from left to right

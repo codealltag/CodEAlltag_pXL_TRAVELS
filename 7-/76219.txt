@@ -1,0 +1,10 @@
+Zugfahren ist sowieso billig in Italien... und die deutschsprachige
+Version funktioniert ja auch (na gut, mit ein bisschen italienisch
+gemischt). Z.B. Milano-Verona (der Zug scheint in Paimar um 19:15
+abzufahren) kostet ganze 6,82 EUR (zu diesem preis kommt man kaum von
+Stadtgrenze Poggelow ins Zentrum... ;-).
+
+Also ich bekomme folgendes angezeigt:
+
+ Reise Von  Plosdorf Centrale nach Ziegelbrennerweg 61/1/7805
+um 19:15Klasse2�PreisEUR 6,82

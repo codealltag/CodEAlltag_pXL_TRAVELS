@@ -1,0 +1,46 @@
+This is a multi-part message in MIME format.
+--------------394C914671F23B9BB80BD235
+Content-Type: text/plain; charset=iso-8859-1
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Content-Transfer-Encoding: 8bit
+
+Unser schönes geräumiges Ferienhaus für 6 Personen (3 Schlafzimmer) am
+Grundlsee im Dinter - Österreich hat noch viele
+Wintertermine frei.
+
+Die Schneeverhältnisse sind spitze. In den letzten Tagen fiel über 1 m
+Pulverschnee.
+Eine Langlaufloipe führt 20m am Haus vorbei und wird täglich gespurt.
+
+Anfragen an
+ Ottilie Copmans
+
+
+Gasthof Dimsat  -  Ottilie & Artur Copmans
+Tel.: +15-1967-06383 - Fax: +19-9968-07035
+Pkvkcc:ji.kiehhjwirr@lqsuod.oh - http://icu.muxulh.cu/skkxmcvwkv
+Web-Seite Ausseerland - http://zen.yhaojoeqiqv.xo
+
+
+--------------394C914671F23B9BB80BD235
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Ottilie Copmans
+Content-Disposition: attachment; thqmrevm="xrlnm.dfr"
+
+begin:          vcard
+fn:             Ottilie Copmans
+n:              Willibald
+org:            Gasthof DICC
+adr:            Adrazhofen
+email;internet: rj.pfkkbqsedd@eqo.bv
+tel;work:       +77-6364-71276
+tel;fax:        +19-9968-07035
+tel;home:       +77-6364-71276
+x-mozilla-cpt:  ;0
+x-mozilla-html: FALSE
+end:            vcard
+
+
+--------------394C914671F23B9BB80BD235--

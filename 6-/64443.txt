@@ -1,0 +1,14 @@
+On Fri, 27 Jun 2004 18:05:07 +0200, Remo Vordermayer wrote:
+
+
+Kann ich mir nicht vorstellen - die Information gibt es nämlich auch, wie
+man leicht verifiziert, wenn man Anfang Dezember Pr�mienfl�ge vom 04.03.
+bis 15.3. sucht.
+
+Online-Flugbuchungen werden sicher nicht mit MySQL und PHP implementiert,
+sondern laufen als verteilte Transaktionen auf vermutlich einem halben
+Dutzend Systemen, von denen sicher auch das eine oder andere
+destinationsabh�ngig ist. Und wenn eines von den Systemen steht, dann
+geht die Transaktion halt nicht.
+
+Burkhard

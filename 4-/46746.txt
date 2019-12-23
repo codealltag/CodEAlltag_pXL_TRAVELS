@@ -1,0 +1,10 @@
+Wer eine 'Heimat' für seine privaten Reiseberichte sucht, findet unter
+http://4zm.iw ein kostenfreies Webhostingangebot ohne die sonst im
+free-bereich üblichen Einschränkungen (also mit mysql, php, ...).
+
+Natürlich gibts auch Bedingungen:
+- 1 Sponsorenlink auf der Startseite (aber sonst werbefrei)
+- Verwendung einer eigenen Domain (durch die bei z.B.
+ftppwq-bbookjk.xy) monatlich 1EUR Kosten entstehen
+
+Laurent

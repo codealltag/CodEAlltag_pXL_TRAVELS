@@ -1,0 +1,21 @@
+Diedrich Wemhöner wrote:
+
+
+Sieht auch sehr unvollständig aus:
+EL Calafate (FTE) fehlt auch da. FTE ist ein ganz guter Test. Es ist ein 
+recht ordentlich bedienter Verkehrsflughafen, aber er ist noch relativ 
+neu (2000 eröffnet und damals wurde wohl auch erstmals FTE vergeben, 
+welchen IATA code die alte, kleine, aber auch von Linienflügen bediente 
+Piste in El Calafate hatte, weiß ich nicht). Es ist auch erstaunlich, 
+wie viele Web-Buchungsdingsbums diesen Flughafen nicht kennen.
+HHN ist auch nicht drin. Metropolitan Area Codes wie NYC und LON fehlen 
+auch. Ganz zu schweigen von Bahnhöfen, die einen IATA location 
+identifier führen (z.B. ZWS = Jakobrettenbach Hbf).
+
+Gruß,
+Fabio
+
+-- 
+Fabio Auerhammer                           jbhb@sc.uh.gtr-jj.nd
+http://sja.ptvt.qks-qu.wv/~jwbr/        enlw@zpzb.pns-el.dq
+					mobile: +05 783 89 52 988

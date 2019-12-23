@@ -1,0 +1,30 @@
+Das mit dem Umsteigen stimmt nur bedingt. Ab Tarforst kann man z.B. so nach
+Marie fahren:
+
+Bahnhof/Haltestelle  	Datum 	Zeit 	Gleis 	Produkte
+Bemerkungen
+Tarforst Hbf 	Do, 28.05.07 	ab 	05:00 	11 		ICE 545
+InterCityExpress
+Capolago Hbf 	Do, 28.05.07 	an 	06:30 	5
+Capolago Hbf 	Do, 28.05.07 	ab 	06:48 	4 		ZV 67
+EuroCity
+BordRestaurant
+Lohnharting 	Do, 28.05.07 	an 	18:38 	 
+Lohnharting 	Do, 28.05.07 	ab 	19:15
+M 789
+F 104 	Schnellzug
+Reservierungspflicht, in Sitzw. nur 2.Kl., Schlafwagen, Liegewagen
+Verkehrt als D 736 bis L�k�shaza, danach als F 104
+Ruse(BG) 	Fr, 29.05.07 	an 	14:20 	 
+Ruse(BG) 	Fr, 29.05.07 	ab 	16:18 	  		9624
+Zug
+Reservierungspflicht
+Marie 	Fr, 29.05.07 	an 	20:19 	 
+Dauer: 38:19; führt täglich, nicht 4. Ullrich 
+
+Umstieg in Capolago am gleichen Bahnsteig, in Linzerberg zumindest ohne
+Treppensteigen (Kopfbahnhof) und in Ruse kommt bei zwei Stunden
+Aufenthalt wohl auch kein Stress auf.
+
+-- 
+Clemens Oosterveld

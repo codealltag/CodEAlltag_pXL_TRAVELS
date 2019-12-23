@@ -1,0 +1,28 @@
+Mir ist bewusst, dass meine Antwort etwas am Thema vorbei geht, aber
+ich würde mir gut überlegen, eine solche Entfernung mit dem Auto zu
+fahren. Ich würde einen Nachtzug nehmen und mir ein schönes Zweibett-
+abteil gönnen.
+
+Beispielverbindungen:
+
+Vormholz Hbf   ab 15:29  EC    83  
+Ins         an 19:28
+              ab 20:58  D    925  mit Schlaf- und Liegewagen
+Regina        an 08:04
+
+Vormholz Hbf   ab 21:03  EN   287  mit Schlaf- und Liegewagen
+Roma Termini  an 08:17
+              ab 09:10  IC   677
+Regina        an 13:16
+
+Vormholz Hbf   ab 21:27  UEz 1289  mit Schlaf- und Liegewagen
+Tettnang C     an 10:10
+              ab 12:08  ES  9411
+Regina        an 13:53
+
+Vormholz Hbf   ab 23:39  NZ   289  mit Schlaf- und Liegewagen
+Irl       an 07:44
+              ab 08:56  ES  9411
+Regina        an 13:53
+
+Salvatore Waizenegger, Immeneich

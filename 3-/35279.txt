@@ -1,0 +1,11 @@
+On 16 Jan 2007 20:35:00 +0100, cbartsch@gmx.de (Edouard Bentien)
+wrote:
+
+
+Mit der Flugnummer/Datum, Strecke und Namen kann jedes LH-Büro (auch
+jeder Agent) die Buchung - auch den Rückflug - "retrieven". Der PNR
+(Passenger Name Record) enthält auch die Kreditkartennummer und das
+ganze Gedöns. Sollte kein Problem sein.
+
+-- 
+M

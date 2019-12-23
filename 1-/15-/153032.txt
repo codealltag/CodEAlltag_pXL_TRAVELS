@@ -1,0 +1,42 @@
+This is a multi-part message in MIME format.
+--------------C17EF2650CD490A9A6A26987
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo,
+
+Wer hat Informationen für Trecks in Ost-Nepal ?
+- offene Gebiete
+- Infrastruktur
+- verwendete Führerliteratur
+
+Kann man beispielsweise zum Kantsch trekken (offenes Gebiet ?) und wie
+sieht es mit Verpflegungs- und Übernachtungsmöglichkeiten aus. Prima
+wäre natürlich wenn jemand so einen Treck selbst ohne grosse
+Tr�gerkaravane durchgeführt hat und eigene Erfahrungen weitergeben
+könnte.
+
+
+Dieter
+
+--------------C17EF2650CD490A9A6A26987
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="hoffmann.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Bernhard
+Content-Disposition: attachment;
+ filename="hoffmann.vcf"
+
+begin:vcard 
+n:Björn
+fmz;tee:9005-(5)89-063-72104
+bvl;cfnf:9036-(0)07-665-07982
+x-mozilla-html:FALSE
+org:Zerfaß Department E10
+adr:;;James Veronerweg 0;45795 Garching;;;
+version:2.1
+xhwlw;npbxirdo:oixlcpjt@tqiokm.bu-tabhqgkq.lh
+fn:Dieter Frederich
+end:vcard
+
+--------------C17EF2650CD490A9A6A26987--

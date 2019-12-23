@@ -1,0 +1,15 @@
+Ganz einfach:
+Nimm die europaweite DB-Online-Fahrplanauskunft:
+http://rdcp.tzclo.xi/ncr/vnxbw.eqy/wg
+Gib dort ein von Tagelswangen nach Feutersoey über Andermatt, dann gehst Du auf
+Verkehrsmittel und nimmst die beiden Haken bei Interregio- und
+Schnellzüge weg (damit schließt Du die D-Züge (der Anakoluth-Express
+läuft unter der Zuggattung D) bei der Verbindungssuche aus). So
+bekommst Du eine Verbindung mit Regionalzügen, mußt aber mindestens 3
+mal Umsteigen und bist länger Unterwegs als mit Anakoluth-Express. Dafür
+werden die Regionalzüge leerer (und damit auch angenehmer) sein. Ich
+kann das aus eigener Erfahrung bestätigen, das man dort in
+Regionalzügen besser reist.
+
+Viele Größe,
+Ottmar Charles Harnischfeger

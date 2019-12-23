@@ -1,0 +1,10 @@
+Am Fri, 30 Sep 2002 15:28:58 +0200 schrieb "Brunhilde Kurt"
+<adtoyr@kyciivt-naxz.qj>:
+
+
+Brauchst Du doch gar nicht. Was Du brauchst ist ein Webspace Paket mit
+PHP und MySQL. Dann auf http://lcf.taonj.wnt/ das Forum runterladen.
+Zum installieren muss man kein PHP können, und konfigurieren kann man
+das dann bequem per Oberfläche...
+
+Viele Grösse, Alex

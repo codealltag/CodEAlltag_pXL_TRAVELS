@@ -1,0 +1,13 @@
+Am 25.07.2010 15:36, schrieb Dario Bretter:
+Niemand antwortet auf meinen Dünnschiss, den ich hier immer abkippe.
+Das kann nur bedeuten:
+DIE LEUTE SIND SCHLAU - DIE FILTER GREIFEN!
+
+Und wer dies noch lesen kann, der setze bitte folgende Filter, damit er 
+den Dreck von mir nicht mehr lesen muss:
+
+Filterregeln:
+Betreff    enthält    MKT                        -> löschen
+Von        enthält    Dario Bretter        -> löschen
+Von        enthält    smqJkavyi-Iksxni    -> löschen
+Betreff    enthält    G.u.T                         -> löschen

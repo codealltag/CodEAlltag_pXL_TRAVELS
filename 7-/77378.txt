@@ -1,0 +1,2 @@
+outlook selbst kann keine newsgroups (ausser diese liegen auf einem ordner im exchange server). ansonsten greift outlook bei
+newsgroups auf outlook express zurück.

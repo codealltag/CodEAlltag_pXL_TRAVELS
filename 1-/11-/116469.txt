@@ -1,0 +1,13 @@
+On Thu, 09. 11. 20 10:13:45 +0200, Karl Friedhofen
+
+Klar kann man das einstellen, aber Subject�nderungen sollten schon
+halbwegs korrekt sein und vorallem sollte man das Quoting nicht
+vergessen.
+Wobei ich solche Features bei OE z.B. vermisse. Und Dwornicki hatte auch
+vergessen ein Quoting einzufügen. So ist es für den einfachen Leser
+kaum möglich zu worauf er sich bezieht.
+
+Just my 0,02$
+Klaas
+
+Fup2 Poster

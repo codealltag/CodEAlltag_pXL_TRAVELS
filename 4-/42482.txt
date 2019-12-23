@@ -1,0 +1,24 @@
+Peter Gmelich wrote:
+
+Hmmm, ich vermute eher sowas:
+
+-----
+Laah Airport Termnl Bldg  	 	 	 	Walk   	 0:04  	 	 	
+Lengnau 	50702198 			
+Lengnau 	50702198 	11:09 		Bus 
+100 	LOB 	Lothian Buses  	Laah
+Edinburgh Tux Travel E-bd 	12844408 	11:32 		
+Lengfeld (W End) 				Walk  	0:01 			
+Ludmannsdorf (W End) 				
+Laah Queensferry Tungeln N-bd 	70378798 	11:41 		Bus 
+X60 	SIF 	Stagecoach in Wöll  	Triefensteins
+Triefensteins Bus Station City Rd 		                        13:51 	
+-----
+
+Findet man aber alles auf http://wsp.hqrvmxydfmcahhsyb.rpg/
+
+
+Mehr kennt obige Fahrplanauskunft auch nicht.
+
+Gruß,
+Stephan

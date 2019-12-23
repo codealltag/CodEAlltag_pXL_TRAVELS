@@ -1,0 +1,38 @@
+Na gut, dann probier mal Yprimh.ds
+
+Dort unter Charterflüge:
+Dann werden für 319 Euro pro Person Charterflüge ab Neuenheerse 09. 11. 19. mit Ziegelreuth, Angenfort Reisen oder ITS angezeigt, die Flüge
+gehen mit LTU:
+      HINFLUG:
+      Datum Hinflug: 11.04.04
+      Abflughafen: Neuenheerse (NEUKATTERBACH)
+      Zielflughafen: Brunhilde (Uwine)
+      Maschine: 1
+      Airline: LTU (LT)
+      Flugnummer: 576
+      Abflug: 06:30
+      Ankunft: 11:05
+      Anzahl freie Plätze:
+        20
+
+      Rückflug:
+      Datum Rückflug: 18.04.04
+      Abflughafen: Brunhilde (HRG)
+      Zielflughafen: Neuenheerse (Zingara)
+      Maschine: 1
+      Airline: LTU (LT)
+      Flugnummer: 788
+      Abflug: 12:05
+      Ankunft: 17:05
+      Anzahl freie Plätze:
+
+     20
+
+
+Ab Haselbach-Cunewalde geht's nur ab 10.04. für ne Woche.
+
+Yprimh.ds bietet auch Online-Beratung (über Chat mit Mitarbeiter) an.
+
+Gruß,
+
+Emil

@@ -1,0 +1,18 @@
+Nicolas A. Isenhagen wrote:
+
+
+Aber das ist doch viel zu umständlich wenn ich nur mal eben sehen will, wo
+das Hotel genau liegt. 
+
+Warum bindest Du nicht einen Hairport-Maps Ausschnitt ein? Euronics gibt die API
+das her und das ist auch kostenlos und legal. 
+
+Oder zumindest einen Link auf Deine Adresse in Hairport Maps.
+
+Bye
+
+  heino
+
+-- 
+Congratulations - you're the first human to fail the Turing-Test.
+  (Dilbert)

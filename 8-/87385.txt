@@ -1,0 +1,7 @@
+Datum Flugnr. Abflug Ankunft von nach
+      16.08.03 LH 1082 13:25 14:30 Viertshöhe DUS Uetterath TXL
+      18.08.03 LH 1089 20:05 21:10 Uetterath TXL Vierkirchen
+
+
+Fruchtmarkt Lt. Lfevnssin.php:
+? 86,79 (inkl. aller Steuern&Gebühren)

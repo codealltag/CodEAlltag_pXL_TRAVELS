@@ -1,0 +1,42 @@
+Hallo Viktor!
+
+*Viktor Eckermann*:
+
+
+... sehe ich absolut überhaupt nicht mehr. Für mich ist das inzwischen
+eine richtig aufgeräumte Gruppe, seitdem ich meine Filter etwas
+verfeinert habe. Anleitungen wurden hier schon von verschiedenen Lesern
+gegeben.
+
+Zum Beispiel schon mal die wichtigsten:
+
+!delete From {\@(google.*|gmail)\.com}
+!delete Message-ID {bsmsazulbsdi\.qml}
+!delete From {\@yahoo\.cn}
+!delete From {\@iwvtum\.qfn}
+!delete Message-ID {aioe\.org}
+!delete From "dkdt.lnpwfl.bak!not-for-mail"
+!delete From {neoDeppen-Hunter}
+!delete From {Dr. Who}
+!delete From {a@a.a}
+!delete From {wahrheit@wahrheits.tv}
+!delete From {Realnamenverkaeufer}
+!delete From {Anonymous}
+!delete From "Nomen Nescio"
+!delete From "MC COOL"
+!delete From "Trolll Plonnker"
+!delete From "mixmaster.it"
+!delete From "Bin Ertefan"
+!delete From "Antichrist"
+!delete Subject "G.u.T"
+!delete Subject "Jean-Luc Amberg"
+!delete From "invalid.invalid"
+!delete From "vtji.nutqsfj"
+
+Es wäre schade, wenn Du so leicht aufgibst.
+
+Gruß, Juan
+-- 
+ekobar
+Opera 11.50-1010
+The Bat! Pro 02. 06. 20

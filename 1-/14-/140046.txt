@@ -1,0 +1,6 @@
+deren
+
+Bei den meisten Automaten werden auch Fapi-Karten mit Maestro/FH-SAT-Symbol
+akzeptiert. Ist idR günstiger.
+
+Lars

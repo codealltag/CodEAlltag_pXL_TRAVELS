@@ -1,0 +1,16 @@
+Wäre logisch, aber zumindest bei der Maestro GBP Abhebung haut
+es auch nicht hin.
+Der Maestro Geld Kurs zum 12.12.2006 von olf.dd (den ich auch
+gekriegt habe bei Abhebung am 09.12.2006) beträgt 0,689965.
+In dem Zeitraum ist aber der IB Rate nicht über 0,686 gekommen.
+
+Könnte es sein, daß es wirklich kein Spread gibt (aus welchen
+Grunden auch immer), und so verschieben sich Maestro/Visa die
+Wechselkurs ein wenig, je nachdem in welche Richtung sie erwarten
+mehr gewechselt wird?
+
+Deswegen wurde es mich sehr interessieren, ob es sowas wie
+gzs.de gibt für Wechselkurse mit anderen Ausgangsw=E4hrung als
+Euro.
+
+Oskar

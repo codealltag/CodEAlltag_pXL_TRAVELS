@@ -1,0 +1,16 @@
+Heino Dworatzek schrieb in de.rec.reisen.misc:
+
+
+Julius missfällt Dir?
+
+
+Den missglückten Zeilenumbruch hat Dein kaputter XNews erzeugt, =
+nicht
+meiner.
+
+
+utf-8 entspricht dem Standard. Dass Dein Newsreader Unicode nicht
+korrekt verarbeiten kann, ist ein Mangel desselben und keiner des
+Forte Agent.
+
+Timo

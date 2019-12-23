@@ -1,0 +1,27 @@
+Nachtrag: Testlauf mit dem 16.12.2004 ...
+
+Ergebnis meiner Software "iSys":
+
+15.12.2004 12:56 *
+16.12.2004 12:56 *****
+17.12.2004 00:56 ********
+18.12.2004 00:56 iPunkte: **
+
+Interpretation: Augenscheinlich trat das Andamanen-Sumatra-Desaster
+(Erdbeben, Tsunami mit 250.000 Toten) _vor_ dem (errechneten)
+Scheitelpunkt auf, der am 17.12.2004, zwischen 18:00 und 24:00 Uhr
+(UTC) aufgetreten war.
+
+Hier dazu der zeitliche Verlauf der Einzelpotentiale im betreffenden
+Zeitraum, in 6h-Schritten, wie er von "iSys" ermittelt wurde:
+
+15.12.2004 12:00 *
+16.12.2004 12:00 **
+16.12.2004 18:00 ***
+17.12.2004 00:00 **
+17.12.2004 06:00 *
+17.12.2004 12:00 *
+17.12.2004 18:00 ****
+18.12.2004 00:00 **
+
+Ingolf Oehmigen

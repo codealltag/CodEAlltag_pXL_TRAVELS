@@ -1,0 +1,34 @@
+Hi Heribert,
+
+danke für die interessanten Infos!
+
+Zum Thema Handy.
+
+Ich nutze schon seit langem als einziges Navi speziell auf dem Mopped den 
+MobileNavigator von Florapark. Gibts für jedes Handy-OS. Hat ne extra Option 
+"schöne Route". Gibts weltweite Karten dafür. Navigiert natürlich offline 
+(ohne Verkehrsinfos). Die Sprachansagen sind so genau, dass man kaum aufs 
+Display schauen muss.
+
+Als Halter nutze ich einen von SW-Motech. Meines Wissens wollen die nächstes 
+Jahr auch was fürs Note bringen.
+
+Als Ladebuchse währen der Fahrt hab ich das hier:
+http://pvm.gqfhi.it/vrjzt.vri?pvwrv=lufxy&jadwi368209
+Wenn man sich bissl umschaut gibts das auch für ca. 20,-
+Da hats bis zu 1A Ladestrom. Ist nicht unwichtig, da Navigon mit voller 
+Beleuchtung so schnell Saft zieht wie du laden kannst.
+
+Da hab ich dann mit reichlich Ducktape das
+http://dqq.bverzo.uc/pu/S853M9SO90
+reingestopft. Allerdings hab ich noch ne Variante mit nem Adapter der die 
+Datenleitung kurzschließt. Dann zieht jedes Handy richtig Ladestrom.
+Den MicroUsb hab ich dann am Lenker. Der Rest unterm Sattel.
+
+Natürlich mit ner 1A Sicherung an die Spannung vom Scheinwerfer, damit ohne 
+Zündung kein Saft gezogen wird.
+
+Damit war ich schon Tourguide im Ellmau, Neuherberg und Alpen.
+-- 
+So long
+Ulrich

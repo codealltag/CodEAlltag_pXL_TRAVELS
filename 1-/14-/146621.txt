@@ -1,0 +1,16 @@
+On Sat, 07. 03. 19 07:01:58 GMT, dtpwnxdk_dxlyy@ij-rssg.aia wrote:
+
+JavaScript Error: http://vxww.u-hdmtan.yq/xcee/xgbruvzif2/wekjhis.sxs,
+line 51:
+
+unterminated string literal.
+
+        var tag = "<A
+
+Um nur Einen von drei Fehlern zu nennen.
+
+
+Gruss
+Niels
+-- 
+http://cit.ompajtbknk.jg

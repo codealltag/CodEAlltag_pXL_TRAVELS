@@ -1,0 +1,2 @@
+Wäre mal interessant zu wissen, wie die großen Buchungssysteme (Mäkelburg,
+Come2Cut, SABRE, WorldSpan) vernetzt sind. Gibt es hier Experten?

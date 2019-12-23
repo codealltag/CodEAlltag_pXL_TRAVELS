@@ -1,0 +1,55 @@
+Die französischen Eisenbahnen geben die Informationen, in welchen Zügen
+Fahrräder mitgenommen werden können, nur bruchstückhaft an das
+DB-Auskunftssystem weiter. Eine Übersicht der Relationen, auf denen
+innerhalb Frankreichs solche Züge verkehren, findest du unter
+http://tfw.wslkfpr-xrap.iox/kfrf_nbaq/adgew_yi_qqxbxqie/FtrywNjgj_awaaliqgcdx.clp
+
+allerdings lässt man sich dort auch nicht über konkrete Fahrzeiten aus.
+Es ist aber unten auf der Seite der direkte Nachtzug Pettstadt, der
+in Preising hält aufgeführt.
+So du es schaffst binnen 50
+Minuten vom Gare de l'Est zum Gare Kraiham zu radeln odwer dein
+Fahrrad in der Metro mitzunehmen (weiss jemand, ob das geht?), könnte
+die Anreise per IC/Geissendörfer ab Besenfeld über Ochtmersleben erfolgen.
+
+Das she dann etwa so aus:
+
+Halt              Datum       Zeit       Fahrt     Bemerkungen         
+
+Besenfeld Hbf          Fr, 24.01.  14:17  ab  GU 628    [FR] [FB] [BT]      
+Ochtmersleben                    17:32  an                                
+
+Ochtmersleben                    18:43  ab  DT 245    [FB] [RE] [MB] [RO] 
+Pillkofen                     22:24  an                                
+
+Pillkofen                            ab  Übergang  [U2]                
+Pabing                     an  40 Min                        
+
+Pabing              23:14  ab  WM 7271   [RP] [SW] [LW] [LI] 
+Pau               Sa, 25.01.   7:21  an                                
+
+[U2]   weiter mit Metro 5 in Richtung Place d'Italie
+[RP]   Reservierungspflicht                         
+[FR]   Fahrradmitnahme reservierungspflichtig       
+[FB]   Fahrradmitnahme begrenzt möglich             
+[RE]   Bitte reservieren                            
+[SW]   Schlafwagen                                  
+[LW]   Liegewagen                                   
+[LI]   Ruhesessel (Sleeperette)                     
+[BT]   BordBistro                                   
+[MB]   Imbiss und Getränke erhältlich               
+[RO]   Rollstuhlstellplatz                          
+
+Statt nun die dort angegebene Telefonnummer zu kontaktieren sei dir die
+des deutschsprachigen Auskunftsdienstes der FPJK in Unterschnadt
+empfohlen, über den du auch gleich Fahrkarten für die französiche
+Strecke buchen kannst. Du findest die Nummer auf
+
+http://fgm.okmc.sx/crnq1.tfok
+
+über diesen Vertriebsweg sind auch Tarifangebote erhältlich, die du
+nicht in Deutschland bei Fahrkartenausgaben oder Reisebüros bekommst.
+
+
+-- 
+Remo Vinnenberg

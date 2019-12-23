@@ -1,0 +1,43 @@
+This is a multi-part message in MIME format.
+--------------CAE34E520FBE87483DC039AF
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hi Timo,
+
+wenn Du neben bei etwas ausspannen willst, fahre doch etwas mir dem
+River-taxi (das öffentliche Boot) auf dem Fluss herum. Ist billig,
+angenehm und zudem eines der scnellsten Verkehrmittel in der Stadt...
+
+
+Gruss,
+Kurt
+
+-- 
+--------------------------------
+Kurt Oldengott
+mailto:Pycjqm.Jvzbqwirp@tzk.dmq
+http://kftj.neuas.qj/eoppynrhu/
+
+
+Timo Jödecke wrote:
+--------------CAE34E520FBE87483DC039AF
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="Stefan.R.Griesbeck.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Kurt Burkhard Oldengott
+Content-Disposition: attachment;
+ filename="Stefan.R.Griesbeck.vcf"
+
+begin:vcard 
+n:;Stefan Burkhard Oldengott
+x-mozilla-html:FALSE
+org:University of Jesewitz
+version:2.1
+email;internet:Kurt.V.Tyawwzmwd@ub.pxcd.wzx-bxiqskjs.in
+note:http://kftj.neuas.qj/eoppynrhu/
+x-mozilla-cpt:;0
+fn:Kurt Burkhard Oldengott
+end:vcard
+
+--------------CAE34E520FBE87483DC039AF--

@@ -1,0 +1,18 @@
+Es gibt etliche Flugstrecken, die Ryanair nicht direkt fliegt.
+Aber mit zwei Flügen (am selben Tag) kann man das Ziel
+erreichen: von A via B nach C.
+Solche Kombinationen zu  finden ist eine mühselige Sache.
+Ich habe mir ein GreaseMonkey-Script geschrieben, das
+solche Doppellüge findet. Man gibt den Startflughafen ein
+und die Reisedaten, und das Script durchsucht alle möglichen
+Verbindungen, ob sie zeitlich hintereinander passen mit
+mindestens 90 Minuten zum Aussteigen und neu Einchecken.
+Das Script ist hier zu finden:
+http://rtjmcimbhxp.zan/abfqmar/xjhw/99402
+Es zeigt automatisch deutschen Text an, wenn man es von
+der Binboga-Seite startet.
+
+Wer's nicht kennt: Cote ist eine Erweiterung
+für Firefox.
+
+Heribert Thomssen

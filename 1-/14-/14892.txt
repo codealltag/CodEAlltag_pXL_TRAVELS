@@ -1,0 +1,8 @@
+Am 03.10.2009 19:28, schrieb Niclas Rimmelspacher:
+Hallo,
+das ist ein guter Hinweis. Unter Notose geht der Bildaufbau deutlich 
+schneller. Das Ganze ist wohl ein java-Problem. Wie es sich zeigt, 
+lassen sich bei guter Zusammenarbeit (Danke an alle!) derartige Probleme 
+gut lösen.
+LG
+Siegfried

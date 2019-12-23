@@ -1,0 +1,20 @@
+Es sind etliche über die gesamte Kabine verteilt. Ich habe
+das mal in Hansens A340-600 benutzt, an meinem Platz in der
+zweiten Eco-Reihe konnte ich ca. 3 bis 4 APs gleichzeitig
+empfangen. Eher schon zuviele... Bei einem Rundgang durch die
+Kabine zeigte Kismet auch immer mehrere empfangbare APs an.
+
+
+Nein, nur mit einem Zaurus. Beachte aber, dass Flynet nicht
+auf allen Routen überall zur Verfügung steht (z.B. nicht in
+chinesischem Luftraum und wohl auch immer noch auf weiten
+Teilen der Südhalbkugel). Auch war ich nicht wirklich von
+der Stabilität der Verbindung nach Außen begeistert...
+
+Gruß,
+Vittorio
+
+-- 
+Vittorio Passmann                           cgpx@de.da.qne-ok.uc
+http://jxz.cfdb.tqq-ho.em/~zqzf/        dsdv@kkcn.brj-sk.it
+					mobile: +03 384 0898 091

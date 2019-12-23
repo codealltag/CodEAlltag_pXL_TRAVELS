@@ -1,0 +1,13 @@
+On Fri, 16 Feb 2000 12:42:19 +0200, "Rainer Friedman" <bto@zajpu.mv>
+wrote:
+
+
+In Frankreich werden zumeist 6 polige Grosskontaktstecker ("etwas"
+groesser als TAE) fuer die Telefonanschlussdose verwendet. Dafuer ist
+ein Adapter auf Western notwendig. Wenn du Glueck hast, findest du an
+neueren Endgeraeten einen Westernanschluss, den du mittels
+Verbindungsstueck Western - Western an dein Laptop anschliessen
+kannst.
+
+Gruss
+Günter

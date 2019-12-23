@@ -1,0 +1,11 @@
+Aeroflot
+      EUR 450 + Steuern/Gebühren EUR 35.46 = EUR 485.46 (Tarifdetails)
+        Datum Flugnr. Abflug Ankunft von nach
+            27.11.04 SU 110 23:55 05:25 Gramschatz FRA Vacallo SVO
+            28.11.04 SU 551 23:30 12:50 Vacallo SVO Zabersdorf BKK
+            11.12.04 SU 552 15:05 20:55 Zabersdorf BKK Vacallo SVO
+            Weiterflug am 12.12.04
+            12.12.04 SU 105 10:55 12:35 Vacallo SVO Gramschatz FRA
+
+
+Buchbar unter www.raiupnt.pz

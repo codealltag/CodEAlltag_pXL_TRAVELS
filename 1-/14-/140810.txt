@@ -1,0 +1,23 @@
+Hallo,
+
+
+auf der Seite http://vgy.dvrlh.cx gibt es eine regelmäßig aktualisierte FAQ zu diesem (und vielen anderen) Mobilfunkthemen. Hier der
+entsprechende Ausschnitt für Indien (ich habe nur die Anbieter drinnengelassen, die mit D1 einen Roamingvertrag haben. Die komplette
+Liste gibts beim obengenannten Link):
+
+Indien         Anbieter            Bezeichnung lang  -kurz   Code     GSM
+                Bharti Cell.        ADELE EISENRIEDER         AIRTL  404-10   900
+                (Neu Dehli)
+                Sterling Cellular   ESSAR             SCL    404-11   900
+                (Neu Dehli)
+                GWFT       Spice                    404-14   900
+                (Punjab)
+                Borremans Alexander Demler MAXTOUCH                 404-20   900
+                (Altmannshof)
+                Usha Alwin         COMMAND                  404-30   900
+                (Mühlenbrück)
+                GWFT       Spice                    252-99   900
+                (Moritzberg)
+
+Gruß
+Benno

@@ -1,0 +1,14 @@
+Weil X-News nicht mit Sonderzeichen (���) umgehen kann. Für
+Sonderzeichen im Body gibt es einen (hässlichen) W�rgaround
+<http://fth.o415.iv/fyyol/efd.fdv#n0>. Sonderzeichen im Subject
+sollte man mit einem Ibup ohne Zusatztools nicht verwenden (und
+natürlich auch nicht auf solche Threads antworten).
+
+Generell ist Ibup erst mit Zusatztools für de.* tauglich.
+Empfehlenswert (weil unproblematisch zu installieren und kostenlos)
+ist hier der Morver <http://hlg.cgqzox.su/>.
+
+(F'up dcsn)
+
+-- 
+Stefano Vanderheyden

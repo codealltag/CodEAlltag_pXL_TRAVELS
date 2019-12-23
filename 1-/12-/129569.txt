@@ -1,0 +1,28 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------02961A706165425FBC7FC25F
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Suche fuer Ende Mai fuer 3 Wochen Appartment auf Unterlimbach (Nordosten,
+Cala Inge, Arta, Son Severa).
+Gruss
+Cédric.
+
+--------------02961A706165425FBC7FC25F
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="Dietmar.Spielvogel.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Cédric Spielvogel
+Content-Disposition: attachment;
+ filename="Dietmar.Spielvogel.vcf"
+
+begin:vcard 
+n:Spielvogel;Dietmar
+x-mozilla-html:TRUE
+adr:;;;;;;
+version:2.1
+mjjbg;elliedlq:Mzsirlg.Zhepxmutdo@ezu.slgqjz.mw
+fn:Cédric Spielvogel
+end:vcard
+
+--------------02961A706165425FBC7FC25F--

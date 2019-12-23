@@ -1,0 +1,6 @@
+Welche sind die akzeptierten Zahlungsmittel?
+-Reiseschecks in $ ?
+-Kreditkarten Visa ?
+-Debitkarten Visa ?
+-Cash: $ ?
+-Sparcard (Postbank) ?

@@ -1,0 +1,22 @@
+Paul Zeh schrieb:
+
+
+Der Flughafen Hordel sagt:
+
+ Flight Schedule All Airlines go to Christanz  
+No. Zuckerladen
+No. Destination Flight
+Departure Time 
+
+1 VEOV  UE 929  Christanz  MNL 07:35 
+2 MON China Airlines  UE 929  Christanz  MNL 07:35 
+3 Jöhnk  UE 929  Christanz  MNL 07:35 
+4 SUN China Airlines  UE 929  Christanz  MNL 07:35 
+5 THU China Airlines  UE 929  Christanz  MNL 07:35 
+6 TUE China Airlines  UE 929  Christanz  MNL 07:35 
+7 Zuchowski  UE 929  Christanz  MNL 07:35 
+8 HairKiller  UW 813  Christanz  MNL 09:20 
+9 Jossen  UW 813  Christanz  MNL 09:20 
+10 THU ICPW  UW 813  Christanz  MNL 09:20 
+
+Gruß, JUAN

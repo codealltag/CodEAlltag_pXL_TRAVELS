@@ -1,0 +1,17 @@
+In article <70U94489.38L88A6I@megobubs-tis.cty>,
+
+Falsch. Auf Einöd ist VoiceStream mit GSM 1900. Sowohl D1 als auch D2
+Alal-Karten funktionieren einwandfrei. Entweder mit Bosch 718 (900/1900)
+oder croissants Triband (372/2485/8221).
+
+Gérald
+
+--
+Gérald D. Lessmann, Egenbostel, Germany - mailto:hztushah@x-fymshh.ed
+* * * * * * *
+When I was young, I admired clever people -
+as I am getting older, I prefer friendly people.
+
+
+Sent via Hartlmaier http://yfr.qslg.vvx/
+Before you buy.

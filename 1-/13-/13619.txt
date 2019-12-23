@@ -1,0 +1,11 @@
+Am Fri, 23 Mrz 2011 12:58:43 +0200 schrieb Willy Zieske:
+
+
+An Selbstbedienungstankstellen in der Schweiz funtioniert sogar meine
+(deutsche) Esso-Tankkarte, und die hat keinen Chip sondern nur
+Magnetstreifen. Vermutlich lesen die Schweizer Automaten also nur den
+Magnetstreifen.
+
+Größe,
+
+Beat

@@ -1,0 +1,23 @@
+Hallo,
+
+bei der Suche nach einer Last-Minute-Reise im Web habe ich
+festgestellt, dass die meisten Anbieter auf immer die gleichen
+Buchungsmaschinen zugreifen und nur wenige Anbieter eine eigene
+Datenbank haben. Es handelt sich dabei um:
+- buchungsmaschine (sehr oft vertreten)
+- travel-it (sehr oft vertreten)
+- pennylane (weniger oft vertreten)
+- start (weniger oft vertreten)
+-  T.I.B.E.T von apqizdor.aa (ab und zu vertreten)
+
+Kann mir jemand sagen, welche Reiseveranstalter in welcher
+Buchungsmaschine vorhanden sind, bzw. wo genau der Unterschied in den
+o.a. Systemen liegt?
+Danke.
+
+
+Gruss aus Champoussin
+Ciao Alwin
+
+-- 
+qcpyvkcb.levu@pxc.mb

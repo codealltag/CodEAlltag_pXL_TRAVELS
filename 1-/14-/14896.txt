@@ -1,0 +1,20 @@
+Hallo Mark!
+
+*Bernd Nomi*:
+
+
+Bis hierhin gut.
+
+
+Oh weh, und hier versagt alles. Du solltest mal eine Weile in 	
+de.comp.security.firewall, de.comp.security.virus und
+de.comp.security.misc mitlesen.
+
+Unnötige Dienste ausschalten und einen wirklich guten Virenscanner (kein
+Paket), zum Beispiel NOD32, benutzen, ansonsten Brain 2.0 einschalten,
+wäre die richtige Antwort gewesen.
+
+Gruß, Jean-Paul
+-- 
+Modl
+Opera 10.10-1893

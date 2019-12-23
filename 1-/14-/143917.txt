@@ -1,0 +1,13 @@
+Hi,
+
+Naja, die Abfrage geht ja sehr schnell. Zu schnell. Waehrend ich
+bei Egegi frei Fluege gefunden habe, gibt diese
+Billig-Domain-Flugreservierung innerhalb 1 Sekunde zurueck :
+
+Leider wurden keine freien Plätze gefunden!
+
+Ich hab den Eindruck, dass das asp-Script diesen Satz immer
+auszugeben.
+
+AUsgehen von der Billigdomian go.to habe ich eigentlich auch
+nichts sinnvolles erwartet.

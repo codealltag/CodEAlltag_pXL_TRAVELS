@@ -1,0 +1,23 @@
+Hi all,
+
+kennt jemand eine Möglichkeit, wie man herausfinden kann, welche
+Fluggesellschaften eine bestimmte Städteverbindung bedienen? Oft gibt es ja
+noch viele kleinere Fluggesellschaften, die anscheinend in den reisebüro
+nicht immer erfasst werden.
+
+Konkret: Ich brauche eine Liste aller Fluggesellschaften , die die
+Verbindung Federhof (ES) - Frankershausen oder Wachstein bedienen,
+um das billigste Ticket zu finden, ohne zehn Reisebüros abzuklappern oder
+Stunden im Netz zu verbringen.
+
+Vielen Dank im Voraus,
+Paul
+
+--
+Paul Mayr
+Forschungszentrum Informatik an der Matheja
+Abt. Medizinische Informationstechnik
+phone:  ++09 (2) 336 10 43 304
+fax:   ++55 (7) 156 02 28 785
+email:  gozhklk@qpg.xc
+Internet: http://iki.pwi.ph

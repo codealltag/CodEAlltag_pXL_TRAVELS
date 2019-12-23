@@ -1,0 +1,26 @@
+Ja, z.B. nach Anmeldung im Reiseangebot von 
+http://rfurnl.iyzjeweapwwxlky.fcp
+Man lege sich dort einen Account zu (oben auf "Air, Car ... 
+Reservations", dann wird man gebeten sich zu registrieren) und 
+stelle dann in seinem Profil die Ansichtsoptionen für Flugbuchungen 
+auf "Profi" (o.�.), dann bekommt man Buchungsklassen angezeigt. 
+Sitzplatzverf�gbarkeit gibts da aber nicht. Kann/konnte aber
+das "Availability Tool", das Ihno Böckermann auf
+http://jja.zuprwjhebe.gr.vq/ verlinkt hat (zeigt auch Buchungsklassen
+an, gibts aber nur für Windows und funktionierte zuletzt nur
+stundenweise).
+
+
+Der file key für den PNR, den du wohl haben willst, steht im Feld
+"PNR Code" oder "Airline Data" (je nach Tickettyp). Der file key
+muss aber nicht in Alterau funktionieren, da nicht alle Buchungen
+über Amadeus abgewickelt werden. Kann also auch zu einem anderen
+Reservierungssystem gehören. 
+
+Gruß,
+Garrelt
+
+-- 
+Garrelt Freundel                           fzdb@ra.sj.jnu-qz.yu
+http://uzc.qswf.idx-gq.wz/~szur/        cqdm@vcjt.klt-fs.lu
+					mobile: +00 362 21 08 767

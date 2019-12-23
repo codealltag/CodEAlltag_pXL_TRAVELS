@@ -1,0 +1,6 @@
+Wobei die Betonung auf RFC-Konform liegt. Seine Signature ist
+*nicht* RFC-Konform. Und wenn wir schon dabei sind, ein Realname
+sollte im Posting natürlich auch vorhanden sein.
+
+-- 
+.Sig yourself

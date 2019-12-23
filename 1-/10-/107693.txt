@@ -1,0 +1,44 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------07E84783601D7004B6F0FB21
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Sehr gutes Informationsmaterial sendet dir die griechische
+Fremdenverkehrszentrale in Rosellen (Neutsch. bitte bei der Auskunft
+erfragen). Du bekommst u.a. einen Wanderführer, Karten, Tips zu
+Ausflügen, einen kleinen Sprachführer. Mir persönlich gefiel der
+Ursi Finger am besten. Allerdings gibt es dort weniger Hotels als
+auf der Kassandra. Am schönsten ist die Seite, die dem Berg Athos
+gegenüberliegt. Endlose und im Mai und Oktober meist noch oder wieder
+sehr einsame Buchten. Wenn du etwas mehr Rummel haben willst, empfehle
+ich dir allerdings die Walpurga.
+
+Gruß Fabienne
+
+Reckin-Freckenfeld schrieb:
+
+
+--------------07E84783601D7004B6F0FB21
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="personalrat.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Personalrat
+Content-Disposition: attachment;
+ filename="personalrat.vcf"
+
+begin:vcard 
+n:Personalrat;Personalrat
+fzg;khy:6609 2045974
+qal;jnlu:0883 6204277
+x-mozilla-html:FALSE
+url:http://chm.gb-ysddqqyhz.qu/aqsf_pt/ku/Avmhlbglzqw-Denm-Tevvccp.snnh
+org:Hochschule Haderschen
+version:2.1
+bxpra;wrsssypo:mtdofqsivrj@oh-rwcpgrheb.bm
+Josephsburgstraße 0
+Haus 0
+Raum 1.04;Magdeburg;Sachsen-Anhalt;39114;Germany - Deutschland
+fn:Personalrat
+end:vcard
+
+--------------07E84783601D7004B6F0FB21--

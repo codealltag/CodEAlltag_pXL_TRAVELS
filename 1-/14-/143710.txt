@@ -1,0 +1,11 @@
+On Sun, 04 Sep 1999 09:25:25 GMT, eljvk@qmpcg-pkgtxwo.bdg (Karlheinz
+Schönhart) wrote:
+Mal 'ne Frage: wo finde ich die Bedeutung der ganzen Kuerzel ?
+z.B.
+1 CGN DPR 1616 1505  LT 780 ML TL WL YL HC QL KL GL LL NL#757 C
+                                                  ^     ^   ^    ^   ^
+2 CGN LKW 6465 1241  DE6496 ML BL LL GL                          209 Z
+                                                    ^    ^   ^   ^
+
+Gruss,
+Imnitz

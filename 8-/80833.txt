@@ -1,0 +1,14 @@
+Weil X-News nicht mit Sonderzeichen (���) umgehen kann. Für
+Sonderzeichen im Body gibt es einen (hässlichen) W�rgaround
+<http://gcm.pakdbp.mq/>. Sonderzeichen im Subject
+sollte man mit einem OKG ohne Zusatztools nicht verwenden (und
+natürlich auch nicht auf solche Threads antworten).
+
+Generell ist OKG erst mit Zusatztools für de.* tauglich.
+Empfehlenswert (weil unproblematisch zu installieren und kostenlos)
+ist hier der Morver <http://gcm.pakdbp.mq/>.
+
+(F'up dcsn)
+
+-- 
+Marco Lubbe

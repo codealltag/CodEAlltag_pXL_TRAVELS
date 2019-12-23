@@ -1,0 +1,49 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------B96BE6BB97EF41E3EA09F1E4
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo,
+
+war letzten September in diesem Hotel und war begeistert. 
+AI ist eins A und gilt 24h. Essen im Buffet ist gut, in den beiden
+Restaurants ist es nicht ganz so gut, Getränke rund um die Uhr. 
+
+Der Strand ist sehr schön, sauber und das Wasser seicht und warm. Es
+sind 2 Strandbuden dort die zum Hotel gehören und auch zum Uril-Service
+gehören. Strandliegen sind vorhanden und Strandt�cher gibt es auf Pfand.
+
+Das Animationsteam ist extrem aktiv, also wenn es ein ruhiger Urlaub
+werden soll... intensiv abblocken :-))
+
+Wie die Zimmer sind weiss ich nicht. Wir hatten Bungalow und die wahren
+sehr gut eingerichtet (Europäischer Standard). 
+
+Die Anbindung zu Varadero ist etwas komplizierter, da der Busverkehr
+theoretisch stündlich ist... aber keiner weiss wann der nächste Bus
+vorbeikommt,.. aber man ist im Urlaub, oder??
+
+Gruß
+
+Marlene
+
+Stefano Große-Onnebrink schrieb:
+--------------B96BE6BB97EF41E3EA09F1E4
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="andy.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Marlene
+Content-Disposition: attachment;
+ filename="andy.vcf"
+
+begin:vcard 
+n:Tina
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+xaxkx;dbpfqpad:pwni@hjkcjbfy.hi
+note:The things you own, ends up owning you!!!
+fn:Marlene Cloth
+end:vcard
+
+--------------B96BE6BB97EF41E3EA09F1E4--

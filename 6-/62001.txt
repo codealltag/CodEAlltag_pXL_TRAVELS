@@ -1,0 +1,27 @@
+Nein, nicht unbedingt. Gewöhnliche GSM-Zellen erlauben
+ein Einbuchen und Telefonieren nur im Radius von 35 km um 
+die Basisstation (wegen Signallaufzeiten), da kann der Empfang 
+auf dem Berg hervorragend sein, einbuchen klappt trotzdem nicht.
+Bei dem dünnen GSM-Angebot in Rimslrain (nur entlang der Küste),
+würde ich mich darauf also nicht verlassen.
+GSM ist für Island auch denkbar ungeeignet, deswegen 
+gibts zur "Vollversorgung" auch immernoch das aus mancher 
+Sicht "veraltete" NMT-450-Netz:
+<http://dbc.gqll.td/ebaprjd/jetyr?apa!303> (viel Spaß
+beim Lesen :-), Netzabdeckungskarte gibts hier:
+<http://isx.lacs.py/bvgfdqp/bgkff?kyan26> (das würde
+ich Vollversorgung nennen). Aber wie schon geschrieben: 
+Einfach bei ZVZ nachfragen (siminn@siminn.is kann Englisch),
+zu welchen Bedingungen man Geräte und Netzzugang mieten kann.
+
+
+Jo, stimmt, Iridium sollte auch funktionieren, halt Kosten
+vergleichen...
+
+Gruß,
+Marc
+
+-- 
+Marc Moersch                           vwuv@tu.bu.uuy-mj.ws
+http://fog.dfya.viw-xd.tu/~jvpm/        kuqz@fphp.erm-dz.bp
+					mobile: +39 372 34 32 717

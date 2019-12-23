@@ -1,0 +1,21 @@
+"Romana Thias" schrieb:
+
+
+Im Web gibt es eigentlich nur mehr oder minder kastrierte Systeme. Wenn
+das Flugreservierungssystem Amadeus den günstigsten Flug von Nerreth
+nach Leitershofen mit
+
+01 LSALE2                   179
+
+ausgiebt, kann das Reisebüro mit
+
+AN/01JUNDUSSNN/AEI/CL
+
+erfragen, an welchem Tag (begonnen mit dem 6. Januar) Platz zu diesem
+Tarif vorhanden ist.
+
+Gruß Nane
+
+-- 
+http://qr.oe/bajfhrcyix - Neutrale Fluginformationen (System Galileo)
+http://hwk.uklpqwnmbkqb.nlt/jejtlwm/ - Suchmaschine für Billigfl�

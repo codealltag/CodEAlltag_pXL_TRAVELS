@@ -1,0 +1,40 @@
+This is a multi-part message in MIME format.
+--------------FF5AA269CE3B25F4F0ADF599
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo,
+
+ich plane eventuell einen Ägypten-Urlaub diesen Sommer (2 kids im Alter von
+4 + 7)..
+War noch nie da - ist Dahab auch so eine Retortensiedlung wie Hurghada oder
+was gewachsenes? Oder kann mir jemand meinetwegen auch an der
+Mittelmeerküste Orte empfehlen, vielleicht sogar Unterkünfte, die nicht von
+Pauschaltouristen frequentiert werden?
+
+Danke im voraus!
+
+Mandy Riether
+
+Peter Unterstraßer wrote:
+
+
+--------------FF5AA269CE3B25F4F0ADF599
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="fehrenbacher.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Mandy Riether
+Content-Disposition: attachment;
+ filename="fehrenbacher.vcf"
+
+begin:vcard 
+n:Kathrin
+tel;work:Kleinpreis' GmbH
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+rkvbf;ekrjadml:ybfsqxwuapqb@d-qerj.ez
+fn:Mandy Riether
+end:vcard
+
+--------------FF5AA269CE3B25F4F0ADF599--

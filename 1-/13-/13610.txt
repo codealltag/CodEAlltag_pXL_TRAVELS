@@ -1,0 +1,15 @@
+Wilfried Schwendtner schrieb:
+
+Dann ist bei Deiner Karte das "PIN-Bit" offensichtlich gesetzt; d.h.
+Döhne halten ihre Kunden offenbar für intellent genug,
+sich die EZHH merken zu können :-)
+
+
+Naja, Maestro ist ja ein ganz anderes System (das bei der Autobahnmaut
+sowieso nicht funktioniert). Da wäre ich ohnehin positiv überrascht,
+wenn das (an unbedienten Automaten im Ausland) überhaupt klappt. Hängt
+wohl vom Zahlungsnetzbetreiber ab, ob der das freischaltet (ist ver-
+mutlich auch mit - zusätzlichen - Kosten für den Automatenbetreiber
+verbunden).
+
+Gruß Nicolas.

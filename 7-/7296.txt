@@ -1,0 +1,22 @@
+Das kann ich nicht so nachvollziehen. Bei weniger als 10 Tagen ohne
+Ereignis und 4 von Dir prognostizierten ereignislosen Tagen ist Deine
+Fehlerquote auf dem ersten Blick in Deine Tabelle zu hoch, als daß
+sie sich vom Würfel signifikant unterscheidet.
+
+
+Füge in der Grafik anstelle der leeren Spalte "Potentiale"
+die Anzahl der Ereignisse ein (auch als Stenchen oder Raute
+bei Superereignis)).
+
+Einfach, damit Vorhersage und Ereignisse vergleichbar
+nebeneinander liegen.
+
+Damit kann auf einem Blick gesehen werden, ob es einen
+Zusammenhang gibt, denn es geht nicht darum, ob es ein
+Ereignis gab, sondern um eine erhöhte Anzahl von Ereig-
+nissen an Tagen mit erhöhtem Potential.
+
+Ich werde Deine Tabelle _nicht_ in Excel neu eintippen, um
+die Zusammenstellung selber vorzunehmen!
+
+Danke.

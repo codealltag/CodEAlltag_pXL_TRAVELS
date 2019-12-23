@@ -1,0 +1,20 @@
+Pietro Uebelein <ruqi.qhgmvyd@alzyie.eb> schrieb in im Newsbeitrag: 3C59C533.8C9F2704@chello.at...
+Pietro,
+
+
+damit ist gemeinst, dass insbesondere, aber nicht ausschließlich,
+Windoof abstürzt wenn der Speicher ausgeht - und das wird hier
+durch öffnen von Newsreader-Fenster in einer Endlosschleife
+ausgenützt.
+Bei ist z.B. gar nix böses passiert, ich hab die Sache aus
+Interesse durchgezogen, da ich wissen wollte, wie lange mein
+Windozzer Krachtundneunzig durchhält.
+Nachdem ich solange blöde Meldungen von Uwe quittiert hatte
+bis wieder eine handbreit Memory unter den Fenstern war, konnte
+ich über die Systemsteuerung alle Interneteinstellungen umschalten.
+Damit war das Skript augenblicklich tot, und ich konnte alle Fenster
+normal schliessen.
+--
+Schöße Größe,
+
+Waldemar Vötter von und zu Helfens

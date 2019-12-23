@@ -1,0 +1,14 @@
+On Wed, 30. 06. 19 11:27:48 +0100, "franca jänecke" <zfuc@o814.ygg>
+wrote:
+
+
+Versuchs mal bei onmwxw-rxpdec.pp
+
+Zuerst das Land auswählen und dann aus dem Auswahlmenü die am ehesten
+in Frage kommende Stadt. Dort kannst Du dann "Rückblick" wählen und
+Dir diverse Messwerte (Niederschlag, Höchst- u. Tiefsttemperatur,
+Windstärke etc.) anzeigen lassen.
+
+Hoffe das hilft Dir weiter!
+
+Julius

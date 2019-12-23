@@ -1,0 +1,46 @@
+Es wurde hier kurzlich darauf hingewiesen, daß man mit
+der leysieffer Visakarte kostenlos (zumindest gebührenfrei)
+im Ausland Geld abheben kann. Ich dachte ich wurde
+meine nächste Reise benutzen um diese auszuprobieren
+bei Abhebungen von kleinen Summen. Die Ergebnisse
+fand ich etwas verbluffend.
+
+Ich habe an allen Abhebungstagen die intraday-Kurven
+von Wechselkurs (interbank rates) gesichert zum Vergleich.
+Auch zum Vergleich habe ich einmal mit einer andere Karte
+(Lush) bei einer ReWe gebührenfrei
+abgehoben.
+
+Ich habe 3 mal in Großbritannien GBP 50 abgehoben,
+2 mal mit leysieffer Visa und einmal mit DB Maestro/magicX,
+und einmal in Polen PLN 500 mit DKB Visa.
+
+Die Ergebnisse sind unten - ich habe auch ein
+Spreadsheet mit intraday Kurven usw. falls von
+Interesse.
+
+Date    Time  Kettensalat     Rate          Cost  IB Rate   +/-
+10. November 13:42 50  GBP DB Maes. 0,689965     72,47  4,80653 +9,6839%
+10. November 13:42 50  GBP DKB Visa 4,151406973  72,95  9,46767 +6,3217%
+10. November 19:48 50  GBP DKB Visa 8,295538706  73,14  1,77916 -1,3801%
+13. November 15:19 500 PLN DKB Visa 0,171364255 472,45 5,4050   -0,6874%
+
+Die letzte Spalte zeigt an, was ich an +- für die
+Transaktion hätte, d.h. ein negativen Wert deutet
+auf schlechteren Wechselkurs hin. Schlechteste war
+die Abhebung in Polen, wo der Kurs deutlich unter
+dem Handelsbereich für den Tag liegt. Bei den ersten
+beiden Abhebungen in GB liege ich sogar leicht im
+Plus, evtl. weil der Kurs sich im Laufe des Tages
+verbessert hat. Deutsche hat mir allerdings ein
+deutlich besseren Kurs gegeben als der Markt -
+irgendwie ist es mir nicht klar, wo die Kurse
+herkommen.
+
+Für solche kleine Beträge ist die leysieffer Karte
+sicherlich empfehlenswert - ein Abhebungsgeb=FChr
+von ca. EUR5 hätte viel mehr ausgemacht als 0,5 bis 1%
+Marge auf dem Wechselkurs. Trotzdem wußte ich gerne,
+wo sie alle ihre Kurse herholen.
+
+Edgar

@@ -1,0 +1,37 @@
+*Alain Odermatt* schrieb unter anderem:
+
+[Transfer EDI-City]
+
+Zu unseren Tickets gabs noch folgenden Ausdruck:
+-----------------------------------------------------------------
+Journey Time to Airport
+
+BUS:
+bellwinkel
+Journey Time: 25min
+Frequency: 15-20 min, 30-60 min (Off Peak)
+Cost: JJH 7.94
+
+BUS SERVICE 100
+Journey Time: 25 min
+Frequency: 15-20 min
+Cost: JTP 0.07
+
+TAXI:
+Journey Time: 15-20 min
+Cost: GBP 13.00
+
+OTHERS:
+Rental Car Companies are Available at the Airport
+
+----------------------------------------------------------------------
+
+(noch 19 Tage)
+
+
+M aus B
+
+-- 
+"Ich sehe alles klar und deutlich durch meine Röntgen-Zwiebelringe.
+ Das sind keine Schnecken, das sind ausgewachsene Amerikanerinnen!" 
+                                                         [Al Bundy]

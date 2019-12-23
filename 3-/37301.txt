@@ -1,0 +1,26 @@
+Hallo,
+
+in der Vergangenheit wurde dieses Thema bereits behandelt, aber 
+vielleicht gibt es mittlerweile (auch aufgrund der immer stärkeren 
+Rechenkapazitäten) in diesem Gebiet Fortschritte.
+
+Ich bin auf der Suche nach einer flexiblen Suchmaschine für Flugtickets, 
+mit welcher ich nach folgendem Schema suchen kann:
+
+Abflug: Tag x +/- n Tage
+Dauer: y Tage +/- n Tage
+Abflug von: Flughäfen a, b, c, d, e
+Nach: Flughäfen f, g, h, i, j
+
+Hintergrund ist ein längerer Aufenthalt im Ausland, wobei ich sowohl bei 
+den Flughäfen als auch bei den genauen Flugzeiten sehr flexibel bin.
+
+Natürlich bedeutet eine solche Anfrage über z. B. 20 Airlines eine 
+enorme Belastung für die Buchungssysteme. Vielleicht kann mir dennoch 
+jemand einen Tipp geben, ob es vielleicht doch eine Seite gibt, die 
+zumindest Teilaspekte meiner gewünschten Suche erfüllt.
+
+Welche Seiten benutzt Ihr zum Auffinden der günstigsten Flüge? Ich bin 
+für jeden Hinweis sehr dankbar.
+
+Gr

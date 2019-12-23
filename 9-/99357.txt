@@ -1,0 +1,13 @@
+Das kommt auf die Airline an. Werf mal ein Blick auf die Tickets. Folgende
+Abkürzungen können dort auftauchen:
+
+20K = 20 Kilo Freigepäck
+30K = 30 Kilo Freigepäck
+40K = 40 Kilo Freigepäck
+PC = 1 Gepäckstück zu 32 KG, Abmessungen: Länge+Breite+Höhe zusammen max.
+158 Kg
+2PC = 2 Gepäckstücke zu je 32 KG, Abmessungen: Länge+Breite+Höhe zusammen
+max. 158 Kg
+
+Zusätzliches Handgepäck bis 5 Kg (muß in das Gepäckfach oder unter den Sitz
+passen)

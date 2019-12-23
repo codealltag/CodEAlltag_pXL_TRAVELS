@@ -1,0 +1,12 @@
+Hi,
+
+schau mal auf das Netzteil von Deinem Notebook, normalerweise
+schalten die automatisch um, ist zumindest bei meinem IBMer so.
+
+Dann brauchst Du natuerlich noch den Adapter von "Schuko"
+also unser Stecker auf US.
+
+--Christian
+
+
+Ernest Holfoth wrote:

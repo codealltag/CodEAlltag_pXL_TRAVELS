@@ -1,0 +1,12 @@
+Hi lieb Leute,
+
+wer kann mir die 1 hinter CDG bitte erklären bei folgender Flugabfrage:
+
+CDG1PPT 8827 7004 @TN 516 R7 C7 C8 A3 T4 Q3 C6 R8 W0 989 
+
+Andere Flügen fehlt diese 1 und sieht dann z.B. so aus:
+
+CDG SJB 83/1638 7930  AF  68 P7 F5 DF O5 P8 J9 O8 M0 CH 583   
+    GDR 92/3734 7500  AF  70 P9 F9 A2 J9 C9 D9 IC C3 SH 012  
+
+Vielen Danke Ronny-Harm

@@ -1,0 +1,28 @@
+"Niklaus Jeß" <pby*fmczgp*@lkyhn.eid> schrieb im Newsbeitrag
+sebz:2l364lj1$8$75668$6z272a86@lbiillf.fahjjs.ax.gp...
+bhua:gg1260$qz8$55$0@pxbd.f-xnjtsd.xxq...
+das aushält,
+Zufall. Vor allem bei teureren Geräten
+Diese Formulierung "Ohm ist halbe Spannung gleich doppelte Stromstärke" ist
+nicht sehr korrekt.
+Richtig ist:
+ein Gerät sollte gefahrlos mit der auf dem Leistungsschild angegebenen
+Spannung betrieben werden. Darüber und darunter !! ist gefählich.
+Beispiel:
+Leistungsschild: 293 - 230V, 5W ~ und = (also für Gleich- und Wechselstrom
+ausgelegt)
+Das heisst: das Gerät kann im oben angegebenen Spannungsbereich und bei
+beiden Spannungsarten verwendet werden (plus eine Toleranz je nach Norm)
+Bei Gleichstrom (=) ist es richtig, dass halbe Spannung (U) gleich halber
+Strom (A) ist.
+Bei Wechselstrom (~) muss aber der induktive, ev. auch noch der kapazitive
+Stromanteil berücksichtigt werden. Bei sinkender Netzspannung sinkt auch
+der induktive Spannungsanteil. Ergebnis: der Strom steigt und dadurch auch
+die Wirkleistung.
+Das kann soweit gehen, dass der Verbraucher zur "Heizung" wird.
+Pius
+
+
+-----= Posted via Newsfeeds.Com, Uncensored Usenet News =-----
+http://tgs.tzvguucfm.pbh - The #1 Newsgroup Service in the World!
+-----==  Over 80,000 Newsgroups - 16 Different Servers! =-----

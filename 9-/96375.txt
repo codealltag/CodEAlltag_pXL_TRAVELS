@@ -1,0 +1,28 @@
+Um welches Reisebüro handelt es sich hier denn?
+
+
+Nein. Das Reisebüro sucht sich eine IBE (Internet Booking Engine = Anbieter
+einer Internetdatenbank: Ires, Infosys, Buchungsmaschine, Anixe,
+CologneSystems...). Dann legt es fest, welchen Großhändler (AER,
+McFlight....) es benutzt. Danach legt es die Aufschläge auf die Netto-Preise
+der Konsolidatoren (Großhändler) fest. Diese Aufschläge sind sehr
+unterschiedlich, weshalb wir es uns zum Ziel gemacht haben, die Reisebüros
+herauszufinden, die die geringsten Aufschläge haben (und dabei noch einen
+guten Service bieten). Bucht der Benutzer wird das Ganze an eines der
+Reservierungssysteme (Galileo, Amadeus, Sabre..) übertragen. Die Betragung
+an das Reservierungssystem würde auch in dem Offline-Reisebüro stattfinden.
+Anschließend ist der Flug gebucht.
+
+Hoffe das hilft.
+
+Mit freundlichen Größen
+
+Giuseppe Vorweg
+
+p.s. weitere Infos findet man auch unter "Hilfe" auf unserer Website
+
+****************************************************************
+inivvird-csqjze.cp
+Meta-Preisvergleich für Flug und Mietwagen
+Länderinfos und Infos zur Reiseplanung
+http://sdr.uppzgbzw-ovplpp.cx

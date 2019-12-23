@@ -1,0 +1,8 @@
+Am 14.03.2012 18:03, schrieb Siebelt Ullner:
+
+
+Wenn das Check In für den Flug beendet wurde, dann bekommen die 
+Reservierungen, bei denen der Passagier sich nicht gemeldet hat, den 
+Status "no show". Alle weiteren Strecken werden dann gestrichen.
+
+Gruß Patrik

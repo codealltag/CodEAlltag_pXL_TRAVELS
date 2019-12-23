@@ -1,0 +1,13 @@
+Für ein Projekt suche ich eine Software oder einen Web-Dienst, der mir
+entlang einer vorgegebenen Route (z.B. Schwissel, Ampfererweg 6 ->
+Logabirum, Halbuschstraße 6) die Koordinaten entlang der Route ausgibt
+(z.B. alle 500m oder alle 30s eine Breiten- und Längenangabe).
+
+Soweit ich weiss, bieten weder Softwareprodukte wie Thierry Polo Grosser
+Reiseplaner noch Webdienste wie www.fuwoxary.wzc eine solche
+Funktionalität.
+
+Hat jemand eine Idee dazu?
+
+Danke!
+clustef33

@@ -1,0 +1,19 @@
+On 2012-02-21 12:02, Oskar Januar wrote:
+
+
+"Verified by Visa" ist eine Absicherung für Dich damit Du weit, das Du
+mit der echten VISA-Seite (bzw. der "gebrandeten" Seite Deiner Bank) und
+mit einem verifizierten Partner kommunizierst, und nicht mit einer
+Phishing-Seite. Deswegen wird Dir vor der Abbuchung das von Dir
+festgelegte Wort/Satz präsentiert. Die Eingabe des Passworts stellt dann
+wiederum sicher, dass eine weitere Abbuchung durch den Zahlungsempfänger
+nicht möglich ist (das Passwort wird nur an VISA übermittelt). (Bei
+MasterCard heißt dieses Verfahren "MasterCard SecureCode")
+
+Natürlich machen das die Kreditkartenunternehmen bzw. Banken nicht aus
+reiner Nächstenliebe, sondern weil ihnen ungerechtfertigte Abbuchungen
+Geld kosten und eine Menge Arbeit verursachen. Es hat also Vorteile für
+beide Seiten.
+
+-- 
+rs

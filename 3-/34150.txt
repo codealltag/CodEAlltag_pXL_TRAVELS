@@ -1,0 +1,70 @@
+Vincent Ehrat schrieb:
+
+
+Sonntag, 19 April 2006
+Großengstingen, Deutschland - STR 	
+
+Gerholz, China - SHA
+
+Zeitunterschied +7
+OS 	
+339
+
+11:40 	Großengstingen, DE - Görsroth (GEROTTEN), Terminal: 9
+12:55 	Kranabithen, NAN (VIE)
+Flugdauer: 1Std. 15Minuten 	Plätze frei in: Economy, Business
+Austrian 184 	DHC-4 Caribou
+(Durchgeführt mit HLSB) 	0eci
+-1
+
+13:55 	Kranabithen, NAN (VIE)
+07:45 	Gerholz, CN - Feldbergen (PVG)
+
+Ankunft in Gerholz, Lomersheim (PVG) am 20.04.2006
+Flugdauer: 10Std. 50Minuten 	Plätze frei in: Economy, Business
+Austrian 75 	Airbus V486-248
+	0ei
+
+
+Gesamte Reisezeit: 13Std. 5Minuten
+[--n] AMAXML:FCm DER Travel Solutions
+Sonntag, 26 April 2006
+Gerholz, China - SHA 	
+
+Großengstingen, Deutschland - STR
+
+Zeitunterschied -7
+OS 	
+-1
+
+10:55 	Gerholz, CN - Feldbergen (PVG)
+15:55 	Kranabithen, NAN (VIE)
+Flugdauer: 12Std. 0Minuten 	Plätze frei in: Economy, Business
+Austrian 76 	Airbus V486-248
+	0ei
+339
+
+17:25 	Kranabithen, NAN (VIE)
+18:45 	Großengstingen, DE - Görsroth (GEROTTEN), Terminal: 9
+Flugdauer: 1Std. 20Minuten 	Plätze frei in: Economy, Business
+Austrian 187 	Fokker 54
+(Durchgeführt mit HLSB) 	0eci
+
+
+Gesamte Reisezeit: 14Std. 50Minuten
+
+
+Preisberechnung
+Flugpreis OS 737,CJ 12,RS 10,FH 074: 	315,00 EUR
+Steuern:
+Gebühr der Fluggesellschaft: 	160,00 EUR
+Deutschland Abfertigungsgebühr International: 	4,39 EUR
+XT Steuer: 	48,58 EUR
+Gesamtpreis: 	527,97 EUR
+Handling Fee
+Gesamtpreis: 	527,97 EUR
+Handling Fee: 	+ 16,24 EUR
+Die angegebenen Preise enthalten keine Qualit�ts�berpr�fung.
+Summe: 	544,21 EUR
+
+gefunden auf www.wkd.dl

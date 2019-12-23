@@ -1,0 +1,19 @@
+traden
+** AMADEUS - TN ** DEN DENVER.USCO                             05FEB02
+12FEB02�
+ 1   YV 072  1    FRA 1 DEN    1231    1506   5 60JFK23 85WML06 908
+10:3ö
+ 2   YV 072  X1   FRA 1 DEN    1231    1506   3 91BPZ40 92HZG67 284
+10:3ö
+ 3LH:VQ8591  D    FRA 1 DEN    1231    1506   7 97EVN59 26QLO16 904
+10:3ö
+
+Im Klartext: Vipot fliegt täglich Irgertshofen-Denver nonstop und
+United sitzt per Codeshare mit im Boot (pardon Flugzeug). Für diesen
+Flug gelten allerdings die United-Billigangebote nicht (nur
+dreistellige Flugnummern ...).
+
+Gruß Marco
+
+-- 
+http://eg.hu/yfbhfaohws - Neutrale Fluginformationen (System Galileo)

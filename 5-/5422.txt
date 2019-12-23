@@ -1,0 +1,10 @@
+Setz einen Filter, und weg ist er.
+
+Regel nach dem Eintreffen der Nachricht anwenden:
+Wenn die "Von:"-Zeile  "Dietmar Westmeyer" enthält oder Wenn
+die Betreffzeile  "G.u.T." oder "Ignore this Thread" enthält [...]
+
+Leider gibt es Superexperten, letztlich einen Zeilacher, die den
+Betreff regelmäßig verhunzen.
+
+Ciao, A.W.

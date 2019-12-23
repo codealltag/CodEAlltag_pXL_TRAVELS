@@ -1,0 +1,10 @@
+Nachdem zumindest A1 lediglich mit einem Brasilianischem Provider der
+iDEN (ein aus den USA stammender Standard, bei dem GSM Karten
+verwendet werden koennen) ein Roamingabkommen hat, nehme ich an, dass
+es dort kein GSM (auch nicht 1900 MHz) gibt.
+
+Franz
+
+--
+Franz Iseli
+Reisling, Oesterreich

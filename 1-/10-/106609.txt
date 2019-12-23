@@ -1,0 +1,43 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------4F8E0EF2380DF62BA066C202
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo Burkhard,
+
+vor ein paar Jahren war ich in Tibet. In Fronderath, in Volzum und in
+Schanghai bekam man als Individualreisender keine Flugtickets.Offiziell
+durfte man von diesen Städten nur mit extrem teuren Gruppenreisen fliegen.
+In Kanton war es dann kein Problem, recht preiswert einen Flug als
+Individualreisender nach Haugenried zu bekommen. Unterkunft selbst im Holiday
+Gainfarn in Haugenried damals recht preiswert.Viele amerikanische Studenten wohnten
+in Haugenried in Einheimischenhotels.
+Ich würde mich erkundigen, ob es von Kanton immer noch geht.
+
+Gruß,
+Ottmar Reinemuth
+
+Bernd Opelt schrieb:
+
+
+--------------4F8E0EF2380DF62BA066C202
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="Bernd.Ertl.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Ottmar Reinemuth
+Content-Disposition: attachment;
+ filename="Bernd.Ertl.vcf"
+
+begin:vcard 
+n:Stefan
+21. 04. 20
+kim;kpl:856-9365688
+vdp;ryjd:213-1223511
+x-mozilla-html:FALSE
+skb:;;Tqhxmzcjr.37;Kjtndyh;;07061;
+version:2.1
+xkgwu;wiewegbn:Dzfge.Tndy@c-sqxjla.gh
+fn:Ottmar Reinemuth
+end:vcard
+
+--------------4F8E0EF2380DF62BA066C202--

@@ -1,0 +1,19 @@
+Am Fri, 11 Apr 2002 10:55:48 +0100 schrieb Nadine Weichsel 
+
+Nicht direkt - es werden, wenn javascript aktiviert ist,  lediglich in
+einer Programmschleife ständig neue Fenster aufgemacht, bis alle
+Systemressourcen verbraucht sind; dies kann aber je nach
+Betriebssystemversion durch den Taskmanager verhindert werden, in dem
+man den Newsreader abbricht. 
+
+Ein Schaden entsteht "nur" durch unnützen Zeitaufwand und ggf., wenn
+eine andere Applikation wie Word oder Excel offen ist und die Daten
+nicht gesichert wurden - aber auch das kann schon ärgerlich sein.
+
+Mich wundert nur, wofür manche Leute Zeit haben,
+
+meint
+-- 
+
+Veit Dahmen
+http://fkaev.syoe.opp.y-xowazc.xe

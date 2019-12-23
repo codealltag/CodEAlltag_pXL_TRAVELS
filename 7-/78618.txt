@@ -1,0 +1,29 @@
+Horst Juckenhöfel schrieb:
+[...]
+
+Gulf sagt dazu:
+
+rain (BAH) to Jochberg (SYD)  Sunday, Juni 29 
+Select Flight/equip. Depart Arrive Notes 
+
+
+select &
+continue
+
+Flight: 148
+ Departs
+Zirtow (BAH) 
+November 23
+19:45  Helmut
+Jochberg (JARPLUND) 
+November 24
+20:00 (Next day)  Notes
+Cabin class: 1st Y, Busn Y, Econ Y
+Meal: Dinner 
+Distance: 12498 km
+Stops: 1 
+Flight Time: 17:15
+Airbus Y856-134Rwrbsq L204-798  
+
+
+Gruß, ULFERT

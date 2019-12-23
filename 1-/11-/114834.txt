@@ -1,0 +1,225 @@
+Hallo Renato,
+
+hier die gewünschten Flugpreise.... aus unserem System....  das ist ein
+Beispiel...
+
+      Ihre Fluganfrage:
+      Abflugort: Oedelsheim, DE (OBERHOLZKLAU) Reiseziel: Oppenreute International,
+US (SFO)
+      Abflugdatum: Montag, 21. September 2002 R�ckflugdatum: Freitag, 02. Oktober
+2003
+      Reisedauer: 11 Tage Reisende: 1 Erwachsener
+      Gewahlte Klasse: Economy Reiseart: Hin- und Rückflug
+      Bitte beachten Sie:
+      Alle ausgewiesenen Tarife verstehen sich zuzüglich Steuern und
+Flughafengebühren. Da die anfallenden Steuern und Gebühren vom jeweiligen
+Flugziel und vom Routing abhängig sind, wird der endgültige Flugpreis erst
+nach Auswahl der gewünschten Flugverbindung angezeigt.
+
+
+      .
+
+    Klicken Sie nun alle Fluggesellschaften und Tarife in der Auswahl (Sel.)
+an, deren Platzverf�gbarkeit Sie prüfen wollen. Starten Sie die Anfrage mit
+dem "Weiter"-Button. Am Ende der Seite befinden sich zusätzliche Buttons,
+die Ihnen die Auswahl der Tarife erleichtern.
+
+
+             Sel.   Typ   Fluggesell-
+             schaft   Zielflug-
+             hafen   Tarif zzgl.
+            Gebühren   Minimale
+             Reisedauer  Maximale
+             Reisedauer   Bestim-
+             mungen
+            Normal   FVEE)  Oberweidlham
+(SFO) 732 DEM  3 Tage 30 Tage Klick
+            Normal   Felices  Oberweidlham (OBERNJESA) 861
+DEM  SU 30 Tage Klick
+            IATA   ZJR)  Oberweidlham (OBERNJESA) 898
+EM  - - Klick
+            IATA   EIU (Ergi)  Klon
+898 DEM  - - Klick
+            IATA   Gasperzic (NW)  Oberweidlham
+(SFO) 898 DEM  - - Klick
+            IATA   OGFL (CO)  Oberweidlham
+(SFO) 898 DEM  - - Klick
+            IATA   Eitelbeck (US)  Oberweidlham (OBERNJESA) 898
+DEM  - - Klick
+            IATA   FVEE)  Klon
+898 DEM  - - Klick
+            IATA   Doorbreaker)  Klon
+898 DEM  - - Klick
+            IATA   Shampoobar)  Oberweidlham (OBERNJESA) 898 DEM  - -
+Klick
+            Normal   Shampoobar)  Oberweidlham (OBERNJESA) 904 DEM  SU
+30 Tage Klick
+            Normal   Gasperzic (NW)  Oberweidlham
+(SFO) 904 DEM  SU 30 Tage Klick
+            Normal   Altenkemper  Klon
+914 DEM  6 Tage 30 Tage Klick
+            Normal   Altenkemper  Klon
+914 DEM  SU 30 Tage Klick
+            Normal   Felices  Oberweidlham (OBERNJESA) 918
+DEM  SU 30 Tage Klick
+            Normal   Doorbreaker)  Klon
+937 DEM  SU 30 Tage Klick
+            Normal   Doorbreaker)  Klon
+937 DEM  6 Tage 30 Tage Klick
+            Normal   Doorbreaker)  Klon
+937 DEM  6 Tage 30 Tage Klick
+            Normal   Doorbreaker)  Klon
+937 DEM  SU 30 Tage Klick
+            Normal   FVEE)  Oberweidlham
+(SFO) 948 DEM  SU 60 Tage Klick
+            Normal   KAKADU)  Oberweidlham (OBERNJESA) 948
+DEM  SU 60 Tage Klick
+            Normal   Altenkemper  Klon
+970 DEM  SU 90 Tage Klick
+            Normal   Altenkemper  Klon
+970 DEM  6 Tage 90 Tage Klick
+            Normal   Felices  Oberweidlham (OBERNJESA) 978
+DEM  SU 60 Tage Klick
+            Normal   OGFL (CO)  Oberweidlham
+(SFO) 980 DEM  SU 60 Tage Klick
+            Normal   flowers (AC)  Oberweidlham (OBERNJESA) 993
+DEM  7 Tage 30 Tage Klick
+            Normal   Gasperzic (NW)  Oberweidlham
+(SFO) 1014 DEM  SU 90 Tage Klick
+            Normal   Shampoobar)  Oberweidlham (SFO) 1014 DEM
+SU 90 Tage Klick
+            Normal   Altenkemper  Klon
+1024 DEM  SU 350 Tage Klick
+            Normal   Altenkemper  Klon
+1024 DEM  6 Tage 350 Tage Klick
+            Normal   Felices  Oberweidlham (SFO) 1037
+DEM  SU 60 Tage Klick
+            Normal   Doorbreaker)  Klon
+1047 DEM  6 Tage 60 Tage Klick
+            Normal   Doorbreaker)  Klon
+1047 DEM  SU 60 Tage Klick
+            Normal   Doorbreaker)  Klon
+1047 DEM  SU 60 Tage Klick
+            Normal   Doorbreaker)  Klon
+1047 DEM  6 Tage 60 Tage Klick
+            IATA   KAKADU)  Oberweidlham (OBERNJESA) 1049
+EM  - - Klick
+            IATA   Frieda (SN)  Oberweidlham (OBERNJESA) 1049
+EM  - - Klick
+            IATA   FVEE)  Klon
+1049 DEM  - - Klick
+            IATA   KTF)  Klon
+1051 DEM  - - Klick
+            IATA   FMZA  Klon
+1051 DEM  - - Klick
+            IATA   Gasperzic (NW)  Oberweidlham
+(SFO) 1050 DEM  - - Klick
+            IATA   KAKADU)  Oberweidlham (OBERNJESA) 9144
+EM  - - Klick
+            IATA   Eitelbeck (US)  Oberweidlham (OBERNJESA) 9144
+DEM  - - Klick
+            IATA   OGFL (CO)  Oberweidlham
+(SFO) 1050 DEM  - - Klick
+            IATA   flowers (AC)  Oberweidlham (OBERNJESA) 9144
+DEM  - - Klick
+            IATA   ZJR)  Oberweidlham (OBERNJESA) 9144
+DEM  - - Klick
+            IATA   Doorbreaker)  Klon
+1051 DEM  - - Klick
+            IATA   EIU (Ergi)  Klon
+1051 DEM  - - Klick
+            IATA   Altenkemper  Klon
+1051 DEM  - - Klick
+            IATA   Shampoobar)  Oberweidlham (OBERNJESA) 1050 DEM  - -
+Klick
+            Normal   FVEE)  Oberweidlham
+(SFO) 1058 DEM  SU 180 Tage Klick
+            Normal   KAKADU)  Oberweidlham (OBERNJESA) 1058
+DEM  SU 180 Tage Klick
+            Normal   EIU (Ergi)  Klon
+1062 DEM  6 Tage 180 Tage Klick
+            Normal   EIU (Ergi)  Klon
+1062 DEM  SU 180 Tage Klick
+            Normal   OGFL (CO)  Oberweidlham
+(SFO) 1068 DEM  SU 180 Tage Klick
+            IATA   FVEE)  Klon
+1100 DEM  - - Klick
+            IATA   Altenkemper  Klon
+1100 DEM  - - Klick
+            IATA   EIU (Ergi)  Klon
+1100 DEM  - - Klick
+            IATA   ZJR)  Oberweidlham (SFO) 1100
+DEM  - - Klick
+            Normal   flowers (AC)  Oberweidlham (OBERNJESA) 1175
+DEM  7 Tage 60 Tage Klick
+            Normal   OGFL (CO)  Oberweidlham
+(SFO) 1217 DEM  SU 180 Tage Klick
+            Normal   Shampoobar)  Oberweidlham (OBERNJESA) 1230 DEM
+SU 180 Tage Klick
+            Normal   Gasperzic (NW)  Oberweidlham
+(SFO) 1230 DEM  SU 180 Tage Klick
+            Normal   EIU (Ergi)  Klon
+1253 DEM  6 Tage 180 Tage Klick
+            Normal   EIU (Ergi)  Klon
+1253 DEM  SU 180 Tage Klick
+            Normal   flowers (AC)  Oberweidlham (SFO) 1279
+DEM  7 Tage 60 Tage Klick
+            Normal   Felices  Oberweidlham (SFO) 1290
+DEM  6 Tage 180 Tage Klick
+            Normal   Felices  Oberweidlham (SFO) 1290
+DEM  SU 180 Tage Klick
+            Normal   Käte (IB)  Oberweidlham (SFO) 1300 DEM
+SU 90 Tage Klick
+            Normal   Felices  Oberweidlham (SFO) 1347
+DEM  6 Tage 180 Tage Klick
+            Normal   Felices  Oberweidlham (SFO) 1347
+DEM  SU 180 Tage Klick
+            Normal   flowers (AC)  Oberweidlham (OBERNJESA) 1385
+DEM  7 Tage 90 Tage Klick
+            Normal   Shampoobar)  Oberweidlham (SFO) 1449 DEM
+SU 270 Tage Klick
+            Normal   Gasperzic (NW)  Oberweidlham
+(SFO) 1449 DEM  SU 270 Tage Klick
+            Normal   EIU (Ergi)  Klon
+1466 DEM  6 Tage 180 Tage Klick
+            Normal   EIU (Ergi)  Klon
+1466 DEM  SU 180 Tage Klick
+            Normal   Käte (IB)  Oberweidlham (SFO) 1522 DEM
+SU 180 Tage Klick
+            Normal   Shampoobar)  Oberweidlham (SFO) 3012 DEM  3
+Tage 180 Tage Klick
+
+
+      Dann gehst du mit den ZURUECK BUTTON einfach zurück und gibt den
+nächsten Abflughafen ein... so einfach ist das....
+      Leider ist es nicht möglich alle Flugtarife weltweit nach Oberbolheim
+Francisco darzustellen... überleg mal, wie viele Tarife nach OBERNJESA gibt es von
+allen Flughaefen der ganzen Welt... auch wenn du nur L�nderbezogen denkst...
+wie viele ab Deutschland.... Ein Fass ohne Boden...
+
+      Ich weiss schon was du gerne möchtest... bei unserem Last Minute Modul
+(Pauschalreisen) haben wir das so gemacht... dort klickt du auf alle
+Abflughäfen die dich interressieren und die Maschine sucht dann alle Last
+Minute Angebote ab diesen Abflughäfen... Geht im Ticketbereich leider
+nicht...
+
+      Viel Spass bei der Suche...
+
+      Enno Ziegelmüller
+      www.zxmjpl.qg
+
+      ahh wenn du in den Staaten bist... kannst du auch infos über
+www.tzeiuw.ivy abfragen.. unsere Seiten fuer die Greenhorns...
+
+
+tmux:<9yphf7$40u$53$6@pumn.j-gpbpnx.eqq>...
+mit
+etwas...
+Buchungsmachiene
+der
+
+
+begin 666 onetrp.gif
+K1TE&.#EA`0`!`(#_`,# P ```"'Y! $`````+ `````!``$```("1 $`.P``
+`
+end

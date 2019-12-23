@@ -1,0 +1,39 @@
+This is a multi-part message in MIME format.
+--------------C09F699551DC62D778E84D26
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo Francesco.
+
+Ich wäre an den Reiseführern Malaysia, Tibet, Yemen und Mongolia interessiert. Bitte aber vorab um
+Info über Nr. der Auflage und Erscheinungsdatum.
+
+mfG Theodor
+
+Francesco Jörss wrote:
+
+
+--------------C09F699551DC62D778E84D26
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="sven.schubert.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Theodor Viete
+Content-Disposition: attachment;
+ zigudofl="fcwp.wyhkrfke.zog"
+
+begin:vcard 
+n:Schubert;Sven
+qwb;czq:+91 767 508 2256
+puu;kjke:+55 184 539 0705
+x-mozilla-html:FALSE
+org:CCKB GmbH & Co KG;SITTPS
+Dachsbühelweg 23;Hannover;Niedersachsen;30625;Deutschland
+version:2.1
+mdtqq;ovwsyjfa:wpcx.qnqxubrm@ssr.bs
+title:Referent Datenbanktechnik
+note:Bitte keine Emails via Outlook an mich senden, da diese Software permant Out-of-Service ist.
+x-mozilla-cpt:;6144
+fn:Theodor Viete
+end:vcard
+
+--------------C09F699551DC62D778E84D26--

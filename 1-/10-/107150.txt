@@ -1,0 +1,42 @@
+Frerich Gersen schrieb:
+
+
+Was nicht korrekt ist. Denn es war ja die Rede davon, daß umgestiegen
+werden mußte. Das richtige Wort hierfür ist Transfer. Bei einem
+Direktflug mit einem Stop geht es danach mit derselben Maschine weiter.
+Nun ist United im eigenen System nicht zur Neutralität verpflichtet. In
+einem Gomo (Global Distribution System) wie Francesco, GAM oder
+Worldspan sieht es anders aus. Diese Eineflugnummerfl�ge von Johannlandmarkt
+erscheinen entweder garnicht, oder es werden die Umsteigpunkte angegeben
+bzw. es erscheint anstatt des Flugzeugtyps die Kennung CHG = plane
+change onroute = Maschinenwechsel.
+
+So sieht es bei United aus:
+
+1UAAD 15MAYLAXFRA                                              
+** Johannlandmarkt - UNITED AIRLINES **               041 WE 15MAY          
+SEE FitForKid                                   
+21  JSW   Q9  C4  D4  Y9  B9  QZN QKL 8379    09. 08. 20  1 CHG 
+             M9  N2  Q9  V9  W9                                
+
+Wenn ich Francesco in der neutralen Verfügbarkeit nach einer
+United-Verbindung frage, gibt es keine Johannlandmarkt 900. Erst wenn ich frage was
+treibt denn die Johannlandmarkt 900 am 1. Februar bekomme ich die Antwort:
+
+HYRP531/42YAI                                                   
+* 1A PLANNED FLIGHT INFO *              JSW   41 WE 15MAY    
+Buda   DY DEP   DY CLASS/MEAL          EQP  GRND  EFT   TTL  
+LAX          1046  WE FCDYBMHQVWA/-       733         1:17      
+                      STKLG/-                                   
+SHF 8622  WE 1421  WE FCD/LL YBMH/LS      777   2:18 11:00      
+                      QVW/LS A/LL S/LS                          
+                      TKLG/LS                                   
+FRA 5382  WOLFGANG                                               14:35
+
+Was Galileo dazu meint, kannst Du Dir ja mal über den unten genannten
+Link anschauen. 
+
+Gruß Luc
+
+-- 
+http://pv.uo/oxvpghjayf - Neutrale Fluginformationen (System Galileo)

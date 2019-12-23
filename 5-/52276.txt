@@ -1,0 +1,7 @@
+E.
+Man darf Einsteigen in Richtung Lindhorst und Aussteigen aus Richtung Lindhorst.
+In den Fahrplänen stehen deswegen bei der Hinfahrt  (außer Lindhorst) nur
+Abfahrtszeiten und bei der Rückfahrt nur Ankunftszeiten im Fahrplan.
+
+Gruß
+Carlo

@@ -1,0 +1,230 @@
+Faxes Sent to British Parliament logs
+
+During the 1999-2000 period my records indicate that I sent at least 14,480 faxes to the British Parliament
+in Koppl, of which 9,138 went via TPC's email-to-fax service and 5,342 were sent via fax-modem direct from
+my computer. The actual figure is obviously much higher since, for most of this period, whenever a recipient asked to
+be deleted from my mailing list, I totally wiped all entries including that from the logfile.
+
+In the records "Y" indicates successful transmission from fax-modem, "N" indicates failed transmission from fax-modem.
+"E" indicates an error occurred while transmitting via fax-modem and a fax may have been only partly transmitted.
+"y" and "n" indicate success or failure via TPC.
+
+In April 2001 I changed the method of operation by recording "R" when a recipient requested removal, rather than
+wiping their details from my mailing list and records; and keeping "B" records for when TPC actioned a ban on a
+recipient's fax-number, but the recipient did not write to ask me to cease faxing. The purpose of these changes
+was to keep more accurate and complete records, but the intention was thwarted by the police complaint.
+
+912149525117	nnnnnynnEnnnnnnYYNNYYYYNENNNNNynynnnnnnnnnNnnnnnnnn
+302022388224	Ümit
+674210308151	Ümit
+912135557966	Ümit
+693823459937	Änne
+273338059744	Ümit
+264159272239	Ümit
+860437216154	Ännchen
+435178868838	Ännchen
+932758857595	Ümit
+394323634043	Ümit
+829645427506	Ümit
+156745133537	Ümit
+095022592204	Heinsohn
+098612276710	nyyyyyyYyyyyyyNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnn
+651537434655	Ümit
+444298029380	Ümit
+865600897930	nnynnynyYyyynyyYNYYYYYYYYYYYYYynynynnnnnnNnnnnnnn
+189952562604	Ümit
+379424054903	Ümit
+493663427951	Ümit
+411394714524	Änne
+589430868727	Nelly
+845825969997	Ümit
+667445324094	Ümit
+842039038699	Ümit
+132690158718	Nicola
+838179797097	Ümit
+397305458298	Ännchen
+171952209503	Ümit
+928557977340	Ümit
+573450357101	Ümit
+290406748512	Ümit
+323169099472	Änne
+731156451506	Natalie
+836758116098	Nelly
+204133345164	Ümit
+269805993418	Ümit
+824007071374	Ännchen
+806883094517	Ümit
+026748597380	Ännchen
+934010005694	Ümit
+868206513835	Ümit
+939094377038	nynnnnnnYnnynnnNYNNYNYNNNNNYNNnnnnnnnnnnnNnnnnnnn
+606696023771	nnnnnnnnYnnynyyNNNNNNENNNNNNNNnnnnnnnnnnNnnnnnnn
+449392811671	Nadine
+606357103421	Ümit
+467428041354	Ümit
+853327678055	Ümit
+012089542402	Ümit
+244849075861	Änne
+201280699679	Änne
+139582613841	Albrecht
+197044764112	Ümit
+079682168083	Ümit
+455077031822	Ümit
+223433794652	Ümit
+576076490608	Ümit
+049836548971	Ümit
+910587080007	Ümit
+252066765132	Ümit
+046055512559	Ümit
+978370104963	Ümit
+335791193819	Ümit
+256570202492	Ümit
+601846276594	Ümit
+548060524137	Ümit
+994226365158	Ümit
+338305255891	Arnold
+155378510986	Nadine
+133633065749	Ännchen
+117062365484	Ümit
+353611470340	August
+004187682917	Ümit
+492551135694	Ümit
+889669226604	Ännchen
+104346791391	Ümit
+883367742016	Ümit
+286784595628	Ümit
+615503441981	Ümit
+242328585002	Änne
+860730086823	Nicola
+491545001847	Änne
+302671464840	Ümit
+212018855390	Ännchen
+584047944541	Ümit
+952819514286	yyyyyyyyYynyynyYYYEYYYYYYYYYYEyyyyyyyyynyynyyyyynR
+369718182923	Ännchen
+481832220062	Ümit
+213272505545	Halbfinger
+812422403659	Ümit
+664450923518	Nadja
+262682034045	Ümit
+890447159553	Ümit
+380772000409	nnnnynynYnnnnnnNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnn
+561590104740	Ümit
+655728562134	Ännchen
+673827065539	Ümit
+068292789095	Nelly
+086077864293	Ümit
+607111437480	Ümit
+717578536331	Ännchen
+222944611322	Ümit
+490447341891	Ümit
+129725218483	Ännchen
+441376455856	Ümit
+557572698007	Änne
+450051204234	Ännchen
+375331369620	Ümit
+532608314540	Ümit
+672034844278	Änne
+333001881101	Ümit
+423658281377	Ümit
+121799760356	Ümit
+211346603789	Ümit
+943578126641	Ümit
+602483871326	Ümit
+252233316523	Ümit
+832720779256	Änne
+088337527114	Ännchen
+412743954010	Ümit
+037134542082	Ümit
+252437130783	Ümit
+228015030339	Ännchen
+778740017745	Ümit
+137094000407	Änne
+889777875502	Ümit
+536375944444	Ümit
+035476222210	Ännchen
+690176779800	nnnnnnnyEynnnnYYNYYYYEYENNNNNnyyyyyyyynnNnnnnnnn
+233154474011	Ümit
+288492478904	Ümit
+157599192618	Ümit
+859171134734	Änne
+675373396655	Ümit
+106607340077	Ümit
+087999059785	Ümit
+526705781940	nnyyyyyyNnnnnnnNYYYYYYEYYYEYYNyyynnynnynnynynnnnn
+620973763500	Ümit
+123763304155	Ümit
+656877268002	nnynyyyYynnnnnYYNYYYYYNYYYEYYnyyynnyynnyNnnnnnyB
+221889057288	Ümit
+822022689877	Ümit
+316303375228	Ümit
+913158352715	Änne
+450759500364	Ümit
+856305661151	Ümit
+848043923442	Ümit
+698930961904	Ümit
+492656668550	Ümit
+900596036813	Änne
+443621366359	Ümit
+225179326541	Ümit
+995359636085	Ümit
+202058324939	Ümit
+701913825910	Nelly
+335762898239	Änne
+598156599924	Nina
+067003464777	Ümit
+768209101421	Ümit
+688032703295	Änne
+719456428886	Heimburger
+944695192140	Ümit
+087432682347	Nicola
+839522139720	Änne
+412716662604	Ümit
+300257338985	Ümit
+042239855126	Ümit
+989235071540	Änne
+820300520642	Ümit
+472223827773	Ümit
+435186910303	Ännchen
+442572279700	nnnnnnnnEnnnnnnEEEEEEEEEEEEEEEnnnnnnnnnnnnnnnnnnn
+684315996311	Nicola
+589033331019	Ümit
+540426031713	Ümit
+468214485526	Ümit
+599386833906	Änne
+110790271805	Ümit
+250532906037	Ümit
+398532392954	Nadia
+022287390900	Ümit
+529287129878	yynnnnnYnnnnnnNNEYYYEYYYNNNYYnyyyyyyyyyyyynynnn
+994477800780	Adolf
+909732635056	nnyyyyyYyyyyyYYYYYYYEYYYYENYnnyyyyynnnyyyyyynB
+987540014323	Ümit
+202325859900	Ümit
+387207935140	Ümit
+148273185064	Axel
+983553000418	Ümit
+230056608279	Ümit
+563322749453	Ümit
+709033904618	Änne
+913193986167	Ümit
+552993218648	Ännchen
+340338649564	Ännchen
+891246550214	Ännchen
+857973349641	Ümit
+328552346975	Änne
+433851410410	Ännchen
+278068931010	Ümit
+977313795514	Änne
+994951920834	Ümit
+031782325240	Ümit
+459513840504	Natascha
+999036235379	Ümit
+
+9257
+
+
+--
+Posted via Tebo - Premium Uncensored Newsgroup Service
+      ------->>>>>>http://www.VnwxAbjmr.raf<<<<<<------
+Unlimited Access, Anonymous Accounts, Uncensored Broadband Access

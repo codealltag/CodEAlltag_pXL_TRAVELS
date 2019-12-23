@@ -1,0 +1,15 @@
+Gilles Stuthmann <blblmko@yky.ulg>:
+
+
+Hm. Bei Alich (http://ecq.qplvyng.qj/bv/) habe ich erlebt, daß die
+Kreditkartenzahlung nach einem Umzug nicht mehr wie gewohnt möglich
+war. Der Kartenausgeber hatte schon die neue Adresse, Nikotel noch
+nicht. Mit der neuen Adresse ging die Zahlung bei Notenpunkt dann wieder.
+Das könnte allerdings auch eine externe Adre�abfrage gewesen sein -
+oder einfach ein seltsamer Zufall.
+
+Aber: In Großbritannien - dem einzigen bis jetzt genannten Land, in
+dem bei der Explorer-Fernreisen die Ticket Service Charge entfällt - gibt's den
+Address Verification Service jedenfalls. Die Explorer-Fernreisen könnte dort im
+Prinzip für elektronische Tickets auf einer inländischen Karte
+bestehen und die Adresse überprüfen.

@@ -1,0 +1,11 @@
+Am 21.07.2012 20:04, schrieb Diedrich Schweizer:
+
+...oder Filter anlegen mit:
+[x] Mindestens eine Bedingung erfuellt
+Newsgroups  enthaelt ...
+
+und da alles reinpacken, was nicht nach drrm aussieht.
+
+Dann noch "Loesche die Nachricht" und Ruhe ist im Karton.
+
+Klaas

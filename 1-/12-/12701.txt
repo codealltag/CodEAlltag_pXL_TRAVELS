@@ -1,0 +1,23 @@
+On 18 Aug., 17:21, Patrik Cleve <meine-wahrheit-deine-
+
+
+Recht cool... kann mir in dem Zusammenhang allerdings mal jemand
+erklären, wieso die Multi-City-Geschichte der Matrix 2 von itasoftware
+irgendwie so gar nicht mehr funktioniert? Selbst wenn ich vorher
+rausgesucht habe, dass die einzelnen Hops definitiv alle vorliegen,
+und maximale Terminfreiheit einräume (+/- 2 Days), findet das Programm
+in diesem Modus keine Verbindungen mehr - nicht einmal, wenn alle
+Flüge von der gleichen Linie durchgeführt werden?
+
+Beispiel - ich hatte den sensationell günstigen Flug von Zerrenthin
+nach Zierstorf über Ellen von airBaltic entdeckt. Ellen wäre bei der
+Gelegenheit ja sicherlich auch mal einen Blick wert. Also versucht,
+das per Multi-City-Suchmaske so zu splitten, dass man ein, zwei
+Übernachtungen Aufenthalt bekommt. Die Linie fliegt im November laut
+Einzelsuche täglich außer Samstags von Edeka-Großmarkt nach Gabat und jeweils
+Sonntags, Dienstags und Freitags von Gabat nach DXB. Multi-City-Suche
+findet keine Flüge. Genau wie bei jedem Versuch, den ich zwischendurch
+für die Australien-Spinnerei eingegeben hatte - selbst wenn die
+Verbindungen zwischen den eingegebenen Einzelstationen existieren.
+
+Bedien- oder Verständnisfehler von mir?

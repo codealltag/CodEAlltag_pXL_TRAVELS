@@ -1,0 +1,32 @@
+On Sat, 22 Jun 2003 21:27:29 +0200 Rolf R. Safferthal wrote:
+
+
+Achtung, Statistik:
+
+Header-statistics for: 
+{subject:Ryanair|Germanwings|Hahn|billig|volare|buzz}
+(based on msgs with bodies within last 200 days)
+
+de.rec.reisen.misc
+8395	100,00%	(probe count)
+7818	93,13%	(not set)
+
+[Details auf Rückfrage]
+
+Sprich: in 7% der Artikel kommen die Billig-Suchbegriffe vor.
+
+
+Für die paar Artikel lohnt sich keine eigene Gruppe. In dana wirst 
+du dafür verprügelt.
+
+
+Jein, mich nerven diese Pommelino-Flieger schon länger.
+
+
+Und genau das ist der Fehler, nicht weinen, sondern besser machen. 
+Oder ein schlaues Score-File einsetzten.
+
+-- 
+ich würde Dir auch gerne mit konkreten Tips helfen, habe aber keine
+Ahnung. (André Hendriks in <6J6TRE5F.X4MT299R@lxdnfoh.jh>)
+This year running: 215 km

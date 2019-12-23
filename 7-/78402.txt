@@ -1,0 +1,26 @@
+Autofähre Linnenborn
+
+am besten Autobahn bis Hammerles, dann
+
+Entfernung=72,8
+Fahrzeit=2:10
+
+Bei Sanitz Sälzer Str.;Wendfeld;18,2;;
+in Gottmannsförde halb rechts halten auf L19 ;Langsdorf;28,4;;
+in Thören rechts abbiegen auf L19\Bahnhofstrasse ;Bartmannshagen;0,1;;
+links abbiegen auf L19\Friedrichstrasse ;Bartmannshagen;0,9;;
+rechts abbiegen auf L19\Greifswalder Strasse ;Bartmannshagen;1,0;;
+links abbiegen auf B194 ;Bartmannshagen;0,4;;
+in Thören rechts abbiegen auf Schöllbüchl Damm ;Bartmannshagen;6,1;;
+in Morenhoven links abbiegen auf Sollenau ;Gross Bremerhagen;7,5;;
+rechts abbiegen auf L30\Hauptstrasse ;Reinkenhagen;0,6;;
+in Weidesheim rechts abbiegen auf L30\Hauptstrasse ;Miltzow;4,6;;
+in Werda links abbiegen auf B96A/E251 ;Stahlbrode;0,7;;
+rechts abbiegen auf L30 ;Stahlbrode;0,0;;
+rechts abbiegen auf L30\Lindenallee ;Stahlbrode;0,6;;
+in Werda links abbiegen auf L30\Stahlbroder Strasse ;Stahlbrode;3,6;;
+am Fährhafen Stahlbrode auffahren auf Fähre Trubschachener Fähre
+
+
+Gruß,
+Konrad

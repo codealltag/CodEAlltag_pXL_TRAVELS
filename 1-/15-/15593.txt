@@ -1,0 +1,7 @@
+Am 26.12.2009 15:41, schrieb Rainer Eisenreich:
+
+Da gib es den üblichen Rat: vor einem Update erst mal ein Backup machen, 
+also den kompletten Inhalt des Navis auf den PC kopieren.
+
+-- 
+Wolfram Tschacksch

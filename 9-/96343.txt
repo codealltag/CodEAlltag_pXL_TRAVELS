@@ -1,0 +1,4 @@
+Steffen V. Erthle schrieb:
+
+
+Dann halt kein Telnet, POP3 usw. - dann dürfte es auch egal sein.

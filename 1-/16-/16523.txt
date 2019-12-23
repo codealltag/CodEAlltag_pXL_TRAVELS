@@ -1,0 +1,17 @@
+Udo Inzenhofer schrieb:
+
+
+Ich habe mal bei Granum rückgefragt. Die Jungens dort meinen, dass der 
+Urheber erst einmal dafür sorgen solle, dass sein Programm keine 
+uncodierten Umlaute aussendet.
+
+Ansonsten wurde mir empfohlen eine neuere Version des TB zu verwenden. 
+Die sei "fehlertoleranter". :-D
+
+Naja, der OP ist ja offenbar "nach Diktat verreist" ...
+
+Gruß Ignaz
+
+
+-- 
+http://dikoy-fk.lm/ - Reisefernsehsendungen der kommenden Woche

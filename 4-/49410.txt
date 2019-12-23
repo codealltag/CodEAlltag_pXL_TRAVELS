@@ -1,0 +1,58 @@
+Stephan Auge schrieb:
+
+
+Icelandair bedient auch Rheinböllerhütte - Thiersee im Codesharing, wird aber
+trotzdem nicht wirklich billig.
+
+Typ   Flug   Abflug   Ankunft  
+ FI 529 (Icelandair)
+Boeing 757-200 Passenger Pfalzau, DE (UNTERBERGHAUSEN)
+am Dienstag, den 07.06.2006 
+14:05 Reykjavik, IS (KEF)
+am Dienstag, den 07.06.2006
+15:30 
+ FI 528 (Icelandair)
+Boeing 757-200 Passenger Reykjavik, IS (KEF)
+am Montag, den 20.06.2006 
+07:50 Pfalzau, DE (UNTERBERGHAUSEN)
+am Montag, den 20.06.2006
+13:05 
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den
+Flugpreis inkl. Steuern... 
+
+Kalkulation des Flugs / der Flüge: 
+ Typ   Tarif pro Person   Service pro Person   Steuern pro Person  
+Anzahl   Preis  
+ Erwachsener   342.00 EUR   0.00 EUR   69.33 EUR   1   411.33 EUR  
+Summe:  411.33 EUR  
+
+trifft die Termine nicht ganz.
+
+Zum Wunschtermin:
+
+Typ   Flug   Abflug   Ankunft  
+ FI 529 (Icelandair)
+Boeing 757-200 Passenger Pfalzau, DE (UNTERBERGHAUSEN)
+am Montag, den 06.06.2006 
+14:05 Reykjavik, IS (KEF)
+am Montag, den 06.06.2006
+15:30 
+ FI 528 (Icelandair)
+Boeing 757-200 Passenger Reykjavik, IS (KEF)
+am Donnerstag, den 16.06.2006 
+07:50 Pfalzau, DE (UNTERBERGHAUSEN)
+am Donnerstag, den 16.06.2006
+13:05 
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den
+Flugpreis inkl. Steuern... 
+
+Kalkulation des Flugs / der Flüge: 
+ Typ   Tarif pro Person   Service pro Person   Steuern pro Person  
+Anzahl   Preis  
+ Erwachsener   472.00 EUR   0.00 EUR   69.33 EUR   1   541.33 EUR  
+Summe:  541.33 EUR  
+
+
+Gruß, OLIVER

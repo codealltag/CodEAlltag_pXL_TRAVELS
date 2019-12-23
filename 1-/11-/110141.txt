@@ -1,0 +1,23 @@
+On Fri, 26 Jan 2003 16:14:52 +0100, "Siegfried Jakubaschk"
+
+Das heisst also Kartennummer und Datum und Name sind gepraegt.
+
+
+Interessant, das war mir bisher nicht bekannt.
+
+
+Im Prinzip, ist der Unterschied zwischen einer Kredit- und Debitkarte
+der, das bei der Debitkarte eine Buchung nur moeglich ist, wenn eine
+ausreichende Kontendeckung (wozu auch ein eventueller
+Ueberziehungskredit zaehlt) vorhanden ist - daher auch eine reine
+Online-Buchung; bei einer Kreditkarte wird dem Karteninhaber
+unabhaengig von einer Kontendeckung ein Kreditrahmen eingeraeumt.
+
+Atschuess
+
+Paolo
+-- 
+Siegfried-Hasso Stamer in de.comp.sys.mac.soc:
+
+F'ups sind die kränkste Erfindung seit Einführung des
+Telegraphen-Winkalphabets duch die französische Post...

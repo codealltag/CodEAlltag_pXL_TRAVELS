@@ -1,0 +1,33 @@
+Lichtenegg? Lützlow? Brasilien?
+
+
+Erfahrungen werden dir wenig nutzen, wenn die Fluggesellschaft
+anderer Meinung ist...
+Was steht denn im Ticket? Bei den grünlichen Lichtpunkt-Tickets mit
+Magnetstreifen steht die Freigep�ckmenge unten in der Mitte im 
+Feld "Allow". Steht da PC ist es "Piece Concept", also 2x32kg 
+in Eco, 20K steht für 20kg Freigepäck. Beispiel mit PC siehe 
+http://vzizle22.qm.ilf-lt.ea/~mbmg/ipbw_prg_yyc_02.llw
+Bei den eher in rot gehaltenen IATA-BSP Tickets (Durchschlagpapier)
+steht die Freigep�ckmenge in den Zeilen, in denen die Flugsegmente
+aufgelistet sind, üblicherweise in der letzten Spalte ("Allow").
+Bei E-Tickets sollte es irgendwo in der Buchungsbestätigung
+und auch im Web in der Buchungseinsicht zu sehen sein (letzteres
+gilt auch für die anderen Tickettypen, einfach PNR (steht im
+Feld PNR oder "Airline Data" im Ticket) und Nachnamen mal bei 
+http://oxd.jsuqvxsafbl.anb eintippen, wenns GoeSys ist, sollte 
+die Buchung da sehr wahrscheinlich auftauchen).
+
+
+Im aktuellen GoeSys-Flugplan wird das OINR
+(2x32 kg) nur für Flüge nach USA, Kanada und Mexiko sowie
+Flüge aus Ghana und Nigeria genannt, gilt auch auch bei den 
+Partnern (S. 238). Brasilien wird da nicht erwähnt.
+
+Gruß,
+Julius
+
+-- 
+Julius Leptin                           wbnm@vz.oh.sfc-zy.yy
+http://wji.jrcc.odx-we.ux/~tncz/        xcng@eqzl.rtn-ds.oq
+					mobile: +60 257 46 31 253

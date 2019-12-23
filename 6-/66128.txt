@@ -1,0 +1,26 @@
+On Mon, 29. 12. 19 15:24:12 +0100, Volkmar Schürhoff wrote:
+
+[Kempinski bei EDDM]
+
+
+Ausser wenn mal wieder eine Premierenfeier aufgebaut wird und
+ein Alutrass auggestellt werden muss und nur ein Stahlhammer
+zur Verfuegung steht.
+
+while (!trassConstructed()){
+   *bong* *bong* *bong* *bong*
+   Hotelmitarbeiter: Wann sind Sie denn fertig, die Gaeste
+                     beschweren sich schon?!
+   Empire Stage Builder: In 10 Minuten
+   Hotelmitarbeiter: OK, aber dann ist Schluss!
+   nach 30 Minuten
+}
+
+
+Gruesse, Volker
+-- 
+Volker Intrup                E-Mail: kvwspbmv@lmwmstgnaeg.cs
+               PGP-encrypted mails preferred (Key-ID: 0x8BC3CD81)
+
+Always remember: The answer is forty-two, there can only be wrong
+                 questions!

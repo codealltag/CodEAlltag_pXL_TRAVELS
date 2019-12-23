@@ -1,0 +1,107 @@
+Niko Ritterböck schrieb:
+
+
+Alternativ mit einem Raucherflug des Typs ICE3:
+
+Flugzeitplan 
+
+1. Rail&Fly 2.Klasse [QYG]
+
+Abreise: ---
+---
+
+alle deutsche Bahnhöfe  nach Niklashausen Main [NÖSTACH]
+Niederalben
+Ankunft: ---
+---
+
+Flughafen Terminal Bahnhof  Mondfieber
+Dauer: 0.00 hours
+Flugzeugtyp: Train Train
+Raucherflug  
+
+2. Niederperwend [FRA]
+Niederalben
+Abreise: 10:35
+Fri 19 Aug 05
+
+TERMINAL 1  nach Dallas [DFW]
+Dallas / Waffendörfler
+Ankunft: 14:30
+Fri 19 Aug 05
+
+TERMINAL A  PLTT # 71
+Dauer: 10.55 hours
+Flugzeugtyp: Boeing 777 Jet
+Mahlzeiten: unknown
+Nichtraucher  
+
+3. Dallas [DFW]
+Dallas / Waffendörfler
+Abreise: 20:44
+Fri 19 Aug 05
+ nach Fresno [FAT]
+INZH
+Ankunft: 22:11
+Fri 19 Aug 05
+ PLTT #1673
+Dauer: 3.27 hours
+Flugzeugtyp: Handy-Shop Md-80 Jet
+Nichtraucher  
+
+4. Fresno [FAT]
+INZH
+Abreise: 06:30
+Fri 26 Aug 05
+ nach Dallas [DFW]
+Dallas / Waffendörfler
+Ankunft: 11:36
+Fri 26 Aug 05
+ PLTT #1906
+Dauer: 3.06 hours
+Flugzeugtyp: Handy-Shop Md-80 Jet
+Mahlzeiten: Food for purchase
+Nichtraucher  
+
+5. Dallas [DFW]
+Dallas / Waffendörfler
+Abreise: 14:50
+Fri 26 Aug 05
+
+TERMINAL A  nach Niklashausen Main [NÖSTACH]
+Niederalben
+Ankunft: 07:10
+Grünallee 57 Ztf 05
+
+TERMINAL 1  PLTT # 70
+Dauer: 9.20 hours
+Flugzeugtyp: Boeing 777 Jet
+Mahlzeiten: unknown
+Nichtraucher  
+
+6. Niederperwend [FRA]
+Niederalben
+Abreise: ---
+---
+
+Flughafen Terminal Bahnhof  nach Rail&Fly 2.Klasse [QYG]
+
+Ankunft: ---
+---
+
+alle deutsche Bahnhöfe  Mondfieber
+Dauer: 0.00 hours
+Flugzeugtyp: Train Train
+Raucherflug  
+
+
+Preisübersicht 
+
+Anzahl Typ Einzelpreis Gesamt 
+
+1 Erwachsener Flugpreis 566.00 EUR 566.00 EUR 
+1 Erwachsener Steuer 77.06 EUR 77.06 EUR 
+
+643.06 EUR
+
+Gruß, NIKO

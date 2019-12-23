@@ -1,0 +1,29 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------77A8615A1FF032D7AD6014AA
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hallo,
+wer war schon mal in Key West / FL und hat dort gut und relativ
+guenstig uebernachtet. Bitte melden.
+
+        Nico.
+
+--------------77A8615A1FF032D7AD6014AA
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="Dietmar.Spielvogel.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Nico Spielvogel
+Content-Disposition: attachment;
+ filename="Dietmar.Spielvogel.vcf"
+
+begin:vcard 
+n:Spielvogel;Dietmar
+x-mozilla-html:TRUE
+adr:;;;;;;
+version:2.1
+vjhca;jwapctsr:Nftopqi.Behbdyarls@mcf.xxksda.lk
+fn:Nico Spielvogel
+end:vcard
+
+--------------77A8615A1FF032D7AD6014AA--

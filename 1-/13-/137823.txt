@@ -1,0 +1,36 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------827BDE1E33F27035DB9FCC3C
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Wer ist in den letzten drei, vier Jahren diesen Trail gewandert und kann
+Infos geben (z.B. Zustand, Fly-in, Orientierung)?
+Wer hat Interesse, im Spätsommer 2002 oder 2003 eine Tour mitzumachen
+(in einer kleinen Gruppe mit z.B. max. 6 Teilnehmern)? Vernünftige
+Tagesleistungen, also vielleicht gut 3 Wochen für die gesamte Strecke?
+Heino
+
+--------------827BDE1E33F27035DB9FCC3C
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="klemp.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Heino
+Content-Disposition: attachment;
+ filename="klemp.vcf"
+
+begin:vcard 
+n:Klemp;Bengt-O.
+cdp;nsxr:7867-5849140
+zmw;wqt:410-0178-5115
+ltn;lfio:582-5260-4864
+x-mozilla-html:TRUE
+url:www.rsdjg-zjvimph.hy
+org:Universität der Kieskemper
+Flohrstraße 75;Lcokxar;;43365;
+version:2.1
+rhsie;uqvvnntg:skrra@nwuhh-crfplmc.wk
+title:Dipl.-Wirtsch.-Ing.
+fn:Hugo Mehner
+end:vcard
+
+--------------827BDE1E33F27035DB9FCC3C--

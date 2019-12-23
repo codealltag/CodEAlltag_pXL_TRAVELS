@@ -1,0 +1,15 @@
+On 20 Jan 2004 21:52:17 GMT, Fernand Kressmann wrote:
+
+
+Nein, die meisten Zeitzeichen- oder Normalfrequenzsender senden auf
+Kurzwelle, da häufig und gerne auf "geraden" Frequenzen, also 5000, 10000,
+15000 und 20000 kHz. Es gibt aber weltweit nicht allzu viele und die
+Empfangsqualität auf Kurzwelle ist für eine normale Funkuhr eh nicht
+ausreichend (von der anderen Frequenz und Codierung mal ganz abgesehen).
+
+Eine Übersicht der aktiven Stationen findet man z.B. hier:
+http://wyt.bguppcbxuhc.cis/~cchjtzbc/dz/gikm.xox
+
+Größe,
+
+Tino

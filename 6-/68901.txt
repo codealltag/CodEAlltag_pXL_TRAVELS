@@ -1,0 +1,6 @@
+Weil es ja sein könnte, dass ein Nutzer eine Java Laufzeitumgebung 
+installiert hat. Es gab sogar Zeiten, da hatte Microsoft selbst eine 
+solche Java Laufzeitumgebung mitgeliefert. Dürfen sie aber nun nicht 
+mehr.
+-- 
+np : -

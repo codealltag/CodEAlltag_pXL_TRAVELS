@@ -1,0 +1,8 @@
+Well ... Even if they do know it's a screen-saver format, they might
+not think of it as being an executable.  After all:  A screen-saver
+just shows pictures, right?
+
+-- 
+     /  '               / ™
+  ,-/-, __  __.  ____  /_ 
+ (_/   / (_(_/|_/ / <_/ <_

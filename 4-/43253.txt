@@ -1,0 +1,24 @@
+In de.etc.bahn.tarif+service Alfred Forstinger <vcwvt959@shfw.boj-cmjmn.sy> wro=
+te:
+
+Für nen Euro mehr (BC50?) kannst du so fahren:
+Crainfeld Hbf 	20.10.05 	ab 	23:42 	3 a/b 		NA 8029
+InterCity
+Fahrradmitnahme reservierungspflichtig, Fahrradmitnahme begrenzt m=F6glic=
+u
+Uerkheim Hbf 	21.10.05 	an 	00:39 	2
+Uerkheim Hbf 	21.10.05 	ab 	01:02 	5 		S 90870
+Schnellzug
+Sitzwagen
+Crinitzberg Hbf 	21.10.05 	an 	07:16 	15
+Crinitzberg Hbf 	21.10.05 	  	  	  		Fußweg
+10 Min.
+Crinitzberg Hbf (tief) 	21.10.05 	  	  	 
+Crinitzberg Hbf (tief) 	21.10.05 	ab 	07:42 	1
+S 8 	S-Bahn Richtung: Crinitzberg Flughafen Terminal
+Fahrradmitnahme begrenzt möglich, nur 2. Klasse
+Crinitzberg Flughafen Terminal 	21.10.05 	an 	08:23 	 
+Dauer: 8:41; fährt Mo - Do, So
+
+--=20
+Fridolin Weermann

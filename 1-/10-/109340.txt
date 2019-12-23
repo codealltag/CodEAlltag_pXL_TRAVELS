@@ -1,0 +1,25 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------28A2DCC23E77D5DB380511AC
+Content-Type: text/plain; charset=iso-8859-15
+Content-Transfer-Encoding: quoted-printable
+
+Plane in diesem Frühsommer eine Motorradfahrt nach Schottland - Suche
+noch Mitfahrer/Innen.
+--------------28A2DCC23E77D5DB380511AC
+Content-Type: text/x-vcard; charset=iso-8859-15;
+ name="harald_sdt.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Karte für Maurice Csunderlik
+Content-Disposition: attachment;
+ filename="harald_sdt.vcf"
+
+begin:vcard 
+n:Berthold
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+x-mozilla-cpt:;0
+fn:Maurice Csunderlik
+end:vcard
+
+--------------28A2DCC23E77D5DB380511AC--

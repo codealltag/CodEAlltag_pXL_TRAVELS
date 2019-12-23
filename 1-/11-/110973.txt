@@ -1,0 +1,4 @@
+Das ist absolut korrekt. Mit dem 8859-15 sieht � - Zeichen sauber aus.
+
+
+Enrico

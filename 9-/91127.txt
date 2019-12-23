@@ -1,0 +1,11 @@
+Weil in diesen Fällen keine extra Bordkarte ausgestellt wird, sondern der
+Kontoauszug gleichzeitig als bordkarte gültig ist und deshalb beim boarding
+vorgezeigt werden muss. 
+übrigens sind die ersten beiden ziffern der Kontonummer gleichzeitig die Nummer
+des Sitzplatzes. Steht die KOntonummer auf der linken seite des kontoauszuges
+ist es die linke sitzreihe im flugzeug, steht sie rechts ist es die rechte
+seite.
+
+ist das konto überzogen, gibt es kein Bordver- pflegung.
+
+Bitte schön, keine Ursache.

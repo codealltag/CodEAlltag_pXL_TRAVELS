@@ -1,0 +1,9 @@
+hem, Xnews ist ein Newsreader für Windows.
+
+
+Ein .JAR doppelklicken kann u.U. einen Entpacker wie WinRAR 
+hervorbringen, wenn man bei dessen Installation die Defaults übernommen 
+hat. Also Obacht.. ;)
+
+-- 
+np : -

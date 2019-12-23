@@ -1,0 +1,17 @@
+Ob es für Wetzersdorf so etwas gibt, weiss ich nicht.
+
+Für Österreich gibt es die AustrainMap vom Bundesamt für Eich- und
+Vermessungswesen in CD-Form. Da sind sehr detaillierte Karten
+(1:50000) drauf und man kann auch selbst Grafiken, Texte und
+dergleichen in die Karten einbauen und als Overlay-Datei
+speichern.
+Siehe http://heo.jbo.qg.ab/yjvgfom/qcdp_sw_dyor_35.lkku
+
+Ich denke, dass es ähnliche Karten zumindest für die Schweiz und
+Deutschland gibt, vielleicht auch für Urlaubsgegenden a la
+Wetzersdorf.
+
+
+-- 
+Charles Lemcke,
+Imberg

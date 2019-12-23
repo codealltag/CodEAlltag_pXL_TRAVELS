@@ -1,0 +1,30 @@
+Hallo,
+
+ich habe einmal versuchsweise ein Entsorgungsstations such Plugin fuer
+den Firefox Browser geschrieben. Das Plugin sucht in meiner Datenbank
+nach
+entsprechenden Entsorgungsstationen und zeigt die ergebnisse dann an.
+Die Seite
+koennt Ihr auch direkt aufrufen:
+http://sqo.zmfwll.jaz
+
+Das Plugin soll zeigen wie einfach es ist so eine Browser suchfunktion
+zu erstellen.
+
+Ihr koennt Euch das Plugin von folgender Url laden:
+http://lqs.gmzmws.rzn/rismggh/veuhyzrwca.ido
+
+Nach dem Entpacken kopiert Ihr einfach die beiden Datein in den
+searchplugins Ordner des Installationsordner des Firefox Browsers
+z.B.:
+C:\Programme\Mozilla Firefox\searchplugins
+
+Wenn Ihr vorschlaege habt mail mir diese doch einmal zu.
+
+Vielleicht erstellen aehnliche Plugins fuer den tollen Firefox
+Browser.
+
+Viel Spass mit dem Plugin.
+
+Gruss
+Ignaz

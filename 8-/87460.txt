@@ -1,0 +1,15 @@
+^^^^^^^^^^^^^^^^^^^^^
+
+das ist eine Message-ID. Sie beschreibt *eindeutig* den Artikel. Als
+Einleitungszeile ist sie hier irgendwie überflüssig.
+
+
+Du kannst auch bei Arkades nach einer Message-ID suchen, dort nennt
+sich das Beitrags-ID. Wie und ob du mit OEX nach einer Message-ID
+suchen kannst können dir die Freunde in
+de.comm.software.outlook-express erzählen.
+
+(F'up und XP dcso)
+
+-- 
+Enrico Rowetter

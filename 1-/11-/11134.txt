@@ -1,0 +1,17 @@
+In article <52r1b3m87hqle2s8hv9y0bmxspz7m9sjzm@9ai.gyy>, Ulfert Oberholz
+says...
+
+
+Es ist allgemein bekannt, daß ein Navi ohne a-GPS bis zu 15-30 Minuten=20
+braucht, um die Position zu finden, wenn man sich wesentlich vom=20
+üblichen Standort entfernt hat.
+
+
+Mein Michaelpark 5800 ist dagegen recht präzise. GPS-Daten werden mit geringen=
+=20
+Abweichungen geloggt, und Anweisungen zum Abbiegen werden rechtzeitig=20
+und korrekt abgegeben.
+--=20
+
+Klaus Zschommler
+http://ezo.owupc.au - Photos of Asia, Africa and Europe

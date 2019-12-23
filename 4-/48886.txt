@@ -1,0 +1,36 @@
+This is a multi-part message in MIME format.
+--------------746423047185313671810525
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hallo Sebastian,
+ich war mal (allerdings 1989, also fast schon im Mittelalter ;-) ) in SF 
+in der Jugendherberge (NIE). Die liegt über die Golden Gate in der Nähe 
+von Sausalito. DA führt ein Bus über die Bridge, allerdinsg ist dann 
+noch ca. 2 km Fußweg von der Hauptstraße. Aber für USA brauchst du 
+sowieso 'n Auto.
+Die Jugendherberge liegt wunderschön ruhig, und alle Altersgruppen sind 
+dort vertreten, nicht nur Youngsters.
+Bernard
+
+Sebastian Tings schrieb:
+
+--------------746423047185313671810525
+Content-Type: text/x-vcard; charset=utf-8;
+ name="min.ketels.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ rlenrdfo="prs.wvvohh.lnn"
+
+begin:vcard
+note;quoted-printable:Bernard
+
+	----------------------------------------
+
+	Diese mail-Adresse wird selten von mir abgerufen. Kontakt deshalb nur =C3=
+	=B6ffentlich über die Newsgroup.
+version:2.1
+end:vcard
+
+
+--------------050404010102030409070403--

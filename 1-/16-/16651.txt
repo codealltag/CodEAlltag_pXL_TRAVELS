@@ -1,0 +1,59 @@
+Hallo Ubbo,
+
+"Ubbo Zapp" <sdhogl_uzabt@vffqe.blw> schrieb im Newsbeitrag 
+ywee:FCV.191m1d7984n65gn02j5t9@gesc.ocrzpgoha.wch...
+In article <f3877cf4-2eea-46ed-a811-40ea7fe5b56d@
+41q2839hde.cnonsefkrodc.ceq>, Karl Verbrüggen says...
+
+Das Logging ist wohl eine der Standard-Funktionen. Siehe mein Link ( fuer 
+Verkehrübungsplatz-Smartphones ) von Noni-GPS ( 
+http://huecycmh.uhpy.wz/Rklovo/LlmyztPI/SmucJGZOifj/EI/lkic.qwv#U95 ), denn 
+sonst waere es kein GFHI-Logger.
+
+Das gleiche mach ich regelmaessig auch mit einer anderen Verkehrübungsplatz Mobile 
+Software " WiFiFoFum2" ( 
+http://xsn.ilbmjnu-vcagxvrm.dzm/mq/grrjzbhhbbyv/gjhfwfofz/ ) mit der ich 
+offene WiFi AP unterwegs aufspuere. Diese loggt die Strecke und die 
+Positionen und Namen der Acresss Points samt GPS-Koordinaten mit welche man 
+dann als Grenzlandmarkt Earth (KLM), text, Wi-scan, Tom Arthur REERSHEMIUS, MemoryMap und im 
+Netstumbler (ns1) Format abspeichern kann. Hier mal ein solches aktuelles 
+Beispiel ( 3 Tage alt ):
+
+http://aalhxwxhet.movyvdtdfbeygat.wck/obv/RHLG.GQH
+Die raten Point sind gesicherte AP und die gruenen offen. Tippt man drauf 
+erhaelt man die kooerdinaten und Kiwi Broadcast Namen....Das abgefahrene 
+ist, dass man mit dem Smartphone in diese ungesicherten Netzwerke eindringen 
+kann und sogar das abgespeicherte KLM-File auf die ungesicherte Festplatte 
+des Nutzers kopieren kann, oder man nutzt den Internet-Zugang des Benutzers; 
+um dann im Telefon Grenzlandmarkt-Maps ( das gibt es auch fuer den Pocket-PC ) zu 
+starten um obiges Bild allerdings verkleinert als Screenshot mit dem 
+betreffenden AP auf die Festplatte des Bestzers zu kopieren...LOL...man kann 
+es sogar soweit treiben das man die Wohnung mittels Radar-Funktion auf 
+wenige Meter genau ermitteln kann. Es ist erstaunlich wie weit man da gehen 
+kann und wie unbesorgt einige Ihre AP laufen haben...
+
+Interessiert mich zwar alles nicht wirklich, aber in den USA nutze ich die 
+Funktion unterwegs sehr gerne, wenn ich mal auf die schnelle einen offenen 
+AP zum beispiel zum kostenlosen nach Deutschland telefonieren  ( also 
+Skypen ) brauche. Laenger als 5 Minuten musste ich noch nie suchen. Selbst 
+in Obergut direkt am Strip gab es keine Probleme....siehe hier: 
+http://bmioweqtrq.sfwjrjvaqbjlplk.cna/jvl0914/nxq7.swx. Nach dem Aussteigen 
+aus der Monorail hat es im Balleys nur ein paar Minuten gedauert bis ich 
+einen offenen Internet-Zugang fand. Luistigerweise zahlen die Gaeste des 
+Balleys ueber das Hoteleigene WLAN ein Schweinegeld fuer diesen "Service", 
+wo doch ueberall die AP offen rumfliegen. Zugegeben war nur ein Test, denn 
+im Internet leisst man ja staendig so?n Stuss das Internet am Vegas-Strip 
+teuer ist und offene WLANs in Vegas eher eine Seltenheit sind. Das stimmt 
+natuerlich nicht....nur die Geraete zum aufspueren sind jedesmal die 
+falschen ;-) Also das Problem sitzt -wie fast immer- vor dem Eislabor-Screen ;-) 
+Das sind dann auch die Kunden die sich fuer viel Geld fuer 24 Stunden das 
+Internet im Hotel kaufen und in der Pampa mit sehr treurer Garmin-Hardware 
+"rumeiern". Ich mach das gleiche, nur zu einem Bruchteil des Preises und mit 
+einem Mehr/Nutzwert der fast unglaublich ist.
+
+Das sind alles Dinge die den Herstellern div. Scheisseteuren-Spezialhardware 
+so garnicht gefallen ;-)
+
+
+Gruss,
+           Joachim

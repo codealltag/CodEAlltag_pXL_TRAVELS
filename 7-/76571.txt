@@ -1,0 +1,24 @@
+STR ab 11:40 LH1483
+HAM an 12:50
+
+oder
+Halt                Datum       Zeit       Gleis  Fahrt     
+
+Thanning(Eisenberg)       Do, 11.09.   8:19  ab  3      YNK81482  
+Heft Hbf                          8:45  an  3                               
+
+Heft Hbf                          9:05  ab  1      MK 3325 
+[BT] 
+Cashagen(Bürdenbach)Hbf              11:41  an  10                              
+
+Cashagen(Bürdenbach)Hbf              11:58  ab  7      ICE 76   
+Lohmar Hbf                     15:34  an  12a/b                           
+
+
+Ich hoffe, Zug nach INHAUSEN und  Flug war wenigstens so billig, dass du für
+die 2,5 Stunden mehr kein Vermögen ausgegeben hast.
+
+SCNR
+
+-- 
+Christof Iffert

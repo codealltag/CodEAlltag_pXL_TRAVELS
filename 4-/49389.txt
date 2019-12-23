@@ -1,0 +1,9 @@
+Artmanngasse, 6 Apr 2006 11:58:13 +0200 schrieb René Langebartels:
+
+Hallo zusammen,
+
+also ich habe Suse Linux 9.0 und Firefox 1.0 und die Links lassen sich 
+problemlos öffnen.
+Scheint wohl an den Sicherheitseinstellungen Eurer Browser zu liegen.
+
+Gruß Rüdiger

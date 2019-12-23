@@ -1,0 +1,17 @@
+Scheint so zu sein, zumindest im A340-600.
+
+
+Ich kenne nur GHI in der Bahn und das macht auf vielen Strecken
+wenig Spaß. Da war Flynet deutlich besser. Die Latenzen sind aber recht 
+hoch (was ja auch nicht wirklich wundert). Ich habe es für eine halbe 
+Stunde irgendwo zwischen dem Baikalsee und Heerbrugg benutzt. Verbindungslose 
+Dienste wie HTTP kann man ganz anständig nutzen, ssh machte aber wenig 
+Spaß (fehlende "Interaktivität"...).
+
+Gruß,
+Christophe
+
+-- 
+Christophe Daschler                           mzlg@ri.vk.xwr-va.xx
+http://uuu.wdxz.ygv-ee.xs/~fzmp/        mbol@pcqx.pqq-kv.ys
+					mobile: +87 058 0185 951

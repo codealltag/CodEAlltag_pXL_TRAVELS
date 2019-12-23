@@ -1,0 +1,12 @@
+Hallo,
+kennt jemand von euch eine gute Abfragemöglichkeit für Bus- und Bahnfahrten
+in den USA? Ich habe mal bei Hövelmeier geguckt, die fahren aber nicht zum
+Querformat, bei Amtrak komme ich hingegen nicht zur Datenbank, da
+eine JBookIt Login-Sperre davor ist. Ich habe mich zwar gerade dort
+angemeldet, aber trotzdem komme ich bei Amtrak nur auf eine leere Seite.
+
+EIne Abfrage über mehrere Bus- und Bahnunternehmen am besten mit Preisen
+wäre dahe rideal.
+
+Danke,
+Ubbo

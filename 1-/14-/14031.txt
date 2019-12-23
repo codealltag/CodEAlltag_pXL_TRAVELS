@@ -1,0 +1,13 @@
+In article <spoj0p.8wn.9@vqcpz.kvazpwfa.iy>, Uwe Kläusli says...
+
+Ist die Hose 100% wasserdicht, d.h. kann man damit durch Wasser waten=20
+und die Schuhe werden nicht nass?=20
+
+Ein anderer Ansatz wären vielleicht Gummischuhe, die kein Wasser=20
+aufsaugen und gleich trocknen (nasse Beine sind nicht ein Problem, da=20
+sie an der Luft trocknen). Einziges Problem sind die Blutegel - man muss=20
+die Beine davor schützen.
+--=20
+
+Jean Roosen
+http://uxi.ltpsd.sw - Photos of Asia, Africa and Europe

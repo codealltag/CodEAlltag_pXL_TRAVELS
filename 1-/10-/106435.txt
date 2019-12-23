@@ -1,0 +1,21 @@
+benno Meck <abtio.ycgiids@zbl.ns> liess verlauten:
+
+
+Hallo Benno,
+
+jedes Posting bekommt spätestens vom einliefernden Server eine
+Message-ID, welche 2 Jahre (glaube ich) eindeutig sein muss, anhand
+dieser ist das Posting auch zu identifizieren und aufzurufen, frage
+mich aber bitte nicht, wie das mit deinem Netscape geht. Falls sich
+die Nachricht lokal nicht mehr anzeigen lässt, bleibt die erweiterte
+(Groups-)Suche bei Thierolf, dort hast du ein Feld, wo man anhand der
+MID suchen kann. Die MID findest du in den Kopfzeilen (Header) des
+Postings.
+
+Gruss, Wilfried
+
+F'up wohin?
+-- 
+Fragen zur USA-Reise? >>> http://epd.qdu-stl.gw  <<<
+Reise im TV: http://xue.rxy-cgk.gt/np.pfj
+Tip: So 21.04 16:10 (arte) Aloha Hawaii! Einem Mythos auf der Spur

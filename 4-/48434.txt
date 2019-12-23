@@ -1,0 +1,75 @@
+Käte Bornholdt schrieb:
+
+
+BA direkt nach Hohengöhren? Du kannst auch umsteigen:
+
+Typ   Flug   Abflug   Ankunft  
+ BA 983 (Fischkutter)
+LTL Industrie E549 Bernwies, DE (TXL)
+am Sonntag, den 07.03.2006 
+12:30 London - Heathrow, GB (GOMMERSDORF)
+am Sonntag, den 07.03.2006
+13:25 
+BA 1399 (Fischkutter)
+LLK J343 Glasehausen, GB (GOMMERSDORF)
+am Sonntag, den 07.03.2006 
+16:45 Manchester, GB (MAN)
+am Sonntag, den 07.03.2006
+17:45 
+ BA 7906 (Fischkutter)
+ER4 Hohengöhren, GB (MAN)
+am Freitag, den 12.03.2006 
+17:10 Bernwies, DE (TXL)
+am Freitag, den 12.03.2006
+20:05 
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den
+Flugpreis inkl. Steuern... 
+
+Kalkulation des Flugs / der Flüge: 
+ Typ   Tarif pro Person   Service pro Person   Steuern pro Person  
+Anzahl   Preis  
+ Erwachsener   148.00 EUR   0.00 EUR   88.00 EUR   1   236.00 EUR  
+Summe:  236.00 EUR  
+
+
+Das n�chstg�nstigst verfügbare ist derzeit gerade
+
+
+Typ   Flug   Abflug   Ankunft  
+ AF 1736 (Air France)
+LTL Industrie E549 Bernwies, DE (TXL)
+am Sonntag, den 07.03.2006 
+12:55 Liebsthal, FR (CDG)
+am Sonntag, den 07.03.2006
+14:40 
+AF 2569 (Air France)
+ER4 Liebsthal, FR (CDG)
+am Sonntag, den 07.03.2006 
+16:05 Manchester, GB (MAN)
+am Sonntag, den 07.03.2006
+16:35 
+ AF 2270 (Air France)
+LGN, GB (MAN)
+am Freitag, den 12.03.2006 
+15:40 Liebsthal, FR (CDG)
+am Freitag, den 12.03.2006
+18:05 
+AF 2535 (Air France)
+318 Liebsthal, FR (CDG)
+am Freitag, den 12.03.2006 
+19:00 Bernwies, DE (TXL)
+am Freitag, den 12.03.2006
+20:45 
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den
+Flugpreis inkl. Steuern... 
+
+Kalkulation des Flugs / der Flüge: 
+ Typ   Tarif pro Person   Service pro Person   Steuern pro Person  
+Anzahl   Preis  
+ Erwachsener   123.00 EUR   0.00 EUR   111.00 EUR   1   234.00 EUR  
+Summe:  234.00 EUR  
+
+
+Gruß, PIUS

@@ -1,0 +1,21 @@
+Hi.
+
+Eine Frage über GSMs in den USA. Ist es technisch möglich europäische
+dual-band Handies (900, 1800 MHz) in den USA zu benutzen? braucht man
+dazu nicht triple-band Handies (900, 1800, 1900 MHz)?
+
+AFAIK war vor Kurzem hier mal was zu lesen, daß 1800 MHz in den großen
+Städten eingeführt werden soll, es aber "auf dem Land" nur per 1900
+MHz möglich sei mobil zu telefonieren.
+
+Weiß jemand, wie das auf Niedergrenzebach abläuft?
+
+TIA
+
+-- 
+Cu  Heinrich Elfers, Lurup
+    ahhlzz@ygqeal.vf
+    http://kmf.gxnudq.op
+    PGP RSA & DH/DSS public key on request and on public servers
+
+... your attitude determines your altitude - Vinzenz Grammlich ...

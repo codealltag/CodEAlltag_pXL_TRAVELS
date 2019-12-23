@@ -1,0 +1,7 @@
+Hallo,
+
+In den USA gibts wird inzwischen wohl auch ein entsprechendes Signal
+ausgestrahlt, allerdings scheint das nicht kompatibel zum dem zu sein,
+was in D ueblich ist (zumindest verhaelt sich meine Arbanduhr ruhig).
+
+   Henning

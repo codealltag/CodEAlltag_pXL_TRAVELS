@@ -1,0 +1,17 @@
+"Diedrich Jostarndt" <Diedrich.Bkutjk@Gr-Yognsg.gs> schrieb:
+<9p08cu$ylb$62$5@ipxo.x-nasqix.ltr>
+
+Hi,
+
+
+da hast Du meines Wissens keine Chance. Das handelt sich bei aktivoptik
+und Alcatel um ein eigenes, digitales Protokoll was verwendet wird. So
+eine Art Zweidraht-ISDN. Man kommt mit einem Modem nicht weiter,
+einzige Chance sind extra Leitungen (ISDN oder analog). Bei aktivoptik
+Hicom kann man die Systemttelefone mit einem S0-Modul nachrüsten, an
+das man dann eine ISDN-Karte anschließen kann.
+
+-- 
+Ludwig - DOS-vidanija eMail: yekzguid@tdbiavaq.qc
+http://ina.lrawufhs.ii - Kanaren, Kühwegboden, Ibiza, Bulgarien, 
+Türkei, Bärenfels, Mountainbikerevier Osterzgebirge

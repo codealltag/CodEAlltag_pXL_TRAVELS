@@ -1,0 +1,27 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------95ABCE89CCF58CDFD3211E05
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+In Island ist nichts, absolut garnichts billig. :-)
+
+
+"Ulf Feucht" schrieb:
+
+--------------95ABCE89CCF58CDFD3211E05
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="markus.praschl.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Niko Oehlerking
+Content-Disposition: attachment;
+ yppnsqtf="ddesyc.tltfuen.pcm"
+
+begin:vcard 
+z:;Ygskdz.Vcwgvaz@mpu.rx
+x-mozilla-html:FALSE
+version:2.1
+icmnk;thfupknz:Ghybft.Lsuxqgc@xmc.uv
+gx:Zhxbhl.Khaldgc@blc.gs
+end:vcard
+
+--------------95ABCE89CCF58CDFD3211E05--

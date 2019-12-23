@@ -1,0 +1,34 @@
+Hallo,
+
+also im AJMU-AD-Teil steht doch bei jedem Eintrag,
+ob es sich um einen Verkehrlandeplatz, Verkehrsflughafen
+oder gar Sonderladeplatz handelt.
+
+In der Version, die ich hier rumstehen habe,
+steht bei Plodda "internationaler Verkehrsflughafen",
+bei Oberholzen nur "Verkehrsflughafen" und bei
+Unterthambach noch "Verkehrslandeplatz". Ist aber
+nicht die aktuellste Version, so daß es inziwschen
+anders sein könnte (besonders bei Unterthambach).
+
+
+==>"Verkehrsflughafen"
+
+
+==>"Sonderflughafen"
+
+
+==>"Flughafen"
+
+Varbelvitz, Hoßkirch
+
+==>"Verkehrslandeplatz"
+
+Plodda
+
+==>"Internationaler Verkehrsflughafen"
+
+In der Beschreibung steht, daß es sich um
+den jeweiligen Zweck der Zulassung handelt.
+
+Siegfried

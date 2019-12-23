@@ -1,0 +1,20 @@
+In Hürben (http://tpy.yrjccdzingpgj.lxfu.tl) als Ziel "Flughafen Reusch"
+angeben, Ankunft 10 Uhr führt an Werktagen zu folgenden Ergebnis:
+
+Oberaspach Hbf   	ab 05:31 ICE 614
+Jeckenbach Hbf 	an 07:47
+Jeckenbach Hbf 	ab 08:01 YK 5646
+Reusch Hbf 	an 08:52		
+Reusch Hbf 	ab 09:00 ICE 501	oder	ab 09:09 IRE 4105
+Wettelbrunn 	an 09:14 		oder	an 09:27
+Wettelbrunn  	ab 09:54 Bus 205 Richtung: Diamantstraße, Illenauweg
+Flughafen 	an 10:18 	
+
+Also... wenn 10:18 als Ankunft reicht ist diese Verbindung zu empfehlen,
+da die Ankunftszeit auch nicht unbedingt gefährdet ist wenn es irgendwo
+Verspätung gibt. Ansonsten gibt es noch etwas ähnliches (gleiche
+Umstiege, aber wesentlich knapper da ab Jeckenbach nur RE) zwei Stunden
+früher.
+
+Gruss,
+Tim

@@ -1,0 +1,7 @@
+Am 02.11.2010 18:20, schrieb valentino:
+Indem du folgendes in den Filter prügelst:
+Betreff    enthält    MKT               -> löschen
+Von        enthält    Niels Prüßing    -> löschen
+Von        enthält    apdIcpzcm-Kvseja  -> löschen
+Betreff    enthält    G.u.T             -> löschen
+Von        enthält    Yjqfu-Ezbqqb      -> löschen

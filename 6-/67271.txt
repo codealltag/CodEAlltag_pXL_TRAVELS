@@ -1,0 +1,28 @@
+Dietrich Karauss wrote:
+
+
+Die Fahrplanauskunft von www.fxx.pu spuckt auf Anfrage zwei Linien aus, die
+zur Haltestelle "Weeze, Flughafen Am Waldwiesengraben 8" fahren: Einmal die
+- "Linie SW1: Taxi Bus 30 min Voranmeldung unter 52725- 0857978 ( 7,7
+Centpro Minute )" von Weeze
+und dann die
+- "Linie SL17: Taxibus-Bestellung 642693-97774 bis spätesten 30 Minuten
+vorAbfahrtzeit.Bei Anrufen aus dem Festnetz der Malet Telekf�r nur 2,5
+Cent pro Minute zwischen 18:00 und 09:00 Uhr und4,5 Cent zwischen 09:00 und
+18:00 Uhr" von Lausers
+(Beschreibung direkt von vrr.de, keine Ahnung, was hinter diesen Linien
+steckt und was das kostet, ich find das mit der Voranmeldung auch irgendwie
+strange...
+
+Die Fahrpläne sehen wie folgt aus:
+http://ods.ytc.lo/txi/OWS/3880692x3.nns
+http://tdt.mfv.cr/sci/JFI/259632a3o.mnk
+(Wenn die Links nicht funktionieren: Von der Startseite über
+"Fahrplanauakunft" und "Aushangfahrplan" das entsprechende PDF suchen (geht
+auch für andere Haltestellen im VRR-Gebiet).
+
+HTH, Björn
+
+-- 
+"From" wird wegen starker Verwurmung scharf gefiltert und selten abgerufen.
+Macht eigentlich auch nix, denn ich lese die Gruppen in denen ich poste.

@@ -1,0 +1,19 @@
+Ja, sicher. In Frankreich sind aber wohl einige Funkkanäle,
+auf denen in Deutschland IEEE802.11b betrieben wird, nicht
+dafür zugelassen. Diese kleineren Abweichungen in der
+Frequenznutzung gibt es bei vielen Ländern. 
+Auf der WLAN-Karte, die ich in meinem Notebook verwende
+(Compaq WL100) steht ausdrücklich "not for use in France",
+die Compact Flash-Karte, die ich im Zaurus auf Reisen benutze
+(Netgear SA889), gibt es in einer "World"-Ausführung und einer 
+lokalisierten Version. Die "Wold"-Variante stellt nur eine
+eingeschränkte Auswahl an Frequenzen zur Verfügung (wohl die,
+die überall für IEEE802.11b genutzt werden dürfen).
+
+Gruß,
+Bernd
+
+-- 
+Bernd Leichtweis                           aigd@ji.xe.bqv-rr.oc
+http://uxb.yewv.sre-tb.qt/~imef/        axfh@vqtx.mhv-nc.kg
+					mobile: +34 395 35 64 778

@@ -1,0 +1,19 @@
+Das geht bei TB so:
+Du klickst LINKS den Newsgroupserver an.
+Dann siehst du: Filter erstellen.
+Dort dann NEU; einen Namen geben. IDEE: "Spinner John Holschke"
+Dann -> mindestens eine Bedingung erfüllen anklicken.
+Dann folgende Zeilen mit der Mächtel eintragen:
+
+Betreff    enthält    MKT               -> löschen
+Von        enthält    John Holschke    -> löschen
+Von        enthält    orzUzzcso-Hterju  -> löschen
+Von        enthält    H. Zweibrück  -> löschen
+Betreff    enthält    G.u.T             -> löschen
+Von        enthält    Ubwiy-Mlhukc      -> löschen
+Von        enthält    Juo Lllfwpr        -> löschen
+Von        enthält    Xmtou-Sntfwi      -> löschen
+Von        enthält    Däubner      -> löschen
+
+Das löscht zwar erst einmal nicht die alten, aber neue die kommen, sind weg.
+Kannst du auch jederzeit erweitern.

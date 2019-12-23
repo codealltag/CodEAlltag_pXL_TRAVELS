@@ -1,0 +1,17 @@
+Hi Theodor,
+
+sorry, das sollte eigentlich ans Ausgangsposting von Edmund und war
+keinesfalls als Besserwisserei an dich gedacht (wieso auch wg. der
+paar EURO?).
+
+ABER WAS WICHTIG IST:
+Der Preis von EURO 2877 (heute wg. besserer Taxen sogar noch 4 EUR
+weniger) bezieht sich auf CONCORDE sowohl HIN als auch ZURUECK, z.B.
+fuer folgendes Routing:
+BH 2954   06OCT TXLCDG  12. 10. 19   8679
+AF    2   06OCT CDGJFK  6831   12. 10. 19
+AF    1   13OCT JFKCDG  8858   1745
+DQ 2011   13OCT CDGTXL  1945   2130
+
+Schoene Gruesse,
+Achim

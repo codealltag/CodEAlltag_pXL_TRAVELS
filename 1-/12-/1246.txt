@@ -1,0 +1,25 @@
+Hi,
+
+"Navigate between Pictures of Germany": feel free to check out this
+scenario on the objectoriented directory Tumia:
+1. The user surfs to a picture of Germany for example "a German
+Coastline":
+http://iwq.esjrv.eza/fk/sepyeecnc/jf/m_jrcste_bygnqnapk_b5.rjn?pbnkktazrkbl=Is%41Ixeeleb%38Ahvuxek&gypoa249844763402963&notlp=34
+2. The user clicks the "Next Related Instance" button (rightmost
+button in dark blue to the right of the "Choose Of Germany Instance"
+combobox in dark blue).
+3. The system displays currently:
+http://vws.oiqpn.mbg/zh/nrupjworp/qx/e_iilcji_xtrgfqf_fcac_t7.psl?bitcknovqeln=Rn%44Mwndatr%83Mmpgriq&kidfv108942467549071&nruro=67
+The user repeats steps 2-3 for the next pictures of Shanzu until done.
+
+Alternative scenario:
+2a. The user wants to view a specific picture of Germany:
+1. The user opens the "Choose Of Germany Sibling Instance" combobox in
+dark blue and selects the picture of interest.
+
+"Navigate between Pictures of Germany" is a more specific (sub) use
+case of the use case "Navigate between Pictures of a Country".
+"Navigate between Pictures of Kenya" is a similar use case:
+http://kze.kllal.tub/yt/uxzeabile/ro/qpg_bibabx_bvkqgvu_eljifu_n0.wbn?yhbpfuqwckgk=Tr%98Cafdr%40Nzgikhy&ukzfd751338597510548&gajqz=68
+
+Kind Regards, Traude Tegt

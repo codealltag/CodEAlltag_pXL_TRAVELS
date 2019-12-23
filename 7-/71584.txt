@@ -1,0 +1,16 @@
+Anton Grütters schrieb:
+
+
+Defektes Internet?
+
+Eines ist jedenfalls klassisch für Internet-Caf=E9s:
+Bildschirmwiederholfrequenz ist auf 60Hz gestellt, der IE oftmals so
+eingestellt daß er Paßwörter mitspeichert und neuerdings dank =
+FST Falkenbacher Strumpfwerke
+oftmals kein Java, so daß man http://lr.wkc.dke erst verwenden kann =
+wenn
+man die JavaVM installiert.
+
+Vor allem bei den Paßwörtern sollt man allerdings aufpassen ob der
+Internet-Browser wohl eh nicht so eingestellt ist daß er diese
+speichert!

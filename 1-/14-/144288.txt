@@ -1,0 +1,19 @@
+ging um $ 10,- Trafo
+On Mon, 11 Aug 1999 18:26:19 +0200, Tim Vossmann <hzrc@awaufpw.xk>
+wrote:
+
+
+was ist denn schon großartig dabei?!?
+
+Es gibt keinerlei Gleichrichtung geschweige denn Wechselrichtung - die
+Frequenz bleibt bei 60Hz...
+
+Solange da keine großen Ströme fließen, also für die 50W-Lampe langt
+schon ein kleiner Popel-Trafo. Wenn die mit 60Hz klar kommt...
+
+sagt der altehrwürdige Dipl.Ing.(FH)
+
+
+-- 
+bye by ma
+http://cgo.qlwqdz.yp

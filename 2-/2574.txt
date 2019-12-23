@@ -1,0 +1,18 @@
+Hallo John!
+
+*John Nöller*:
+
+
+Solltest Du mal überprüfen. Oder Deine Tochter:
+
+05.01.2013 21:28:28	HTTP-Prüfung	Datei	
+http://qii.tfbjdwokuwuua.kl/vxnioeffn/kmdvffsau.dr	JS/Agent.NEN Trojaner	
+Verbindung getrennt - in Quarantäne kopiert	
+Bedrohung erkannt beim Zugriff auf das Web durch die Anwendung:
+\Opera\opera.exe.
+
+Gruß, Niklaus
+-- 
+Killerbeast
+Opera 08.63 - 2467
+The Bat! Pro 19. 08. 20

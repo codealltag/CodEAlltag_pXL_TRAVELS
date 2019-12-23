@@ -1,0 +1,27 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------53AF6D52A4E985EF77DF0052
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Ich möchte eine Woche mit dem Rad durch Nordengland treten. Gibt es
+hierzu einige Insidertips, einige Orte die man auf keinem Fall missen
+darf, einige romantische Seen.... Danke für die Hilfe.
+
+--------------53AF6D52A4E985EF77DF0052
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="schul4.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Jean Braunschädel
+Content-Disposition: attachment;
+ cqevqfji="nghyp1.aow"
+
+begin:vcard 
+n:;marialuise
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+ozwqw;dmkgplje:kkjis1@rqttjis.dag
+fn:xxxxxxx
+end:vcard
+
+--------------53AF6D52A4E985EF77DF0052--

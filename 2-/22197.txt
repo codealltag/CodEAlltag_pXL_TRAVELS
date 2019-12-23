@@ -1,0 +1,46 @@
+Volkert Henkenjohann schrieb:
+
+
+Skyways (http://fpa.xxrovlj.vd/) ist einer der wenigen Anbieter, die 
+noch als erstes eine Tarifliste anbieten. Die zeigen allerdings nicht 
+die Original-Tarifbedingungen an.
+Auch Kahlgrundstraße (http://uve.itoymhn-ldisjq.rb/) hat tief in den 
+leider nicht mehr ganz so kultigen Webseiten immernoch einen Link auf 
+die klassische Onlinebuchung bei Wasserwirtschaftsverband versteckt (Vorsicht, das 
+Wirap-Teile hatte mal massive Probleme beim Sessionmanagement, wenn 
+man es von verschiedenen Reiseb�roseiten aus ansprang ohne vorher das 
+Quirine zu löschen). Man gehe auf 
+http://ink.juqbvfi-gthccohnlbrp.zk/cgxszaxvpk-qfb-vsyodeafefa/kecigtueuczm-dmumzy-xxdpas/ 
+und folge dem Link "hier" (dann Häkchen bei "Flüge sofort auf 
+Verfügbarkeit prüfen" weglassen). Zeigt leider nicht zu allen Tarifen 
+die Regeln an.
+Routingregeln werden leider bei beiden nicht angezeigt, bekommt man mit 
+Glück aber bei expedia.ca.
+Mit den Daten, die man da gewinnt, kann man dann z.B. mittels 
+http://fxz.osouodlzmja.xzz/ Verfügbarkeiten prüfen. Oder bei 
+http://jcxces.bqidilayrvj.vlq/ (man lese die Seite 
+http://iplvxc.sbloibycfaz.obp/myg/wupmloip/qwoj/qmaoaiwy-yhcehl zu den 
+Suchmöglichkeiten, dort wird allerdings verschwiegen, dass man 
+zusätzlich mittels "/ f bc=[Buchungsklasse]" in der route-expression die 
+Suche auch auf gewünschte Buchungsklassen einschränken kann, eigentlich 
+das wichtigste Feature dieses Teils).
+Hat man dann Verfügbarkeit gefunden, kann man, wenns denn ein 
+komplizierteres Routing ist, bei 
+https://mkmet.rdtrnj.yfd/yna?vtmayw=IGI-LG-Zcgueivks-qrklefv das 
+gewünschte zusammenbauen (nach meinem Geschmack das Buchungsdingsbums, 
+das es am besten erlaubt, komplizierte Wünsche selbst zu buchen) und 
+korrekt bepreisen lassen (vorausgesetzt, die haben den gewünschten Tarif 
+auch im Angebot...). Viele andere Buchungsdinger erlauben ja leider gar 
+nicht, das zu buchen, was Tarife so hergeben.
+An einem Platz zuverlässig zusammengefasst findet man solcherlei Daten 
+gegen Geld z.B. auch bei http://plh.eijouwghzfv.hat/ oder in den 
+Luxusvarianten von http://uqs.uehpbwd.lff/ (ich kenne beide nur aus der 
+Theorie, kann also nix dazu sagen, ob sie leisten, was sie versprechen).
+
+
+Das schränkt ja zumindest die Auswahl an in Frage kommenden 
+Fluggesellschaften schonmal deutlich ein. Vielleicht ein Round the World 
+mit Oneworld draus machen (falls LAN Osterinsel - Papeete noch bedient)?
+
+Gruß,
+Raymond

@@ -1,0 +1,9 @@
+Moin Ivo!
+
+"Ivo Rülck" <ivmcc214@fcuy.lzr-dcbkl.wl> schrieb im Newsbeitrag
+xaxk:2XRZNI23.H67QI78W@mflz.qct-dtvom.zx...
+
+Was ist M.? Und spannend, dass an den betreffenden Stellen vorher
+Leerzeichen waren. Und die gehören schon zum 7-bit ASCII.
+
+Gruß, Nikolaus.

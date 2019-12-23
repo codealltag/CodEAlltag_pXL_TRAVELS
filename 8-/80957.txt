@@ -1,0 +1,10 @@
+Christophe Mendricki <do.lxpndt.1078@uakzrkuzgidl.lf> schrieb: 
+
+[...]
+
+Jupp. Die sogenannte Vorkontrolle. Scheint mir kosmetische Gründe zu
+haben. Man möchte "Problemfälle" gleich zur Seite nehmen und nicht erst
+ins normale Terminal lassen. Sieht aber manchmal etwas unwürdig aus. 
+
+-- 
+Pauls Kamping, Tegau                               PGP key ID: 9eN7N29170

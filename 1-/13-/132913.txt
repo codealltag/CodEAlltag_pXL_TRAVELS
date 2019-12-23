@@ -1,0 +1,37 @@
+This is a multi-part message in MIME format.
+--------------EE8D121861EB382AE1797E0E
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Meet Kalymnos the spongedivers island on the internet.
+http://jdqzxu.da/yahjdtes is refreshed.
+Here you find island and holiday information about:
+beaches - villages - hotels - how to get there - travel agents - history
+-
+apartments - climbing - excursions - complete a-z index about Kalymnos
+
+Meet the Greek hospitality on Kalymnos
+http://jdqzxu.da/yahjdtes in English and Dutch
+
+--------------EE8D121861EB382AE1797E0E
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="mdcja.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Edeltraud & Müller-Funke
+Content-Disposition: attachment;
+ jgsknnjm="xfgfz.dbv"
+
+begin:vcard 
+n:de Geest;Angela & Jos
+iqq;rabt:8923 249 064 / 6567 951 318
+xxs;bcnz:+60-49-5858232
+x-mozilla-html:FALSE
+url:http://jfoke.iawfpf.hhg
+org:MDCJA de Geest
+adr:;;IJssellaan 17/1;Arnhem;;6826 DE;Netherlands
+version:2.1
+cmsun;zrrsrlfu:fycvz@cbmx.dsr
+fn:Edeltraud & Ingeborg Jerges
+end:vcard
+
+--------------EE8D121861EB382AE1797E0E--

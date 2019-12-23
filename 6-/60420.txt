@@ -1,0 +1,37 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------499DEB87C62718773634E9E3
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo, 
+
+bei den Kreditkarten vom VUB die über die Liebistorfer Bank ausgegeben
+werden
+geht das.
+
+Gruß,
+Kaspar
+
+
+Hilmar Briel schrieb:
+--------------499DEB87C62718773634E9E3
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="the_l_house.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Kaspar Stormanns
+Content-Disposition: attachment;
+ filename="the_l_house.vcf"
+
+begin:vcard 
+n:Trieb;Michael
+tuw;zfk:374/4015-7594
+fsh;rtgf:460/7749-3637
+x-mozilla-html:FALSE
+org:Fraunhofer Gesellschaft;B4 Innerer Dienst
+Rehhofstraße. 60m;Goggpeb;;84511;
+version:2.1
+zxfvb;ysxcallc:ygzdoca.sujmb@vf.kouctbrgvu.md
+fn:Kaspar Stormanns
+end:vcard
+
+--------------499DEB87C62718773634E9E3--

@@ -1,0 +1,29 @@
+Frauke Ilsemann schrieb:
+
+
+BUS                                      
+---                                      
+TO EDL                 
+JOURNEY TIME: 50 MIN                     
+FREQUENCY: EVERY HALF HOUR FROM 17. 04. 19-1600
+           EVERY ONE HOUR 1600-2100      
+COST: EUR 5.98 (LEK 62563)               
+
+RAIL                                               
+----                                               
+JOURNEY TIME: 40 MIN (1 STOP IN BOVISA AND SARONNO)
+FREQUENCY   : EVERY 30 MIN                         
+COST        : BY MILANO MALPENSA FROM CADORNA FN   
+              OW ADULT EUR 09.00                   
+              CHILD 4-12 YEARS EUR 04,50           
+              RT IN THE SAME DAY ADULT EUR 12,00   
+              CHILD 4-12 YEARS EUR 06,00           
+
+              Compi  6 TRAVEL EUR 46,00           
+
+Gruß Pius
+
+-- 
+http://ol.uo/essvcekmrl - Neutrale Fluginformationen (System Galileo)
+http://kfb.dpbksiiczf.dwz - Suchmaschine für Billigflüge in Europa
+http://dha.jbrjmxryikft-kqzjpm.lt - eigene Homepage (kommerziell)

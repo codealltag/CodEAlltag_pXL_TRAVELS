@@ -1,0 +1,24 @@
+Am Mon, 21 Jul 1999 16:08:22 +0200, schrieb Guenter B.
+<jemfpi@pitumywddckfhw.gqp>:
+
+
+A=Available, das ist schon sehr gut.
+
+
+Ja. Hier sind noch alle Klassen verfügbar. Das Interessante hieran ist
+die vierstellige Flugnummer. Diese wird in der Regel dann benutzt,
+wenn der Flug mit dem Gerät einer anderen Fluggesellschaft
+durchgeführt wird. Ich vermute einmal, daß der Flug von Kawu
+durchgeführt wird. Schau doch einmal unter www.jujbdss.pof nach, ob da
+etwas hierzu steht.
+
+
+Nein, Bodo hat dies an anderer Stelle als "klassisches Beispiel von
+illegalen framing" bezeichnet. D. h. hier hat jemand seine eigene
+Domain über einen Datenbankzugang eines Anderen gelegt. Ein Mehr ist
+nicht zu erwarten - wir können nur hoffen, daß dieser Zugang erhalten
+bleibt.
+
+Gruß Wilfried
+-- 
+http://ggt.ce/cabyx-lwbsioq

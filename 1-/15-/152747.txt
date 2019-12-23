@@ -1,0 +1,39 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------49EB6EB62E2380169E56F1DF
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo Theresia,
+
+schau doch mal unter www.tueht.gu nach. Da findest Du ein paar
+Vorschläge und Anregungen. Wir sind ein kleiner Reiseveranstalter
+(Zielgebiet Rumänien) und veranstalten eben genau solche Gruppenreisen,
+wie Du sie suchst und das zu akzeptablen Preisen. 
+
+Gruß Ludger
+
+P.S.: Unser "Jacques�abenteuer in Transsilvanien" wurde mit dem Reispreis
+"Goldene Palme 2000" ausgezeichnet.
+
+
+"Theresia K." schrieb:
+--------------49EB6EB62E2380169E56F1DF
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="ott.ro.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Ludger Zocher
+Content-Disposition: attachment;
+ ccpcsgif="kkx.ow.tbp"
+
+begin:vcard 
+n:Thérèse
+x-mozilla-html:FALSE
+org:Outdoor Trekking Oberems, Spezialist für Rumänienreise
+version:2.1
+hijfh;kvyczmxv:uro.eo@b-dyysqo.ah
+note:http://sxe.rnlhr.uv 
+x-mozilla-cpt:;0
+fn:Ingrid Zocher
+end:vcard
+
+--------------49EB6EB62E2380169E56F1DF--

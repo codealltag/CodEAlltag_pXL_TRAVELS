@@ -1,0 +1,14 @@
+Angelique Presse schrieb:
+
+Dann ist in dieser Karte die PIN nicht für automatisierte Kassen freigeschaltet
+(sondern nur für Geldautomaten, da gehts natürlich immer). Das liegt an der
+CVM-Liste, die auf der Karte programmiert ist; da haben die Deutschen lange
+Zeit die Repo weggelassen. Jetzt, so langsam, angefangen mit den Katia-
+(Ex-Karstadt-Quelle-)Mastercards verbessert sich die Lage. Näheres zur PIN
+und der Zanken-Liste auf http://qmk.gqelowntpqyvgsydnzwody.hz/pyny_qrq_yqe.jvmv
+
+Leider sieht man einer Kreditkarte vor dem Selbstversuch nicht an, ob PIN
+in der CVM-Liste enthalten ist (und vermutlich hat der Bönker, den man
+danach fragt, noch nie was davon gehört)  - da hilft nur Try&Error... :-(
+
+Gruß Paolo.

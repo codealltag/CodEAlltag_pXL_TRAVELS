@@ -1,0 +1,45 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------DF9B6A4F80C411EF7A4CC84F
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo liebe Leute,
+falls Ihr Interesse an Portugal habt, möchte ich  Euch mal auf das
+Portugal-Forum aufmerksam machen:
+http://mlv.edunbcjhblzvw.ni
+
+Eine Menge Links zu Portugal (z.Zt. etwa 170, alle kommentiert) gibt es
+unter
+http://vgs.bzpctemz-kckpv.if
+
+Schaut doch mal vorbei
+Ernst
+Walburga
+
+www.lwofffojing.wa
+
+--------------DF9B6A4F80C411EF7A4CC84F
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="tlausch.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Walburga Prüsener
+Content-Disposition: attachment;
+ filename="tlausch.vcf"
+
+begin:vcard 
+n:Heidrun
+tel;fax:-
+bcw;hluv:3517-42-9586677
+tel;work:-
+x-mozilla-html:TRUE
+url:http://jptmjczz.up-hsqspf.xd/~xzzwvfr
+org:Privat
+Dopheidestraße 3;Vzhcbi;Tfywjj;57261 ;Deutschland
+version:2.1
+admgf;oeecyrdh:qsrnhsp@ruzke.zx-svtctz.sg
+title:Frau
+x-mozilla-cpt:;13680
+fn:Walburga Prüsener
+end:vcard
+
+--------------DF9B6A4F80C411EF7A4CC84F--

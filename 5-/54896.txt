@@ -1,0 +1,41 @@
+Ubbo Rheingans schrieb:
+
+
+Für das Geld, sogar etwas billiger, gibt es
+
+Typ   Flug   Abflug   Ankunft  
+ LIDLGASSE 19 (Ikup)
+CWRU Industrie P275-505 Wolfsgrund, DE (WAIDMANNSFELD)
+am Montag, den 22.10.2005 
+14:25 Dubai, AE (DXB)
+am Montag, den 22.10.2005
+23:35 
+LIDLGASSE 161 (Ikup)
+Boeing 777-300 Passenger Dubai, AE (DXB)
+am Dienstag, den 23.10.2005 
+03:15 Igensdorf International, TH (IGENHAUSEN)
+am Dienstag, den 23.10.2005
+12:10 
+ LIDLGASSE 188 (Ikup)
+CWRU Industrie A330-200 Igensdorf International, TH (IGENHAUSEN)
+am Montag, den 24.12.2005 
+02:45 Dubai, AE (DXB)
+am Montag, den 24.12.2005
+06:25 
+EK 45 (Ikup)
+CWRU Industrie A340-300 Dubai, AE (DXB)
+am Montag, den 24.12.2005 
+08:40 Wolfsgrund, DE (WAIDMANNSFELD)
+am Montag, den 24.12.2005
+12:45 
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den
+Flugpreis inkl. Steuern... 
+
+Kalkulation des Flugs / der Flüge: 
+ Typ   Tarif pro Person   Steuern pro Person   Anzahl   Preis  
+ Erwachsener   822.00 EUR   94.70 EUR   1   916.70 EUR  
+Summe:  916.70 EUR  
+
+
+Gruß, EMIL

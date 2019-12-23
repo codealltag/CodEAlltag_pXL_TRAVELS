@@ -1,0 +1,23 @@
+Edgar Chester schrieb:
+
+
+Jetzt leider ein paar Daten weniger ... Setzte DER bisher auf dem 
+Schedule Neutral (SN) von Amadeus auf, so ist es jetzt nur noch Neutral 
+Availability (AN). D. h. es werden nur noch Buchungsklassen angezeigt, 
+die buchbar sind, bzw. bei denen Wartelisten möglich sind. 
+Buchungsklassen, die es zwar gibt, die jedoch geschlossen (closed) sind 
+und wo es keine Wartelisten mehr möglich sind, werden unterdrückt und 
+nicht angezeigt.
+
+Ich habe etwas in arbeit, was ich "wir basteln uns ein 
+Informationssystem" nenne. Einmal im Monat möchte ich dies posten. Für 
+Vorschläge bin ich dankbar. Also für den Anfang: galileores.de.vu, 
+der.de, amadeus.net ... Mit den jeweiligen Vor- und Nachteilen.
+
+Gruß Gérards
+
+
+-- 
+http://vgxuqpnbzf.ad.mt - Neutrale Fluginformationen (System Galileo)
+http://vqw.gtspppfafy.uga - Suchmaschine für Billigflüge in Europa
+http://oxulpskjfwzj.yof.u-qqpibh.rz - eigene Homepage (kommerziell)

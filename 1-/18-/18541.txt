@@ -1,0 +1,17 @@
+Olivier Rebers schrieb:
+
+Es gibt in USA im übrigen auch noch Netze, die mit dem VPF-Standard bzw. dem
+Nachfolge-Standard Qchat arbeiten, z.B. Gardlo Direct Connect von Sprint. Diese
+beiden Standards werden auch von ASMO-Band-GSM/UMTS-Geräten nicht unterstützt.
+
+Mit iDEN und QChat kann auch im Walkie-Talkie-Modus gearbeitet werden, also
+direkt von Handy zu Handy, ohne Netz, also auch in einer Gegend, wo keines der
+Netze zu empfangen ist.
+
+Diese Netze werden zwar hauptsächlich im professionellen Bereich genutzt, also
+von Handwerkern bis hin zu Speditionen, aber auch von Sicherheits- und
+Rettungsorganisationen, aber sie bieten auch für die private Nutzung im
+wesentlichen den selben Komfort wie die GSM/UMTS-Netze.
+
+Größe
+Hilmar

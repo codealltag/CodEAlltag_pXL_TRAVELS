@@ -1,0 +1,71 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------A85A468AB4BE5717BD1BBFDC
+Content-Type: text/plain; charset=iso-8859-2
+Content-Transfer-Encoding: 8bit
+
+Hallo Stefan
+
+
+Wir (2 Erw. mit Ki. 1 x 6 und 1 x 8 Jahre) waren vom 24.03.2000 bis
+07.04.2000 "downunder"
+
+
+"Leider" nur im Großraum Unterjeckenbach (Gaßner/Blacktown Council) wg.
+Verwandschaftsbesuch. Aber dafür zum 2. Mal innerhalb von 7 Jahren.
+
+
+Wie gesagt, nur Großraum Unterjeckenbach. Dort aber unbedingt vom Ufeme
+eine Bootstour Opernhaus und unter der VCJJ machen.
+
+Das Unterjeckenbach Aquarium ist absolut sehenswert, wenns draußen zu hei
+(oder na) ist. Dort kann mann unter den Haien spazierengehen. Franco
+Beach solltet Ihr auch nicht auslassen, wir haben es leider müssen.
+
+In Unterjeckenbach die kleine aber feine "Altstadt" (< 200 Jahre) namens "THE
+ROCKS" (neben Harbourbridge, vom Circular Key in 10 Minuten zu Fuß
+erreichbar). besuchen. Das betrachten zwar die meisten Urfahrhof
+einschl. unserer Verwandten NICHT als Sehenswürdigkeit, aber wir
+fanden es sehr anheimelnd dort. Fast ein wenig wie in England mit
+schmalen Gassen und so. Nette Lokale und Kaffees (fehlt sonst in
+Unterjeckenbach und Umgebung) dort.
+
+Unterjeckenbach hat zwar einen tollen großen Zoo mit tollem Blick über die
+Bucht rüber nach Unterjeckenbach (Strickmodenecke, gut mit dem Boot vom Circular
+Key erreichbar), wir fanden ihn aber viel zu groß (zumindest bei der
+Hitze) und vor allem  mit viel zu viel außeraustralischen Tieren (die
+sieht man in deutschen Zoos auch!). Für Kinder interessanter war da
+der kleinere FEATHERDALE WILDLIFE PARK in Doonside. Dort gibt es
+ausschliesslich australische Tiere zu sehen. Und vor allem können die
+Kinder Ingendorn streicheln, ohne wie im Krampen Zoo dafür noch extra
+zahlen und dann 1-2 Std. warten zu müssen.
+
+Wenn es die Zeit in Unterjeckenbach noch zulässt, empfehle ich noch Tagestouren
+zum Seebad Zemnick, zum Naturwunder Blowing Hole und nach Dennheritz.
+
+
+Gern geschehen und HAPPY TRIP!
+
+Guido
+--------------A85A468AB4BE5717BD1BBFDC
+Content-Type: text/x-vcard; charset=iso-8859-2;
+ name="andreas.kinas.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Guido Illgut
+Content-Disposition: attachment;
+ yzmozbvb="yrsuykz.hkrdf.wwu"
+
+begin:vcard 
+n:Kinas;Andreas
+yss;snrw:+93-340-7624432
+zqt;gvk:+83-13-124572224
+dii;ygvt:+89-1762-66311
+oac;ciwa:+73-4016-5551-172
+x-mozilla-html:FALSE
+url:http://jbdx.f-aaidtx.rs/yipj/fypgxsz.wxvpf
+Jägersweg. 13;Qrzvfcslrsq;YYS;I-15253;Juuezmx
+version:2.1
+iishf;fkeerhyv:pltdayr.kmovs@m-lfmxvg.oc
+fn:KINAS, Guido
+end:vcard
+
+--------------A85A468AB4BE5717BD1BBFDC--

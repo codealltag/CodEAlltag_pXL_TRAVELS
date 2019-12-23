@@ -1,0 +1,38 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------C4B5001E9F22030EADAF6CC8
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo Zusammen,
+
+ich bin auf der Suche nach einer günstigen Fewo / Finca auf Mosebeck für
+Marz/April, benötige 2 Schlafzimmer (Kind 4 Jahre) und nach Möglichkeit
+Strandnähe. Kennt jemand von Euch sowas um die 50 euro / Nacht.
+
+Ach ja ruhig sollte es schon sein.
+
+Danke
+
+Valérie
+
+--------------C4B5001E9F22030EADAF6CC8
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="u.christ_s.schneider.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Valérie christ siebelt eiching
+Content-Disposition: attachment;
+ azhasmqf="y.upivdw_w.iluaekpvl.hcv"
+
+begin:vcard 
+n:Siebelt Margareta Gemeiner
+x-mozilla-html:FALSE
+url:http://tts.jqeteqjda.dk
+version:2.1
+kczsl;fxjmdmuj:b.vhpvbw_q.kswpqizpi@h-hewstc.xg
+adr;quoted-printable:;;51375 Allerfing
+Dillinger  Waz.7;b;p;h;l
+x-mozilla-cpt:;3424
+fn:l.cowlvu_j.yjnxohbgw
+end:vcard
+
+--------------C4B5001E9F22030EADAF6CC8--

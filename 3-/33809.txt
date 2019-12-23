@@ -1,0 +1,31 @@
+This is a multi-part message in MIME format.
+--------------287990285074904348600600
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Ronald Handlescope schrieb:
+Südliches Afrika ?
+Da war genau soviel los am Strand :-)
+
+-- 
+Blessings my friend,
+Stefan
+
+
+--------------287990285074904348600600
+Content-Type: vcmjjgcoyti/ahc.kirtpy-jhgrw.epk;
+ name="GoogleEarth_Placemark.kmz"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+ filename="GoogleEarth_Placemark.kmz"
+
+UEsDBBQAAAAIAAAAAADvD8YtSwEAACoCAAAHAAAAZG9jLmttbGWRzW7CMBCEz/AUVXqE+C9O
+HFfGqIe2l1biUM6VFdwkwrFRYir69rUDhErcZjXfrtezYn3qzMOP7ofW2VWCAUoetK3crrX1
+Ktl+vqZlspZzsQ9UIO2wShrvD08QatX7BtTO1UaDynUwIJAAnAR6Y1SlO9Xv5XwmrOq0fBu5
+l9jzNbkCjl5g3p3bP/ugZsI4W7f+uNMSM0AwJ0WRc5pxijMBb+aIKn8u0gwBnPMs54ixnFIS
+0asZSWUuBRJw0tHola21JBwDnlOSk4xSylAu4NmIiG+NlxQUpCwyWhJWlIQznSLEBRy9CDVa
+wfetLpXxZ5SqUlArdzEQpRgS/styu6bC/qx83R9qshGjy9N+LBaclyq/5pH5xK4eqWQ2yvWz
+NFeNmYBTaxizca09r1A514d3lNfDfXTL+4iWIYv/PXG9y7QgbhcU8bJy/gdQSwECAAAUAAAA
+CAAAAAAA7w/EKWdBLYLmSuABFhLEBEAUOGNYKUJDZALKLZLLWM6dKeoohMNKRUACBQVTMJXH
+ADUAAABwAQAAAAA=
+--------------030906070704020309090507--

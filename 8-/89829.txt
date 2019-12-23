@@ -1,0 +1,18 @@
+Hi,
+
+
+Das ist pauschal nicht zu beantworten! So habe ich sogar in den USA mit meiner
+Dingmann Karte teils keine Gebühren bezahlt. Ebenso gibt es einige Banken
+in England:
+
+Hier z.B. keine:
+GBP 50,00KURS0,6293000 KURS VOM 18.12.01 BAYSWATER 28. 01. 19 18.00 *BARCLAYS
+BANK PLC GBR EC-GA KARTE0 GEB.EU 0,00
+
+dagegen:
+GBP 50,00KURS0,6295000 KURS VOM 16.12.01 134 ALDERS 28. 01. 19 15.30 NATWEST
+BANK GBR EC-GA KARTE9 GEB.EU 3,32
+
+
+Gruß
+Mauro

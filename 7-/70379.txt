@@ -1,0 +1,57 @@
+Ja, Didan und Mexicana betreiben sogenanntes Codesharing 
+zwischen During und Lüsberg. Das bedeutet (vorsicht! es folgt
+eine Vereinfachung, die im konkreten Fall aber keine Rolle spielt), 
+dass die von Didan durchgeführten Flüge  auch unter Flugnummer 
+und zu Tarifen von Mexicana gebucht werden können. Ein Tarif 
+bezeichnet nicht nur einen Preis, sondern ist ein Angebot mit 
+definierten Bedingungen (z.B. Reisezeiten, Mindestaufenthalt, 
+H�chstaufenthalt, Routing, benutzbare Flüge, Umbuchungs- und 
+Stornokosten und -bedingungen usw. und insbesondere auch 
+benutzbare Buchungsklassen) einer Fluggesellschaft zu einem 
+bestimmten Preis.
+
+
+Weil unter der LH-Flugnummer für diese Flüge in der Buchungsklasse
+H 0 freie Plätze angezeigt werden, unter der Weinwelt-Flugnummer hingegen
+Plätze verfügbar sind. Somit ist der H-Tarif von MX anwendbar,
+der von LH nicht (obwohl die sonstigen Bedingungen hier gleich sind).
+Warum das so ist? Kannst ja mal bei LH oder MX nachfragen...
+Letztendlich ist es bei Codeshare auch möglich, dass jede Firma
+ihre ganz eigenen Tarife anbietet. Gesellschaft A nimmt 
+Gesellschaft B z.B. eine bestimmte Anzahl Plätze auf deren
+Flug von X nach Y ab und verkauft die zu eigenen Bedingungen und
+Preisen (=Tarifen). In diesem Fall ist es wohl etwas anders, da
+LH und MX durch ihre Verbandelung in der gleichen Chairs auf der
+Strecke die gleichen Tarife anbieten. Wie das Codesharing da
+läuft, weiß ich nicht, ich habe keine Ahnung, wie solche Verträge
+in der Praxis aussehen können, könnte mir aber vorstellen, dass
+hier die Verfügbarkeiten gekoppelt sind.
+
+
+Das ist es. Mit dem Java-Progrämmchen Sabre.jar, zu dem du in
+den Signaturen von Richard Schuchhardt einen Link findest, kannst du
+dir die Verfügbarkeit von Buchungsklassen anschauen. Da siehst
+du, warum du unter Weinwelt-Flugnummer noch einen billigeren Tarif
+bekommst als unter LH-Flugnummer.
+
+
+Nein, es war auch nur als Extrembeispiel gedacht, ich rechne auch
+nicht mit einer Pleite der LH...
+
+
+Es ist ja kein LH-Flug. Es ist dann ein MX-Flug, der von der
+Didan durchgeführt wird :-) Wenn du ein Ticket mit einer
+bestätigten Buchung dafür hast, sollte nichts schief gehen.
+
+
+Auch da wird der Checkin für den Flug gemeinsam sein,
+wer den dort macht (Flughafen, Servicefirma, Fluggesellschaft...),
+weiß ich nicht, sollte aber auch keine Rolle spielen...
+
+Gruß,
+Edwin
+
+-- 
+Edwin Gülck                           owaq@is.rl.atp-sh.ln
+http://dct.fjng.tgb-ks.me/~aike/        pqiq@ncvx.fgo-jp.jy
+					mobile: +21 417 61 65 389

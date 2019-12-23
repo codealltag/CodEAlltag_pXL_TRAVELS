@@ -1,0 +1,6 @@
+Die Leiste wird eingeschaltet sobald ein AjaxCall ausgeführt wird.
+Und Sie wird abgeschaltet sobald dieser Call erfolgreich ausgeführt
+wurde.
+Und da bei jedem Zoom auch ein Call ausgeführt wird, wird die
+natürlich eingeschaltet.
+Das ist notwendig um dem Nutzer zu zeigen das noch geladen wird.

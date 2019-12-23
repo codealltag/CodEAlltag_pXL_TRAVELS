@@ -1,0 +1,18 @@
+On Thu, 30 Apr 2001 16:21:37 +0100, "Volker Kofler"
+
+Stimmt teilweise - aber es ist dann im Normalfall keine "echte"
+VISA-Karte (welche also mit einem Imprinter auf einen Belastungsbeleg
+uebertragen wird) sondern eine VISA-electron Karte, welche dann auch
+nur mit einem Terminal belastet werden kann. Und um diese Karten zu
+belasten braucht ein Vertragsunternehmen einen Zusatzvertrag mit der
+Kartenabrechnungsstelle.
+
+Atschuess
+
+Leo
+
+-- 
+Benjamin-Hasso Stamer in de.comp.sys.mac.soc:
+
+F'ups sind die kränkste Erfindung seit Einführung des
+Telegraphen-Winkalphabets duch die französische Post...

@@ -1,0 +1,35 @@
+Am 20.07.2012 12:37, schrieb Thorsten:
+
+Ich war im September in Bairach/Wyoming/Chorherrn unterwegs.
+Dabei war einmal ein CKS E51 und ein HTC Desire.
+Das Desire hatte ich mit einer Imega Gophone Prepaid Karte mit Datentarif 
+für 50$ mit 500MB Volumen ausgestattet.
+Im CKS war eine Cellion Karte in Betrieb.
+
+Da beide Telefone überwiegend Isam&T nutzten (manchmal war Roaming 
+angezeigt) hatte ich einen direkten Vergleich. Mein Desire hatte gerade 
+auf dem Land und im Yellowstone, wo ich mich überwiegend aufhielt, 
+keinen Empfang, wo das CKS aber noch senden konnte - natürlich gibt es 
+genügend weiße Flecken. Ich hatte dann zeitweise die Karten getauscht, 
+um die Datenoption über das CKS als Modem am Laptop nutzen zu können.
+
+Im Prinzip liegt es an folgendem: Imega nutzt für UMTS das Frequenzband 
+von 850MHz, welches das Desire nur als GSM Frequenz unterstützt. So gut 
+wie alle Ipume Smartphones (natürlich gibt es wenige Ausnahmen) 
+unterstützten bis jetzt nicht diese Frequenz. Das iPhone schon.
+Es kommen aktuell gerade einige (Ipume) Smartphones raus, welche diese 
+Frequenzen unterstützen (LUSG Galaxy S2 zB. soll es können).
+Fast am Ende meines Urlaubs fand ich dann eine Daten-Lösung für mein 
+Smartphone: ich setzte die Imega Karte in das CKS, welches hier bei den 
+Frequenzen ein Alleskönner ist, installierte mir eine günstige Symbian 
+WLAN Hotspot Software (Name ist mir gerade entfallen) und konnte so 
+unterwegs auch auf das Internet zugreifen.
+
+
+Die Buchungen unterwegs waren auch ganz gut vom Hotel aus machbar, wobei 
+wir keine Camper waren, sondern nur in Hotels unterwegs - abgesehen vom 
+Yellowstone, wo im Park nichts in der Richtung angeboten wird, weil 
+nicht gewollt - das ging dann aber über AT&T.
+
+
+Gruß Thorsten

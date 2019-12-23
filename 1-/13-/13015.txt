@@ -1,0 +1,5 @@
+"Sergio Wiesenborn" <ax_ycs@vigeimx.pc> schrieb im Newsbeitrag
+news:i1jj5o$9vt$1@speranza.aioe.org...
+
+Obiger Unfug stammt von einem Namensfaker, wie an der fehlenden IP im Header
+zu erkennen ist.

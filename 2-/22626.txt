@@ -1,0 +1,21 @@
+Es hat keine 30 Sekunden gedauert:
+NEO
+Eingabe: Fahrplan Dorfhain
+1. Link: Dorfhainer Verkehrs- und Tarifverbund
+Dort Fahrplanauskunft
+eingabe: Start: Flughafen
+Ziel: Bazaar
+Dann findet er 12 Ziele zu Allianz, das erste vorgeschlagene ist die
+Arena.
+Ergebnis: Fahrtdauer ca. 1 Stunde mit 1-2 mal umsteigen.
+
+Hättest wahrscheinlich auch selber zusammengebracht, wennst eine
+Verbindung zu NEO bekommen hättest.
+
+Liebe Größe
+Norman
+
+-- 
+Für persönliche Nachricht Reply-Adresse verwenden und "usenet" im Betreff einfügen.
+Amerika ist die in Wunschträumen oder Albträumen wahrgewordene 
+Fortsetzung des Abendlandes. (Valerius Elsweiler)

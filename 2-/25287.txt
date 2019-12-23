@@ -1,0 +1,230 @@
+Faxes Sent to British Parliament logs
+
+During the 1999-2000 period my records indicate that I sent at least 14,480 faxes to the British Parliament
+in Zipf, of which 9,138 went via TPC's email-to-fax service and 5,342 were sent via fax-modem direct from
+my computer. The actual figure is obviously much higher since, for most of this period, whenever a recipient asked to
+be deleted from my mailing list, I totally wiped all entries including that from the logfile.
+
+In the records "Y" indicates successful transmission from fax-modem, "N" indicates failed transmission from fax-modem.
+"E" indicates an error occurred while transmitting via fax-modem and a fax may have been only partly transmitted.
+"y" and "n" indicate success or failure via TPC.
+
+In Februar 2001 I changed the method of operation by recording "R" when a recipient requested removal, rather than
+wiping their details from my mailing list and records; and keeping "B" records for when TPC actioned a ban on a
+recipient's fax-number, but the recipient did not write to ask me to cease faxing. The purpose of these changes
+was to keep more accurate and complete records, but the intention was thwarted by the police complaint.
+
+686937343270	nnnnnynnEnnnnnnYYNNYYYYNENNNNNynynnnnnnnnnNnnnnnnnn
+215396586506	Ägidius
+561515533802	Ägidius
+094552453763	Ägidius
+071282365981	Yvonne
+130498433095	Ägidius
+091992261044	Ägidius
+554925820955	Yasmin
+553216218295	Yolanda
+109313538369	Ägidius
+828048615443	Ägidius
+172066881421	Ägidius
+731860695627	Ägidius
+120282011099	Baedje
+087423200997	nyyyyyyYyyyyyyNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnn
+371985205583	Ägidius
+196412240504	Ägidius
+613862837481	nnynnynyYyyynyyYNYYYYYYYYYYYYYynynynnnnnnNnnnnnnn
+108619609687	Ägidius
+334084743995	Ägidius
+010187764743	Ägidius
+332486401573	Yolande
+590005226269	Karola
+439213748596	Ägidius
+228378951590	Ägidius
+112156117045	Ägidius
+987177702982	Käthe
+977189952113	Ägidius
+015263333948	Yolanda
+097392704832	Ägidius
+962030782817	Ägidius
+081531134533	Ägidius
+476788092886	Ägidius
+409084541273	Yolanda
+503280808804	Käthi
+804290404925	Karoline
+073004281176	Ägidius
+258259381912	Ägidius
+562380788143	Yvonne
+931317372479	Ägidius
+435212710894	Yvette
+776372168345	Ägidius
+892099320384	Ägidius
+345130703716	nynnnnnnYnnynnnNYNNYNYNNNNNYNNnnnnnnnnnnnNnnnnnnn
+797770103624	nnnnnnnnYnnynyyNNNNNNENNNNNNNNnnnnnnnnnnNnnnnnnn
+754091892626	Kathrin
+656275656008	Ägidius
+955168153584	Ägidius
+212054515389	Ägidius
+988989354394	Ägidius
+058889301165	Yasmin
+898030493179	Yasmin
+831866587483	Ubbo
+620515790805	Ägidius
+940174049325	Ägidius
+800820897184	Ägidius
+454216903656	Ägidius
+709347155673	Ägidius
+166504248390	Ägidius
+675460867200	Ägidius
+888706307391	Ägidius
+071918202017	Ägidius
+325147824874	Ägidius
+992719772248	Ägidius
+656361680803	Ägidius
+257354269597	Ägidius
+033192808295	Ägidius
+051680449490	Ägidius
+206978316494	Ullrich
+251410079132	Klaudia
+287872864293	Yasmine
+244175063135	Ägidius
+518101500471	Ueli
+137166507191	Ägidius
+352285869747	Ägidius
+009820232138	Yolande
+389103116951	Ägidius
+456044872276	Ägidius
+832934710666	Ägidius
+615368600065	Ägidius
+338065270998	Yvette
+779626005276	Käthy
+560505757683	Yasmine
+879742823555	Ägidius
+343233735007	Yasmin
+798188506030	Ägidius
+019692056092	yyyyyyyyYynyynyYYYEYYYYYYYYYYEyyyyyyyyynyynyyyyynR
+349650604322	Yasmin
+930913620365	Ägidius
+615097650161	Breunlich
+662247991920	Ägidius
+635438819952	Kathrin
+313916563145	Ägidius
+778583428437	Ägidius
+809907149144	nnnnynynYnnnnnnNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnn
+365666782788	Ägidius
+412823812136	Yasmin
+601194627146	Ägidius
+854927938378	Klaudia
+124867125928	Ägidius
+429606122844	Ägidius
+503478393281	Yasmine
+114589277596	Ägidius
+774602484412	Ägidius
+146815595623	Yasmin
+537549561485	Ägidius
+105151083505	Yvette
+349136701333	Yolande
+923440225891	Ägidius
+038304299914	Ägidius
+309720756923	Yolande
+307368162980	Ägidius
+798307819225	Ägidius
+903667800141	Ägidius
+078902349842	Ägidius
+233053098134	Ägidius
+844270296004	Ägidius
+008741476926	Ägidius
+759061727348	Yolande
+849582520166	Yolanda
+229334098875	Ägidius
+448927200116	Ägidius
+856421682576	Ägidius
+330941715976	Yolande
+326748685750	Ägidius
+805456464604	Yolanda
+921675507807	Ägidius
+205710342097	Ägidius
+602397492368	Yvonne
+207763696097	nnnnnnnyEynnnnYYNYYYYEYENNNNNnyyyyyyyynnNnnnnnnn
+502029979885	Ägidius
+627618839311	Ägidius
+470777626920	Ägidius
+276248377242	Yolande
+246919536120	Ägidius
+806611777364	Ägidius
+151398737754	Ägidius
+635411435121	nnyyyyyyNnnnnnnNYYYYYYEYYYEYYNyyynnynnynnynynnnnn
+217874409190	Ägidius
+007659463384	Ägidius
+071148274534	nnynyyyYynnnnnYYNYYYYYNYYYEYYnyyynnyynnyNnnnnnyB
+195611347700	Ägidius
+514296810445	Ägidius
+623974885079	Ägidius
+830631127077	Yvonne
+182669092191	Ägidius
+109925869943	Ägidius
+324922523098	Ägidius
+379893309692	Ägidius
+607433966080	Ägidius
+130645913608	Yasmin
+757000538097	Ägidius
+443498837509	Ägidius
+225452788806	Ägidius
+967036368634	Ägidius
+115965466375	Käthy
+594600759857	Yolande
+287793223563	Katharina
+457356139537	Ägidius
+237779830862	Ägidius
+341900808805	Yolande
+108992208421	Böcker
+378765163310	Ägidius
+080506681380	Käte
+249510790914	Yolande
+965596220532	Ägidius
+200781707465	Ägidius
+855371344424	Ägidius
+155362844753	Yasmine
+232973514119	Ägidius
+831699746545	Ägidius
+718979981328	Yasmine
+274414643417	nnnnnnnnEnnnnnnEEEEEEEEEEEEEEEnnnnnnnnnnnnnnnnnnn
+693699996266	Karola
+891450852276	Ägidius
+323101736306	Ägidius
+700007296813	Ägidius
+965357235455	Yolande
+041402242273	Ägidius
+857826158122	Ägidius
+021330176183	Käthi
+945717204772	Ägidius
+783112944025	yynnnnnYnnnnnnNNEYYYEYYYNNNYYnyyyyyyyyyyyynynnn
+864583596107	Udo
+237659976517	nnyyyyyYyyyyyYYYYYYYEYYYYENYnnyyyyynnnyyyyyynB
+534467156316	Ägidius
+943516263259	Ägidius
+852168466706	Ägidius
+007989445177	Ubbo
+535712906515	Ägidius
+055352226300	Ägidius
+418902110866	Ägidius
+632683839498	Yasmine
+576639936159	Ägidius
+960708803544	Yvette
+166080824155	Yolande
+463578453669	Yasmine
+285591877054	Ägidius
+787227428625	Yolanda
+997117404357	Yvonne
+791946763300	Ägidius
+427950178744	Yasmin
+949220760640	Ägidius
+450249673054	Ägidius
+618751924153	Karen
+173146975377	Ägidius
+
+556
+
+
+--
+Posted via FOSSIL - Premium Uncensored Newsgroup Service
+      ------->>>>>>http://www.LxnkDrjdh.xtr<<<<<<------
+Unlimited Access, Anonymous Accounts, Uncensored Broadband Access

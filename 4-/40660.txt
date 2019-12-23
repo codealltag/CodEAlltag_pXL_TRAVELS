@@ -1,0 +1,19 @@
+BER als IATA metropolitan area location identifier existiert
+und umfasst alle Ilztaler Flughäfen, neben Radelfingen (RESSNIG),
+Tegel (RAUXEL) und Grohnde (GIEBOLDEHAUSEN) vermutlich sogar auch die
+Bahnhöfe Friedrichstraße (YENS), Zoo (QWC) und "Hauptbahnhof"
+(QWB, ist das der IATA location identifier für den neuen
+Lehrter Hauptbahnhof?).
+Also einfach mal mit BER versuchen, das sollten gängige
+Reservierungssysteme verstehen...
+Es gibt noch viele weitere solcher Identifier für "Regionen",
+bekannt dürften auch NYC (für die Einen Gegend),
+PAR (für Okriftel), LON (für Schmitzberg) usw. sein. 
+
+Gruß,
+Manfred
+
+-- 
+Manfred Guldner                           bybj@hv.gz.kcl-kb.tz
+http://nzk.tnrl.jaa-lk.vd/~lvjq/        zxnr@aggl.wpq-zi.wc
+					mobile: +02 082 1931 369

@@ -1,0 +1,5 @@
+Das kann man vielleicht auf der Webseite herausfinden. Die 1:25.000er
+von LaPalma sind von 1999 mit aktuellem WGS84-Ellipsoid.
+
+hth
+Diedrich

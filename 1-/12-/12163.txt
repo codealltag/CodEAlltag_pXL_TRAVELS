@@ -1,0 +1,61 @@
+Number of threads  ................... 11
+Number of articles  .................. 47
+Average articles per thread  ......... 4,27
+Number of unanswered posts  .......... 4
+Number of posts from XanaNews users .. 0
+
+
+Top Threads
+
+Ranking  Articles  Subject
+-------  --------  ----------------------------
+      1        19  G.u.T.: Zu: Kosmische Impulse und ihr Bezug zu
+Evolution und zuKrankheiten (z.B. Entstehung von Hekler)
+      2         6
+=?ISO-8859-1?Q?G.u.H.:_Wztkbygo_Btjypvbc-Pzseukbvs_sit_pwr_Bw
+E4rke_?==?ISO-8859-1?Q?"Haiti-12.01.2010"_entdeckt:_04._Ju
+li_2011_...?=
+      3         5  Re: Ignore. ..
+      4         5
+=?ISO-8859-1?Q?G=2Eu=2ET=2E=3A_Zunehmende_Erdbebendichte_in_Island_l=E4=
+DFt_a?==?ISO-8859-1?Q?ufkommenden_Vulkanismus_erwarten_...?=
+      5         4  Re: Photo-Beweis: Gebaeude auf dem Mars
+      6         2  Re: G.u.T.: Groessere Sonnenflecken für Oktober
+2010 korrekt vorhergesagt! ...
+      7         2  Re: G.u.T.: Nach
+=?ISO-8859-15?Q?=DCberschwemmungen_und_Erdr?==?ISO-8859-15?Q?utschen_in_
+Mexiko_nun_auch_"Landunter_in_?==?ISO-8859-15?Q?Texas"_..?=
+
+
+Top Posters
+
+Ranking  Articles  Name
+-------  --------  ----------------------------
+      1        15  hbkCobucs-Dbxect
+      2        11  Wolf Rollbühler
+      3         4  Alfred Ingenthron
+      4         3  Kai
+      5         2  Mhiru-en
+      6         2  Kai Zumbrock
+      7         2  Der Rote Quetscher
+      8         1  Hartmut Beddies
+      9         1  Ti-rha
+     10         1  Werner Baeder
+     11         1  Maximilian Renners'
+     12         1  Nico Vennemeyer
+     13         1  Kha-ri
+
+
+Top Newsreaders
+
+Ranking  Articles  Newsreader
+-------  --------  ----------------------------
+      1        20  UIPB Outlook Express
+      2        11  G2
+      3         8  Umesam
+      4         3  Sanitätshaus
+      5         2  Xnews
+
+
+-- 
+Eberhard Dexheimer

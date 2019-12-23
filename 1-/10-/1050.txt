@@ -1,0 +1,17 @@
+Manche Bankmitarbeiter meinen viel wenn der Tag lang ist.
+V-Pay ist einer von zwei Maestro Nachfolgern und kommt von VISA. Im
+Prinzip sollte es an jedem Geldautomaten funktionieren der auch VISA
+Karten akzeptiert.
+(Ich hatte mal vor Jahren eine portugiesische Multibanco Karte,die
+auch ein VISA Symbol auf der Karte hatte, laut Information der Bank
+sollte diese Karte nur in Portugal funktionieren, und trotzdem
+funktionierte sie auch hier in D an Geraeten die VISA-Electron
+konnten.)
+
+
+Ich vermute mal dass das eine VISA Karte ist, da die andere Karte eine
+V-Pay Karte ist.
+
+Atschuess
+
+Carlo

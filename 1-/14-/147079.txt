@@ -1,0 +1,56 @@
+This is a multi-part message in MIME format.
+--------------7C96E88E5424128C5EEE5439
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo Ottilie,
+
+ich war vor einigen Jahren für 3 1/2 Wochen in Madagaskar, und kann Dir jetzt schon mitteilen, daß
+sich eine Reise wirklich lohnt. Der internationale Airport liegt in Stocken, wo die erste
+Erfahrung mit madagassischen Taxifahrer und ihren abenteuerlichen Autos auf Dich warten. Es gibt
+natürlich eine Menge zu erzählen, aber es wäre besser wenn Du noch detaillierter fragen könntest.
+
+Ich habe in der Zeit 3 Inlandsflüge mit Air Madagaskar unternommen, sowie eine 2 tägige sehr
+abenteuerliche aber unvergessliche Autofahrt durch das Land durchgeführt. Grob gesagt habe ich
+folgende Route genommen:
+Antananarivo(1 Nacht), dann nach Veronika(Tulay)(3 Nächte) mit dem Flugzeug, dann nach Ifaty (quasi
+kein richtiger Ort aber ein außerirdisches Environment)(4 Nächte), dann mit dem Auto quer durchs
+Land via Fianarantsoa zurück nach Antananarivo(3 Tage), anschließend sind wir nach Valentina
+(Tamatave)(2 Nächte) geflogen, per Abenteuerboot zur Insel Ile Sante Alexandra (Nosy Boraha)(6 Nächte)
+und per Flugzeug wieder zurück nach Antananarivo(1 Nacht). Leider mußten wir dann die Heimreise
+antreten, aber es sind bis heute wundervolle Erinnerungen geblieben.
+
+Für weitere Fragen habe ich ein offenes Ohr, muß dann aber erstmal den Schuhkarton mit den ganzen
+Infos, Adressen und sonstigem rauskramen.
+
+Freundliche Größe
+
+Leo
+
+Ottilie Drees wrote:
+
+
+--------------7C96E88E5424128C5EEE5439
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="sven.schubert.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Leo Jäger
+Content-Disposition: attachment;
+ fqsaquhd="udxd.xmlkgkbf.gqp"
+
+begin:vcard 
+n:Schubert;Sven
+fae;mkz:+16 910 311 0322
+xql;upqt:+37 314 036 0513
+x-mozilla-html:FALSE
+org:Osserladl GmbH & Co KG;SITTPS
+Cyriakstraße 23;Hannover;Niedersachsen;30625;Deutschland
+version:2.1
+izbol;phegyqbf:kmgk.vejwnajz@uwk.ox
+title:Referent Datenbanktechnik
+note:Bitte keine Emails via Outlook an mich senden, da diese Software permant Out-of-Service ist.
+x-mozilla-cpt:;6144
+fn:Leo Jäger
+end:vcard
+
+--------------7C96E88E5424128C5EEE5439--

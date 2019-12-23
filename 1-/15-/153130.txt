@@ -1,0 +1,42 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------98322B857611C13C8872C654
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Ich kann dir nach 4 Safaga Urlauben nur eins empfehlen, so wenig wie möglich Salate
+und wenn es doch zu diesen Beschwerden kommt, solltest du dir in einer der
+unzähligen Apotheken diese berühmt-berüchtigten blau-roten Kapseln mit dem Namen
+Streptophenicol kaufen. Ich kann dir versichern, daß du nach Einnahme dieser Arznei
+innerhalb eines Tages den stabilsten Magen-Darm Trakt dein eigen nennen kannst. Hat
+mit mal vor ein paar Jahren ein ägyptischer Lehrer namens Ottmar besorgt, ist auf
+jeden Fall in Bezug auf die für Ägypten spezifischen Keime in Wasser und demzufolge
+auch in den Nahrungsmitteln allererste Wahl. Die Einheimischen verwenden es selbst.
+Gruß und weiterhin gut Luft
+Gustav Meierings
+93917 Isenhagen
+
+"Ulfert Mühlrath" schrieb:
+
+
+--------------98322B857611C13C8872C654
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="lou.mergens.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Gustav Meierings
+Content-Disposition: attachment;
+ bimrenno="rhm.ylqbueu.ohn"
+
+begin:vcard 
+n:Mergens;Ludger
+fjd;wibf:+92 583 7900992
+itm;hdf:+30 0269 19806 
+hna;rnmy:+80 1502 05354
+dhp;hhpt:+44 140 3698763
+x-mozilla-html:TRUE
+adr:;;;;;;
+version:2.1
+vzuqq;xagxypuk:fgh.phnlyok@v-bvhtbx.uh
+fn:GIORGIO
+end:vcard
+
+--------------98322B857611C13C8872C654--

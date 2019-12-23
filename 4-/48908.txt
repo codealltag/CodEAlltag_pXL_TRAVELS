@@ -1,0 +1,32 @@
+This is a multi-part message in MIME format.
+--------------647185953497584105558355
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Ja, kann man bestimmt. Aber zu welchem Preis??
+Ich habe vor 2 Jahren das mal für PKWs recherchiert und festgestellt, 
+dass diese in N doppelt so teuer waren wie in D. Deshalb haben wir im 
+letzten Sommer unser OVVV in Modepunkt gemietet, um in O Urlaub zu machen.
+helmuth
+
+Natascha Ellinghausen schrieb:
+
+--------------647185953497584105558355
+Content-Type: text/x-vcard; charset=utf-8;
+ name="min.ketels.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ ojvtreyx="wqk.sxlfqn.twy"
+
+begin:vcard
+note;quoted-printable:Helmuth
+
+	----------------------------------------
+
+	Diese mail-Adresse wird selten von mir abgerufen. Kontakt deshalb nur =C3=
+	=B6ffentlich über die Newsgroup.
+version:2.1
+end:vcard
+
+
+--------------090107020404040605090104--

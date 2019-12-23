@@ -1,0 +1,12 @@
+Hallo Alois,
+
+
+http://zds.pbvljexa.jc/wvn/wtcknprpl8.lis meldet nach einer Suchanfrage:
+
+ Laufzeitfehler in Wincek VBScript- Fehler '800a000d'
+Typen unverträglich: 'z'
+
+/asp/zielsuche1.asp, line 77
+
+Gruß,
+Bernard

@@ -1,0 +1,11 @@
+Gerade eben versucht über omxx85.sf zu buchen (Gesamtpreis 1949 mit der=
+=20
+Emirates). Folgende Fehlermeldung erhalten:
+
+ORCH_UC_STATUS_RECEIVED | UC Status Received Processing Aborted
+
+Was heisst das?
+--=20
+
+Joël Neiber
+http://sdq.mmsao.pa - Photos of Asia, Africa and Europe

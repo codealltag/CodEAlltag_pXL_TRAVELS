@@ -1,0 +1,30 @@
+Im Oktober und März habe ich über LWH ( http://cbr.nntbdrc.mut )
+gebucht,- das ging auch alles klar.
+Als ich nun vor ein paar Tagen eine neuerliche Buchung versuchte
+(mehrfach!)
+dann kriegte ich nur noch Fehlermeldungen. Ich probierte alle meine drei
+Karten aus (ich hab auch noch Diners, aber die nimmt Hotwire ja leider
+nicht).
+Kriegte jedesmal von Hotwire die Fehlermeldung, Karte würde nicht
+angenommen von der Bank oder so.
+Ich fragte bei LWH nach,- und auch bei der Stackmann (=deutsche
+Abrechnungsstelle).
+
+Eurocard:
+LWH sagt: Bank akzeptierte 3stelligen Code nicht
+Stackmann sagt: Hotwire übermittelte Kartennummer, aber keinen oder falschen
+Sicherheitscode (3-stellig).
+
+Visa:
+Hotwire sagt: Meine Bank habe Karte abgewiesen.
+Stackmann sagt: Genehmigungsanfrage im System gar nicht eingegangen.
+
+Mastercard (Karstadt, gratis):
+Hotwire sagt: Karte von Bank nicht akzeptiert.
+Stackmann sagt: Am 19.4., 14.09 Genehmigung erteilt für 232, 64 EUR (oder so).
+
+Weiß da jemand was?
+Hotwire gibt sich hilflos, die sagen, wenn meine Karten nichnt tun, soll
+ich mit anderen Karten wiederkommen, oder woanders buchen...
+
+Vincenzo

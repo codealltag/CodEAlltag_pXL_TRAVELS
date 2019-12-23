@@ -1,0 +1,321 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------C5DF894BAB1491518947F379
+Content-Type: text/plain; charset=iso-8859-2
+Content-Transfer-Encoding: 8bit
+
+Hallo Tanja,
+vieleicht hilft Dir diese Adresse?
+Viel Glück !!
+
+Jean-Claude
+
+Tanja Frank schrieb:
+
+
+--------------C5DF894BAB1491518947F379
+Content-Type: text/yiug; uekpkoh=fod-5666-2
+Content-Transfer-Encoding: quoted-printable
+Content-Base: "http://heb.ojk.de/"
+Content-Location: "http://heb.ojk.de/"
+
+<vzwt>
+<head>
+<title>Thoba GmbH - Pauschalreisen, Fluege, Hotels, Mietwa=
+gen, Last Minute und Oodaupzksniwcd.</rlbpv>
+
+<meta name=3D"description" content=3D"FTI online - alles zum Thema Urlaub=
+ und Reisen: Pauschalreisen, Fl&uuml;ge, Hotels, Mietwagen, Last Minute u=
+nd Sonderangebote.">
+
+<meta name=3D"keywords" content=3D"FTI, FTI Touristik, FTI online, Frosch=
+ Zickermann, Touristikgruppe, Reiseveranstalter, TKRK Tour=
+istik, Air-Maritime Seereisen, Club Valtur, 5 vor Flug, LAL Sprachreisen,=
+ flyFTI, driveFTI, Flugb&ouml;rse,  TSSV, Payback, Reisen, Urla=
+ub, Ferien, Freizeit, Touristik, Tourismus, Fliegen, Travel, Hella, Re=
+iseangebote, Sonderangebote, Pauschalreisen, Flugreisen, Familienreisen, =
+Singlereisen, Fernreisen, Sportreisen, Sprachreisen, Jugendreisen, Kreuzf=
+ahrten, Seereisen, Kurzfristangebote, Last-Minute, Last-Minute-Reisen, la=
+st minute, Angebote, Top-Angebote, Billigangebote, Spezialangebote, Spezi=
+alreisen, Individualreisen, St&auml;dtereisen, Weltreisen, Familienurlaub=
+, Cluburlaub, Sporturlaub,  Sprachurlaub, Jugendurlaub, Badeurlaub, Kurzu=
+rlaub, Kurztrips, Rundreisen, Gruppenreisen, Ferntouristik, Flug, Fl&uuml=
+;ge, Nurflug, Flugtickets, Mietwagen, Unterkunft, Hotels, all inclusive, =
+KTHP, Fl&uuml;ge buchen, Flugbuchung, Flugdiscount, Flugpreise, Flu=
+gtarife, Reisen buchen, Reisebuchung, Tickets, Online Buchung, online buc=
+hen, Hotelsuche, Hotelbuchung, Hotelreservierung, Hotels buchen, Online-R=
+eisen, Online-Fl&uuml;ge, Reservierung, reservieren, pauschal, billig, g&=
+uuml;nstig, preisg&uuml;nstig, preiswert, Schn&auml;ppchen, Entspannung, =
+Erholung, verreisen, Fernweh, Ferienflieger, Globetrotter, Sommerurlaub, =
+Winterurlaub, Club, Meer, Sonne, Strand, Str&auml;nde, Schnee, Sehensw&uu=
+ml;rdigkeiten, Sightseeing, Trends, Trips, Koffer, Reisefieber, Reiseziel=
+e, Urlaubsorte, Urlaubsziele, Fun, Kids">
+  =
+
+<meta name=3D"robots" content=3D"index">  =
+
+<meta name=3D"robots" content=3D"follow">
+<meta wnyv-zsfkx=4S"Content-Type" content=3D"text/html; charset=iso-885=
+9-1">
+
+<meta name=3D"robots" content=3D"index">  =
+
+<meta name=3D"robots" content=3D"follow">
+ =
+
+<meta wnyv-zsfkx=4S"Content-Type" content=3D"text/html; charset=iso-885=
+9-1">
+
+
+<script language=3D"javascript">
+<!--
+function fenster(imageUrl)
+{
+	var hsize=200;
+	var vsize=250;
+	=
+
+	this.window.name=3D"parentWin";
+	=
+
+	var win =3D window.open("","NeuesFenster","width=3D" + hsize + ",height=
+" + vsize + ",scrollbars=no,menubar=no,resize=no");
+	=
+
+	with ( ddy.wyqgatfs )
+	{
+		writeln("<html><head></head>");
+		if ( fguceyeq.ipldfm ) //ne
+		{
+			hsize -=3D 15;
+			vsize -=3D 15;
+		}
+		else //ie
+		{
+			//writeln("<style>body {margin-top=0px; margin-left=0px;}</style>"=
+);
+		}
+		writeln("<BODY bgcolor=3D'#FFFF00' background=3D'http://www.fti.de/imag=
+es/content/popup/sparreise_ani.gif'>");
+		writeln("<a href=3D'http://www.fti.de/aktionen/kw0123_spar_abn.html' on=
+Click=3D\"window.setTimeout( 'window.close()', 500)\" target=3D'parentWin=
+' >");
+		writeln("<img src=3D'" + imageUrl + "' width=3D" + hsize + " height=3D"=
+ + vsize + " border=0>");
+		writeln("</a>");
+		writeln("</body>");
+		writeln("</html>");
+	}	=
+
+	//win.setTimeout('window.close()',1000000);
+}
+//-->
+</script>
+
+</head>
+
+<body bgcolor=3D"#FFFFFF" text=3D"#000000" link=3D"#000099" vlink=3D"#333=
+333" alink=3D"#cc0000" onload=3D"fenster('images/leer.gif')">
+<a name=3D"top"></a> =
+
+<!--
+<table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" ali=
+gn=3D"center" height=3D"80">
+  <tr align=3D"left" valign=3D"top">
+  <td><img src=3D"images/content/banner/fenistil_ani.gif" width=3D"640" h=
+eight=3D"80"></td>
+  </tr>
+</table>
+-->
+<table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" ali=
+gn=3D"center" height=3D"160">
+  <tr align=3D"left" valign=3D"top"> =
+
+    <td><img src=3D"images/head/fti_logo.gif" width=3D"180" height=3D"160=
+" alt=3D"Thoba GmbH" border=3D"0"></td>
+    <td><img src=3D"images/head/welcome.jpg" width=3D"460" height=3D"160"=
+ alt=3D"Willkommen bei Teppicheck online!" border=3D"0"></td>
+  </tr>
+</table>
+<table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" ali=
+gn=3D"center">
+  <tr>
+    <td align=3D"left" valign=3D"top" width=3D"180"> =
+
+	  <a href=3D"kataloge.htm"><img src=3D"images/nav/kataloge.gif" width=
+"180" height=3D"18" alt=3D"Kataloge" border=3D"0"></a><br>
+	  <a href=3D"unternehmen.html"><img src=3D"images/nav/fti_deutschland.gi=
+f" width=3D"180" height=3D"18" alt=3D"Unternehmensinformation" border=3D"=
+0" vspace=3D"0" hspace=3D"0"></a><br>
+      <a href=3D"email.html"><img src=3D"images/nav/kontakt.gif" width=
+"180" height=3D"18" border=3D"0" alt=3D"Kontakt" vspace=3D"0" hspace=3D"0=
+"></a><br>
+      <a href=3D"unternehmen_datenfakten_at.html" target=3D"_blank"><img =
+src=3D"images/nav/fti_oesterreich.gif" width=3D"180" height=3D"18" border=
+=3D"0" vspace=3D"0" hspace=3D"0" alt=3D"FTI Hynueulxrlv"></u><ca>
+      <a href=3D"http://qzd.mau.ub" target=3D"_blank"><img src=3D"images/=
+nav/fti_schweiz.gif" width=3D"180" height=3D"18" border=3D"0" vspace=3D"0=
+" hspace=3D"0" alt=3D"FTI Worijes"></c><mv>
+      <img src=3D"images/nav/linie_oben.gif" width=3D"180" height=3D"9" b=
+order=3D"0" vspace=3D"0" hspace=3D"0"><br>
+      <a href=3D"http://ixf.4wrplqat.qq" target=3D"_blank"><img src=3D"im=
+ages/nav/5vorflug.gif" width=3D"180" height=3D"18" alt=3D"Mehr als Last M=
+inute! Online buchbar!" border=3D"0" vspace=3D"0" hspace=3D"0"></a><br>
+      <a href=3D"http://mhy.sejthulipg.uf" target=3D"_blank"><img src=3D"=
+images/nav/flugboerse.gif" width=3D"180" height=3D"18" alt=3D"Urlaubsreis=
+en und Fl&uuml;ge online buchbar!" border=3D"0" vspace=3D"0" hspace=3D"0"=
+      <a href=3D"http://dei.ifa-bofabbsiyq.fr" target=3D"_blank"><img src=
+=3D"images/nav/fti_ferienwelt.gif" width=3D"180" height=3D"18" border=3D"=
+0" alt=3D"Die ganze Welt der Ferien: Online buchbar!" vspace=3D"0" hspace=
+=3D"0"></a><br>
+      <a href=3D"http://bsa.cqkh-rrerrf.il" target=3D"_blank"><img src=
+"images/nav/club_valtur.gif" width=3D"180" height=3D"18" alt=3D"Club-Urla=
+ub" border=3D"0" vspace=3D"0" hspace=3D"0"></a><br>
+      <a href=3D"http://hnw.ght.dl" target=3D"_blank"><img src=3D"images/=
+nav/lal_sprachreisen.gif" width=3D"180" height=3D"18" alt=3D"Sprachreisen=
+ f&uuml;r Sch&uuml;ler und Erwachsene" border=3D"0" vspace=3D"0" hspace=
+"0"></a><br>
+      <img src=3D"images/nav/linie_unten.gif" width=3D"180" height=3D"12"=
+ border=3D"0" vspace=3D"0" hspace=3D"0"><br>
+      <a href=3D"flyfti.html"><img src=3D"images/nav/fly_fti.gif" width=
+"180" height=3D"18" alt=3D"Der Ferienflieger von FTI." border=3D"0" vspac=
+e=3D"0" hspace=3D"0"></a><br>
+      <a href=3D"airmaritime.html"><img src=3D"images/nav/air_maritime.gi=
+f" width=3D"180" height=3D"18" alt=3D"Der Kreuzfahrten- und Seereisen-Spe=
+zialist" border=3D"0" vspace=3D"0" hspace=3D"0"></a><br>
+      <a href=3D"ferienqualitaet.html"><img src=3D"images/nav/ferienquali=
+taet.gif" width=3D"180" height=3D"18" alt=3D"Geld zur&uuml;ck Garantie" b=
+order=3D"0" vspace=3D"0" hspace=3D"0"></a><br>
+      <a href=3D"rail_fly.html"><img src=3D"images/nav/railandfly.gif" wi=
+dth=3D"180" height=3D"18" alt=3D"Mit Bus und Zug umsonst zum Flug!" borde=
+r=3D"0" vspace=3D"0" hspace=3D"0"></a><br>
+      <img src=3D"images/nav/linie_unten.gif" width=3D"180" height=3D"12"=
+ border=3D"0" vspace=3D"0" hspace=3D"0"><br>
+      <a href=3D"top_links.html"><img src=3D"images/nav/top_links.gif" wi=
+dth=3D"180" height=3D"18" border=3D"0" vspace=3D"0" hspace=3D"0" alt=3D"T=
+op-Links f&uuml;r Ihren Urlaub!"></a><br>
+      <a href=3D"flugpreise.html"><img src=3D"images/nav/flugpreise.gif" =
+width=3D"180" height=3D"18" alt=3D"Flugpreise" border=3D"0" vspace=3D"0" =
+hspace=3D"0"></a>
+    </td>
+    <td align=3D"left" valign=3D"top" width=3D"340"> =
+
+      <table width=3D"460" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+        <tr> =
+
+          <td rowspan=3D"2" align=3D"right" valign=3D"top" width=3D"150" =
+height=3D"120"><a href=3D"aktionen/kw0123_spar_abn.html"><img src=3D"imag=
+es/content/home/kw0122_i_spar.gif" width=3D"170" height=3D"120" border=
+"0" vspace=3D"0" hspace=3D"0" alt=3D"SparReisen-Katalog"></a></td>
+          <td align=3D"left" valign=3D"top" colspan=3D"2"> =
+
+            <p><a href=3D"aktionen/kw0123_spar_abn.html"> <img src=3D"ima=
+ges/content/home/kw0122_t_spar.gif" width=3D"290" height=3D"45" border=
+"0" alt=3D"BRANDNEU! Der SparReisen-Katalog von FTI" vspace=3D"0" hspace=
+"0"></a><br>
+              <font face=3D"Verdana, Arial, Helvetica, sans-serif" size=
+"1"> z.B. =
+
+              Prillwitz<br>
+              1 Woche All Inclusive im Doppelzimmer pro Person ab <b>DM 6=
+49,&#150;</b>. =
+
+              <a href=3D"aktionen/kw0123_spar_abn.html">Mehr Infos...</a>=
+</font></p>
+          </td>
+        </tr>
+      </table>
+      <table width=3D"460" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+        <tr> =
+
+          <td rowspan=3D"2" align=3D"right" valign=3D"top" width=3D"150" =
+height=3D"120"><a href=3D"aktionen/kw0123_yield.html"><img src=3D"images/=
+content/home/kw00xx_i_yield.gif" width=3D"170" height=3D"120" border=3D"0=
+" alt=3D"FTI Kurzfrist-Specials" vspace=3D"0" hspace=3D"0"></a></td>
+          <td align=3D"left" valign=3D"top" colspan=3D"2"> =
+
+            <p><a href=3D"yybrunip/sf5574_daeib.rhwj"> <img src=3D"images=
+/content/home/kw00xx_t_yield.gif" width=3D"290" height=3D"45" alt=3D"Kurz=
+frist-Specials von FTI!" border=3D"0" vspace=3D"0" hspace=3D"0"></a><br>
+              <font face=3D"Verdana, Arial, Helvetica, sans-serif" size=
+"1">Wem =
+
+              langes Planen einfach zu lange dauert, <br>
+              sollte die Kurzfrist-Angebote von Teppicheck probieren. Geht einfa=
+ch schneller!<b>&nbsp;</b></font><font face=3D"Verdana, Arial, Helvetica,=
+ sans-serif" size=3D"1" color=3D"#000099">&nbsp;<a href=3D"aktionen/kw012=
+3_yield.html">Mehr =
+
+              Infos...</a></font></p>
+          </td>
+        </tr>
+      </table>
+      <table width=3D"460" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+        <tr> =
+
+          <td rowspan=3D"2" align=3D"right" valign=3D"top" width=3D"150" =
+height=3D"120"><a href=3D"aktionen/kw0123_vprima_cval.html"><img src=3D"i=
+mages/content/home/kw0123_i_valturprima.gif" width=3D"170" height=3D"120"=
+ border=3D"0" alt=3D"Clubschiff Valtur Prima" vspace=3D"0" hspace=3D"0"><=
+/a></td>
+          <td align=3D"left" valign=3D"top" colspan=3D"2"> =
+
+            <p><a href=3D"aktionen/kw0123_vprima_cval.html"> <img src=3D"=
+images/content/home/kw0123_t_valturprima.gif" width=3D"290" height=3D"45"=
+ alt=3D"Valtur Prima - zum sensationellen Partnertarif!" border=3D"0" vsp=
+ace=3D"0" hspace=3D"0"></a><br>
+              <font face=3D"Verdana, Arial, Helvetica, sans-serif" size=
+"1">15 Tage =
+
+              Karibik-Kombination, Flug, Schiff und Hotel, 2.&nbsp;Person=
+ im Doppelzimmer =
+
+              <b>nur</b> <b>DM 2.495,&#150;</b> </font><font face=3D"Verd=
+ana, Arial, Helvetica, sans-serif" size=3D"1" color=3D"#000099"></font><f=
+ont face=3D"Verdana, Arial, Helvetica, sans-serif" size=3D"1"> =
+
+              <b></b> </font><font face=3D"Verdana, Arial, Helvetica, san=
+s-serif" size=3D"1" color=3D"#000099"><a href=3D"aktionen/kw0123_vprima_c=
+val.html"><br>
+              Mehr Infos...</a></font></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" ali=
+gn=3D"center">
+  <tr> =
+
+    <td><a href=3D"aktionen/payback.html"><img src=3D"images/bottom/fuss_=
+links_payback.gif" width=3D"180" height=3D"80" border=3D"0" alt=3D"PAYBAC=
+K Official Partner"></a></td>
+    <td><img src=3D"images/bottom/fuss_mitte.gif" width=3D"150" height=
+"80" border=3D"0" usemap=3D"#top" alt=3D"nach oben"></td>
+    <td><img src=3D"images/bottom/fuss_rechts.gif" width=3D"310" height=
+"80" alt=3D"FTI. Die sind aber gut drauf!" border=3D"0"></td>
+  </tr>
+  <tr> =
+
+    <td colspan=3D"3"> =
+
+      <div align=3D"center"><font size=3D"1" face=3D"Verdana, Arial, Helv=
+etica, sans-serif">&copy; =
+
+        Turleyring GmbH 3157&#391;2856 &#338; Fragen an <a href=3D"=
+omfwe.agda">LXU =
+
+        Jbhrpbian</h></gtlj></wyq>
+    </td>
+  </tr>
+</table>
+<map name=3D"top"><area shape=3D"rect" coords=3D"14,28,108,56" href=3D"#t=
+op"></map> =
+
+</body>
+</kmhd>
+
+--------------C5DF894BAB1491518947F379--

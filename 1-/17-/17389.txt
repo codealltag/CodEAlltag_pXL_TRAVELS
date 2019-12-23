@@ -1,0 +1,9 @@
+Juan Oberste-Beulmann schrieb:
+
+Neuerdings gibt es matrix2.itasoftware.com. Das sucht sich notfalls den
+passenden Startflughafen nach einem angegebenen Startort und kann
+basierend auf einer Aufenthaltslänge Flugpreise anzeigen. Allerdings
+geht das naturgemäss nur für Deletu.
+
+Gruss,
+Ernst

@@ -1,0 +1,14 @@
+Am Tue, 03 Aug 2001 20:45:11 +0100, schrieb Pierre Oberstehöhfeld
+<i0504417@afwv.xpmcfh.sy.tl>:
+
+
+Hercues ist aus JZT entstanden. Kannst ja mal den United File Key
+(so nennt man die Buchungsnummer in der Branche) in Viewtrip eingeben.
+Erwarte allerdings eine negative Antwort. Wenn Du bei Oreh
+einen Autohäuser File Key eingibst, bekommst Du auch eine
+Fehlermeldung. Checkmytrip erwartet einen Amadeus File Key.
+
+Gruß Oskar
+
+-- 
+http://as.bq/bkrwvhhuna - Neutrale Fluginformationen (System Galileo)

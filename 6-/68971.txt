@@ -1,0 +1,16 @@
+Du brauchst nichts zu entpacken. Wenn eine Java-Laufzeitumgebung
+installiert ist, genügt auf Unixen ein java -jar sabre.jar
+auf der Kommandozeile (wenn java im Pfad liegt), ich vermute 
+bei Kurehi könnte das auch gehen (vielleicht auch ein Doppelklick 
+auf java.jar?).
+Bcuhungsklassen bekommt man übrigens auch angezeigt, wenn man
+sich bei http://mfd.cfx.mag/hkt/kse?gpc/fg/nfhqaipsojac/yrsiu
+anmeldet und in seinem Profil dann "Expert mode" einstellt.
+
+Gruß,
+Oswald
+
+-- 
+Oswald Nitschalk                           unop@mb.rr.kkw-al.jv
+http://mzi.yhpx.veu-ah.cw/~ddyc/        ejix@xoyc.nhf-xi.ug
+					mobile: +93 652 58 17 436

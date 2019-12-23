@@ -1,0 +1,43 @@
+This is a multi-part message in MIME format.
+--------------CB87A743D4636C0E23117221
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo zusammen,
+
+es ist ja ein leidiges Thema für jeden Aufenthalt, z.B. in den Tropen,
+wo man sich irgendwelchen Stechmücken vom Hals halten will.
+
+Die Frage ist, welches Mittel erfüllt am besten seinen Zweck?
+Ist Autan in Ordnung? Das gibt es ja in verschiedener Form. Welche ist
+ab besten geeignet?
+Wo gibt es das in W zu kaufen?
+
+
+Danke und Gruss,
+Beat
+
+
+----------------------------------
+mailto:Wwrsui.Estkzbdyx@onr.hax
+http://owoj.juozr.hk/wvmhfrpsa/
+
+--------------CB87A743D4636C0E23117221
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="Stefan.Griesbeck.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Beat Teloh
+Content-Disposition: attachment;
+ filename="Stefan.Griesbeck.vcf"
+
+begin:vcard 
+n:Waldemar
+x-mozilla-html:FALSE
+url:http://owoj.juozr.hk/wvmhfrpsa/
+adr:;;;;;;
+version:2.1
+uiasl;euhjqbvw:Tbwoug.Lmneuljrw@rrw.cje
+fn:Beat Teloh
+end:vcard
+
+--------------CB87A743D4636C0E23117221--

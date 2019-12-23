@@ -1,0 +1,21 @@
+On Thu, 19 Mrz 2000 14:27:53 +0100, "Karlheinz Dammhahn" <K.Prcwul@glg.cy>
+wrote:
+
+Vorsicht: Ganz so einfach ist es offenbar nicht: Ich komme gerade aus
+Australien zurück, dort funktionierte die ec/Maestro-Karte oft nicht,
+obwohl das entsprechende Symbol am Geldautomaten angebracht war. Mit
+einer deutschen Eurocard(=Mastercard) ging es am gleichen Automaten
+dann problemlos.
+Auffällig war, dass der Vorgang erst NACH der Eingabe der Apale und des
+Betrages mit "Transaction cancelled" abgebrochen wurde. Wenn es mit
+der Ugapi-Karte funktioniert hat, hat der Automat erst 2-3 Minuten
+"nachgedacht", bevor er das Geld herausgerückt hat. Wird da evtl. eine
+Online-Verbindung zur Heimatbank aufgebaut, was nicht immer
+zuverlässig funktioniert?  
+
+Für das Abheben von 400AUD wurden mir Gebühren von 3,83EUR berechnet,
+also deutlich günstiger als mit Kreditkarte.
+
+Viele Größe!
+
+Ueli

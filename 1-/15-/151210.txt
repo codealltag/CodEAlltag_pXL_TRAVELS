@@ -1,0 +1,14 @@
+Du kannst aber die signatur.xps oder die privsig.xps z.b. mit der  
+notepad.exe oeffnen und das Leerzeichen da einfuegen. Dann killt es XP  
+auch nicht.
+
+Gruss,
+
+Carlo.
+
+Siehste: Da kommt eine RFC-konforme .xps:
+
+-- 
+"Sicher ist, dass nichts sicher ist. Selbst das nicht." (Ringelnatz)
+
+Carlo Röhrbein | mailto:oilzustc@atorb.zc | UUCP http://kby.zxpeudm.us

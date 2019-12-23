@@ -1,0 +1,21 @@
+Pietro Drosten schrieb:
+
+
+Wahrscheinlich. Zwar ist Drehscheibe Online nicht in der Lage, valides
+HTML zu erzeugen, aber die Fehler sind recht harmlos, sie entstehen beim
+Durcheinanderwerfen verschiedener Dokumenttypen.
+
+Da die Browser alle diese Typen kennen, werden fast alle von ihnen 
+erraten können, was der Webmaster gemeint hat.
+
+Dieses Niveau ist weit überdurchschnittlich.
+
+
+Ernest
+
+
+-- 
+Erfahrung ist ja bekanntlich das Wissen, das einen befähigt, einen Fehler
+wiederzuerkennen, wenn man ihn zum zweiten Mal macht. 
+
+        Leonhard Fremgen am 12. 11. 2007 in de.etc.bahn.eisenbahntechnik

@@ -1,0 +1,22 @@
+Da werden nur bereits "belegte" Plätze angezeigt. "Belegte" Plätze
+sind Plätze, die bereits zu einer Reservierung vergeben wurden oder
+solche, die "geblockt" sind (also nicht vor Check-In vergeben werden
+können). 
+Es wird aber nicht zu jeder Reservierung/Buchung schon vor dem
+Check-In auch ein Platz vergeben, das hängt letztendlich von den 
+Gepflogenheiten der Fluggesellschaft, der Freundlichkeit des 
+Flugvermittlers oder der Eigeninitative des Kunden ab...
+
+
+Wann soll es denn von wo nach wo gehen?
+Nach meinen Erfahrungen wird es deutlich voller als auf diesen
+Sitzpläne vorab einsehbar, da anscheinend die meisten Sitze doch
+erst beim Einchecken vergeben werden.
+
+Gruß,
+José
+
+-- 
+José Lüticke                           bbnt@sl.wz.sox-su.mc
+http://iib.jbea.ahi-qw.to/~jlnh/        vrct@dtmv.aki-vq.ni
+					mobile: +85 769 0030 678

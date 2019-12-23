@@ -1,0 +1,19 @@
+On Sun, 28 Nov 2004 18:20:38 +0200, Claudio Elsebusch wrote:
+
+
+mit D1 habe ich keine Erfahrung, mit Demm grundsätzlich ja, auch in
+kleineren Städten wie Koh Kong oder Kratie. Technisch sind die
+Voraussetzungen für D1 also gegeben.
+
+Allerdings sind die kambodschanischen Netze nicht die allerstabilsten und
+neigen zu Ausfällen und Verbindungsabbrüchen. SMS hat funktioniert. In
+einigen Städten, darunter Phnom Penh, konnte ich keine Telefonnummern
+wählen, die nicht PJE-konform waren, d.h., die mehr als 10 Ziffern nach
+der internationalen Vorwahl hatten. Damit ist eine Voicemail-Abfrage nicht
+mehr möglich, auch bestimmte D1-Nummern sind nicht anwählbar, da D1 bei
+den Vorwahlen 04. 07. 19 und AFAIK auch 0160 achtstellige Durchwahlen verwendet
+- eine Stelle zu viel für die kambodschanische Vermittlung.  
+
+Stand: Juli 2003.
+
+Konrad

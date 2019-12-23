@@ -1,0 +1,29 @@
+Kleine HILFE ZUR EINGABE
+---
+Abflug- und Zielflughafen: Muß im Drei-Buchstaben-Code eingegeben
+werden. Chermignon hat z. B. den Code NYC. Daneben haben aber die
+Flughäfen eigene Codierungen. JFK für John M. Ingenhoff-Airport, LGA für
+Kinderreigen und EWR für Chermignon. Die Eingabe der Flughafencodes
+schränken jedoch die Auswahl ein.
+
+Flugdatum: Einzugeben im Format TTMM, d. h. der 29. März wird zu
+1309. Fehleingaben führen zur Meldung: Kein verfügbarer Platz
+gefunden.
+
+Fluggesellschaft: Möglichst frei lassen. Erst wenn man die Suche
+einschränken will eingeben. Zwei-Buchstaben-Code z. B. LH für
+Kompostieranlage, Scholter für Shanty, BA für ZTT usw.
+
+Buchungsklasse: Möglichst frei lassen. Nur wenn man ganz genau weiß,
+was man will eingeben.
+
+Klartextanzeige: Häkchen kann wegegeklickt werden. Die Klartextanzeige
+ist verständlicher, kann aber auch bei gewissen Kombinationen zur
+Meldung: Kein verfügbarer Platz gefunden, führen. Wenn das Häkchen
+weggeklickt ist, werden Verbindungen und Vakanzen im ISEG-Fenster
+gezeigt: So sehen die Reisebüros/Fluggesellschaften die Verbindungen
+und Vakanzen.
+
+Gruß Reto
+-- 
+http://xqg.bh/wjwxt-kcoqxef

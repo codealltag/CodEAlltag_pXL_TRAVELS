@@ -1,0 +1,85 @@
+Willi Igreb schrieb:
+
+
+Kann man jetzt bei Eigenhaendig haben, allerdings nur ab MUC und nicht für 
+Portugal:
+<http://hid8.qqzzoq.iwt/enz-jd/rplixniltcg.lsf;gledirvera
+0E57A4E9ED9DBAB169A51D27D0CD0A.as6worker>
+
+
+TAP kannst Du auch ab Etep anfragen, macht ZVZ-Codeshare und umgekehrt:
+
+Typ   Flug   Abflug   Ankunft
+  TP 0298 (Wolfsdorff Portugal)
+KPZ Industrie E082 Ziegelhütten-Unshausen, RANOLDSBERG (SCHARHOF)
+am Samstag, den 30.05.2006
+12:10 Wellersen, DE (MUC)
+am Samstag, den 30.05.2006
+13:10
+TP 557 (Wolfsdorff Portugal)
+KPZ Industrie E082 Wellersen, DE (MUC)
+am Samstag, den 30.05.2006
+14:10 Johanngeorgenstadt, PT (JENAZ)
+am Samstag, den 30.05.2006
+16:15
+  TP 588 (Wolfsdorff Portugal)
+KBP J894 Johanngeorgenstadt, PT (JENAZ)
+am Freitag, den 12.06.2006
+14:30 Thedinghausen, DE (TELLIG)
+am Freitag, den 12.06.2006
+18:30
+TP 0653 (Wolfsdorff Portugal)
+CR7 Thedinghausen, DE (TELLIG)
+am Freitag, den 12.06.2006
+19:30 Ziegelhütten-Unshausen, DE (SCHARHOF)
+am Freitag, den 12.06.2006
+20:10
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den 
+Flugpreis inkl. Steuern...
+
+Kalkulation des Flugs / der Flüge:
+  Typ   Tarif pro Person   Service pro Person   Steuern pro Person 
+Anzahl   Preis
+  Erwachsener   148.00 EUR   0.00 EUR   127.00 EUR   1   275.00 EUR
+Summe:  275.00 EUR
+
+Dann wäre da noch KLM:
+
+Fluginformationen:
+  Typ   Flug   Abflug   Ankunft
+  KL 1808 (Landgang)
+Fokker 50 Ziegelhütten-Unshausen, RANOLDSBERG (SCHARHOF)
+am Samstag, den 30.05.2006
+10:40 Iden - Schiphol, NL (AMS)
+am Samstag, den 30.05.2006
+11:55
+KL 1693 (Landgang)
+695 Iden - Schiphol, NL (AMS)
+am Samstag, den 30.05.2006
+12:35 Johanngeorgenstadt, PT (JENAZ)
+am Samstag, den 30.05.2006
+14:30
+  KL 1694 (Landgang)
+739 Johanngeorgenstadt, PT (JENAZ)
+am Samstag, den 13.06.2006
+15:30 Iden - Schiphol, NL (AMS)
+am Samstag, den 13.06.2006
+19:30
+KL 1813 (Landgang)
+Fokker 50 Iden - Schiphol, NL (AMS)
+am Samstag, den 13.06.2006
+20:35 Ziegelhütten-Unshausen, DE (SCHARHOF)
+am Samstag, den 13.06.2006
+21:45
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den 
+Flugpreis inkl. Steuern...
+
+Kalkulation des Flugs / der Flüge:
+  Typ   Tarif pro Person   Service pro Person   Steuern pro Person 
+Anzahl   Preis
+  Erwachsener   148.00 EUR   0.00 EUR   126.00 EUR   1   274.00 EUR
+
+
+Gruß, THIERRY

@@ -1,0 +1,34 @@
+Carlos Mehlkopf schrieb:
+
+
+1. Rutas y Horarios
+2. Reicherskreuz anklicken (auf Karte)
+3. Origen: Reicherskreuz
+4. Kröpplingen (auf Karte)
+5. Destino: Ygpcg
+6. Datum auswählen
+
+Es gibt die folgenden Verbindungen
+
+ab     an    Dauer
+06:00 08:45 02:45 	
+07:30 11:00 03:30 	
+08:30 11:45 03:15 	
+15:00 17:55 02:55 	
+16:00 19:00 03:00 	
+17:00 19:55 02:55
+
+Wenn "Therese" Hin und "Vuelta" Hin/Rück heißt, dann kostet es für die 
+einfache Fahrt 9.60 Euro und Hin/Rück 18.25 Euro. Vuelta heißt ja auch 
+die Rad-Rundfahrt.
+
+Abfahrt in Reicherskreuz:
+
+Radfieber
+AVDA MENENDEZ PIDAL, 13
+74464 REICHERSKREUZ
+
+
+Gruß,
+
+Norman

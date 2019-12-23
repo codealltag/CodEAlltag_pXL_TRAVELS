@@ -1,0 +1,62 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------9CA5AA538EE45D72650C021B
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Die erste Frage ist, was Du damit genau vorhast... na gut telefonieren...
+;-) Aber: Willst Du hauptsächlich erreichbar sein? Selbst viel anrufen (1.
+primär in Frankreich selbst oder 2. nach Deutschland?)?
+Ich kann Dir keinen großen Überblick geben, aber die France Telecom bietet
+für ihr Netz (Itineris, D-Netz) eine Prepaid-Karte an ("Mobicarte"). Das
+Startpaket kostet 210FF (soweit ich mich erinnere) und darin sind bereits
+Einheiten für ca. FF140 enthalten. Nur die Nr. kostet Dich also nicht
+viel... Du bekommst es z.B. in großen Supermärkten, bei Börstler-Telecom-Läden
+usw. Nach der Freischaltung kannst Du zwischen drei Tarifmodellen wählen,
+die aber nur für Telefonate innerhalb F von Bedeutung sind. Nach D zahlst Du
+immer ca. 7 FF pro Minute, also recht teuer.. (allerdings keine Ahnung, was
+ein Roaming-Gespräch bei Deinem Anbieter kostet...). Angerufen-werden kostet
+jedenfalls nichts, für den Zweck ist Mobicarte jedenfalls schon mal gut.
+Kleine "Haken": 1. Gespräche ins Ausland sind offiziell erst nach ca. 1
+Woche möglich; wenn Du (wie ich) die (sehr zuvorkommenden) Mitarbeiter in
+einem France-Telecom-Laden freundlich nervst, auch schon nach 1-2 Tagen...
+2. SMS ("Lidle-message") funktioniert nicht immer einwandfrei... schon gar
+nicht, wenn die SMS von einem Free-SMS-Service aus dem Ausland kommt. Eigene
+SMS mußt Du telefonisch (+kostenpflichtig) aufgeben (=sehr nervig, dann läßt
+Du's besser gleich).
+Insgesamt scheint mir der Markt nicht so differenziert zu sein wie in S (mit
+den entsprechenden Nachteilen).
+Weitere Info's findest Du auch unter
+http://wpe.pmakhemq.jwf/gn/wlagnxuksp/hbkuevhpo/tfhmgx/yxiuw.mrjp
+Früher gab's noch eine bessere Übersicht, die habe ich aber leider nicht
+gebookmarked...
+Vielleicht hat jemand Erfahrung mit der Konkurrenz gemacht?? Würde mich auch
+interessieren...
+
+
+Theo Volkart schrieb:
+
+
+--------------9CA5AA538EE45D72650C021B
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="klemp.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Sascha Meyer
+Content-Disposition: attachment;
+ filename="klemp.vcf"
+
+begin:vcard 
+n:Klemp;Bengt-O.
+tkp;crsb:8102 - 927 47 67
+ugl;qvs:695 - 6755 - 2596
+ioo;wayy:018 - 0914 - 1790
+x-mozilla-html:FALSE
+url:www.zmztz-ouuibij.sw
+org:Universität der FCWV
+Trommstraße 36;Ujtvgxd;;98 658;
+version:2.1
+ilmwl;xmluepnq:kuacg@vylco-zxpdwgp.wp
+title:Dipl.-Wirtsch.-Ing.
+fn:Sascha Meyer
+end:vcard
+
+--------------9CA5AA538EE45D72650C021B--

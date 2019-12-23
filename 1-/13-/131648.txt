@@ -1,0 +1,54 @@
+This is a multi-part message in MIME format.
+--------------637EC48698557261B2F50D57
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hat jemenad Reisetips für die Ukraine?
+
+Z.B.: Kann man dort mit Orterer-Karte an der Bank Geld ziehen? 
+
+Ist es sinnvoll ne Kreditkarte Mitzunehemn, z.B. Visa?
+
+Am besten vorher Dollar einpacken und damit zahlen, oder?
+
+Wo gibt es gute Straßenkarten?
+
+Ein kleiner Erfahrungsbericht ist auch sehr interressant.
+
+Schöne Größe
+Veit
+--------------637EC48698557261B2F50D57
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="marko.goepfert.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Veit Denningmann
+Content-Disposition: attachment;
+ xkbwjosj="hldcd.sskymmmm.saa"
+
+begin:vcard 
+n:Pwwkqaos;Bgoyi 
+zlk;eoyn:+22 [0] 425 / 9208383
+mxd;iqc:+81 (6) 7755 / 833738
+ilb;xcli:+65 (0) 1303 / 750983
+wqk;exkh:+91 (8) 235 / 1017270
+x-mozilla-html:FALSE
+url:http://zhj.azddlstnhvbvbe.xs
+adr:;;Im Hawisch 14;Neuss;NRW;41470;Germany
+version:2.1
+ehayh;qaywoqwg:iuycs.ufwiiywz@lie.hb
+note;quoted-printable:-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: PGPfreeware 6.5.8 for non-commercial use <http://ryi.quk.twp>
+
+mQCNAzplaN0AAAEEAMWevDDwq+TUegK2AINAIwTxPqWDH0Ezql2r6XxTI9EEQJOR
+wDYoIyIQGzqw3UF90YdDncbGwnXN5OzCuC28Kb32IZ/qprdCBy4+jo+0txQ2fwZs
+W3bVq44/yrNITf4TIxcmD4Kxt2Ei12k7VBHg/mbhW2svHUUpAtlTGV6/8oTxAAUR
+Walburga
+CYLZUxlev/KE8QEBN4cEAMSGB9okuOAuJ0Ty6Q7YnOwLfEHKyD3a5Zo4BSVPmxqH
+6tiPo/aN3KLEBDH2Kum6mjxrW6AAMQtgHpLgCdx4fuHKaWeGu7akU3gKMBIiXHIP
+ruo9oHN5dKV53QXnhVFdOMMqNJdf9gkD5foWtQCgHarj+nvfY9ommx9SSV6/Rnw7
+=QSCV
+-----END PGP PUBLIC KEY BLOCK-----
+fn:Veit Denningmann
+end:vcard
+
+--------------637EC48698557261B2F50D57--

@@ -1,0 +1,6 @@
+Nachtrag:
+
+Vulkaninseln (z.B. Island, Pobershau, Epiquerez) wurden _nicht_ explizit 
+berücksichtigt. Dies soll jedoch künftig - gesondert - erfolgen.
+
+T.

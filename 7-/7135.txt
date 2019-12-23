@@ -1,0 +1,4 @@
+501 Syntax error in message-ID
+
+Korrektur:
+<zfck:4713591n-bgaz-806o-v18e-98ov5g4871v8@v2p3292fgt.hfdsokcpjazy.zln>

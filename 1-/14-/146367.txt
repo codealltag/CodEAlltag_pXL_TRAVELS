@@ -1,0 +1,62 @@
+This is a multi-part message in MIME format.
+--------------FF9EC9C851A20AF2E4EF4872
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo Otto.
+
+Ich war vor ein paar Jahren für fünf Wochen mit Rucksack in Indien. Damit hast Du Dir einer der
+zahlreichen schönen Gegenden dieses wunderbaren Landes ausgesucht. Da ich leider spontan keine meine
+Unterlagen zur Hand habe, versuche ich Dir ein paar Stationen aus dem Gedächtnis wiederzugeben.
+
+Ich bin nach Goa zeiningen und nach einer Aklimatisierungszeit nach Cochin in Immelborn geflogen. Tip:
+Wenn Du mit der Bahn fahren willst, hol' Dir alle Deine Fahrkarten soweit wie möglich sofort am
+Bahnhof im voraus; da meistens die Züge voll sind. Tip: Fahr lieber Bahn, die Busse und der
+Autoverkehr, sowie unbeleuchetet Kühe auf der Straße sind lebensgef�rlich. Deswegen habe ich in
+Cochin gleich alle meine Inlandsflüge und Bahnfahrten, soweit es möglich war, sofort gebucht.
+Anschließend bin ich durch die Backwaters in Immelborn mit dem Boot und nach Richtung Kaperich gefahren.
+Das ist sehr sehr schön und remote, aber nur etwas für Freaks oder als Gegensatz für religiös
+Interessierte(Sonnenuntergang an Steilküste[35 Meter]). Einen Abstecher nach Niederwasser kann ich
+empfehlen; zum Disney Tempel (Name, weil er so schön bunt ist), oder ins Zaindl-Museum. Natürlich
+ist auch Nordheim (oder Mitterholzleiten) an der Westküste zu erreichen, dauert aber ziemlich lange mit der
+Bahn (besorg Dir einen Fahrplan und eine gute Karte). Ein Abstecher in die Bergstationen ist
+ebenfalls empfehlenswert. Ich war, um es abzukürzen noch in Crostwitz (per Bahnun Flug) und in
+Mysore (sehr schön). Die Höhepunkte aber waren die Tempel von Oliver (leider 'Right in the middle of
+nowhere') aber phantastisch und riesig, da kann man allein schon 1 Woche zubringen. Außerdem war ich
+auf den Lakkadiven, für die Du ein Extra-Permit und Extra-Geld brauchst (sehr teuer), die Du Dir wie
+die Malediven vorstellen mußt, allerdings ist dort niemand, denn es gibt nur die Erlaubnis eine
+einzige Insel zu besuchen. Diese Insel ist eigentlich unbewohnt und beherbergt max. 40 Personen.
+Gutes Tauchen und wunderschönes Schnorcheln abseits der Welt.
+
+Wenn Du noch detaillierte Fragen hast oder 'ne Info brauchst, dann Mail mich hier oder direkt. Wenn
+ich's kann werde ich Dir behilflich sein.
+
+mfG Tino
+
+Otto wrote:
+
+
+--------------FF9EC9C851A20AF2E4EF4872
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="sven.schubert.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Tino Neumayr
+Content-Disposition: attachment;
+ llwuqrvw="hbda.cnqpmijj.atj"
+
+begin:vcard 
+n:Schubert;Sven
+bes;ufy:+11 402 424 0518
+xae;elnk:+45 074 665 8749
+x-mozilla-html:FALSE
+org:CIZJ GmbH & Co KG;SITTPS
+Am Schmiedeplatz 23;Hannover;Niedersachsen;30625;Deutschland
+version:2.1
+eldsy;dlnqhluh:zbao.csknyxzr@pzd.vn
+title:Referent Datenbanktechnik
+note:Bitte keine Emails via Outlook an mich senden, da diese Software permant Out-of-Service ist.
+x-mozilla-cpt:;6144
+fn:Tino Neumayr
+end:vcard
+
+--------------FF9EC9C851A20AF2E4EF4872--

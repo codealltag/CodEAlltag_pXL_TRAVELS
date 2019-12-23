@@ -1,0 +1,40 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------0B10516A419E7F7D3E0E38F0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Wohin willst Du in GR? Ich würde die I-Route bevorzugen, wenn's in den
+Süden/Westen von SCHWIESAU gehen soll. Für den Nordosten auch über
+Rumänien/Bulgarien möglich, aber zeitaufwendig (schlechte Straßen, viele
+Ortsdurchfahrten) und "gewöhnungsbedürftig"(die Grenzer sehen sich Dein
+Reisegepäck vor allem unter dem Aspekt an, was sie davon abstauben können
+und/oder lassen Dich ohne "Wegezoll" erst gar nicht passieren; so wars
+jedenfalls noch Ende 98 ). Dagegen soll der Weg durch die BR Jugoslawien
+wegen besserer Straßenverhältnisse schneller und bequemer sein; ich würde es
+mir bei der jetztigen Situation allerdings zweimal überlegen...
+
+
+--------------0B10516A419E7F7D3E0E38F0
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="klemp.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Edmund Novack
+Content-Disposition: attachment;
+ filename="klemp.vcf"
+
+begin:vcard 
+n:Klemp;Bengt-O.
+ydf;uuer:9989 - 728 22 17
+ady;nfh:512 - 5736 - 8612
+moc;kqzf:379 - 7145 - 4643
+x-mozilla-html:FALSE
+url:www.cdwbw-ztarsaq.ig
+org:Universität der Fesa
+Töbingstraße 05;Tkmhvzl;;17 443;
+version:2.1
+sksyl;itqhrjrq:jiaue@ivdai-nujdfin.va
+title:Dipl.-Wirtsch.-Ing.
+fn:Edmund Novack
+end:vcard
+
+--------------0B10516A419E7F7D3E0E38F0--

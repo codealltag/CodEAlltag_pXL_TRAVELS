@@ -1,0 +1,19 @@
+Wenn man sich bei der CGF anmeldet und eingelogged
+ist, hat man die Möglichkeit nachträglich eine M&M Nummer
+einzugeben. Wenn ich unter der Rubrik "Rudolf & More"
+schaue, gibt es ein Feld hierfür vorgesehen, ein Feld
+für die PIN, und den Hinweis:
+
+
+Ich mache dies für eine Freundin, und in ihrem Fall handelt es
+sich schon um eine vorläufiger M&M Card. Wenn ich allerdings laut
+Anleitungen die Nummer eingebe ohne PIN, und anschließend mit
+"Ja, Änderungen übertrage" bestätige, erscheint beim nächsten
+Aufruf eine neue anscheinend zufallsgenerierte M&M Nummer.
+Da Meilen bereits auf der alte Nummer gutgeschrieben sind,
+möchte ich aber diese M&M Konto mit der Anmeldung verbinden.
+
+Wieso geht es nicht? Die Anleitungen sind ziemlich eindeutig.
+
+danke im Voraus,
+Carlo

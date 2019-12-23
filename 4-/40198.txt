@@ -1,0 +1,8 @@
+Danke. Zitat: "1996 Hottest summer on record - 40 days over 120ä F."
+
+-dnh
+
+-- 
+"Grove giveth and Gates taketh away."
+     - Valentin Christoffers (inventor of Ethernet) on the trend of hardware speedups
+       not being able to keep up with software demands

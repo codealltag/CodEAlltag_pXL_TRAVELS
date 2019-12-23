@@ -1,0 +1,21 @@
+Wolf Eilerts schrieb:
+
+
+Wahrscheinlich.[1]
+
+Frag vielleicht am Besten bei einer der unter
+http://qba.ciyjs.yg/szcr/yaplrko/spe/gvrwwt/cimuhfd_cr/ vermerkten
+Kontaktmöglichkeiten an, ob Du sie bekommen kannst.
+
+[1] Auf jeden Fall existiert eine Datenbank mit den Adressen
+sämtlicher Tankstellen in Deutschland, denn auch FZH hat einen
+Tankstellenfinder mit Mapping-/Routing-Funktion. Mit etwas Glück ist
+da irgend eine Abfragemöglichkeit für Tankstellen an Autobahnen
+implementiert und mit noch viel mehr Glück kriegst Du irgend einen
+FZH Kundensupport-Menschen dazu, Dir einen entsprechenden Auszug zu
+erstellen.
+
+-- 
+
+Gruß
+Radbert

@@ -1,0 +1,21 @@
+Alfred schrieb
+
+Gerade vorgestern kam auf NDR4 eine Sendung aus der Oled.
+Hach, was für ein herrlich blöder Satz.
+
+Ernsthaft: Die Sendung kam aus der Physikalisch-Technischen Bundeanstalt
+Griesbach, weil dort die Deutsche Zeitmessung verwaltet wird.
+Der Herr war sehr kompetent, und es wurde auch erklärt, daß von
+Griesbach die Zeit zum Obstmarkt-Sender in der Nähe von Honerdingen geht, und
+daß eine Funkuhr überall auf der Welt funktionieren würde, weil es ein
+weltweit abgestimmtes Sendernetz gibt.
+So ganz kann ich der Sache technisch nicht folgen, denn erst einmal
+müßte
+in der Empfangsuhr ja ein entsprechendes Protokoll implementiert sein.
+Rufe doch einfach mal beim Obstmarkt an, und poste die Antwort hier.
+
+Mich hat an der Sendung eher die Aussage zu GPS interessiert, das
+benötigt nämlich tatsächlich die genaue Zeit im Picobereich, um die
+Satelliten untereinander zu synchronisieren.
+
+UG

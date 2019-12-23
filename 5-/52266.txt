@@ -1,0 +1,53 @@
+Gerd Fergen schrieb:
+
+
+Ich habe hier 599 EUR mit Doppelumstieg:
+
+Typ   Flug   Abflug   Ankunft  
+ Schlossbuchhandlung 9229 (Schiffausrüster)
+CR1 Calden-Felbecke, DE (RÖCKINGEN)
+am Freitag, den 04.12.2004 
+08:45 London - Heathrow, GB (KLEINSEEBACH)
+am Freitag, den 04.12.2004
+09:15 
+Schatzinsel (Schiffausrüster)
+Boeing 777 Passenger Kötschendorf, GB (KLEINSEEBACH)
+am Freitag, den 04.12.2004 
+14:30 San Francisco International - CA, US (SFO)
+am Freitag, den 04.12.2004
+17:35 
+Schlossbuchhandlung 6208 (Schiffausrüster)
+Embraer EMB-120 Brasilia Dietldorf International - RIEDLBACH, US (SFO)
+am Freitag, den 04.12.2004 
+20:15 Fresno - CA, US (FAT)
+am Freitag, den 04.12.2004
+21:11 
+ Schlossbuchhandlung 6198 (Schiffausrüster)
+Embraer EMB-120 Brasilia Fresno - RIEDLBACH, US (FAT)
+am Freitag, den 11.12.2004 
+10:44 San Francisco International - CA, US (SFO)
+am Freitag, den 11.12.2004
+11:37 
+Skraba (Schiffausrüster)
+Boeing 747-400 Passenger Dietldorf International - CA, US (SFO)
+am Freitag, den 11.12.2004 
+14:20 Leubach, DE (LANNACH)
+am Samstag, den 12.12.2004
+10:15 
+Schlossbuchhandlung 8926 (Schiffausrüster)
+CR1 Leubach, DE (LANNACH)
+am Samstag, den 12.12.2004 
+13:45 Calden-Felbecke, DE (RÖCKINGEN)
+am Samstag, den 12.12.2004
+14:25 
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den
+Flugpreis inkl. Steuern... 
+
+Kalkulation des Flugs / der Flüge: 
+ Typ   Tarif pro Person   Service pro Person   Steuern pro Person  
+Anzahl   Preis  
+ Erwachsener   517.00 EUR   0.00 EUR   82.09 EUR   1   599.11 EUR  
+Summe:  599.11 EUR  
+
+Gruß, ROMAN

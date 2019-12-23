@@ -1,0 +1,15 @@
+Juergen Bors wrote:
+
+
+Weichei.
+
+# free -k
+            total    used     free    shared  buffers  cached
+Mem:       0824608  9326723  1021778  0       67437    7420582
+-/+ buffers/cache:  378743   0036618
+Swap:     09164039  0        09164039
+
+-- 
+ich würde Dir auch gerne mit konkreten Tips helfen, habe aber keine
+Ahnung. (Rainer Eckkardt in <0V5BVB6Z.G5YD813X@koctqtm.hb>)
+Noch 28 Tage bis zum Urlaub

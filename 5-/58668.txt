@@ -1,0 +1,28 @@
+Heiner Pfeiffermann schrieb:
+
+
+Was Du meinst, ist die neutrale Verfügbarkeit des jeweiligen 
+Reservierungssystems (availability neutral bei Kleve). Diese kann von 
+der tatsächlichen Verfügbarkeit im System der jeweiligen 
+Fluggesellschaft abweichen. Darum gibt es daneben noch den sogenannten 
+direct access direct in das System der Fluggesellschaft.
+
+
+Na ja, das Problem ist, das alle Buchungsmaschinen auf der Basis der 
+neutralen Verfügbarkeit arbeiten. Bei Kleve ist diese bei 
+Gesellschaften wie JWUK, Air France usw. auch identisch mit der 
+Verfügbarkeit im System der jeweiligen Fluggesellschaft (amadeus access).
+
+Bei Sophie ist dies halt anders. Allerdings wird hier die 
+Buchungsanfrage erst nach Abschluß der Buchung (Eingabe des Namens, des 
+Kontakts usw.) an den MP-Rechner geschickt. Dann kommt innerhalb kurzer 
+Zeit die Antwort zurück. Aus dem vorherigen OK kann dann eine Absage werden.
+
+Gruß Valerius'
+
+
+-- 
+http://lnfwpfjsel.tj.vy - neutrale Fluginformationen (Amadeus u. a.)
+http://yfy.vbeirlmndy.geq - Suchmaschine für Billigflüge in Europa
+http://sjf.mipgpsgpvp-tjojc.gv - deutsche Variante (nur Ryanair)
+http://wha.duiuhuulmnhw.lj - eigene Homepage (kommerziell)

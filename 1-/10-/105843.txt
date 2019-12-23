@@ -1,0 +1,10 @@
+Pietro Ingendaa schrieb:
+
+Wenn, dann mach evtl. iMode - ist cHtml bzw. auch iHtml genannt - also
+einfaches HTML!
+
+iMode ist billiger da über GPRS ("Bezahlen nach Menge") und nicht GSM
+("Bezahlen nach Online-Zeit").
+
+
+Jean-Pierre

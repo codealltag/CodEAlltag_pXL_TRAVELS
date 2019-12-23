@@ -1,0 +1,15 @@
+Hallo Dario,
+
+
+ging mir auch so....
+
+Nicht unbedingt!
+
+Wahrscheinlich liegt es an den Einstellungen deiner Firewall (sofern
+du eine installiert hast?!)
+Wenn du die Einstellungen etwas lockerst, solltest es funktionieren.
+Bitte
+
+Patrice
+
+Falls du weitere Hilfe brauchst, kannst du dich ja melden.

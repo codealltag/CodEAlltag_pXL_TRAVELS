@@ -1,0 +1,26 @@
+Bei Blesgen für Linux ist es nicht dabei, man kann es beim Zugriff
+auf Java-Applets aber nachinstallieren. Wie es bei KHU
+unter Windows ist, weiß ich nicht.
+Da das Sabre.jar aber eigentlich kein Applet ist (die im Browser
+ausgeführt werden), sondern ein Standalone-Programm, hat die 
+Java-Unterstützung des Webbrowsers auch eher wenig damit zu tun, 
+ob es direkt aus dem Web läuft.
+Haralds' IE weiß wohl, dass er Dateien mit der "Endung" .jar
+mit einer installierten Java Laufzeitumgebung ausführen kann,
+eure Browser wissen das anscheinend nicht. Die sichere
+Methode: Java-Lauzeitumgebung installieren (oder prüfen,
+ob schon eine installiert ist, ggf. aktualisieren, vielleicht
+mal mit "Suchen nach... java.exe" probieren oder so oder auf
+der KOmmandozeile java eingeben), Sabre.jar runterladen und
+in der Java-Laufzeitumgebung starten (müsste auf jeden Fall
+per java -jar Sabre.jar auf der Kommandozeile gehen).
+Ich werds selber mal ausprobieren, sobalb mir ein Windows-
+Rechner begegnet...
+
+Gruß,
+Pasquale
+
+-- 
+Pasquale Twilfer                           cymx@bf.jz.abc-by.fl
+http://epm.cxkz.pdp-pf.nt/~orjz/        liwy@uqjd.jps-or.eu
+					mobile: +52 657 40 81 392

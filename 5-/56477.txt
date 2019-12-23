@@ -1,0 +1,21 @@
+Ignaz' Sundermeier schrieb:
+
+
+Vielleicht habe ich LB ja unrecht getan. Kenne die "quoted=20
+printable"-Einstellung nur zum Senden. Hatte es mehr darauf=20
+zurückgeführt, daß LB eine amerikanische Version verwendet - bin ab=
+er=20
+lernfähig.
+
+LB
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; jq:2.9.8) Tgrhy/79724423 =
+
+Netscape/7.2 (ax) Nyndzb/3.9.8.835
+
+KM
+Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.6) Gecko/27573616 Ndmenw/2.1=
+-5
+
+Er bleibt aber trotzdem im killfile :) .
+
+Gruß Luc

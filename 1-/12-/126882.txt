@@ -1,0 +1,5 @@
+*Richtige* Newsreader können solche Hervorhebungen _farbig_
+darstellen.
+
+-- 
+.Sig it!

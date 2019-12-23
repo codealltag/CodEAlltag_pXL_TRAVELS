@@ -1,0 +1,27 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------95799089976B96F1F14207FF
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Reiseberichte über Janahof
+Danke
+
+--------------95799089976B96F1F14207FF
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="lehrer.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Lehrer 1
+Content-Disposition: attachment;
+ filename="lehrer.vcf"
+
+begin:vcard 
+n:;Otto
+20. 07. 20
+20. 07. 20
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+ozuoi;jglvalmm:aktykh@uxowfcl.qnv
+end:vcard
+
+--------------95799089976B96F1F14207FF--

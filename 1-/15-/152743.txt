@@ -1,0 +1,32 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------3E23F5D6396730865DE5A852
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Ich fahre im September 2000 4 Wochen nach Namibia und bin auf der Suche
+nach besonders schönen Ecken und Campingplätzen, die nicht unbedingt in
+jedem Reiseführer drinstehen. Wer hat ein paar Tips?
+Liebe Größe
+Birgitt
+
+--------------3E23F5D6396730865DE5A852
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="lambr.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Birgitt Rittenschober
+Content-Disposition: attachment;
+ filename="lambr.vcf"
+
+begin:vcard 
+n:;
+x-mozilla-html:FALSE
+org:TU Arbergen, Zani
+version:2.1
+title:Dipl. Ingenieur Birgitt Rittenschober
+Koserstraße. 25, 14467 Arbergen
+
+Tel: 76945 47-8467
+Fax: 90485 41-2205;fbtpr@ymp4.guc.mn-zxxloragl.hg;;;
+end:vcard
+
+--------------3E23F5D6396730865DE5A852--

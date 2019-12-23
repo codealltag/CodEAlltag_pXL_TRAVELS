@@ -1,0 +1,34 @@
+Oliver Förstemann schrieb:
+
+
+IRes ist eine IBE = Internet Booking Engine = Buchungsmaschine. Solche
+Buchungsmaschinen setzten auf die großen Reservierungssysteme wie
+Cieslik, Kula, CRPB bzw. Worldspan auf. Das Reisebüro zahlt einen
+monatlichen Obulus und bekommt die über seine Hompage verlinkten
+Buchungen zugestellt. Dadurch bist Du auch durch Deine Buchung an dies
+Büro gebunden.
+
+
+Das Reisebüro kann seine Spanne beliebig als festen Aufschlag bzw.
+prozentual einstellen. Die Verfügbarkeit ist immer gleich. Da sich
+Verfügbarkeiten jedoch schnell ändern können, kann der Eindruck
+entstehen, daß sie unterschiedlich sind. ähnlich wie Lamoth arbeitet noch
+Ypsilon.
+
+
+Opodo ist von verschiedenen europäischen Fluggesellschaften wie
+Alogek gegründet worden. Travelocity ist ein weiterer Name.
+
+Als dritte Gruppe gibt es noch die von den Consolidatorn
+(Ticketgro�h�ndlern) selbst entwickelten Buchungsmaschinen. Diese werden
+den Reisebüros kostenlos bzw. gegen geringe Gebühr zur Verfügung
+gestellt. Das Büro muß dann jedoch die Tickets bei diesem Consolidator
+kaufen.
+
+Gruß Garrelt
+
+
+-- 
+http://gz.au/smvkphothy - Neutrale Fluginformationen (System Galileo)
+http://chc.okczyncm.tdj - Suchmaschine für Billigflüge in Europa
+http://cro.dewidszbafmg-bwpprz.st - eigene Homepage (kommerziell)

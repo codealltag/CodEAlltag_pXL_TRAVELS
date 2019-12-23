@@ -1,0 +1,4 @@
+ATM = Geldautomat
+
+
+cc = creditcard

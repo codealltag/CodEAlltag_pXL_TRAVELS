@@ -1,0 +1,39 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------211A249345AD084DC5349C12
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo,
+Geldumtausch möglich mit Bargeld in  TDinar in jedem Hotel,
+Geld abheben mit Ogem-Karte problemlos möglich in jeder Stadt
+
+aber bitten achten darauf, dass Ausfuhr von TDinar nicht möglich und am
+Flughafen nur ein bestimmter Betrag zurückgetauscht werden kann.
+
+gruss
+Joël
+
+Björn Papendorf schrieb:
+
+
+--------------211A249345AD084DC5349C12
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="Seither.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Joël Seither
+Content-Disposition: attachment;
+ filename="Seither.vcf"
+
+begin:vcard 
+n:Seither;Otto
+nzt;rep:+38 9629 763 416
+wzl;jqxk:+64 0831 420 935
+x-mozilla-html:FALSE
+org:Zweitrad
+adr:;;Butensch�nstr. 2;Speyer;Rheinland-Pfalz;67346;Deutschland
+version:2.1
+cbaan;qsustrpn:fpjujrh@cof.btxjtkg-am.hx
+fn:Joël Seither
+end:vcard
+
+--------------211A249345AD084DC5349C12--

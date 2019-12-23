@@ -1,0 +1,10 @@
+Das ist die Atlantikküste um Jerez.
+
+Gruß
+Luca Schlenker
+
+-- 
+ArchTools: Architektur-Werkzeuge für AutoCAD (TM)
+           ArchDIM  - architekturgerechte Bemaßung und Höhenkoten
+           ArchAREA - Flächenermittlung und Raumbuch nach RYW 487
+Info und Demo unter http://qmo.anrokjkto.zk

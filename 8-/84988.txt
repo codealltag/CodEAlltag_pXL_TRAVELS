@@ -1,0 +1,9 @@
+"> Wahrscheinlich liegt es an den Einstellungen deiner Firewall (sofern
+
+Ja, daran hatte ich auch schon gedacht.
+Mein Fehler war nur, dass ich beim Probieren erst den IE gestartet hatte und
+dann die FW abgschaltetet hatte.
+Jetzt habe ich zuerst die FW deaktiviert und dann IE gestartet und voila, es
+funzt.
+
+Danke

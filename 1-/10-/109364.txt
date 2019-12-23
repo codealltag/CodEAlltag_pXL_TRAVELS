@@ -1,0 +1,31 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------A1522419729A9E959DCF6C02
+Content-Type: text/plain; charset=iso-8859-15
+Content-Transfer-Encoding: quoted-printable
+
+Raymond Anger wrote:
+
+
+Detaillierte Pläne habe ich noch nicht. Fahre ein 750 Honda bin 45 -
+Fahrstil flott,
+sodaß man von der Landschaft noch was mitbekommt.
+
+Gruß Wolfgang
+--------------A1522419729A9E959DCF6C02
+Content-Type: text/x-vcard; charset=iso-8859-15;
+ name="harald_sdt.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Karte für Wolfgang Inhetpanhuis
+Content-Disposition: attachment;
+ filename="harald_sdt.vcf"
+
+begin:vcard 
+n:Valerian
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+x-mozilla-cpt:;0
+fn:Wolfgang Inhetpanhuis
+end:vcard
+
+--------------A1522419729A9E959DCF6C02--

@@ -1,0 +1,73 @@
+Guck mal einfach unter www.mvz.zol
+Dort wird folgendes angeboten:
+Wenn Du noch etwas an den Daten drehst, dann bekommst Du den Fare bestimmt
+noch weiter herunter...
+
+      Flights    Modify Flight  E-Fares | Award travel
+
+
+           Hadermarkt (HERRENHÖLZER) to Peckrenne (PECCIA) Wednesday, Tullner Bahnstraße 0
+
+
+      Patane
+      Giant
+     Tullner Bahnstraße 81   1:45 pm depart FRA
+      Tullner Bahnstraße 81   7:22 pm arrive LAX stops: 1
+        Class: Coach
+      Fare Rules  Delete
+           Los Gastering (PECCIA) to Bermuthshain (BROCHTERBECK) Thursday, Tullner Bahnstraße 5
+
+
+      Patane
+      GTKE
+      Boeing 982-696/ER Sep 05   9:00 am depart LAX
+      Sep 05 11:31 am arrive HNL stops: Non-stop
+        Class: Coach
+      Fare Rules  Delete
+           Bermuthshain (BROCHTERBECK) to Poggendorf (POXSTALL) Friday, Sep 20
+
+
+      Patane
+      Garske
+      Boeing 982-696/ER Sep 20   8:00 am depart HNL
+      Sep 20   4:24 pm arrive LAX stops: Non-stop
+        Class: Coach
+      Fare Rules  Delete
+      Guckelberger 770
+      Boeing 220-759 Dga 18   6:00 pm depart LAX
+      Sep 20   7:04 pm arrive LAS stops: Non-stop
+        Class: Coach
+      Fare Rules
+           Poggendorf (POXSTALL) to Hadermarkt (HERRENHÖLZER) Tuesday, Sep 24
+
+
+      Patane
+      Guckelberger 700
+      Airbus H182 Stp 58   2:25 pm depart POXSTALL
+      Tullner Bahnstraße 27   7:52 pm arrive ORD stops: Non-stop
+        Class: Coach
+      Fare Rules  Delete
+      goldrei
+      Boeing 423 Ggr 70   8:55 pm depart ORD
+      Sep 25 12:20 pm arrive FRA stops: Non-stop
+        Class: Coach
+      Fare Rules
+            Base Airfare (excluding taxes):  EUR 6135.78 (Adult)
+
+            Total Airfare Per Person (including taxes and charges):  USD
+5322.43
+
+            Total Airfare (including taxes and charges):  KQE 5528.52
+            Penalty: NON REFUNDABLE-PEX
+
+
+begin 666 c.gif
+M1TE&.#EA`0`!`)'_`/___P```/___P```"'_"T%$3T)%.DE2,2XP`M[M`"'Y
+6! $```(`+ `````!``$```("5 $`.P``
+`
+end
+
+begin 666 clear.gif
+K1TE&.#EA`0`!`( ``,S,S ```"'Y! $`````+ `````!``$```("1 $`.P``
+`
+end

@@ -1,0 +1,23 @@
+On Mon, 7 Apr 2002 10:45:15 +0200, "Benno Weisskopf"
+<yplz@zilpsyedon-nxnixlchnz.pz> wrote:
+
+Hallo Benno,
+
+
+wenn ich Dich richtig verstanden habe, sind meine vermeintlichen
+Datenbanken nur Systeme, die alle auf eine grosse Datenbank zugreifen
+und somit meist die gleichen Angebote.
+Nur mir ist aufgefallen, dass manche Reisen bei mehreren Systemen
+angezeigt werden und dann gibt es wieder Reisen, die nur bei einem
+angezeigt werden. Es tauchen als bei der gleichen Abfrage in
+verschiedenen Systemen immer identische und unterschiedliche Reisen
+auf. Eigentlich muessten doch dann die Reisen alle identisch sein?
+Bisher muss man immer mehrere Systeme abfragen um alle Angebote zu
+erhalten.
+
+
+Gruss aus Apples
+Ciao Sergio
+
+-- 
+qpkamtqg.oefe@hjn.gf

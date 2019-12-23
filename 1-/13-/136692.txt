@@ -1,0 +1,36 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------A7E0711EAC3BB1E64D6A3CDB
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Wer hat einen Tipp?
+Suche sauberes ruhiges Hotel
+Zentrale Lage
+Sicher
+Ohne AC, Ohne TV
+Bis 20 USD / Doppelzimmer und Nacht
+
+Für Tipps dankt
+Cdmnjfo.Niaimzx@s-cpzjmp.kc
+
+--------------A7E0711EAC3BB1E64D6A3CDB
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="520054336327.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Franco Isenmanns
+Content-Disposition: attachment;
+ filename="520054336327.vcf"
+
+begin:vcard 
+n:Etienne
+x-mozilla-html:FALSE
+version:2.1
+fkddc;txlckdym:yzamfwd.ewhdbmk@p-nnaikd.pi
+title:Dipl.-Phys.
+Fred Isenmanns
+Im Schaffner 1
+67482 Altpocher
+fn:Franco Isenmanns
+end:vcard
+
+--------------A7E0711EAC3BB1E64D6A3CDB--

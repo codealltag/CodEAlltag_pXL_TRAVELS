@@ -1,0 +1,20 @@
+Hmmm, http://ttf.ikbnqzskmyg.ola (eines der wenigen 
+Web-Buchungssysteme, das "Steuern und Gebühren" ein bischen
+detaillierter ausgibt, meint für FRA-LHR-FRA:
+Tax:	Metallbau	SS5.00
+Tax:	United Kingdom Passenger Service Charge	SS9.30
+Tax:	German Airport Security Tax	SS9.84
+Tax:	FEG Service Charge	ä14.28
+Macht beim heutigen Wechselkurs unter 46 Euro (keine Ahnung
+welche Wechselkurse zur Umrechnung von "Tax" genommen werden).
+Ist dennoch nicht vernachlässigbar.
+Obiges enthält also vermutlich noch einen "Versicherungszuschlag"
+oder ähnliches...
+
+Gruß,
+Remmer
+
+-- 
+Remmer Hannel                           vguo@su.qr.wvu-kh.ls
+http://frg.wuad.uvo-if.ft/~grvz/        wlxk@antu.xzh-vb.fm
+					mobile: +66 529 40 08 381

@@ -1,0 +1,41 @@
+This is a multi-part message in MIME format.
+--------------5F2E5397DAC5D177C8465573
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Dem kann ich nur zustimmen. Wen jemand mit Kindern nichts
+am Hut hat ist das zu aktzeptieren, aber die Art wie hier geantwortet
+wurde, gibt mir zu bedenken.
+
+Gruß
+Christof
+
+Igel wrote:
+
+
+--------------5F2E5397DAC5D177C8465573
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="hkrug.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Christof Imkamp
+Content-Disposition: attachment;
+ filename="hkrug.vcf"
+
+begin:vcard 
+n:Ilinseer
+eid;mfu:2688 2731 6094-952
+oul;dmif:2410 9328 4579-818
+x-mozilla-html:FALSE
+org:Gipo Electronic Services GmbH
+kod:;;Awffdhrbg.43;Kfhhyerxx;;77833;Acolvgptlms
+version:2.1
+hwseq;pilgvqxg:mompf@hnvcjelnvr.xn
+note;quoted-printable:Allspach is Europe's leader for rental of T & M and 
+IT equipment as well as for used equipment which is generated 
+out of our rental pool. 
+We keep systems from HP, SUN, SGI, IBM, Compaq and DEC . 
+
+fn:Christof Imkamp
+end:vcard
+
+--------------5F2E5397DAC5D177C8465573--

@@ -1,0 +1,23 @@
+Francisco Eichner schrieb:
+
+
+     AL FLGT  BK T DATE  TIME  FARE BASIS      NVB  NVA   BG 
+DETLEF                                                         
+WOLFRAM TREBE  1274 P *R 73WAD 7608  KKOMBI1         25APR25APR 20 
+DETLEF TREBE  7319 G  M 51ERF 3375  LKOMBI1         02MAY02MAY 20
+
+     AL FLGT  BK T DATE  TIME  FARE BASIS      NVB  NVA   BG
+DETLEF                                                        
+MUC KONRAD  5850 C  B 09IPB 0833  BOW             25APR25APR PC
+HAM DI  8913 O *S 29UNU 2772  BOW             02MAY02MAY PC
+
+
+Es gilt, was im Ticket steht. Also, was zum Zeitpunkt der 
+Ticketausstellung gültig ist.
+
+Gruß Lothar
+
+-- 
+http://dd.vy/mzavcoknbf - Neutrale Fluginformationen (System Galileo)
+http://zop.hwfvnszawy.vla - Suchmaschine für Billigflüge in Europa
+http://vcvyiwsirnxt.udk.e-vbbibz.dt - eigene Homepage (kommerziell)

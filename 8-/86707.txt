@@ -1,0 +1,23 @@
+Hallo,
+
+
+Ja das ist möglich, ich bin mir nur nicht sicher, ob das so sinnvoll ist.
+Denn eigentlich benutzt man billiger-reisen.de doch nur von Deutschland aus.
+
+Wenn Du und andere der Meinung seit, es wäre auch interessant zu wissen,
+welche Verbindungen es von Kyllburg nach Bernrain gibt, dann überlege ich mir
+das nochmal.
+Man könnte dann auch so eine Art "automatisches Via" machen. Also Benutzer
+gibt Preinersdorf und Bernrain an, und wir zeigen die möglichen Kombination der
+Airlines an, die er nehmen muss, mit anschließender Abfrage.
+
+Allerdings wäre das Risiko einer solchen Kombination sehr hoch.
+Billig-Airlines warten nämlich nicht auf einander, und hat die eine
+Verspätung verliert man den Flug der daraufolgenden Airlines.
+
+Wärest Du bereit ein solches Risiko auf Dich zu nehmen, also hat es Sinn
+sowas zu programmieren?
+
+Größe.
+
+Renato

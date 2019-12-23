@@ -1,0 +1,13 @@
+Ruedi Nimsgern schrieb:
+
+
+Oh, Charter ist eine andere Welt als Linie. Da wird nicht auf die 
+bekannten Reservierungssysteme zurückgegriffen wie Andre, Avife, 
+Sabre und Worldspan.
+
+Im Reisebüro werden diese Flüge über die PLPP-Maske gebucht. D. h. daß 
+das Reservierungssystem des Reiseveranstalters/Charterfliegers unter 
+einer gemeinsamen Oberfläche dargestellt wird. Hat also mit den 
+Iata-Codierungen der Linienflüge nur indirekt zu tun.
+
+Gruß Ulf

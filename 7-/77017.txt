@@ -1,0 +1,19 @@
+Johannes Veen schrieb:
+
+billiger-reisen.de bringt keinen günstigeren Preis, sondern
+
+"Bitte beachten Sie:
+Suchen Sie nur Angebote der ausschließlich europaweit fliegenden   
+Billig-Airlines, so benutzen Sie unseren eigens hierfür optimierten
+Preisvergleich unter Billig-Airlines.
+
+
+Ihr aayvmgdg-ztavpk.eu Team   
+
+
+ Von:     oder   
+Fatal error: Call to a member function on a non-object in
+/var/www/www.billiger-reisen.de/flights/fis/index_content.php on line
+68" 
+
+Gruß, KAY

@@ -1,0 +1,9 @@
+Hero Kühirt schrieb:
+
+Momentaufnahme reicht zunächst.
+
+Es gab doch da eine Anfragemaschine, die verschiedene Reisedaten
+abfragte und das Kreuzprodukt dann nach Preisen sortiert anzeigte. Gibt
+es die noch?
+
+Gruß, SVEN

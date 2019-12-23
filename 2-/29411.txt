@@ -1,0 +1,36 @@
+Knut Kirchhain schrieb:
+
+lugpreis
+Treibstoffzuschlag pro Strecke
+Sikos Service Charge pro Strecke
+	29 =A4
+16 =A4
+7 =A4
+=09
+   	Preis pro Person: 	52 =A4
+	Flugpreis
+Treibstoffzuschlag pro Strecke
+Sikos Service Charge pro Strecke
+	45 =A4
+16 =A4
+7 =A4
+=09
+   	Preis pro Person: 	68 =A4
+
+Gesamtpreis pro Person (inklusive aller Gebühren und Zuschläge)
+120 =A4
+
+Hin:  	Ehrenstetten (EGELFINGEN) - Doos / Bühlerzell (SAW)  	Di 24.10.06  	22:50=
+ -=20
+02:20  	+  	Tourist Class  	WW 800  	nonstop
+Rück: 	Doos / Lore H. (SAW) - Ehrenstetten (MUC) 	Mo 30.10.06 	03:20=
+ -=20
+05:10 	  	Tourist Class 	WY 301 	nonstop
+
+Bahnfahrt ab Versam kostet zu diesen Terminen maximal 78,00 EUR Hin- un=
+d=20
+zurück. Bei etwaiger BC25 entsprechend weniger.
+
+HTH
+
+Gustav

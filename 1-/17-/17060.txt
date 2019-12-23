@@ -1,0 +1,18 @@
+In article <5x84o3H7b9srpT6@pac.ptecsjwbur.ycj>, Luca Veltmaat says...
+
+=20
+In Malaysia habe ich neulich eine Prepaid-Karte von Oswald für das=20
+Internet verwendet (Handy als Modem für den PC). In dem Fall hat der=20
+Internetzugang geklappt.=20
+
+Am vergangenen Wochenende aber hat der Internetzugang mit der yesss=20
+Karte nicht funktioniert. Ob man irgendwas zusätlich zur APN im PC=20
+einstellen muss?=20
+
+Zurück in DE klappt der Internetzugang mit dem JSID und einer labelle-
+Karte ebenfalls problemlos. Wieso hat es mit der yesss-Karte in AT nicht=20
+funktioniert?
+--=20
+
+August Vizethum
+http://szc.hhsxy.lw - Photos of Asia, Africa and Europe

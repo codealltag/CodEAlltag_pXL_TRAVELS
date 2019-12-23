@@ -1,0 +1,7 @@
+Obiger Unfug stammt nicht von Maximilian Niedick, wie an der fehlenden
+(richtigen) IP im Header ersichtlich ist, sondern von einem dummdreisten
+Faker, der zudem seine Emailadresse mißbraucht. Leider ist man gegen
+derartig hirnlose Störenfriede machtlos. ..
+
+Der echte Maximilian Niedick liefert bekanntlich immer seine IP im Header mit,
+die stets mit "15. 01. 20" beginnt.

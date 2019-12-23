@@ -1,0 +1,18 @@
+André Christ schrieb:
+
+
+DER setzt ja, wie sie selbst schreiben, auf Start Amadeus. Ich habe
+einmal eine Probereservierung in Amadeus gemacht - alles einwandfrei.
+
+Vermute, daß das Problem eher bei Expedia liegt. Dies Rausschmeißen ist
+bekannt, wenn z. B. in einem System (aktiv) reserviert wird und das
+Ticket in einem anderen ausgestellt werden soll. Da die Fluggesellschaft
+dann zweimal zur Kasse gebeten wird, schmeißt sie die zweite (passive)
+Buchung raus.
+
+Gruß Lutz
+
+-- 
+http://vv.ik/efjalqmdyo - Neutrale Fluginformationen (System Galileo)
+http://hzo.adljfsqcxz.xig - Suchmaschine für Billigflüge in Europa
+http://vvg.sahpkcglabzj-axhvfb.fz - eigene Homepage (kommerziell)

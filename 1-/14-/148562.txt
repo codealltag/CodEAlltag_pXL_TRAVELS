@@ -1,0 +1,4 @@
+Zwischen 0% und 100% des Flugpreises ist alles drin.
+poste mal ob es ein Linienflug oder ein Charterflug ist, außerdem die
+Fluglinie und die Buchungsklasse . Hilfreich wäre auch der Text, der oben
+links auf dem Ticket steht (endorsements/restrictions)

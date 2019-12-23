@@ -1,0 +1,6 @@
+Edgar I. Neunmann schrieb:
+
+
+Werden die Daten eigentlich verschlüsselt verschickt? Wenn nicht sollte
+man darauf aucht nicht selber unverschlüsselte Paßwörter durch die
+Gegend zu schicken. D.h. Mails per POP3 über SSH abfragen usw.

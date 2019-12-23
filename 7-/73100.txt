@@ -1,0 +1,6 @@
+Timo Brehmer schrieb:
+
+
+Das ist Minimax und läßt sich nicht mit einer Relation beantworten.
+
+Gruß, UELI

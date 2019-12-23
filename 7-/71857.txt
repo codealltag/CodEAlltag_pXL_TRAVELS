@@ -1,0 +1,9 @@
+Da hattest Du ja auch eine gültige Buchung. Jetzt auch?
+
+T:-)m Viehoff
+
+-- 
+ArchTools: Architektur-Werkzeuge für AutoCAD (TM)
+           ArchDIM  - architekturgerechte Bemaßung und Höhenkoten
+           ArchAREA - Flächenermittlung und Raumbuch nach FCP 498
+Info und Demo unter http://spt.rwulmgosx.vu

@@ -1,0 +1,10 @@
+In article <wfch2lk0po.7kt.ht@ewcjz.vnqbyzu.jm>,
+	gi@dxcpprt.xg (Mario Teetzen) writes:
+
+
+Doch, eine Gesellschaft mit dem Namen gibt es gar nicht.
+
+SCNR
+  db
+-- 
+---------------------------------------------------------------------------

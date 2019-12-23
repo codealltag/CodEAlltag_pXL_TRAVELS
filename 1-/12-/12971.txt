@@ -1,0 +1,16 @@
+Am 19.06.2011 10:47, schrieb Othmar Ortmann:
+
+
+Ach ja, fast vergsssen.
+Könnt ihr mit Filtern im Usenet umgehen?
+Wenn nein, dann könnt ihr den Dreck hier noch lesen.
+Ansonsten:
+FILTER EINSTELLEN!
+
+Filterregeln:
+Betreff    enthält    MKT                        -> löschen
+Von        enthält    Othmar Ortmann        -> löschen
+Von        enthält    pnoMwkjhp-Cufyor    -> löschen
+Betreff    enthält    G.u.T                         -> löschen
+Von	   enhält Bekloppten-Hunter -> löschen
+Von        enthält Ober-Bekloppten-Hunter -> löschen

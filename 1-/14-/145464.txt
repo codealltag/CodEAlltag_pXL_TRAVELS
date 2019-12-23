@@ -1,0 +1,49 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------6C89C5791ADC1ABF5DAE4ED5
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo miteinander !
+
+Habe das Angebot bekommen ein 10monatiges Praktikum bei Carfit in
+Pune / Indien zu absolvieren.
+
+Hab einige Fragen und würd mich über Antworten freuen:
+Was muß ich dort bei Wohnungsbeschaffung, Verhalten als Frau, Einkaufen,
+ect. beachten. ??
+Da ich ab November fliegen soll, was sollte ich an Klamotten von hier
+mitnehmen?
+Welche Art von Gastgeschenken sind sinnvoll ?
+Kennt jemand sinnvolle Do it yourself - Sprachkurse ?
+Bin dankbar für jeden sinnvollen Hinweis, um mich dort nicht in die
+Nesseln zu setzen.
+
+Antworten bitte auch an awzatn@pwc.qx
+
+Vielen Dank !
+
+Rosina
+
+
+--------------6C89C5791ADC1ABF5DAE4ED5
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="dozent.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für dozent
+Content-Disposition: attachment;
+ filename="dozent.vcf"
+
+begin:vcard 
+n:Schallau;Uwe
+hfw;fvtv:3995/72948
+rue;gwqq:56494/9285929
+x-mozilla-html:FALSE
+org:bfw;it
+version:2.1
+vlwlq;weiwikoz:qdwwznwq@msv.sh
+Molbachweg
+;97969 Znwezhgob;;14958;
+fn:Harry Rethage
+end:vcard
+
+--------------6C89C5791ADC1ABF5DAE4ED5--

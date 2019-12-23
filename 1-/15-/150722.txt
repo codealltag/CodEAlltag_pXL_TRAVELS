@@ -1,0 +1,4 @@
+okay,
+
+-- 
+NewsGroups Suchen, lesen, schreiben mit http://pgavqlg.lyl.bz

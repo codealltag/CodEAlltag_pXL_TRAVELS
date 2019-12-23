@@ -1,0 +1,25 @@
+Köln> Liebe WOHLGEZOGEN, gilt denn ab 20.7. auch in England
+    Köln> Sommerzeit?
+
+Ja, wenn Linux (glibc) nicht falsch ist:
+
+$ TZ=Europe/London date --date="sunday 03:00"
+Sun Mar 28 04:00:00 BST 2004
+$ TZ=Europe/London date --date="sunday 02:00"
+Sun Mar 28 03:00:00 BST 2004
+
+
+$ TZ=Europe/London date --date="sunday 00:01"
+Sun Mar 28 00:01:00 GMT 2004
+$ TZ=Europe/London date --date="sunday 01:01"
+Sun Mar 28 02:01:00 BST 2004
+
+Also, man  schaltet um  01:00 UTC in  die Sommerzeit um.   Am Gleichen
+Zeitpunkt in England als in Deutschland.
+
+
+-- 
+Lee Sau Pietro
+
+E-mail: xghlov@ojkglptntg.ycr-nypwrjst.xi
+Home page: http://xrv.arnevzuwux.gbj-aqqphrod.cc/~vbupwd

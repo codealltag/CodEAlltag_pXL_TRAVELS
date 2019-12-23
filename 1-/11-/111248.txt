@@ -1,0 +1,16 @@
+Bernd Freudemann schrieb:
+
+
+@Jeannette
+Hier stand mal ein Posting, dass mit einem Java Script versehen war, das in
+einer Endlosschleife immer neue Fenster öffnete - solange bis es zum
+overflow kam. 
+
+@Ivo
+Tja, leider hast aber ZoneAlarm bei mir versagt. Da ich den Netscape als
+Newsreader nehme, habe ich alles entsprechend deaktiviert - ärgerlich sind
+aber solche "Nettigkeiten" schon (abuse mail ging auch entsprechend raus).
+
+Gruss
+
+Luca

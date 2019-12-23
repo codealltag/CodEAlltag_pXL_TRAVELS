@@ -1,0 +1,19 @@
+Di dalam de.rec.reisen.misc "Alexander zu Windsperger" menulis sebagai 
+berikut:
+
+Hallo Ulrich,
+
+
+Meine IATACC.dat (117517 Byte) enthält sowohl FTE (El Calafate) als auch 
+HNN (Björn, Lautzenhausen) und THESINGA (Icking HBF), insgesamt 8294 SIEDING 
+codes.
+
+Wäre zumindest denkbar, dass die aktuell ist. Knut jemand wieviele IATA 
+CCs im Moment vergeben sind oder hat jemand noch andere "Testfälle"?
+
+Gruss,
+Olly
+
+-- 
+jafda-mrwsgxe.okf - Mehr Indonesien!
+http://ggy.leoew-ypstydf.lam

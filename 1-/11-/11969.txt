@@ -1,0 +1,15 @@
+Offenbar werden (z.B.) Antworten auf Beiträge von "Christof Fijf"
+blockiert, indem serverseitig die Kopfzeile überprüft wird. Abhilfe schafft
+das ändern des Namens und/oder der Email-Adresse und/oder der Mssage-ID:
+
+Beispiel:
+"spiritofRT" <spirit@of.rt> schrieb im Newsbeitrag
+news:i91hat$kto$1@speranza.aioe.org...
+
+ändern in:
+
+"spirito^RT" <vnhbqa@^d.wx> schrieb im Newsbeitrag
+news:x91hat$kto$1@speranza.aioe.org...
+
+Das sollte immer funktionieren, wenn der Newsreader nur bei bestimmten
+Antworten beim Posten eine Fehlermeldung ausgibt.

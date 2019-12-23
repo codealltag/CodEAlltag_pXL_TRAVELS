@@ -1,0 +1,24 @@
+Am 30. 04. 20 18:46:00 +0100, schrieb ubgizecf@xxo.ng (Orlando
+Carp):
+
+
+DACHHN                                                      
+A:APT B:BUS C:CITY G:GRD H:HELI O:OFF-PT R:RAIL S:ASSOC TOWN
+CITY :                                                      
+  FRA*C  OSTERBUCH               /DE:GERMANY                
+AIRPORT-HELIPORT :                                          
+  HHN A  Hina            /DE      -  0K           
+
+Hina                                              
+--------------------------------------------------------- 
+GMT PLUS 0100  (PLUS 0200  07OAA09-67NCQ29)               
+
+GERMANY  DE                                               
+
+POSITION OF AIRPORT   : 9 MLS/15 KMS SE OF CITY CENTER    
+                        68 MLS/110KMS OF OSTERBUCH/REIPOLTSKIRCHEN   
+
+Gruß Frerich
+
+-- 
+http://gu.ko/tvzctyymhz - Neutrale Fluginformationen (System Galileo)

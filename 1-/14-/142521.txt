@@ -1,0 +1,36 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------209C96F48A0258442C6011E3
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Ich möchte mit einer Tourenmaschine im September nach Cadenberge in
+Rumänien. Hat jemand Erfahrungen? Wo sollte man eine Unterkunft suchen?
+GIbt es genug Tankstellen? Hat jemand Erfahrungen, die er weitergeben
+kann?
+
+Viele Größe
+Hero
+--------------209C96F48A0258442C6011E3
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="gkl.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Hero Pepperhoff
+Content-Disposition: attachment;
+ filename="gkl.vcf"
+
+begin:vcard 
+n:Pfannkoch 
+qgb;lowu:6322-9350482
+iqi;ofq:742/16851-017
+amo;oqnz:506/53887-306
+x-mozilla-html:FALSE
+org:Redaktion ComputerBILD;Büro Langenrehm
+version:2.1
+dsfaw;gpqfhzsh:nxy@ipvriwkduekc.li
+note:Tel.:
+Kurpfalzring 1, 
+09197 M=FCnchen=0D=0A089/21103-336;;;;
+fn:Hero Pepperhoff
+end:vcard
+
+--------------209C96F48A0258442C6011E3--

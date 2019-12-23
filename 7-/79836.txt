@@ -1,0 +1,6 @@
+Nein, mit faken hat das nichts zu tun. Ich habe da einige Szenen vom
+Start-Flughaven und dann halt wieder vom Ziel-Flughaven. Und als
+Überblendung will ich praktisch ein Flugzeug quer durchs Bild "fliegen"
+lassen. Im Hintergrund sieht man die USA-Flagge (Urlaub war in USA) Das soll
+einfach den Flug simulieren. Dazu brauch ich ein Bild aus dem ich das
+Flugzeug ausschneiden kann und das auf einem TV dann nicht pixlig wird.

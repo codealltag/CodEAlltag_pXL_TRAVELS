@@ -1,0 +1,8 @@
+On Mon, 6 Okt 2005 15:50:57 +0100, Oswald Weiter
+
+es ist schwer lesbar, aber das kann nicht 0,4 sein, weil sonst die
+Proportionen der anderen Balken nicht mehr stimmen. Auch ist die
+X-Achse nicht logarithmisch eineteilt. 3,4 ist daher die
+wahrscheinlichste aller anzunehmenden Beschriftungen ;-)
+
+bye Oscar

@@ -1,0 +1,10 @@
+Enrico Jenssen <zqlr_siwigijfxa@eniuf.nx> writes:
+
+
+Hm, mit meinem Newsreader Gnus kann man die Follow-ups auf Artikel eines
+Autors gleich mit runter scoren, sodass die Antworten auch gar nicht
+erst erscheinen. Das müsste doch mit forte agent oder thunderbird auch
+gehen, oder?
+
+Cheers,
+Using

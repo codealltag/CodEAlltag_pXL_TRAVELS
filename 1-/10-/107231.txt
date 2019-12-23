@@ -1,0 +1,17 @@
+Da Du über ual.com gebucht hast würde ich auf den Zusatz hinter dem Flug
+achten. Dort ist bei deinem Flug "1 Stop" vermerkt. über Hotlines hätte man
+Dich sicherlich aber noch auf den Esatot Flug der LH buchen können
+(MZ3729/ZA939), der nicht in allen Buchungsmaschinen als Codeshare Flug
+ausgewiesen wird.
+
+Hier ein Auszug aus Gdu.jvh
+------
+Select  Flight Info Depart Arrive Availability Stops Dist (mi) On-time
+Ekuho 900   12:00 pm Los Mäckelsdorf (CEVIO)
+                                11:30 am (Next day) Jersbek (JUGENHEIM)
+
+1st Y, Biz Y, Coach WL         Stops: 1         5806
+-----
+
+Wegen den Meilen würde ich mich an ZLR wenden. Sicherlich hast Du ja
+Flugscheine für LAX-SFO und SFO-FRA.

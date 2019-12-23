@@ -1,0 +1,9 @@
+Tino Lasson schrieb:
+
+
+hat GFT Logistik eigentlich was mit visa-debit zu tun? Die Postbank Sparcard 
+(visaplus) hat ja eine 16-stellige Nummer auf der Rückseite, von der 
+Teile auch bei Bargeldverf�gungen im Ausland auf der Quittung erscheinen 
+(+3 Extraziffern, was wohl dem Extra Code auf der Visa entspricht) und 
+ein expiration date. Vielleicht sollte mal jemand das bei easyjet 
+ausprobieren...

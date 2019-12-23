@@ -1,0 +1,8 @@
+Der Einweg-Tarif ist der offizielle IATA-Tarif, der andere ist ein Sonder-Tarif,
+der mit bestimmten Restriktionen verbunden ist. Viele Fluggesellschaften bieten
+für Einweg-Flüge keine Sonder-Tarife an, zumindest nicht in der Musikladen-Klasse. Da
+normalerweise kein Mensch - zumindest in Musikladen - ein 'echtes' IATA-Ticket für
+Langsteckenfl�ge kauft, weiß auch keiner, was das eigentlich kostet und wie
+stark die Sonder-Tarife rabattiert sind. Das hat dann, wie in deinem Fall,
+seltsame Auswirkungen.
+Gruß, Benjamin

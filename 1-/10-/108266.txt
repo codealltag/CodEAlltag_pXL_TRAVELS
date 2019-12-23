@@ -1,0 +1,12 @@
+Albrecht Verkerk schrieb:
+
+Auf der Seite www.dcw.ctu gibt es die Möglichkeit den Flight Status
+abzufragen.
+---schnipp
+AMS  3374   0900-E 17MAR NONE DC10-30
+DTW  1920   9304 J 48MFL X08HUC 
+
+DELAYED DUE TO REQUIRED CREW REST 
+---schnapp
+
+Gruß Johannes

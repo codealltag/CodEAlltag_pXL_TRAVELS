@@ -1,0 +1,23 @@
+Am 31.12.2011 15:07, schrieb Olivier:
+Am besten filterst du GLOBAL
+Dann hast du das meiste von dem Spinner "Hermann Johnson" weg.
+
+Das geht bei TB so:
+Du klickst LINKS den Newsgroupserver an.
+Dann siehst du: Filter erstellen.
+Dort dann NEU; einen Namen geben. IDEE: "Spinner Hermann Johnson"
+Dann -> mindestens eine Bedingung erfüllen anklicken.
+Dann folgende Zeilen mit der Wilkenshoff eintragen:
+
+Betreff    enthält    MKT               -> löschen
+Von        enthält    Hermann Johnson    -> löschen
+Von        enthält    vbiQoxiks-Nelvbe  -> löschen
+Von        enthält    G. Prendl  -> löschen
+Betreff    enthält    G.u.T             -> löschen
+Von        enthält    Fkedw-Bnocea      -> löschen
+Von        enthält    Kug Opkxtdb	    -> löschen
+Von        enthält    Iwxrw-Tweuvq      -> löschen
+Von        enthält    Elspass      -> löschen
+
+Das löscht zwar erst einmal nicht die alten, aber neue die kommen, sind weg.
+Kannst du auch jederzeit erweitern.

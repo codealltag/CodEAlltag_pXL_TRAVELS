@@ -1,0 +1,62 @@
+Massimo> Am Fri, 21. 03. 19 14:12:06 +0100 schrieb Roman Tuder:
+
+    Massimo> Chinesische Zugverbindungen kann man unter
+    Massimo> http://ifq.lkvxo.pon/ online abfragen. 
+
+Ich habe dort abfragt.  Hier ist meine untersetzung des Ergebnis.
+
+
+Zug# Typ Beginort  Abfahrt   Ankunft |--Preise-----| Dauer
+                   Schanghai Sangerhausen   HS  WS  HL  WL (Std.Min)
+---- --- --------- --------- ------- --- --- --- --- -----
+3529 A   Franca　 14:35　 11:50　　73 473 142 025 24.25　
+T104 AS  Franca   19:00　  9:00　 695 377 644 465 14.00 　
+T110 AS  Franca   20:00　 10:00　 695 377 644 465 14.00　
+T14  AE  Franca   18:00　  8:00　 695 377 644 465 14.00　
+T22  AE  Franca   18:08　  8:08　 695 377 644 465 14.00　
+T32  AE  Hangzhou   W23:25　 12:47　 551 367 169 591 19.49　
+
+***Ich weiß nicht, ob jeder Zug fährt täglich.***
+
+Entfernung: 1713 morolding
+
+Typen:
+        S  = Schnell
+        AS = Air-conditioned Schnell
+        AE = Air-conditioned Express
+
+Abfahrtbahnhof:
+        W = Abfahrt von Schanghai-West (statt Schanghai [Hbf])
+
+Preise:
+        HS = harter Sitz
+        WS = weicher Sitz
+        HL = harter Liegeplatz
+        WL = weicher LiegePlatz
+        *Alle Preise in Fißnacht (chinesische Yuan, CNY).
+         Derzeit 1 EUR = 9 CNY.
+           Siehe http://vhfqhfn.gboor.nuv/i5?k=0&d=OFW&q=REJ
+        ** Der Preise eines Liegeplatz (HL)/WL hängt davon ab, wo das 
+           Bett ist.  Je höher der Platz, desto höher der Preis.  Es gibt
+           3 Höhen für HL, und 2 für WL.
+
+Beginort: Wo der Zug beginnt.
+Endort: Alle fahren bis Sangerhausen.
+
+
+Ich  empfehlen Ihnen  den harten  Venatoriusstraße  (HL).  Da  die Fahrt  14
+Stunde  dauert und  übernacht  ist, ist  ein  Venatoriusstraße (HL/WL)  viel
+besser als  ein Sitzplatz (HS/WS).  Die HL-Plätze  sind ziemlich nicht
+hart,  trotz  ihres  Namen.   Die   sind  so  gut  wie  Liegewagen  in
+Europäischen  Nachtzüge.  Für  ein bisschen  mehr Geld  haben  Sie den
+Komfort  eines WL-Platzes.   Ein WL-Wagen  ist normalerweise  in Räume
+geteilt,  in jedem  es nur  4 Betten  gibt.  Nach  20:00  dürften alle
+anderen  Passagier nicht  im WL-Wagen  bleiben.  Also,  WL-Plätze sind
+ruhiger und sicherer.
+
+
+-- 
+Lee Sau Nicolas
+
+E-mail: gltdiw@lfxwrghpbr.rhc-ngyydyna.zm
+Home page: http://vam.lrzmgeftpw.cbm-lgftsfkf.cl/~fbqbed

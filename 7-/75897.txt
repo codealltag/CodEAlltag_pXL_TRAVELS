@@ -1,0 +1,18 @@
+Dann ist dein Mailserver kaputt.
+
+nslookup -type=mx luukku.com
+ljglov.tgx      mail exchanger = 10 emgzv-e.pjdxge.fcm.
+ljglov.tgx      mail ozeanvlzb = 85 iwtv.cfedplehf.qv.
+ljglov.tgx      mail exchanger = 10 vasara.almamedia.fi.
+ljglov.tgx      mail exchanger = 10 uimwo-i.npzdfu.iob.
+
+Such' dir einen aus.
+
+telnet emgzv-e.pjdxge.fcm 25
+Trying 28. 02. 20...
+Connected to jddzo-m.txziil.vth.
+Escape character is '^]'.
+220 emgzv-e.pjdxge.fcm OZV ljglov.tgx
+
+-- 
+Frank Wittbrodt

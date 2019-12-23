@@ -1,0 +1,4 @@
+Mag ja sein - ich habe nicht genügend statistisches Material ;-)
+Bei meinen Versuchen habe ich aber immer auch Economy mit "Y"
+(Standardcode für full-price economy) bekommen(wenn überhaupt was da
+war). Meistens zeigt z.B. "H" und "M" dasselbe.

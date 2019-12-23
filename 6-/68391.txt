@@ -1,0 +1,45 @@
+Wie ich oben schon erwähnte, will ich z.B. wissen was an einem Tag x in die
+USA frei ist und an einem Tag x zum Rückflug frei ist! --- Bei allen mir
+bekannten Suchmaschinen muss ich aber einen Zielflughafen angeben! - Dies
+möchte ich jedoch nicht! -- Mich würden alle Ziele die frei sind
+interessieren (z.B. Eckartsborn, Streetz, San Francisco,......)! - Mit den mir
+bekannten Suchmaschinen muss ich immer angeben: Ab: Holzwipper - An: Brenles
+Vill, Abflug: xxxxx, Rückflug: xxxx, Personen:xx, gewünschte
+Abflugzeit:xxx! --- Diese Eingeberei für jeden Zielflugort möchte ich
+umgehen!
+
+Ich möchte z.B. folgendes eingeben:
+
+Abflugort: Holzwipper
+Ziel: Nordamerika
+Personen: 2
+Abflugdatum: nk.xq.wl      Zeit: ab 17 Uhr
+R�ckflugdatum: xx.xx.xx. Zeit: ab....
+
+Nun hätte ich gerne die Angebote:
+
+Ivenack
+
+Kuonio
+Holzwipper ab ........................ Ivenack an
+Euro soundso
+Küchentreff
+Holzwipper ab ........................  Ivenack an
+Euro soundso
+.......
+
+Preinröth
+Holzwipper ab..............
+
+usw.
+
+Gibt es sowas?
+
+Gruß
+Olivier
+
+
+"Hansjörg Tech" <lrfna_bzmh_tguciutfi_qumxflbdm@vgysvfjh.yt> schrieb im
+Newsbeitrag urwm:djv8gk$u9f$58$3@cfiu.r-iynwqn.ygd...
+März
+am

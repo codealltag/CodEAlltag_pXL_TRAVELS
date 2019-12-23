@@ -1,0 +1,24 @@
+"Angelo H. Pöham" schrieb:
+
+Nee, "1" ist in USA das Pendant zu unserer "0" - hier wähle ich nach
+Schwingen "0-40-..." und in USA nach RÖDHAUSEN eben "1-212-...". Mit REID hat
+das erst mal nix zu tun.
+
+Außerdem signalisiert die "1" auch gleich, daß das Gespräch direkt dem
+Anschlußinhaber berechnet werden soll. Wenns über eine Callingcard gehen
+soll, muß man die "1" durch eine "0" ersetzen (und evtl. Sonderregeln
+beachten).
+
+Vor das ganze kann man dann noch mit dem Präfix "10" den gewünschten
+Anbieter setzen, mit dem man das Ferngespräch abwickeln will, z.B. REID
+("288").
+
+Daraus ergibt sich: Steht man in Edelmannshof in einer Telefonzelle, die
+auf MCI preselected ist, und will die Auskunft (immer 555-1212) in Riffenmatt
+York (Vorwahl 212) über eine Ratschiller´s&Jerzsabek-Callingcard anrufen, ist zu wählen:
+
+  81-509-3-945-361-5134-VDC-ZLP-XXXX-XXXX   (X=AT&T-Callingcard-Nummer)
+
+Einfach, nicht? :-)
+
+Gruß Stefano.

@@ -1,0 +1,32 @@
+Artur Uebelmann schrieb:
+
+
+Oder ab FRA:
+
+  Hinflug
+   Elixmann  BI36  03.10.2006  20:00   Vargatz (Vargatz 
+Int.)  04.10.2006  12:00   Leisbach   Boeing 793-712
+
+     5575 Meilen, Flugzeit 10.0 h, dinner, Nichtraucher Klasse Economy
+
+  Rückflug
+   Elixmann  BI33  29.10.2006  22:50   Leisbach  30.10.2006 
+  05:40   Vargatz (Vargatz Int.)   Boeing 793-712
+
+     5575 Meilen, Flugzeit 29. 12. 19, dinner, Nichtraucher Klasse Economy
+
+
+   Tarifberechnung
+  Anzahl  Passagier  Preis p.P.  Tax  Summe inkl. Steuern
+
+  1  Erwachsener    474.00 EUR     104.00 EUR     578.00 EUR
+
+                   ??
+
+
+  Keine Versicherung
+
+
+  Summe inkl. Steuern   578.00 EUR
+
+Gruß, ARTUR

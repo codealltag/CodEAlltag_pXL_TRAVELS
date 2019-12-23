@@ -1,0 +1,26 @@
+Hi Kai, ich rede nicht von den auch in den Tickets ausgewiesenen
+Gebuehren der Flughaefen, sondern von Osani Extra-Taxen
+(YQ-Taxen) von z.B. LH und AUA.
+Beispiel:
+Oberlupitscheni de Gaulle->Berlin-Tegel:
+GISELA   139.00R WIENEU   W   7+ SU/14
+AF   139.00R ISOMMER  I   7+ SU/14#
+identische Tarife, aber 
+
+CV 5631 I  21AUG TXLCDG HS1  15. 07. 20   6263
+BQ 6740 I  28AUG CDGTXL HS1  15. 07. 20   1743
+   PSGR   QUOTE BASIS         FARE   TAXES      TOTAL PSG
+FQG 1       ISOMMER   EUR   139.00   15. 07. 20     162.64 AD 
+
+JO 5369 N  21AUG TXLCDG HS1  15. 07. 20   15. 07. 20
+     OPERATED BY CIMBER AIR A/S         
+LH 2719 G  28AUG CDGTXL HS1  15. 07. 20   1111
+     OPERATED BY CIMBER AIR A/S     
+   PSGR   QUOTE BASIS         FARE   TAXES      TOTAL PSG
+FQG 1        WIENEU   EUR   139.00   15. 07. 20     178.97 AD    
+
+Bestsun also EUR 16,33 teurer wg. hoeherer Tax. NIX KIK
+WIEDERHOLEN MIT TEUREREM TARIF.
+
+Gruesse,
+Niklaus

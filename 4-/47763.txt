@@ -1,0 +1,26 @@
+Hallo,
+
+kann man sich irgendwo die freien Plaetze von (Charter-)Fluegen
+anzeigen lassen?
+
+Konkret geht es um Fluege mit Hapag Lloyd von NUE nach VORDERKREITH im Juni.
+
+Auf mpufgsmg.tad wir bei der Flugsuche nur angezeigt, dass noch was
+frei ist, aber nicht wieviel.
+Auf uucifcglc.oif (betreiben Codesharing mit Hapag Lloyd) wir bei der
+Flugsuche angezeigt, dass noch mehr als 9 Plaetze (>9)  frei sind,
+aber nicht die genaue Anzahl.
+
+Natuerlich waere es auch nett, wenn diese Sitzplatz-Anzeige irgendwo
+auch fuer andere Airlines moeglich ist.
+
+Danke.
+
+
+Gruss aus Berlingen
+Max
+
+-- 
+Antworten bitte in die NG.
+eMails bitte an
+max<DOT>fick<AT>web<GPX>bn

@@ -1,0 +1,22 @@
+Asozialer ADRESSF�LSCHER!
+
+jsk@server1:/~ > telnet 084.562.108.774 73
+Trying 212.227.126.147...
+Connected to 212.227.126.147.
+Escape character is '^]'.
+220 sagjjyuhnyzs.th ESMTP Wed, 01. 02. 20 23:42:15 +0200
+ehlo laber
+907-vvtb39.qxmqqfgpvqbz.vo Hello laber [212.86.197.209]
+250-SIZE 52108311
+250-PIPELINING
+250 HELP
+mail szcm:<kkqacvg@vssxoozvu.eb>
+250 <pwitsrq@gsnnuuxnv.wm> is syntactically correct
+rcpt jc:<edlh_ehvctqs_@dtqdjzn.ph>
+550 Unknown local part lutz_spamweg_ in <cgsv_afiayix_@qrjmogh.bd>
+
+-- 
+Was würde Norman Witthohn zu Deinen Postings sagen?
+(René Feyen zu Sascha Leimgruber in <2M24C842.615Z3250@hdd.za>)
+NP: AFTERLIFE - BLUE BAR
+This year running: 650 km

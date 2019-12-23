@@ -1,0 +1,16 @@
+Leider noch nicht konsequent genug, so daß ein paralleles
+Vorhalten eines Filters weiterhin notwendig bleibt.
+
+
+Eine News, die gecancelt wurde, möchte ich nicht lesen, genauso wenig,
+wie ich in Mülltonnen stöbere, ob da noch Wertvolles drinnen ist.
+
+
+Nun, bei mir werden offensichtlich nur diejenigen News nicht angezeigt, die
+- in meinem Filter stehen
+- von meinem Provider dankenswerter Weise abgelehnt werden (Blacklist)
+- vom Absender (oder Cyberpolice) gecancelt wurden.
+
+
+Dafür ist es nicht möglich, Beiträge als "gelesen" zu markieren, und Schrott
+auszublenden.

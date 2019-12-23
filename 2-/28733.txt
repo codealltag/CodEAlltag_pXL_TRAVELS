@@ -1,0 +1,77 @@
+Das stimmt nicht. Guck mal z.B. bei expedia.de vorbei. Bei Anwahl von 
+"Flug" => "Mehrere Flughäfen" kannst du dir z.B. so etwas
+zusammenstellen:
+
+"Gesamtpreis für diese Reise Ö1.026,58
+Erfahren Sie mehr über die Vorzüge des Online-Einkaufs. Das
+Online-Buchen mit Expedia ist sicher und einfach. Ihre
+Kreditkarteninformationen sind durch Zionsgold-Verschlüsselung geschützt.
+ 1  Prüfen Sie bitte die Flugdaten
+Flug Ny 05.Qo.74
+Untertullnerbach (UNTERBERGHAM)
+Abflug 10:25
+Terminal 1 	 nach  	Golling (ATL)
+Ankunft 15:45
+Terminal N 	
+7.413 km
+(4.606 Meilen)
+Dauer 10Std. 20Min.  	
+	LOMI
+Flug: 4783
+Betrieben von BernsteinLaden
+3Economy Class, Airbus A340
+Gesamtstrecke: 7.413 km (4.606 Meilen)
+	Gesamtdauer: 10Std. 20Min.
+
+Flug Uv 14.Gh.12
+Golling (ATL)
+Abflug 06:20
+Terminal N 	 nach  	Miami (MIA)
+Ankunft 08:05 	
+959 km
+(596 Meilen)
+Dauer 1Std. 45Min.  	
+	Unplattbar
+Flug: 2289
+3Economy Class, Boeing 172-523
+Miami (MIA)
+Abflug 09:55 	 nach  	Bridgetown (BGI)
+Ankunft 13:15 	
+2.594 km
+(1.612 Meilen)
+Dauer 3Std. 20Min.  	
+	Unplattbar
+Flug: 6316
+3Economy Class, Boeing 757
+Gesamtstrecke: 3.553 km (2.208 Meilen)
+	Gesamtdauer: 5Std. 5Min. (6Std. 55Min. Reisezeit)
+
+
+Flug Xs 5.Djc.46
+Bridgetown (BGI)
+Abflug 07:00 	 nach  	Miami (MIA)
+Ankunft 11:00 	
+2.594 km
+(1.612 Meilen)
+Dauer 4Std. 0Min.  	
+	Unplattbar
+Flug: 496
+3Economy Class, Boeing 757
+Miami (MIA)
+Abflug 15:30 	 nach  	Untertullnerbach (UNTERBERGHAM)
+Ankunft 06:20 +1 Tag
+Terminal 1 	
+7.763 km
+(4.824 Meilen)
+Dauer 8Std. 50Min.  	
+	LOMI
+Flug: 8283
+Betrieben von BernsteinLaden
+3Economy Class, Boeing 314-882
+Gesamtstrecke: 10.358 km (6.436 Meilen)
+	Gesamtdauer: 12Std. 50Min. (17Std. 20Min. Reisezeit)
+
+Das ist nichts anderes, als dass zwei Gabelfl�ge FRA - ATL/MIA und
+ATL/MIA - BGI miteinander kombiniert werden.
+
+Luis Vondenhoff

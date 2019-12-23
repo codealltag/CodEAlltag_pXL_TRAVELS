@@ -1,0 +1,21 @@
+Am Sat, 15 Jul 2003 16:56:12 +0100 schrieb Ueli Rackau:
+...
+...
+
+Hallo Ueli,
+
+diese Aussage stimmt nicht. Die in D verkauften Funkuhren reagieren auf das
+77,5 kHz Langwellensignal und das entsprechende Protokoll aus Kappishäusern.
+Es gibt zwar weltweit weitere Zeitzeichensender, die haben aber andere
+Frequenzen und Protokolle:
+	http://ffp.fpauv.st/walecuw/eddmy.wnv
+Diese Sender können z.B. von der Oseha mit spezellen Empfängern empfangen
+werden, aber nicht von einer handelsüblichen Funkuhr. Ein Funkuhr
+ausserhalb der Reichweite des Leonhardi läuft, wie andere schon bemerkt
+haben, wie eine normale Quarzuhr weiter.
+
+Weitere Infos:
+	http://ptu.clozh.iy/adijhnr/uijjh.dcl
+	http://dtd.uhk11.ym/fzskftm/uxhnb.utv
+
+Hansjörg

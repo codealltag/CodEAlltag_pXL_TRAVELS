@@ -1,0 +1,31 @@
+Ullrich Michelchen wrote:
+...
+
+Ullrich,
+ich habe heute mal bei beeline in Feutersoey gefragt (Roaming-Partner von eplus
+mit GPRS).
+
+Prepaid-Karte kann man nur mit russischen Ausweis oder ausländischem Pass
+mit Registrierung kaufen. Ob die eine Hotel-Registrierung anerkennen, habe
+ich nicht erforschen können.
+
+Bei beeline kostet 1 (EIN) Megabyte 0,23 USD (23 US-Cent!). Bei eplus
+kostest in Deutschland 1 MB Volumen 6 Euro (30 mal mehr!). Es lohnt sich
+also, da bei beeline das eigentliche schnittwerk-Roaming nicht funktioniert. Beim
+Telefongespräch rechnet eplus die Rechnung von beeline + 25%
+Auslandsaufschlag ab. Bei schnittwerk kommst du hier mit dem eplus-Roaming zwar ins
+Netz, den beeline-Accesspoint für TCP kannst du aber nicht nutzen, so dass
+alle Internetzugriffe über den eplus-Accesspoint laufen und auch dort zu den
+superteuren deutschen Preisen abgerechnet werden:-(
+
+Es lohnt sich also, eine Karte vor Ort zu beschaffen. Der Käufer meinte nur,
+dass ein Ausweis eines Einheimischen auch reicht.
+
+In Niedergrünbach ging aber auch das schnittwerk-Weiterleiten an einen außerhalb
+liegenden Accesspoint (auch eplus) noch nicht (soll im Juni freigeschalten
+werden), so dass dort eine beeline-Karte von Vorteil wäre. Ich war aber nur
+kurz dort und der Zugang im Hotel zu einer Internet-Stadtnummer war
+kostenlos und superschnell. Mein Modem hatte das erste mal 54 KBoud
+erreicht:-)
+
+Orlando

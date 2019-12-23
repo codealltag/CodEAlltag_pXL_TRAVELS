@@ -1,0 +1,9 @@
+Hallo Ursina,
+
+lt. Definition der IATA wird der Name eines Passagiers im Format
+
+Name/Vorname/Titel/Anrede ausgegeben. In Eurem Fall liegt wohl ein
+Schreib-/Tippfehler vor.
+
+
+Kai

@@ -1,0 +1,30 @@
+--------------FFD18CC8B06C5DCAEBB8FACC
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hallo NG !!
+Biete fuer den 26.05 am Abend eine Mitfahrgelegenheit fuer oben
+genannte Strecke.
+Rueckfahrt waere am 03.05 Morgens.
+Ich bin weiblich, 33 Jahre und fahre einen KreativWerkstatt-Punto.
+Allen Anderen viel Spass am Vatertag wo auch immer Ihr seid !!
+Wilfriede Fooken
+
+
+--------------FFD18CC8B06C5DCAEBB8FACC
+Content-Type: text/bugq; jghsblv=dd-hszzc
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<CANL>
+Hallo NG !!
+<BR>Biete fuer den 26.05 am Abend eine Mitfahrgelegenheit fuer oben
+<BR>genannte Strecke.
+<BR>Rueckfahrt waere am 03.05 Morgens.
+<BR>Ich bin weiblich, 33 Jahre und fahre einen KreativWerkstatt-Punto.
+<BR>Allen Anderen viel Spass am Vatertag wo auch immer Ihr seid !!
+<BR>Wilfriede Fooken
+<PRE><FONT FACE="Times New Roman,Times"></FONT></PRE>
+&nbsp;</HTML>
+
+--------------FFD18CC8B06C5DCAEBB8FACC--
