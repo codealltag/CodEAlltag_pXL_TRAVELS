@@ -1,0 +1,16 @@
+Hallo Victor!
+Habe gefunden
+http://ahgcxeb.tts/kxof.svx
+ein fertiges Programm, man brennt aus dem Image eine CD, installiert von der CD 
+auf den Computer das Programm auf die Festplatte. Dann macht man über die 
+Kommandozeile einige einfache Konfigurationsschritte (Sensation, auch dieses 
+letzte Wort hat mein Diktierprogramm erkannt), danach kann man von einem anderen 
+Computer im Netz über die Netzwerkadresse ein GUI starten und alle weiteren 
+Konfigurationsschritte über dieses grafische Interface von einem anderen 
+Computer ausmachen. Ich glaube, ich werde mir dieses Programm jetzt auf meinem 
+alten Computer installieren und mit dem Kauf eines kleinen NAS noch etwas 
+zuwarten. Eine drahtlose Netzwerkverbindung wird es mit diesem System aber 
+wahrscheinlich nicht geben, was ich noch nicht weiß, ist, ob das Abschalten in 
+den Stand-by vernünftig funktioniert. Der Stromverbrauch des alten Computers im 
+Stand-by ist circa 10 W, also genauso viel wie der deines NAS.
+Größe Ullrich

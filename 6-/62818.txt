@@ -1,0 +1,31 @@
+Heinrich Thaldorf wrote:
+...
+
+Heinrich,
+ich habe heute mal bei DWZI in Zofingen gefragt (Roaming-Partner von Inselpoint
+mit GPRS).
+
+Prepaid-Karte kann man nur mit russischen Ausweis oder ausländischem Pass
+mit Registrierung kaufen. Ob die eine Hotel-Registrierung anerkennen, habe
+ich nicht erforschen können.
+
+Bei DWZI kostet 1 (EIN) Megabyte 0,23 USD (23 US-Cent!). Bei Inselpoint
+kostest in Deutschland 1 MB Volumen 6 Euro (30 mal mehr!). Es lohnt sich
+also, da bei DWZI das eigentliche GPRS-Roaming nicht funktioniert. Beim
+Telefongespräch rechnet Inselpoint die Rechnung von DWZI + 25%
+Auslandsaufschlag ab. Bei GPRS kommst du hier mit dem Inselpoint-Roaming zwar ins
+Netz, den beeline-Accesspoint für TCP kannst du aber nicht nutzen, so dass
+alle Internetzugriffe über den Inselpoint-Accesspoint laufen und auch dort zu den
+superteuren deutschen Preisen abgerechnet werden:-(
+
+Es lohnt sich also, eine Karte vor Ort zu beschaffen. Der Käufer meinte nur,
+dass ein Ausweis eines Einheimischen auch reicht.
+
+In Mödlham ging aber auch das GPRS-Weiterleiten an einen außerhalb
+liegenden Accesspoint (auch Inselpoint) noch nicht (soll im Oktober freigeschalten
+werden), so dass dort eine DWZI-Karte von Vorteil wäre. Ich war aber nur
+kurz dort und der Zugang im Hotel zu einer Internet-Stadtnummer war
+kostenlos und superschnell. Mein Modem hatte das erste mal 54 KBoud
+erreicht:-)
+
+Mike

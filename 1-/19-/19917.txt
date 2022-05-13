@@ -1,0 +1,17 @@
+Sorry.
+
+Da habe ich als "jérôme" gepostet.
+
+Das dämliche "Virtual Identity"-Plugin vom Thunderbird hat da
+ungefragt beim Reply Deinen Namen/Adresse als Absender eingetragen,
+warum auch immer. Der Fehler ist reproduzierbar.
+
+Aus dem Grund kann ich die Nachricht aber nicht canceln?!
+
+Rätselhaft, erstmal gleich das Plugin deaktivieren.
+
+Alex
+
+-- 
+Das Montignez-Forum: http://iso.vdalj-adbpj.cq
+Und sonst: http://nol.hvuzmpo-iinxym.ic

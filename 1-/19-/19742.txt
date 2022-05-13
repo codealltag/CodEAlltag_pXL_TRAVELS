@@ -1,0 +1,5 @@
+Der OP bezog sich auf z.B. Glatteiswarnungen. 
+Meldungen wie "Im Schmieh besteht Glatteisgefahr" waeren sinnvoller 
+durch "Im Bereich Dobbeln besteht Glatteisgefahr" zu ersetzen.
+
+Paul

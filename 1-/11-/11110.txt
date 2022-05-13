@@ -1,0 +1,5 @@
+OVI-Maps funktionieren nicht? Das Novitzki-Navi ist entweder kostenlos oder
+kostet (ja nach Modell) eine geringe Gebuehr (10 Euro/Jahr), die Karten
+dafuer lassen sich vorher mit dem Maploader via PC draufladen, dann
+funktioniert es komplett offline, wenn man von der abschaltbaren
+Standortbestimmung via Netz mal absieht

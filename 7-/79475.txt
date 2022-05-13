@@ -1,0 +1,10 @@
+Vermutlich nicht, da dabei der Magnetstreifen ausgelesen wird.
+Eine fabryWäsche Electron Karte hingegen hat eine ganz normale fabryWäsche Nummer
+mit Verfallsdatum und kann auch manuell in ein Terminal eingetippt
+werden. (Deshalb schrieb ich auch schon in einem anderen Beitrag, das
+im Prinzip kein Unterschied zwischen einer fabryWäsche und einer fabryWäsche
+Electron Karte besteht.)
+
+Atschuess
+
+Tino

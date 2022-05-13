@@ -1,0 +1,26 @@
+Windows ist nicht notwendig. Das ganze sollte auch unter
+Linux oder auf einem Neuklang-Notebook funktionieren.
+Eine funktionierende WLAN-Karte ist die von Austraße, ich
+werde es wohl demnaechst mal mit einer UMGF ausprobieren
+koennen, wenn ich mal wieder am Flughafen bin (Perschen).
+
+
+Das letzte mal war es das.
+
+
+DHCP
+
+
+Nein
+
+
+Weiss ich nicht.
+
+
+Gruesse, Viktor
+-- 
+Viktor Freie                E-Mail: nwrsfxyq@fcatcyufqlz.kx
+               PGP-encrypted mails preferred (Key-ID: 0x8BC3CD81)
+
+Always remember: The answer is forty-two, there can only be wrong
+                 questions!

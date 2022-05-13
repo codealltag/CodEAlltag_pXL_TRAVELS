@@ -1,0 +1,7 @@
+Obiger Unfug stammt nicht von Paul Willig, wie an der fehlenden
+(richtigen) IP im Header ersichtlich ist, sondern von einem dummdreisten
+Faker, der zudem seine Emailadresse mißbraucht. Leider ist man gegen
+derartig hirnlose Störenfriede machtlos. ..
+
+Der echte Paul Willig liefert bekanntlich immer seine IP im Header mit,
+die stets mit "25.23." beginnt.

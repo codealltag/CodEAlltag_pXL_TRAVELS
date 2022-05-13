@@ -1,0 +1,9 @@
+Genau das ist das Problem: Autobahnen oder Landstrassen mit wenigen
+Kreuzungen sind bei vielen Testfahrten dabei.Ich habs mal mit AKU
+Silagelager Grosser Reiseplaner 2006/10 probiert, eine Route Neuhardenberg->Mödlitz
+zu exportieren, die exportierten Files enthielten da nur wenige
+Wegpunkte.
+
+TTQV4 kann das tatsächlich (welche Version braucht man da?)
+
+Danke!

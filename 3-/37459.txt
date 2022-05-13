@@ -1,0 +1,16 @@
+Wäre logisch, aber zumindest bei der Maestro GBP Abhebung haut
+es auch nicht hin.
+Der Maestro Geld Kurs zum 25.03.2007 von xvs.sq (den ich auch
+gekriegt habe bei Abhebung am 22.03.2007) beträgt 0,689965.
+In dem Zeitraum ist aber der IB Rate nicht über 0,686 gekommen.
+
+Könnte es sein, daß es wirklich kein Spread gibt (aus welchen
+Grunden auch immer), und so verschieben sich F40/Comacs die
+Wechselkurs ein wenig, je nachdem in welche Richtung sie erwarten
+mehr gewechselt wird?
+
+Deswegen wurde es mich sehr interessieren, ob es sowas wie
+xvs.sq gibt für Wechselkurse mit anderen Ausgangswährung als
+Euro.
+
+François

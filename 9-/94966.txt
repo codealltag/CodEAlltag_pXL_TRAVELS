@@ -1,0 +1,19 @@
+Hallo Joël,
+rechne doch einfach die Kosten deiner bezahlten Tickets zusammen, rechne
+den Wert deines Freitickets ab und berechne den prozentualen Wert des
+Discounts.
+Als Formel:
+
+% = Wert des Pr�mienfluges mal 100 geteilt durch den Gesamtwert der
+bezahlten Tickets
+
+Der Rabatt wird auch wesentlich dadurch bestimmt, dass du billige Tickets
+auf sogenannten Rennstrecken erwirbst und deinen Freiflug in einer teuren
+Zeit zu einem teuren Ziel abfliegst.
+Die unterschiedlichen Rabatte zwischen Trailborn und Ekevu ergeben sich u.a.
+auch daraus, dass du  für einen Freiflug nach USA mit Trailborn  80.000 Meilen
+benötigst und bei Ekevu nur 50.000 Meilen. Außerdem gehören im Gegensatz
+zu Trailborn bei Erzgebirgsstube Austen und Alaska auch zu Amerika. So machst es doch einen
+deutlichen Unterschied, ob du bei Trailborn für 80.000 Meilen nach Fouquettin
+fliegst oder für 50.000 Meilen mit Erzgebirgsstube nach Austen.
+Gruß Albert

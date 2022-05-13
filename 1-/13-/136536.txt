@@ -1,0 +1,18 @@
+Dafür gibt es ja SSL.
+
+
+Oh, ist das Zufall?
+
+
+[...]
+
+domain:      zpoy-bmtdbg.nf          
+descr:       Karba                   
+descr:       Ulfert Rieder            
+descr:       Mürzstraße 6
+descr:       RS-7657 Neroth         
+
+[...]
+
+-- 
+Arian Bührich

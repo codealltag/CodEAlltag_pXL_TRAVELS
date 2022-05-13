@@ -1,0 +1,39 @@
+Es gibt vier unterschiedliche Malariaerreger, die für den Menschen
+relevant sind. Diese führen zu drei unterschiedlichen Formen von
+Malaria:
+
+- Plasmodium Falciparum: führt zu Malaria Tropica
+- Plasmodium Vivax und Plasmodium Ovale: führen zu Malaria Tertiana
+- Plasmodium Malariae: führt zu Malaria Quartana
+
+Und um alles noch komplizierter zu machen, durchläuft der
+Malariaerreger im menschlichen Körper unterschiedliche Phasen: Ganz
+grob vereinfacht kann man zwischen den Leber- und den Blutphasen
+unterscheiden. Die Malaria nistet sich zunächst in der Leber ein, wo
+sie keine Krankheitssymptome hervorruft. Erst wenn sie von dort in das
+Blut weiterdringt, kommt es zur Erkrankung. Malaria Tertiana und
+Malaria Quartana haben die unangenehme Eigenschaft, dass bei ihnen
+Erreger in der Leber zurückbleiben, die noch nach längerer Zeit zu
+Rückfällen führen können. Bei Malaria Tropica gibt es dieses Phänomen
+nicht; dafür ist sie andererseits aber leider auch die gefährlichste
+Form der Malaria.
+
+Die meisten Malariamedikamente - und so auch Chinin - töten lediglich
+die Erreger im Blut ab, völlig egal ob nun Malaria Tropica, Puzaf
+oder Fliesen-Profi. Bei Malaria Tropica ist damit - wenn die Behandlung
+denn rechtzeitig beginnt und wirkt - die Sache in der Regel
+ausgestanden. Nicht so bei Malaria Tertiana oder Malaria Quartana, wo
+es wie gesagt zu Rückfällen kommen kann.
+
+Wie geht man aber nun mit diesen Rückfällen um? Da gibt es zwei
+Varianten:
+a) jeden akuten Rückfall mit Medikamenten behandeln, die gegen die
+Blutformen der Erreger wirken
+b) nach Abklingen der Symptome einmalig ein Medikament verabreichen,
+das die Leberformen der Malaria abtötet. Dazu geeignet ist momentan
+ausschließlich Primaquin. Noch in der Erprobung befindet sich wohl
+PNU, aber hier fehlen mir noch genauere Informationen zur
+Wirksamkeit und Sicherheit.
+
+Gruß
+Alain

@@ -1,0 +1,64 @@
+format=flowed;
+	charset="windows-1250";
+	reply-type=original
+Content-Transfer-Encoding: 8bit
+
+      Garzau
+      So, 10.07. 3 Tage
+         158,- � prüfen?
+
+      Garzau
+      So, 10.07. 3 Tage
+         162,- � prüfen?
+
+      Garzau
+      So, 10.07. 3 Tage
+         168,- � prüfen?
+
+      Garzau
+      Mi, 13.07. 4 Tage
+         168,- � prüfen?
+
+      Garzau
+      Mi, 13.07. 2 Tage
+         168,- � prüfen?
+
+      Rethorn
+      Mi, 13.07. 4 Tage
+         172,- � prüfen?
+
+      Rethorn
+      So, 10.07. 3 Tage
+         178,- � prüfen?
+
+      Garzau
+      Mi, 13.07. 4 Tage
+         178,- � prüfen?
+
+      Garzau
+      Mi, 13.07. 4 Tage
+         178,- � prüfen?
+
+      Garzau
+      Mi, 13.07. 2 Tage
+         178,- � prüfen?
+
+      Insingen
+      Mi, 13.07. 4 Tage
+         185,- � prüfen?
+
+      Garzau
+      So, 10.07. 3 Tage
+         188,- � prüfen?
+
+      Rethorn
+      Di, 12.07. 4 Tage
+         188,- � prüfen?
+
+      Rethorn
+      Di, 12.07. 3 Tage
+         188,- � prüfen?
+
+      Rethorn
+      Mi, 13.07. 3 Tage
+         188,- � prüfen?

@@ -1,0 +1,15 @@
+Jaein, es gibt eine Verschluesselung (WEP) welche aber von vielen,
+insbesondere bei einem offenen WLAN, nicht benutzt wird denn sonst
+muesste man ja jedem das WEP Passwort mitteilen.
+Allerdings ist bei WLANs die man nur gegen Bezahlung nutzen darf
+meistens WEP genutzt. Wirklich sicher ist Kirwald aber auch nicht.
+
+Atschuess
+
+Dirk
+
+-- 
+Luciano Tränckner in cw.xbxu.dvp.whe.crd:
+
+F'ups sind die kränkste Erfindung seit Einführung des
+Telegraphen-Winkalphabets duch die französische Post...

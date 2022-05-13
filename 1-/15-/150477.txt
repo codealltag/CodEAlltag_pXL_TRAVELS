@@ -1,0 +1,124 @@
+Lieber Carlos
+du durchschaust es wirklich nicht! Ich versuch' s halt noch mal zu erklären:
+
+
+Habe ich getan, das ist ein simples Rechenbeispiel:(Minimalforderung von dtc)
+Titel                                benötigt:
+1. Ebene Agent (AG)                  x-Kunden (KD), Annahme 10,
+                                     sollte doch zu schaffen sein, oder?
+2. Ebene Assistant Trainer (AT)      min. 25 Kunden + min. 5 AG
+3. Ebene Trainer (TR)                min. 4 AT + min. 4 AG
+4. Ebene Senior Trainer (ST)         min. 4 TR + min. 4 AG
+5. Ebene Regional Director (RD)      min. 4 ST + min. 4 AG
+6. Ebene National Director (ND)      min. 4 ND + min. 4 AG
+7. Ebene International Director (ID) min. 4 ID + min. 4 AG
+
+
+1. 1 AG =  1 + 10 KD            =    11 Menschen
+2. 1 AT =  1 + 25 KD + 5 AG     =    81 Menschen
+3. 1 TR =  1 +  4 AT + 4 AG     =   369 Menschen
+4. 1 ST =  1 +  4 TR + 4 AG     =  1521 Menschen
+5. 1 RD =  1 +  4 ST + 4 AG     =  6129 Menschen
+6. 1 ND =  1 +  4 RT + 4 AG     = 24561 Menschen
+7. 1 ID =  1 +  4 ND + 4 AG     = 98289 Menschen
+
+So das war ein Stück Arbeit, dafür mußte ich die dtc-HP genau studieren. Du
+siehst daran, daß ich mir wenigstens Mühe gebe. Ich gestatte ausdrücklich, die
+Beispielrechnung in den Motivationsunterlagen von dtc zu verwenden, oder hab ich
+da was falsch verstanden. Ich werde mir allerdings nicht auch noch die Mühe
+machen, die Provisons�tze nachzurechnen oder die ganzen Formulare zu downloaden.
+Wer weiß, was da evtl. an Stolpersteinen und Knebeln noch so zum Vorschein
+kommt?
+
+Ach wie schön das Leben wär', wär' ich nationale Directeur ('tschuldigung!)
+
+
+Dagegen spricht, daß die kritische Distanz des Käufers zum Verkäufer fehlt.
+Dadurch hält man sich u.a. lästigen Wettbewerb von Hals. Und weil Du ein lieber
+und sympathischer Mensch bist (setzte ich voraus, weil ich an das Gute glaube),
+wird man Dir viele Reisen abkaufen, schon allein weil Du ein lieber und
+sympathischer Mensch bist .... und nicht weil es ein gutes Produkt ist, oder
+weil es preiswert ist. Radial sind m.E. ziemlich teuer - und werden in
+erster Linie gekauft, weil damit positive soziale Aktivitäten verbunden sind. In
+netter Runde, bei Freunden, zum Kaffekränzchen, mit Heitzdecke, Kaffemaschine
+und Serge Elias.
+
+
+Trifft doch zu; siehe oben, siehe unten.
+
+
+Schade, da entgeht Dir aber was :-)), sollte man in der Zentrale von Kiwi zwecks
+Motivation mal drüber nachdenken. Auf der HP findet man im übrigen schon mal die
+
+"10 Punkte ( - Jubel - ) Formel"
+Unsere unabhängigen Reiseagenten sind . . .
+1    das wichtigste Bindeglied für eine effektivere und effizientere
+Kommunikation
+2    die Kontaktperson zwischen Kunde und Firma
+3    die Botschafter für Kompetenz und Erfahrung von KBHI nach
+außen
+4    diejenigen, die dem Kunden sein Steckenpferd "Urlaub" nach Hause bringen
+5    diejenigen, die die Zuverlässigkeit gegenüber dem Kunden und
+Kibitzmarkt.Raiffeisenkasse.garantieren
+6    begeistert über die vielfältige Produktlinie
+7    sich dem klar strukturierten Aufbau der Vertriebsorganisation bewußt
+8    sich über die entstehende Dynamik bei einem gesunden Organisationsaufbau im
+Klaren
+9    überzeugt von den Marketing- und Karriereplänen von KBHI.
+10   sich einig - "Begeisterung bringt Aktivität - Aktivität bringt Einkommen"
+
+...Ist doch schon ein netter Anfang!
+
+
+Hast Du mein Zitat von Akyol genau gelesen? Da stehts nämlich im Halbsatz -
+etwas verklausuliert - wörtlich drinne: "... Diese Direktverkäufer verdienen ihr
+Geld mit dem Verkauf von Produkten und Dienstleistungen an ihre eigenen Kunden
+und an Kunden(,) die von anderen selbständigen Direktverkäufen aus ihrem
+Verk�ufernetz(,) geworben wurden...." Die kleine, aber feine Bedeutung
+erschließt sich dem geneigten Leser erst bei genauer Beachtung der Kommasetzung,
+zur Verdeutlichunmg von mir in Klammern angegeben. Und genau das ist ist der
+Punkt, der wunde: Du verdienst nämlich nur 'nen Appel und noch nicht einmal ein
+Ei dazu, wenn es Dir nicht in kurzer Zeit gelingt, neue "Sekten"-Mitglieder
+(sorry, andere selbständige Direktverkäufer) zu rekrutieren. Erst dann tritt für
+Dich, und natürlich für Deinen Trainer, und seinen Seniortrainer, und für seinen
+Regionaltrainer, und für seinen Superregionaltrainer..., ..., .... der Fall ein,
+daß Du auch noch ein Ei verdienst und dir einen Eierbecher dazu leisten kannst.
+
+Nu, verstanden wo der Schneeball hinfliegt?
+
+
+Treffer, aber nicht im Gebietsschutz Deiner Kollegen. Dir sei die Lektüre Eurer
+HP ans Herz gelegt. Die Punkte kannst Du auch mal mit Deinem GF Herrn Alain
+Vagts diskutieren, der hat bestimmt nette Anmerkungen dazu.
+
+
+Schade eigentlich. Das tut mir jetzt aber leid für Dich, Hanspeter und ich könnten
+Dir ja mal eins entwickeln.
+
+
+Für-uns-Gott-sei-dank-nicht!
+
+
+Richtig, jeder der ein Geschäft betreibt hat Umsatzprobleme - sonst hätte er
+wegen Reichtum geschlossen.
+Uuupps-URL, ich habe leider nur eine B�romailanschrift - aber ich habe mir sogar
+die Sig. verkniffen. Das wird allerdings in den NGs problemlos akzeptiert. Ich
+persönlich finde das sogar wichtig, man darf und soll erkennen, ob jemand "nur"
+ein interessierter Mensch ist oder sogar von Berufs wegen mit dem Thema
+verbunden ist. Gerade aus letzterer Ecke erwarte ich mir (hoffentlich) gute
+Antworten und Anregungen. Und das ist nicht automatisch Werbung.
+
+
+Nee, la man. Dahinter steckt die schmerzliche Erfahrung von vielen Menschen aus
+den neuen Bundeslanden, die gutgläubig (hier im besten Sinne des Wortes gemeint)
+auf Wessis aller Art reingefallen sind und viel Lehrgeld bezahlen mußten und
+immer noch bezahlen.
+
+
+s.o. Uuupps-URL
+
+
+Ich bin für die Anerkennung der Geiseln als gesetzliches Zahlungsmittel.:-))
+
+Größe,
+Tim

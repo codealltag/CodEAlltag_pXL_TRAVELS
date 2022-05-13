@@ -1,0 +1,10 @@
+glaub mir, mit:
+
+Score:: -9999
+~From: ^[A-ZU][a-za]*[ \-][A-Z"'a-z][A-Za-z]*[a-z\. 
+'�"������].*$
+
+liest sich drrm viel angenehmer.
+
+-- 
+ich würde Dir auch gerne mit konkreten Tips helfen, habe aber keine Ahnung. (Folkert Zehndbauer in drrm)

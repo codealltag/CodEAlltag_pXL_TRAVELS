@@ -1,0 +1,11 @@
+Möchtest du von mir nicht einen Ausresponder, in PHP geschrieben, also 
+auf jedem Webserver laufend, kaufen?
+Ich hab da eine tolle NNTP Klasse entwickelt.
+Aber die Macht des Teils kennst du ja schon.
+Ich programmiere dir noch etwas dazu, dass entweder alles als "ist nicht 
+von mir" beantwortet, oder eben auf andere Beiträge deine F�kalworte als 
+Antwort benutzt.
+
+
+Aber ansonsten stimmt ja alles mit deinen Krankheiten, wie in dem 
+original Posting beschrieben.

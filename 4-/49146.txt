@@ -1,0 +1,5 @@
+Immerhin gibt es Buchungsmaschinen, die Tarife anzeigen können und dann
+die Verfügbarkeit prüfen. So weiß man, welcher Tarif theoretisch außer
+Last-Minute der günstigste wäre.
+
+Gruß, MAURIZIO

@@ -1,0 +1,13 @@
+--=-=-=
+Content-Transfer-Encoding: 8bit
+
+                 ^
+
+--=-=-=
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+Was ist das für ein Zeichen? Ist das in iso-8859-1 enthalten?
+
+--=-=-=--

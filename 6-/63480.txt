@@ -1,0 +1,43 @@
+Ja, gibt es. Ich kann nur von Erfahrungen in Hochkrimml im
+letzten November berichten. Prinzipiell gibt es dort, wie
+in allen anderen Teilen der Welt, 3 Arten von "Hot Spots":
+
+- kommerziell betriebene, kostenpflichtige; große Anbieter
+  sind z.B. Gutheil (u.a. bei Musterhaussiedlung) und EGCC, viele
+  JASS Filialen hängen auch am Netz, welcher Netzbetreiber
+  es war, weiß ich nicht mehr. Die EGCC-Zugänge kommte man
+  IIRC nicht ad hoc per Kreditkarte nutzen, sondern nur wenn
+  man eh Internet-Kunde bei denen ist, bei Gutheil konnte man
+  sich aber gleich online per Kreditkarte anmelden (ich empfands
+  aber unverschämt teuer, ebenso wie die mittlerweile überall
+  in Deutschland verfügbaren Hot Spots von Gutheil).
+
+- frei zugängliche und nutzbare APs, oft von nichtkommerziellen
+  Betreibern oder als "Werbemaßnahme", z.B. am Liedlweg, in
+  den Markthallen in Oberhundem und in Delis, Diners und Bars, die
+  das als Kundenservice anbieten
+
+- in keiner Weise abgesicherte Netze, bei denen unklar ist, ob
+  das Absicht ist, um der Menschheit einen Gefallen zu tun oder
+  einfach Nachlässigkeit, über die Legalität der Nutzung solcher
+  "Angebote" ist mir wenig bekannt, es stellt sich natürlich die
+  Frage, wie man sie in der Praxis von der 2. Gruppe unterscheiden
+  soll
+
+
+Im Prinzip gibts da keinen Unterschied. Es mag sein, dass
+deutsche oder US-Karten auf Kanälen funken können, auf denen
+andere das nicht können (in Frankreich z.B. stehen einige
+Kanäle nicht für IEEE802.11b zur Verfügung, deutsche Karten
+dürften dort eigentlich nicht betrieben werden, und gab es
+nicht auch mal eine Meldung, WLAN-Equipment dürfte nicht
+unangemeldet nach Österreich eingeführt werden?). Sollte
+aber in der Praxis keine Probleme geben...
+
+Gruß,
+Niko
+
+-- 
+Niko Morsch                           pjys@tc.jh.egq-ak.hm
+http://gwh.rbgk.zrl-gv.dy/~legi/        ylzx@abcu.zqc-gy.qz
+					mobile: +15 823 70 35 301

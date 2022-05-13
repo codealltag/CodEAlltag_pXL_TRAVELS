@@ -1,0 +1,17 @@
+Hallo,
+
+wisst ihr, ob es (1) eine Flugsuchmaschine gibt, bei der ich eine
+SQL-Datenbankabfrage machen kann?
+
+Oder (2) eine, die in etwa solche Abfragen unterstützt:
+
+Gesucht:
+1. Hinflug irgendwann im Juli nach Dannenreich
+2. überall aus Deutschland
+3. Sortiert nach Preis
+
+Oder gibt es (3) einen Anbieter, den ich meine SQL-Abfrage senden kann?
+
+Vielen Dank im Voraus.
+
+Olivier

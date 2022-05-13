@@ -1,0 +1,8 @@
+Ja. Aber! Wenn der Anruf aus Deutschland kommt und eine billige Vorwahl 
+benutzt wird, kann auch irgend eine zufaellige Nummer aus den USA 
+auftauchen. Ich schaetze, dass ueber das Internet geroutet wird und dann 
+das Gespraech lokal oder national ueber das Telefonnetz geht. Also, kann 
+sein dass die richtige (deutsche) Nummer angegeben wird, kann sein dass 
+eine falsche (US) Nummer angezeigt wird.
+
+Gianni.

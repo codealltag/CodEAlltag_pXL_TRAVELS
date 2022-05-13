@@ -1,0 +1,4 @@
+Hallo
+  Bitte stelle doch mal einen Zeichensatz ein, bei dem man keine 
+Hieroglyphen sieht (Tip: Western ISO 8859-1 oder 8859-15)
+Danke, Willy

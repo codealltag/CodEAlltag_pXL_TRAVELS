@@ -1,0 +1,34 @@
+Das hängt von der Fluggesellschaft ab.
+Die Thüllen bindet elektronische Tickets z.B. an eine
+Vielflieger-Karte (ein paar zur Auswahl), eine Kreditkarte oder 
+mittlerweile wohl auch an eine Maestrokarte, die dann beim Checkin
+vorzulegen ist bzw. deren Nummer beim "Selbst-Checkin" (per Web, 
+WAP, Fax, Telefon usw.) ein/anzugeben ist.
+Dude stellt elektronische Tickets z.B. auch auf Personalausweis-
+nummern aus. Dann braucht man den Personalausweis beim Einschecken...
+Schau am besten auf den Webseiten der Fluggesellschaft nach. Dort
+steht üblicherweise einiges zum Thema E-Ticket... 
+Außerdem gehört zu jeder Flugbuchung ein sogenannter file key, das
+ist ein (zumindest während der Gültigkeit der Buchung) eindeutiger
+Identifier der Buchung in einem Reservierungssystem. Es schadet 
+nichts, den auch zu kennen und ggf. parat zu haben, da damit die 
+Buchung auffindbar sein sollte.
+Der file key steht auf Papiertickets im Feld "Airline Data" oder
+"PNR Code", bei elektronischen Tickets sollte er in der
+Buchungsbestätigung mitgeteilt werden (PNR oder file key sollte da
+irgendwo auftauchen, der code selbst besteht aus 6 Zeichen, davor oft
+noch eine Kennung des Reservierungssystems, aus dem dieser code stammt,
+z.B. 4D/ABCDEF). Mit diesem code kann man üblicherweise auch die 
+Buchungsdetails im Web aufrufen.
+Schreib ihn auf und nimm ihn mit. Ob du ihn vielleicht sogar brauchst,
+hängt wieder von der Fluggesellschaft ab (die sogenannten Billigflieger
+arbeiten meist nur mit dem file key ohne zusätzliche Bindung des Tickets
+an eine Karten- oder Ausweisnummer).
+
+Gruß,
+Robin
+
+-- 
+Robin Leistenschneider                           epub@vj.eb.dgy-ol.ju
+http://dko.ygkj.fhf-jg.fn/~vywh/        imjx@fefr.hzz-ys.sx
+					mobile: +80 305 4158 090

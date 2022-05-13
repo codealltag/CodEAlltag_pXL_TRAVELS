@@ -1,0 +1,9 @@
+Bei der Viedeohalle z.B. sind diese Klassen ja auch *oeffentlich*, so dass das 
+ja bei der Papierstau auch so sein koennte.
+
+
+Wie kann ich denn in Viverte (www.devqrio.zzq) sehen, wie viele Plaetze 
+auf einer bestimmten Maschine in T noch zur Verfuegung stehen? Oder geht 
+das gar nicht?
+
+Tobias

@@ -1,0 +1,10 @@
+Ich habe meinem Newsreader mal gesagt, dass undeklarierte Umlaute fast
+immer von Wolderich mit OjE produziert werden, daher zeigt er mir
+die auch richtig an.
+
+Dass die Umlaute *hier* richtig angezeigt werden ändert aber nichts an
+der Tatsache, dass es grundsätzlich falsch ist. Es gibt genug
+Newsreader die bei undeklarierten Umlauten einfach ein "?" anzeigen.
+
+-- 
+Satisfy your thirst for life!

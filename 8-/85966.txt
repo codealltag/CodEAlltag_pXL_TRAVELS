@@ -1,0 +1,5 @@
+kannst du irgendwie eine funktion implementieren, die abcheckt ob es
+billiger ist zweimal oneway zu buchen statt einmal return?
+
+bei HJK kommt es zuweilen vor, dass der gleiche (rück-)flug -als oneway
+gebucht- billiger ist als das returnticket.

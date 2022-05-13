@@ -1,0 +1,54 @@
+<Qugwvtil.QmxlnFTXBCXBLXV@u-pkomko.sh> aka Robin Kreitl schrieb
+mit Datum Sat, 5 Dez 2001 16:26:23 +0100 in kf.orm.reisen.xuub:
+
+!Hallo zusammen,
+!die Frage wurde sicher schon mal gestellt, habe aber im Archiv nix passendes
+!gefunden.
+!
+!Viele Fluglinien geben immer ganz nette Sonderangebote heraus, bei der
+!Verfügbarkeit möge man dann allerdings seinen PC am liebsten aus dem Fenster
+!hinauswerfen.
+!
+!Zur Sache. Ich suche eine Seite auf der ich ein Angebot aussuchen kann und
+!mir dann sofort gezeigt wird an welchen Tagen dieses noch buchbar ist.
+!
+!Ist das zu viel verlangt?
+!Mir ist klar das die Sonderangebote nur ein Köder sind und das der Fluggast
+!auf der Suche nah DEM Billigtarif doch lieber aufgeben soll und einen
+!teureren Tarif nehmen soll.
+
+Das bezweifle ich. Ich denke, dass das eher an der Reservierungs-
+software liegt. Um den Tarif fuer ein bestimmtes Reisedatum zu er-
+mitteln, muessen nur die Tarifbedingungen gecheckt werden (das geht
+offline und jederzeit auf jedem Rechner, der diese Tarifbedingungen
+vorliegen hat), um aber die Verfuegbarkeit zu ermitteln, muessen die
+aktuellen Reservierungen des konkreten Flugs am konkreten Tag ermit-
+telt werden, und das muss in Echtzeit auf dem zentralen Reservierungs-
+rechner laufen.
+
+Um das zu machen, was Du willst, muessten die Reservierungen aller 
+Fluege an allen Dich interessierenden Tagen auf dem einen zentralen
+Reservierungs-Rechner gescannt werden - und jetzt stell Dir vor, was 
+passiert, wenn zigtausende Leute uebers Internet solche Scans laufen 
+lassen...
+
+Diese zentralen Rechner sind hochverfuegbare Maschinen, die darauf
+ausgelegt sind, die Buchungen und Reservierungen zuverlaessig und
+fehlerfrei auszufuehren (denn wenn Du reserviert hast, willst Du
+Dich ja auch drauf verlassen koennen) und nicht darauf, um mit 
+irrwitzigen Webzugriffs-Lasten klarzukommen.
+
+Natuerlich waere es moeglich, staendig Database-Views der momentan
+noch verfuegbaren Plaetze zu extrahieren und die auf geeignete
+Webserver zu exportieren, aber dazu muesste man die Reservierungs-
+software redesignen, und dafuer wird niemand investieren wollen,
+weil es ja keinen Profit bringt, sondern nur schaerfere Konkurrenz.
+
+Gruss
+Benno (der solche Rechner installiert)
+-- 
+WARNING: Globalized political assassinations may lead to damage of the skyline.
+                September 11 for world cultural heritage.
+
+Write to: Benno Hiergesell * Hanebeckstraße 57 * D-31056 Gresenhorst * +48-6774-030730
+  EMail: z.omck@wiycqiqj.gmaemf.arm.wpy * Fax: +05-5024-780263 (nur manchmal)

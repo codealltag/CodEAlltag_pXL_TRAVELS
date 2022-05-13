@@ -1,0 +1,29 @@
+Foen,
+
+Da frag' ich mich, ob das 12-V-Bordnetz für diese Entnahmen überhaupt
+ausgelegt ist? Selbst noch nach längeren Liegezeiten? Dann aber
+hoffentlich nur mit einer Entladungssicherung für die angeschlossene
+Starterbatterie!
+
+Erheblich einfacher, ohne teuren Adapter und vor allem ohne
+Leistungseinschränkung ist es da doch, einfach seine heimische
+Kabeltrommel mitzunehmen und nur an entsprechenden Liegeplätzen Strom zu
+zapfen.
+
+Den hier erforderlichen blauen dreipoligen CEE-CARA-Stecker (220 V / 16
+A) gibt's im Baumarkt für rund EUR 5.-
+
+Dieser Stecker ist schnell ausgetauscht; wer das an seiner Kabeltrommel
+nicht immer machen will oder sich an Stromanschlüsse nicht heranwagt,
+kauft ein fertiges Zwischenkabel mit CEE-Stecker und Schuko-Kupplung
+oder läßt sich so etwas vom Elektriker machen
+
+rät
+Volker
+
+P.S.
+Ulfert, nichts für ungut, aber auf Flüssen und Kanälen mittels
+satellitengestützte GPS zu navigieren ist ungenauer als sich am Ufer zu
+orientieren! IMHO deshalb überflüssig wie ein Stadtplan beim Einparken.
+Aber, schon gut, jedem das seine. Wer so etwas hat, (ge)braucht es
+natürlich selbst auf einem Hausboot uuuunbedingt ;-)

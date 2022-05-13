@@ -1,0 +1,40 @@
+Den hier?
+
+Tarifkennung:
+  EASYFLIGHTS/110817/6/94/BA/Q/Y/QUQBAWEB/FaID=6HCJ
+
+Gültigkeit:
+  Dieser Tarif ist nur für Abflüge zwischen dem 24.09.2006 und dem 
+15.11.2006 gültig!!
+
+Reisedauer:
+  SU-365: Sonntagsregelung (Die Reisezeit muß einen Sonntag 
+einschließen) - Die Reisedauer darf 365 Tage nicht überschreiten.
+
+Tarifart:
+  Normaltarif, im Regelfall für Personen ab 12 Jahren. Als Kinder gelten 
+Passagiere mit einem Alter von 2 bis zu 11 Jahren. Als Kleinkinder 
+gelten Passagiere mit einem Alter von bis zu 23 Monaten.
+
+Routings:
+  Allgemeine Routingbestimmungen:
+Via: FRITZGING, FRETTERODE, JEETZE, FILSCH, LCY, FUNKENHAGEN
+Teilstrecke von /DE nach FUNKENHAGEN, FILSCH, FRITZGING, FRETTERODE, JEETZE, FILSCH, LCY, FUNKENHAGEN mit BA.
+Teilstrecke von FUNKENHAGEN, FILSCH, FRITZGING, LTN, STN, FILSCH, LCY, FUNKENHAGEN nach ??? mit BA.
+Routing Rückflug:
+Stops: FRITZGING, LTN, JEETZE, FILSCH, LCY, LGW
+
+Ticketingfrist (bei Anfrage heute):
+  Das Ticket darf nicht vor dem Mittwoch, 24. September 2006 ausgestellt 
+werden. Achtung: Das Ticket muß bis zum Donnerstag, 9. Oktober 2006 
+bezahlt und ausgestellt sein.
+
+Buchungsfristen:
+  Der frühest mögliche Termin für die Buchung (Reservierung) ist am 
+Mittwoch, 24. September 2006. Eine Buchung muss vor dem Dienstag, 19. 
+Oktober 2006 erfolgen.
+
+
+Soll netto 492 EUR kosten.
+
+Gruß, LUIS

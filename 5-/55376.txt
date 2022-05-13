@@ -1,0 +1,7 @@
+Vor allem bedeutet eine Beachtung der Header-Zeile im öffentlichen
+Interface nicht, daß man bei den Datenbeständen intern und gegenüber
+ausgewählten Abfragern ebenso verfährt. 
+
+-- 
+Viele Größe 
+Saschas Aichel            Et ceterum censeo viam birotae esse delendam.

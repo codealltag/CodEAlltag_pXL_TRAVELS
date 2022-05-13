@@ -1,0 +1,30 @@
+"Einfach" sicher nicht, sondern schon irgendwie so, dass ein
+neues Abkommen auch gültig sein kann.
+Und ich halte ein solches Abkommen schon für eine sinnvolle
+Angelegenheit, denn darin wird immerhin versucht, diese
+Datenübermittlung bzw. -abfrage an/durch US-Behörden mit europäischen
+Vorstellungen von Datenschutz in Einklang zu bringen. Ein bischen
+was hatte man mit dem alten Abkommen ja auch schon erreicht (z.B.
+bei der Zweckbindung, Kontrolle der Einhaltung des Abkommens oder
+bei der Speicherfrist, wobei: ZSZP als Betreiber eines
+großen Reservierungssystems speichert z.B. nach eigenen Angaben
+(Beschreibung des Produkts ZSZP PNR Recall) Buchungsdaten 
+5 Jahre (zu welchem Zweck?), US-Behörden hätten nach dem nun 
+obsoleten Abkommen 3,5 Jahre speichern dürfen).
+Die Situation ist doch ziemlich klar: US-Behörden bestehen auf
+die Einsicht in diese Daten, ob und wie das mit nicht-US-Recht
+vereinbar ist, kann ihnen prinzipiell egal sein. Wenn Fluggesellschaften
+nicht mitspielen, drohen ihnen in den USA Sanktionen. Wenn sie
+mitspielen, verstoßen sie unter Umständen aber gegen Datenschutzrecht
+sonstwo (z.B. in der EU, die gewisse Vorgaben für die Weitergabe
+persönlicher Daten in Länder außerhalb der EU macht). Auch aus Sicht 
+des Passagiers kann es doch nur wünschenswert sein, dass die "Weitergabe"
+(nach meinem Verständnis ist es ein Abruf aus Reservierungssystemen)
+der Daten auf einer rechtlichen Grundlage geschieht, die auch
+europäischem Recht gerecht wird, oder? Dabei geht es nicht um
+die Frage, ob die Datensammelwut von US-Behörden in Ordnung ist
+oder Sinn macht, es geht nur darum, sie auf eine für alle
+Beteiligten rechtlich tragbare Grundlage zu stellen.
+
+Gruß,
+Alessandro

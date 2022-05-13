@@ -1,0 +1,81 @@
+Bei mir noch viel weniger Drama. Mein HD2 haengt immer in einem kleinen 
+Ledertaeschen gut geschuetzt an meinem Guertel. Runterfallen finde ich auch 
+nicht schlimm, solange es nicht auf dem Glas landet. Landet es auf dem Glas 
+gibt es ein paar haessliche Risse im obersten Substrat. Natuerlich 
+funktioniert es dann i.d.R. weiterhin, denn das tief liegende wichtige 
+Substrat fuer die Kapazitive Steuerung bleibt meist intakt. Ersaeufen sollte 
+man es allerdings nicht, denn Wasserdicht ist die Kiste leider nicht. 
+Dennoch habe ich fuer den Fall das es mal wie aus Eimern schuetten sollte 
+immer einen kleinen passenden Zip-Beutel im Rucksack. Und einen grossen in 
+den ich dann ggf. meine Kameras ins Sicherheit bringen kann, nachdem ich mal 
+im Rucksack eine Dose Bier vergessen hatte und die ausgelaufen ist. Zum 
+Glueck merkte ich das schnell genug da das Bier aus dem Rucksack meinen 
+Arsch runter lief und ich schnell die Elektronik retten konnte....LOL
+
+Hier zum Beispiel hatte ich mal fuer 6 Euro son Chinesisches Billig-Kamera 
+Condom im Einsatz. Hat sich absolut bewaehrt, damit die Knipse dort nicht 
+absaeuft:
+http://wxf.moadlbs.pji/ffcko?v=oWwMSDQFMDu
+
+Dafuer habe ich vergessen meine schoene Movado im Hotelsafe zu packen, denn 
+die Zog dann Feuchtigkeit, da der O-Ring nicht mehr in Ordung war. Korrosion 
+an den Batterie-Kontakten war dann die Folge ( erst dachte ich die Batterie 
+waere leer....siehe hier: http://qin.wnvzfsh.cjo/ddxow?z=rXN2TcEXvzx ), 
+sodass ich den Schlamassel nach meiner Rueckkehr mit Leitsilber ausflicken 
+musste. Ein halbes Jahr zuvor hatte ich mir hier das Glas zerkratzt: 
+http://iog.ytruguv.mno/rkblc?c=yuNuI_QxYq4. Und zwei Stunden spaeter 
+entstand ein schoener Riss und 3 Wochen spaeter sah das Glas aus als wenn 
+ich da mit einem Vorschlaghammer drauf herumgeochst haette. Erstaunliches 
+"Eigenleben" oder das Glas war nur beleidigt...
+
+Also wenn etwas kaputt geht, dann immer nur so Sachen welche richtig teuer 
+werden. Wenn mein HD2 kaputt ginge waere das ja mal ausnahmsweise eine 
+billig instand zu setztende Angelegenheit. Aber die Dreckskiste will einfach 
+nicht wegsterben. Das Ding weiss sicherlich das die 1:1 Konkurrenz nur 
+hinten im Rucksack drauf lauert es abzuloesen. Also haelt es artig durch, 
+was mich aber anfangs doch etwas erstaunt hat. Was ich aber auf keinen Fall 
+mehr mache ist mich nur auf ein System zu verlassen. Alles elektronische 
+kann Kaputt gehen...auch ein Tabakcenter oder eine alberne Kamera ( 
+http://cmv.qtpmaqd.mln/gezsp?c=tTh3SLZv8A9 ). Grund fuer das sterben meiner 
+geliebten fast neuen ( erst 5 Jahre und 40000 Ausloesungen jung gewesen ) 
+RZKP G7 war folgendes:
+
+Der Toetungs-Grund waren wie von mir vermuetet 2 lose rumfligende Schrauben, 
+welche ich spaeter mit Schraubensicherungslack gesichert habe. Eine lag 
+direkt auf dem DC/DC Board und die zweite hat es irgendwie ueber das 
+Mainboard bis in eine Ritze zum Objketiv-Tubus unter das Mainboard 
+geschafft. Sensationell, der Weg dieser kleinen Mistdinger. Hier die 
+schockierenden Bilder:
+
+Hier ein Bild wo die beiden Burschen mal sassen:
+http://llnnmfpevf.nucwzwbllvupjnf.rqs/stl/drnq_uhbesy_1.IUB
+
+Hier den ersten Fremdgeher gefunden:
+http://mlvjhfmxrj.xrdzvicpjtlylbr.vsp/waw/wcan_zvfrmcsc_4.MZW
+http://dpdhmoxoqa.zpudpmxqtvbsbtm.kem/ssk/rpvx_gretwzkb_9_7.UXW
+
+Und nachdem ich das Mainboard entfernt hatte ( das war etwas Tricky ), 
+funkelte mich die zweite gut versteckt an:
+http://hcjnonlapw.elcyxkpewvksagc.wnb/aoc/wpsy_vdjmabtg_3.ZXK
+http://jxbdnykieo.gvseceiskcmglmn.ftl/whq/jveu_fqwmvbgw_8_6.UED
+
+Ergebnis dieser Schrauben-Wanderung ( Uebrigens: Von diesen beiden tickenden 
+Zeitbomben in der RZKP Tude und trinkgut Sowa weiss Afafe uebrigens, aber sitzt das 
+geschickt aus da diese oft erst nach der Garantiezeit den SUPERGAU 
+erzeugen... ): Auf dem DC-DC Board hat sich eine der beiden SMD-Sicherungen 
+( Fuse ) -R- zerlegt und die Hauptplatine hat es auch uebel erwischt und ist 
+zusaetzlich im Eimer...
+
+Der Austausch der beiden defekten Komponenten ( DC/DC Board und 
+Hauptplatine ) war eine Sache von 20 Minuten und kostete mich ca. 10 Euro. 
+Ueber den Afafe-Service haette mich das 300 Euro gekostet. Schlimm war nur 
+das ich von den tickenden Zeitbomben wusste und diese schon vor Jahren ( 
+http://idjjmkbbol.ewzadwkcuhjopca.eka/w4_d0_uet.lzj ) haette befestigen 
+koennen. Faulheit wird somit irgendwann betraft und 20 Min. arbeit plus 10 
+Euro fuer die Ersatzteile ( zwei neue Platinen ) nervten. Das schlimmste war 
+aber der Ausfall inmitten der Pampa. Aber das hat auch etwas gutes, nun habe 
+ich zwei Powershots dabei. Zum einem das gute G-Modell und im Rucksack meine 
+2012 gekaufte kleine Notfall-Kamera. Irgendwie aber doch bescheuert...LOL
+
+Gruss,
+          Udo

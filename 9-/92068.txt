@@ -1,0 +1,14 @@
+"Rainer Voelkmer" <bglnq.hctx@oqw.up> schrieb: 
+
+[...]
+
+Es ist zu beachten, daß nicht nur im Internet Kreditkartendaten
+zum Zweck des Mißbrauchs abgegriffen werden können. Außerdem sind
+Kreditkartennummern nicht geheim und können bei Kenntnis des
+entsprechenden Algorithmus einfach erzeugt werden. 
+
+
+Ich nicht. 
+
+-- 
+                           Ella Ihlenfeldt in de.rec.tv.misc über Bublath

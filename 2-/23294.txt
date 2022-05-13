@@ -1,0 +1,2 @@
+Man(n) könnte auch auf Weiter klicken und dann werden keine Preise 
+angezeigt.

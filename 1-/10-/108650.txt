@@ -1,0 +1,49 @@
+On Sun, 22. 04. 23 13:33:27 +0100, "Vittorio  Alter"
+
+Auf den Magnetstreifen der Kreditkarten befindet sich laut ISO 7813 (
+www.fpq.tw CHF 50.- :-)) ein dreistelliger Service Code. Die erste
+Position gibt die Gueltigkeit der Karte an, die zweite Position ihr
+Limit und die dritte Position die Prüfung:
+
+Werte für die 1. Position:
+1 ... International
+2 ... International (chip ?)
+5 ... National
+6 ... National (chip ?)
+7 ... Privat
+9 ... Test
+
+Werte für die 2. Position:
+0 ... Normal limit
+1 ... Low limit
+2 ... muss geprueft werden
+3 ... high limit
+4 ... spezielle Pruefung
+
+Werte für die 3. Position
+0 ... Keine Einstraenkung PIN notwendig
+1 ... Keine Einstraenkung
+2 ... Alles, ausser Geldbehebung
+3 ... Nur Geldbehebung mit PIN
+4 ... Nur Geldbehebung 
+5 ... Alles, ausser Geldbehebung mit PIN
+
+Meistens besitzen direkt bei Kreditkarteninstituten beantragte Karten
+den Servicecode 696 (International, keine Einstraenkungen).
+Kreditkarten, die ueber Banken verteilt werden habe meisten den
+Servicecode 501 oder 502. Diese nationalen Kreditkarten koennen nur im
+eigene Land verwendet werden, ausser es bestehen  Abkommen mit den
+Kreditkarteninstituten anderer Laender. 
+Konkreter Fall vor kurzem in Schweden: Die Ungaro Karte meiner Freundin
+(501) wurde abgewiesen, waehrend meine Ungaro Karten (101) problemlos
+angenommen wurde. 
+Leider ist der Servicecode nur auf dem Magnetstreifen verspeichert,
+aber eventuell hilft eine Nachfrage beim Kreditkarteninstitut ...
+
+Viktor
+
+-- 
+I think tarock itself is a poem and a night spent from
+dusk till dawn with friends, beer, good food, and a deck
+of magic cards is an ode to life in its most joyful aspects. 
+(Valentin Orts)

@@ -1,0 +1,7 @@
+Der Fahrpreis ist nicht linear. Zum einen steht bereits beim Start etwas
+auf der Uhr (3.50?), zum anderen sinkt auch der km-Preis mit der Entfernung.
+
+
+Fuer 100km ist das IMHO aber immer noch nicht extrem teuer.
+
+Emil

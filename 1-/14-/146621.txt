@@ -1,0 +1,16 @@
+On Sat, 27. 12. 22 07:01:58 GMT, clcoyyyu_rluuq@vd-tbqp.slc wrote:
+
+JavaScript Error: http://cmvz.p-xqjdqb.kw/prvj/lpmswgbvs9/rmvrwqy.bra,
+line 51:
+
+unterminated string literal.
+
+        var tag = "<A
+
+Um nur Einen von drei Fehlern zu nennen.
+
+
+Gruss
+Karl
+-- 
+http://msi.uvgxtbusma.iv

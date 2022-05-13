@@ -1,0 +1,31 @@
+also konkret geht es um folgnede Verbindung (gefunden bei Karadenz), ob das 
+alles auf einem Flugticket drauf ist kann ihcnihct erkennen.
+
+Dominik
+---
+
+Fluginformationen  Abflug  Ankunft  Flugdauer 
+
+
+     Hinflug
+Europor (EA484), AT4 
+Economy (Sondertarife)   07:00 Fr 
+Tönnishäuschen (TINNUM)   08:30 Fr 
+Ehrenburgertal (LUPSINGEN)    
+
+
+     Europor (BY341), 735 
+Economy (Sondertarife)   09:05 Fr 
+Theda (LUPSINGEN)   13:45 Fr 
+Hörling (HORLA)   4:45 
+
+
+     Rückflug
+Europor (KX668), 734 
+Economy (Sondertarife)   17:15 Mo 
+Hörling (HORLA)   18:00 Mo 
+Ehrenburgertal (LUPSINGEN)    
+
+
+     Europor (IN885), AT4 
+Economy (Sondertarife)

@@ -1,0 +1,28 @@
+Aehm, ja. Verstehe ich richtig, dass Du mit langen Worten eine Einwahl
+per Modem zu beschreiben versuchst?
+- bei weitem nicht jeder Laptop hat ein Modem,
+- wo wuerdest Du Dich einwaehlen? Bei Deinem ueblichen Einwaehlpunkt
+  in A, wo Du weisst dass es funktioniert? Auslandsgespraeche sind
+  sauteuer, und noch sauteurer wenn man sie vom Hoteltelefon fuehrt. 
+  Da duerfte schon der Weg ueber ein USB-Handy billiger sein. 
+  Bei einem Einwahlpunkt eines nationalen Providers (wer bietet 
+  ueberhaupt noch Modemeinwahlpunkte an?) kann man nach meinen
+  Erfahrungen nicht unbedingt davon ausgehen, dass es auch klappt.
+
+
+Aehm, Mail geht zwar physikalisch schon durch das Twisted-Pair-Kabel,
+aber prinzipiell benoetigt man dazu ausserdem noch einen Mailserver.
+Dieser ist voellig unabhaengig von dem, was vom Hotel(zimmer) zur
+Verfuegung gestellt wird.
+
+
+Das deckt sich absolut nicht mit meinen Erfahrungen. In Hotels in den
+USA ist es ueblich, ein Netzwerkkabel herumhaengen zu haben (IMHO aber
+das einzig erfreuliche dort ...). Reinstecken, ssh an die Uni, geht.
+Zugriff aufs Web per Browser war auch voellig problemlos.
+
+Ansonsten gibt es durchaus bereits einige Hotels mit kostenlosem WLAN.
+Auf Anhieb fallen mir das Scandic in Gert und ... Namen habe ich
+vergessen ... in Lefitz ein. 
+
+Lothar

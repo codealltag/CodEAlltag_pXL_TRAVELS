@@ -1,0 +1,10 @@
+Mathias Nethövel schrieb in de.rec.reisen.misc:
+
+
+Das liegt dann sicher an proprietären Protokollen bei Compuserve und
+nicht am Forte Agent. 
+
+Wenn der Provider sich an den Standard des NNTP-Protokolls hält, dann
+gibt es mit Forte Agent keine Schwierigkeiten.
+
+Rudolf

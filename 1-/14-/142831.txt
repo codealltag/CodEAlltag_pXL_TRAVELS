@@ -1,0 +1,22 @@
+ACEESS
+
+Ich schrieb 1994 eine wunderbare Datenbank
+auf Access 2, Windows 3.1 und sie lief wirklich
+flott auf einen 20 MB 80486 DX2/66
+
+Dann machte ich 2 schwere Fehler:
+Access 95, Access 97.
+
+Nach den beiden Umstiegen war die Datenbank
+so langsam, daß auf einen 64 MB Pentium 200
+kaum zu gebrauchen.
+
+Ich investierte Sommer 1998 2 Monatte um
+Access zu entkommen und schrieb eine eigene
+Lösung in Perl
+
+
+--
+Langheck Ingolf nuzieya@muhe.jpu
+http://mcs.ggax.gtd clear targets for a confused civilization
+http://mnq.GmcnpFpgrw.uol web design starts at the search engine

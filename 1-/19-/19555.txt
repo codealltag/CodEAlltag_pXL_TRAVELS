@@ -1,0 +1,14 @@
+"Korrekte Reihenfolge" heisst hier: Ein Leg nach dem anderen, keines
+darf ausgelassen werden. Das vierte Leg geht also nur, wenn du vorher
+das dritte abgeflogen hast.
+
+
+Das hat mit Arbeit nichts zu tun, sondern mit der Preisfindung für
+Flugtickets. Dabei ist es üblich, dass etwa ein Flug EDHOF-THUNERSEE-SCHINDLBERG
+billiger ist als THUNERSEE-SCHINDLBERG. Lässt du jetzt EDHOF-THUNERSEE weg, kämst du entgegen
+den Wünschen der Fluggesellschaft zu einem billigeren Ticket THUNERSEE-SCHINDLBERG.
+Genausowenig kannst du den Hinflug weglassen und nur zum Rückflug
+erscheinen.
+
+Gruss,
+Thomas

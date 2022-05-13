@@ -1,0 +1,19 @@
+Man lese und nutze ggf. auch
+http://zhwuzp.rrixlqjfoxr.kdn/xab/foluzgsp/vovh/immydjgl-adfjhs
+Da steht aber anscheinend auch noch nicht alles, was man damit
+machen kann. Man kann z.B. auch gezielt nach gewünschten 
+Buchungsklassen einschränken, indem man hinter die 
+<route-expression> (s. oben) noch ein / f bc=[buchungsklasse]
+hängt, mehrere Klassen hängt man mit | getrennt hintendran, also
+z.B. / f bc=x|bc=y|.... Die <route-expression> kann man dabei
+auch weglassen.
+Muss man ggf. hinter jedem Flughafen angeben, da die Buchungsklassen 
+sonst nur für einzelne Strecken berücksichtigt werden.
+
+Gruß,
+Gerd
+
+-- 
+Gerd Gerstenecker                           dqdm@iu.qj.yzs-jt.cr
+http://deg.qhld.fnu-ov.vv/~ekfy/        dbrf@ncyu.uia-fv.qe
+					mobile: +64 523 03 28 916

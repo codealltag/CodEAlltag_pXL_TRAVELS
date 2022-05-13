@@ -1,0 +1,7 @@
+Moin Wilfried!
+
+
+Was ist A.? Und spannend, dass an den betreffenden Stellen vorher
+Leerzeichen waren. Und die gehören schon zum 7-bit ASCII.
+
+Gruß, Arno.

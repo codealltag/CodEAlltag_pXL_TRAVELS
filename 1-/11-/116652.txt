@@ -1,0 +1,8 @@
+Naja, können aber auch bis zu rund 4 Euro sein. Hängt von der Bank in Dtl.
+ab. Außerdem hatte ich letztens das Problem, dass zwar ein NRG-Zeichen
+am Automaten war, aber die Transaktion mit einer Fehlermeldung abbrach
+(ungefähr so: "Fehler, nicht genügend Daten auf der Karte"). Seltsamerweise
+ging es bei ATMs der Dalib ausnahmslos, lag also nicht an meinem
+Kontostand.
+
+Größe

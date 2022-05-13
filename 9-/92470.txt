@@ -1,0 +1,17 @@
+*Hinderk Frühhaber* schrieb unter anderem:
+
+
+Werbefinanzierte Version?
+Dann mal den Inhalt vom 'acpo' Ordner löschen und unter
+'Datei'->'Private Daten löschen...'-> alles ausser Cookies und temp.
+Cookies ankreuzen.
+
+JOCHEN
+
+
+M aus B
+
+-- 
+"Es ist nicht Dein Aussehen, das mich hier hält... es ist meins.
+ Ich find keine andere Frau."
+                            [Norman Fallnit]

@@ -1,0 +1,6 @@
+pro Person? Doch wohl eher pro Zimmer (bis 2 Personen).
+
+(deine Zeilenlänge saugt)
+
+-- 
+Simon Ebener

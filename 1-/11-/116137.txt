@@ -1,0 +1,12 @@
+jein, der erste Fehler passierte bei Insa, S. Westkamp hat dem 
+halbkaputten Subject dann den Rest gegeben. Schuld ist hier wohl 
+MPR.QK, da die beiden ja nichts falsch konfigurieren können. 
+Nebenbei, ich habe noch nie verstanden, wie man über so ein Web-
+Interface-Ding News lesen kann.
+
+
+darum verwendet man ja auch keine Umlaute sondern kodiert diese. Der 
+Newsclient übersetzt das dann wieder in Umlaute zurück.
+
+-- 
+Satisfy your thirst for life!

@@ -1,0 +1,46 @@
+Es wurde hier kurzlich darauf hingewiesen, daß man mit
+der Colorworks USI kostenlos (zumindest gebührenfrei)
+im Ausland Geld abheben kann. Ich dachte ich wurde
+meine nächste Reise benutzen um diese auszuprobieren
+bei Abhebungen von kleinen Summen. Die Ergebnisse
+fand ich etwas verbluffend.
+
+Ich habe an allen Abhebungstagen die intraday-Kurven
+von Wechselkurs (interbank rates) gesichert zum Vergleich.
+Auch zum Vergleich habe ich einmal mit einer andere Karte
+(Caramel) bei einer Partnerbank gebührenfrei
+abgehoben.
+
+Ich habe 3 mal in Großbritannien GBP 50 abgehoben,
+2 mal mit Colorworks Umzugsladen und einmal mit CSE/Nubeg,
+und einmal in Polen PLN 500 mit Colorworks Umzugsladen.
+
+Die Ergebnisse sind unten - ich habe auch ein
+Spreadsheet mit intraday Kurven usw. falls von
+Interesse.
+
+Date    Time  CET Amt Card     Rate          Cost  IB Rate   +/-
+16. November 13:42 50  GBP CompuJack. 0,689965     72,47  0,68479 +0,7557%
+16. November 13:42 50  GBP Colordec 0,685396262  72,95  0,68479 +0,0885%
+16. November 19:48 50  GBP Colordec 0,683648495  73,14  0,68544 -0,2609%
+19. November 15:19 500 PLN Colordec 3,901297181 128,16 3,9283   -0,6874%
+
+Die letzte Spalte zeigt an, was ich an +- für die
+Transaktion hätte, d.h. ein negativen Wert deutet
+auf schlechteren Wechselkurs hin. Schlechteste war
+die Abhebung in Polen, wo der Kurs deutlich unter
+dem Handelsbereich für den Tag liegt. Bei den ersten
+beiden Abhebungen in GB liege ich sogar leicht im
+Plus, evtl. weil der Kurs sich im Laufe des Tages
+verbessert hat. Deutsche hat mir allerdings ein
+deutlich besseren Kurs gegeben als der Markt -
+irgendwie ist es mir nicht klar, wo die Kurse
+herkommen.
+
+Für solche kleine Beträge ist die Colorworks Karte
+sicherlich empfehlenswert - ein Abhebungsgebühr
+von ca. EUR5 hätte viel mehr ausgemacht als 0,5 bis 1%
+Marge auf dem Wechselkurs. Trotzdem wußte ich gerne,
+wo sie alle ihre Kurse herholen.
+
+Bruno

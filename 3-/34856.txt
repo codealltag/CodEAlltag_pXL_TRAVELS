@@ -1,0 +1,26 @@
+Hallo zusammen,
+
+eine kurze (vmtl auch dumme) Frage eines tech. nicht versierten Menschen ;-)
+
+Am Ende des Urlaubs, zum Glück, trat folgendes Problem auf:
+
+WoMo hing auf CP am Strom.
+Beim Einschalten und Betrieb der Klimaanlage sank die kapazität der
+Bordbatterie innerhalb ein paar Minuten auf unter 10 Volt ab und die
+Klimaanlage schaltete sich aus....
+Das Selbe passierte nach ca. 90 Minuten TV-Betrieb (ein paar Lichter
+brannten auch noch), TV wurde schwarz, zuerst noch Ton noch da, nur Bild
+weg, dann auch beides weg.
+
+In beiden Fällen hatte sich allerdings die Bordbatterie innerhalb 30 Minuten
+wieder "erholt" bzw. wohl wegen des 220Volt Anschlusses wieder aufgeladenund
+stand auf mehr als 12/13Volt.
+
+TV wieder an, aber nach einer Weile wieder schwarz.
+
+Spricht das für eine defekte Bordbatterie oder könnte das einen anderen
+Grund haben??? Batterie ist 2002 im Frühjahr neu eingebaut worden.
+
+Besten Dank und einen schönen Sonntag
+
+Eckhard Heussler

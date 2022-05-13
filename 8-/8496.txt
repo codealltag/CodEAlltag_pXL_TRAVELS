@@ -1,0 +1,17 @@
+Richtig, das sind die Stornobedingungen des Paketes.
+
+
+Tja, das ist eben das Problem mit den Messezeiten in Halingen.
+Ich koennte natuerlich auch ein Buchungsmodul eines
+Reservierungssystems integrieren, aber da darf ich dann wieder
+Provision fuer zahlen und der Kunde bekommt dann den (hoeheren) Preis
+des Reservierungssystems angezeigt.
+Ich sollte eventuell mal wieder das Anfrageformular aus der Kiste
+kramen,
+
+
+Das steht dafuer aber auch auf der Seite "Preise". <g>
+
+Atschuess
+
+David

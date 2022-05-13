@@ -1,0 +1,5 @@
+Vielleicht schaust du besser mal auf die Netzteile der jeweiligen
+Geräte. Da steht nämlich drauf, in welchen Spannungsbereich sie
+funktionieren.
+
+Otmar

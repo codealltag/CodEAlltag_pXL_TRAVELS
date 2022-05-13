@@ -1,0 +1,16 @@
+m Normalfall aber nur bei einheimischen Karten.
+
+
+Der "Rueckfall" auf die Unterschrift wird immer moeglich sein (es soll
+sogar noch Akzeptanzstellen geben die mit einem Imprinter arbeiten),
+aber fuer die Akzeptanz ueber Terminals wird nur noch der Chip
+relavant sein. Die Verschluesselung (erst mal zwischen Terminal und
+Abrechnungsstelle) wurde zum 14.7. geaendert und so soll es weiter
+gehen, so dass ein Chip auf der Karte noetig sei wird.
+
+
+Bisher AFAIK noch gar nicht.
+
+Atschuess
+
+Fred

@@ -1,0 +1,47 @@
+Es gibt ja so ein paar "Allgemeinthemen", die immer wieder
+auftauchen, z.B. "Wo finde ich Einreisebestimmungen?", "Wo
+kann ich Geld kaufen?", "Kann ich da mein Handy benutzen?",
+"Was passt in die Steckdosen in...?" usw., die sich teilweise
+mit Verweis auf "amtliche" Quellen im Web ganz gut Lösen
+lassen. Auch bei Fragen der Art "Wie komme ich vom Flughafen
+X in die Stadt?" kann man ja ganz gut vom Einzelfall abstrahieren
+(Homepage des Flughafens, Webseiten der Fluggesellschaft,
+Webseiten der Reservierungssysteme).
+Ich könnte mir gut vorstellen, dass so eine FAQ in weiten Teilen
+eine Hilfe zur Sebsthilfe werden könnte, die bewährte Verfahren
+unabhängig von konkreten Einzelfällen darstellt. Daneben kann sie 
+natürlich auch Dauerbrenner-Einzelfälle behandeln.
+
+
+Dann mal an die Arbeit:
+
+- Besteht Bedarf für eine neue FAQ für de.rec.reisen.misc?
+
+- Wenn ja, wer würde sich an Erstellung und Pflege einer
+  FAQ beteiligen? Ich selbst habe in den kommenden Wochen 
+  entweder ganz viel oder eher wenig Zeit dafür...
+  Insbesondere fachliches Know-How aus der Reisebranche wäre
+  sicher auch nützlich (huhu)...
+
+Ich stelle neben ein bischen Wissen gerne technische Infrastruktur
+zum "Betrieb" der FAQ zur Verfügung (solange es nicht "ausartet"), 
+ich denke, sinnvoll wäre z.B. eine Mailingliste zur Arbeit an dem 
+Ding.
+Kennt jemand Software, mit der sich sinnvoll Usenet-FAQs betreiben
+lassen, womit man ohne Handarbeit aus einem Ausgangsformat sowohl 
+eine regelmäßig zu postende Text-Version und eine nette HTML-Fassung 
+fürs Web erzeugen kann? Dass man sowas mit Latex oder einer 
+selbstgestrickten XML- oder Datenbank-Lösung machen kann, ist klar, 
+wenns aber was nettes gibt, würde ich das aus Aufwandsgründen 
+bevorzugen.
+Also, Freiwillige vor...
+Ich würde mal sagen, wenn hierrauf ein bischen Resonanz kommt,
+fangen wir mal an.
+
+Gruß,
+Niko
+
+-- 
+Niko Wienands                           ngfh@ts.qt.ckh-eu.pu
+http://flg.efnf.rvy-df.rx/~hwqr/        lslj@mrss.qjq-cw.oy
+					mobile: +52 564 93 58 149

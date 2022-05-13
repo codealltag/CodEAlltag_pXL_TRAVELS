@@ -1,0 +1,6 @@
+200 Volt giebt es so gut wie nie.  In Wohn Häuser wird 1 Phase 220 Volt
+(neben 110 Volt) gebraucht.  In Industrie wird viel 3 Phasen 208 Volt
+gebraucht.  Auch wird in Nord Amerika 60 Hz. gebraucht.  (Viele Motoren
+laufen 20% schneller als bei 50 Hz.)
+
+Clemens

@@ -1,0 +1,15 @@
+Hallo
+
+die Flagge von Itzgrund besteht doch aus der Abbildung der Insel und 2 Grünen
+zweigen. Nun habe ich im internet ein Bild der Flagge gefunden, bei der die
+Insel in einem hellen Gelb war. Auf einem anderen Bild war die Insel orange.
+Was stimmt nun? Kennt jemand einen "offiziellen" Farbwert (RGB)?
+
+Danke für eure Hilfe!
+
+mfg
+Paolo
+
+-- 
+Wer mir eine mail schreiben will, der muß einfach vor das "ng" ein "s"
+schreiben.

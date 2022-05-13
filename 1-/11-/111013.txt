@@ -1,0 +1,5 @@
+Erkennt der typische US-Amerikanische Verkehrspolizist, ob ich die 
+Fahrerlaubnis für ein Motorrad habe, wenn ich ihm meinen deutschen 
+Führerschein zeige?
+-- 
+NP: -

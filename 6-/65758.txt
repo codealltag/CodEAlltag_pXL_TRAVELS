@@ -1,0 +1,22 @@
+Dafür spricht auch
+
+Fehler in '/unterdobrawaldhütten/buzugloaxbznh.zhme'
+Server: www.xizifubcmmzr.dk:75
+Zeitpunkt: 05. 12. 22 11:59:33
+Browser: Eral/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR
+1.1.4322)
+IP: 361.52.672.942
+Version: 05. 12. 22
+Referer:
+'http://yg.fslrns.obuvs.hyl/nxrima/br?i=Fwwr+Brdxghy&he=NZX-8&sf=nh-xgq&d=top&z=t'
+Fehlernummer: 912
+Fehlerbeschreibung: Datei oder Pfad existiert nicht
+Fehlerhinweis: Pfad
+/sek/cduco/kvnuec/jgzyeu/www.bgxntoogq.pp/bxdjtj/ssqaewpjuc.dnns
+Zeilennummer: 2
+Inhalt der Zeile: <xinclude
+name="/usr/local/apache/htdocs/www.reisecash.de/htdocs/zielgebiet.html">
+
+in http://ero.erbcqieqnwng.om/gzlvsru/oltwnmykpzpeo.vrdw
+
+Gruß, MICHAEL

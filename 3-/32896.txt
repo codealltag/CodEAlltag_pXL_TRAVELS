@@ -1,0 +1,11 @@
+Es handelte sich um ein ikarus-"feature", um die downloadrate pro 
+IP-adresse zu begrenzen und zu vermeiden, dass jemand mit 
+massendownloadprogrammen die bandbreite des servers blockiert.
+
+Dieses ist nunmehr abgeschaltet, wird in zukunft wenn nötig reaktiviert, 
+aber anders eingestellt.
+
+-- 
+nikolaus urban clevers ____________________________________ muo@nlrzi.vj
+._______..__________.._______.._________.     <>_<>          <>_<>
+"-o---o-""-oo----oo-""-o---o-""-oo---oo-""o"O-OO-OO-O"o""o"O-OO-OO-O"o"_

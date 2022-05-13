@@ -1,0 +1,4 @@
+Ah, na dann probiere ich es nochmals, aber es dürfte dann sein, daß meine
+SMTP-Server Deinen nicht kennen.
+
+lg Henri

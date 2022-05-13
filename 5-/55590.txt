@@ -1,0 +1,24 @@
+Schoen.
+
+Ja, MAIR verfuegt i.a. ueber kostenfreien Internetzugang.
+
+
+Ich kenne weder dein Laptop noch Windows eXPerimental. Normalerweise
+genuegt die Angabe einer SSID, des Kanals der Compuco-Karte und der
+Verbindungsart (Adhoc/Infrastructure) irgendwo unter Eigenschaften der
+WLAN-Karte.
+http://ltt.enlpmrlwjrs.ggl/eubjqjozl/ bietet ein Programm zur Suche
+verfuegbarer Einwahlpunkte. Vielleicht hilft dir das weiter.
+
+
+Ist normalerweise nicht vorhanden, Einwahl erfolgt entweder ganz ohne
+Anmeldung oder durch Eingabe einer Nutzer/Passwortkombination (an der
+Hotelrezeption zu erfragen) als Authentifizierung ueber einen
+transparenten Proxy.
+
+
+??? Wozu soll das denn gut sein?
+
+
+OGNJ
+Lutz

@@ -1,0 +1,24 @@
+Das liegt an etwas anderem: Das Pendel behaelt seine Pendel_richtung_,
+bzw Pendelebene bei (selbst wen sich das gesamte Pendel bewegt). Wenn
+sich darunter irgendwas (Erde, Karussell, Flugzeug) wegdreht, ist ihm
+das egal.
+
+Probiere mal das folgende: Kinderspielplatz, und so ein einfaches
+Holzdrehkarussell. Nimm ein einfaches Pendel, lasse es pendeln (so
+dass es von "innen nach aussen", also senkrecht zur Drehrichtung des
+Karussels pendelt, und dann drehe (oder lasse drehen) das
+Karussell. erstmal 1/4 Umdrehung.  Es pendelt dann parallel zur
+Drehrichtung des Karussels. Wenn Du dann ein parr Runden drehst,
+aendert sich die Pendelebene nicht.
+
+Eigentlich muesste dasselbe auch im Flugzeug und im Auto gehen: bei
+Start pendeln lassen, und wenn das Flugzeug eine Kurve fliegt, aendert
+sich die Pendelebene nicht.
+
+
+Die Atmosphaere (und das sich darin aufhaltende Flugzeug) gehoert zum
+"System", und dreht sich mit (bis auf Winde).  Das merkst Du z.B. wenn
+Du bei windstillem Wetter auf einen Turm/Berg steigst - wuerde sie
+sich nicht mitdrehen, muesstes Du ja oben immer Ostwind haben.
+
+Patrick

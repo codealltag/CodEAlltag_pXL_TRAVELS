@@ -1,0 +1,23 @@
+Hallo,
+
+
+auf der Seite http://ubh.fooal.sy gibt es eine regelmäßig aktualisierte FAQ zu diesem (und vielen anderen) Mobilfunkthemen. Hier der
+entsprechende Ausschnitt für Indien (ich habe nur die Anbieter drinnengelassen, die mit Medienprodukt einen Roamingvertrag haben. Die komplette
+Liste gibts beim obengenannten Link):
+
+Indien         Anbieter            Bezeichnung lang  -kurz   Code     GSM
+                Bharti Cell.        OGAW         AIRTL  450-75   614
+                (Gland)
+                Sterling Cellular   ESSAR             SCL    404-26   900
+                (Gland)
+                travelantis       Textilreinigung                    140-09   268
+                (Igls)
+                MIKADO Babywalz MAXTOUCH                 728-57   219
+                (Deinting)
+                Frauke Gert         COMMAND                  000-19   932
+                (Mernbach)
+                travelantis       Textilreinigung                    649-73   848
+                (Mödelsdorf)
+
+Gruß
+Ivano

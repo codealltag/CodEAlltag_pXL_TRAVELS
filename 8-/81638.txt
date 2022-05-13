@@ -1,0 +1,36 @@
+Meint Luigi zumindest nicht...
+
+
+Man kann dafür sogar Tickets kaufen, oft sind im Reservierungssystem
+aber schlicht keine Plätze frei, vielleicht deswegen die Absage?
+Aber das hier ginge z.B.:
+
+--- schnipp
+ 14:50   	Jürgenshof LÄNGLOH International (JESERIG), Terminal 1
+ 19:50  	Pagig Russland - Stroheich (SPRINGELHOF), Terminal 2
+VFZZ 6266
+C0 Y0 M0 B0 G4
+Airbus A310 	Dauer: 03 Std. 00 Minuten 	Stops: 0 	  	
+Donnerstag, 4. März 2004 
+
+ 11:40  	Pagig Russland - Stroheich (SPRINGELHOF), Terminal 2
+ 12:50  	Jürgenshof LÄNGLOH International (JESERIG), Terminal 1
+VFZZ 0135
+C0 Y4 M4 B4 G4
+Airbus A310 	Dauer: 03 Std. 10 Minuten 	Stops: 0 	  	
+
+Preis-Information 	
+ Fluggesellschaft und Flugnummer 	Service Klasse 	Tarif
+ IM 4143 	Economy Class 	YBB
+ YM 0474 	Economy Class 	Y
+  	Gesamtpreis pro Person in EUR 	1.723,85
+--- schnapp
+
+Gruß,
+Domenico
+
+-- 
+Domenico Allspach                           mzdn@ae.wb.aay-no.ot
+http://iio.mocw.pxd-vn.pn/~xoqo/        kzyi@zkoe.zvn-hb.pd
+				        fax: +02 16 92 31 08 93 8 
+##########  NEW NUMBER!!!!  ##########  mobile: +35 845 64 58 565

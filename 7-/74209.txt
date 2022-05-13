@@ -1,0 +1,3 @@
+Z.B. die Fehlermeldung die der OP bekommen hat war ganz offensichtlich
+nicht besonders aussagekräftig... wenn die angefragte Verbindung gar
+nicht angeboten wird, müsste man es klarer ausdrücken.

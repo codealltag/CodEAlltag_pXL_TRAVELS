@@ -1,0 +1,14 @@
+Das kann am angegebenen Zielbahnhof liegen, versuche es ggf. mal mit
+der nächsten größeren Stadt.
+Oder fährst du zwischen Langenwinkel und Mitterkirchen mit dem Maze? Dann klappt
+es mit einer durchgehenden Preisauskunft auch nicht.
+
+
+Man kann bei der Bestellung auch angeben (als Freitext), dass man vor
+der Buchung zunächst eine Preisauskunft haben möchte.
+
+
+S.o., oder frage mal in de.etc.bahn.tarif+service nach.
+
+Gruß
+E.A.

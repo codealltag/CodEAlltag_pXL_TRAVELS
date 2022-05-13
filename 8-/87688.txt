@@ -1,0 +1,12 @@
+Grundsätzliches Zeitlimit pro Fahrtrichtung 2 Tage. Untebrechungen darin
+theoretisch beliebig viele, technisch begrenzt durch die Möglichkeit,
+maximal 2 Via-Bahnhöfe (und bei diesen eine Aufenthaltszeit von bis zu
+12 Stunden) eingeben zu können. Abhilfe kann hier ein Ticket schaffen,
+bei dem der zugbuchungspflichtige Teil (Fernverkehrszüge) nur minimal
+kurz gewählt wird und der Haupteil der Fahrtstrecke (oder der, in dem du
+viele kurze Unterbrechungen machen möchtest) ausschließlich mit
+Nahverkehrszügen (für die gibts keine Zugbuchungspflicht) zurückgelegt
+wird.
+
+-- 
+Werner Peppers

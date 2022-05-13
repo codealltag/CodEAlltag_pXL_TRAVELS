@@ -1,0 +1,22 @@
+Jede Zeile des Textes beginnt mit: "<FONT SIZE="3" COLOR="#FFFFFF"
+FACE="Arial,Helvetica,sans-serif">". 
+
+Das ist absolut überflüssig. Dazu beendest du jede Zeile mit einem
+festen Zeilenumbruch "<br>". Damit bekommt jeder der nicht die gleiche
+Bildschirmauflösung / Schriftgröße wie du verwendet einen zerflederten
+Text präsentiert.
+
+Die Bilder skalierst du mit "border=0 width="482" height="310"" von
+den ursprünglichen 600 x 406 herunter. Verkleinere lieber die Bilder
+auf die Größe die im Browser auch angezeigt werden soll. Ein TFT ist
+ohne vernünftige Kalibrierung für Bildbearbeitung nur begrenzt
+tauglich.
+
+Diesen "Trellix Web, HTML Exporter 2.6.2810" kenne ich ich, das
+Programm scheint aber überhaupt nichts zu taugen. Besorge dir einen
+vernünftigen HTML-Editor.
+
+Da wir hier jetzt vollkommen OT sind: F'up poster.
+
+-- 
+Benno Müller-Litz

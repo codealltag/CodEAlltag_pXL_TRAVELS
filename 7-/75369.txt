@@ -1,0 +1,5 @@
+Du hast nie konstant 230 V. Da sind immer Schwankungsbreiten drin! Daher war
+es auch kein Problem 1996 EU gesamt auf 230 V zu wechseln. (von 220 bzw.
+240)
+
+lg Michel

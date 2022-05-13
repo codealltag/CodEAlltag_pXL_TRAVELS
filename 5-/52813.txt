@@ -1,0 +1,90 @@
+HINFLUG
+                  Von - Nach Flugnr. * Abflug-
+                  datum (VT) Abflug-
+                  zeit ALZGERN Ankunfts-
+                  zeit Freie
+                  Plätze Preis
+                  (Hinflug)
+                      frühere Flüge
+                 JUNGBUSCH-JÜBBERDE  AB 1660 06.08. (3) 06:30  10:40 -   99 ?
+                    JUNGBUSCH-JÜBBERDE  AB 9872 04.02. (3) 06:55  10:45 9  109 ?
+                 JUNGBUSCH-JÜBBERDE  AB 9872 04.02. (3) 06:55  10:40 -   59 ?
+                    JUNGBUSCH-FAO  AB 4328 02.02. (3) 15:05 - 17:10 > 9   89 ?
+                    JUNGBUSCH-JÜBBERDE AB 5764 05.02. (6) 04:05 - 06:05 > 9   89 ?
+                    JUNGBUSCH-JÜBBERDE AB 9872 07.02. (6) 06:55  11:00 > 9  179 ?
+                    JUNGBUSCH-FAO AB 9860 09.08. (6) 11:25  15:20 > 9  219 ?
+                    JUNGBUSCH-FAO  AB 2952 05.02. (6) 14:20 - 16:25 > 9   89 ?
+                    JUNGBUSCH-FAO AB 9860 10.08. (7) 11:25  15:20 > 9  209 ?
+                 JUNGBUSCH-JÜBBERDE  AB 1660 11.02. (3) 06:30  10:40 -   99 ?
+                      spätere Flüge
+
+      Jüterbog - Jarmen
+                    Rückflug
+                  Von - Nach Flugnr. * Abflug-
+                  datum (VT) Abflug-
+                  zeit ALZGERN Ankunfts-
+                  zeit Freie
+                  Plätze Preis
+                  (Rückflug)
+                      frühere Flüge
+                    JÜBBERDE-JUNGBUSCH AB 6322 07.04. (6) 06:50 - 10:50 > 9   69 ?
+                    JÜBBERDE-FRA  AB 2953 05.02. (6) 09:00 - 13:00 9   89 ?
+                    JÜBBERDE-FRA AB 1103 05.02. (6) 11:45  17:50 > 9  119 ?
+                    JÜBBERDE-FRA AB 4625 09.08. (6) 16:05  22:20 > 9  109 ?
+                    JÜBBERDE-FRA AB 4625 10.08. (7) 16:05  22:20 > 9  139 ?
+                    JÜBBERDE-FRA  AB 4383 09.02. (3) 07:40  13:55 > 9   89 ?
+                    JÜBBERDE-JUNGBUSCH  AB 1103 09.02. (3) 11:35  17:50 > 9  139 ?
+                    JÜBBERDE-JUNGBUSCH  AB 4625 09.02. (3) 11:30  17:50 > 9  100 ?
+                    JÜBBERDE-FRA AB 4625 11.02. (5) 16:05  23:55 > 9  149 ?
+                    JÜBBERDE-JUNGBUSCH AB 6322 16.08. (6) 06:50 - 10:50 9   79 ?
+                      spätere Flüge
+
+
+             zurück Gesamtpreis 244 ? (inkl. Steuern, Gebühren und
+            16 ? Kerosinzuschlag) Anzahl der Reisenden:   weiter
+
+
+begin 666 pfeil_fruehere.gif
+M1TE&.#EA$ `(`( !`)\4./___R'Y! $```$`+ `````0``@```(7C!\`R*C:
+3&$PK4E=E/I-O[%D&])1F60``.P``
+`
+end
+
+begin 666 share.gif
+M1TE&.#EA" `0`)$``/___V9F9O___P```"'Y! 44``(`+ `````(`! ```(7
+9E(^IRWT!HPP`S$NKG?5VODD?I&D85 ``.P``
+`
+end
+
+begin 666 via.gif
+M1TE&.#EA" `0`)$``&9F9O_______P```"'Y! 44``(`+ `````(`! ```(0
+2E(^IRPE@WGER4@=QV[RW`@`[
+`
+end
+
+begin 666 klee1.gif
+M1TE&.#EA#0`0`,0``/____7X]>OQ[.'JXM?CV<S>S\'9Q;74NKC0O*O/L*+%
+MJI?!GXG D8J^DG^YB7V[AH&WB76S?F>O<FFM=&"H:5RJ:%>M9$ZG7%6A8$JH
+M6S^N5P```````````````````"'Y! 44````+ `````-`! ```5N(""*3@9%
+MPJ@26JLE8W <`>L>8]):1;8+A%3#98EH,@O)<>%S93*3IN:R<%TP3Y=&`B@D
+M$(\,)5-I9D2&YF-!&202!$# XGH$,O&1K?4`/' Q#$H:!GXP*@`##(4`$H>(
+0>AD%D"IA`Y0B"A<7*B$`.P``
+`
+end
+
+begin 666 pfeil_spaetere.gif
+M1TE&.#EA$ `(`( ``)\4./___R'Y! $```$`+ `````0``@```(6A(\)8>$/
+2FY-DZBJIE0OBLFQ@)7Y5`0`[
+`
+end
+
+begin 666 spacer.gif
+K1TE&.#EA`0`!`(#_`,# P ```"'Y! $`````+ `````!``$```("1 $`.P``
+`
+end
+
+begin 666 pfeil_back.gif
+M1TE&.#EA$@`.`)$``)\4./_______P```"'Y! $```(`+ `````2``X```(8
+:A(^IR^T/03CSA7HMKBY+WFT1!T;FB:(%`#L`
+`
+end

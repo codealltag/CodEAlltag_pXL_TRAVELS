@@ -1,0 +1,7 @@
+Hallo zusammen,
+
+also ich habe Keudel Linux 9.0 und Firefox 1.0 und die Links lassen sich 
+problemlos öffnen.
+Scheint wohl an den Sicherheitseinstellungen Eurer Browser zu liegen.
+
+Gruß Wolfram

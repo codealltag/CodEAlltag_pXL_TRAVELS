@@ -1,0 +1,14 @@
+Also ein Hotel sollte direkt gebucht immer die Rate, die aktuell ueber ein 
+Buchungssystem verfuegbar ist, auch anbieten. Das Hotel spart damit die 
+Vermittlungsprovission.
+
+Bisher konnte ich jedes Hotel direkt buchen zum guenstugst von mir 
+gefundenen Onlinepreis:
+
+Hallo, ich moechte gerne $Zimmer zum Preis von x,xx EUR wie auf 
+www.$Buchungsmaschine
+
+Ein Hotel, das ablehnt und mich ueber die Buchungsmaschine buchen laesst, 
+habe ich bisher noch nicht gefunden.
+
+Pietro

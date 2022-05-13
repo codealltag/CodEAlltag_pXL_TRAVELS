@@ -1,0 +1,10 @@
+Ich hatte bisher immer die Einstellung "ausgeben als Subway" aktiviert.
+Habe es nun mal auf die IE Einstellung umgekehrt und siehe da, es =
+läuft.
+Eigenartigerweise geht es auch immer noch, wenn ich dann wieder auf
+"ausgeben als Subway" zurückschalte.
+
+Da kann es nach meinem Verständnis eigentlich nur an anderer Stelle
+(bspw. Idel-Sever o.a.) ein Problem gegeben haben.
+
+Viele Grüße, Gernot

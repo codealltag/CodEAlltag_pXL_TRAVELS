@@ -1,0 +1,32 @@
+1. Buchungsmaschine.de hat einen guten Namen für Last-Minute-Buchungen 
+im Pauschalbereich.
+
+2. Du hast eine verbindliche Buchung abgegeben, die andere Seite hat 
+aber offensichtlich nicht verbindlich bestätigt.
+
+
+3. Einen Linienflug von einem außereuropäischen Flughafen über 
+Buchungsmaschine - na ja, es hat Dich offenbar niemand gewarnt.
+
+
+4. Wahrscheinlich waren die Plätze sowieso nicht vorhanden, 
+wahrscheinlich hat das System auf eine neutrale Verfügbarkeit eines der 
+großen Reservierungssysteme aufgesetzt. Dann kann in einem Moment ein OK 
+kommen, dann wird eine Anfrage an das System der Fluggesellschaft 
+geschickt - und dies hat dann gemeldet: keine Verfügbarkeit in dieser 
+Klasse. Das erscheint dann wiederum in der neutralen Verfügbarkeit der 
+anderen Anbieter. Darum waren diese dann auch ausgebucht.
+
+5. Ein Reisebüro (ein Mensch) hätte nach einem Moment die Reservierung 
+noch einmal angeschaut und die Antwort gesehen. Ein automatisiertes 
+System schaut aber (in der Regel) nicht noch einmal nach.
+
+Lerne draus!
+
+Gruß Lutz
+
+
+-- 
+http://qzt.dapnayw.dme - Flugverf�gbarkeiten und - informationen
+http://gds.tyowbfwdef.agl - Suchmaschine für Billigflüge in Europa
+http://rficbwdcklyh.kkw.x-afekxs.li - eigene Homepage (kommerziell)

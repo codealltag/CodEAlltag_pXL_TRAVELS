@@ -1,0 +1,17 @@
+So wie ich ihn oben verstanden habe, ist das "Limit" exakt das Geld
+was gerade auf dem dahinterliegenden Konto ist. Im Prinzip kann man
+dies also praktisch genauso zuegig auffuellen, wie man ansonsten
+Bargeld abhebt (was man dann auch irgendwo, naemlich in die
+Brieftasche, legt [und dazu muss es auch ueblicherweise auf einem
+Girokonto liegen]).  Und man muss das Bargeld nicht mit sich
+herumtragen, und kann es einfach auf "0" setzen, wenn dort gerade nichts
+sein soll.
+
+
+Wenn man sie wortwoertlich so nutzen will. KK ist aber oft auch einfach
+ein internationaler Zahlungsmechanismus (Bestellungen per Internet,
+Konferenzgebuehren, ...)
+
+... koennte mich durchaus interessieren.
+
+Sebastian

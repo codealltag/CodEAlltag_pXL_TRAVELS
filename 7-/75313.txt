@@ -1,0 +1,8 @@
+Naja, der Backway-Vertriebsmensch erzählt den Firmen halt in schillernden
+Farben, was man mit einer 0180 alles machen kann (zeit- und ursprungsab-
+hängiges Routing, Verkehrsstatistik, Load Balance und derlei mehr), daß
+die da natürlich sofort zugreifen, "aber es darf mich keine Gebühren
+kosten!!!". Und letzterer Punkt ist natürlich nur mit 0180*5* in allen
+Fällen erfüllt...
+
+Gruß Klaus.

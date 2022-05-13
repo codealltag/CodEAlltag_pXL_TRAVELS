@@ -1,0 +1,22 @@
+Hallo Juan!
+
+
+Logisch. überlege doch mal: Deutschland ist etwa 840 km * 600 km 
+groß. Um noch irgendwas vernünftig sehen zu können, was nicht nur 
+Autobahnen betrifft, brauchst du etwa einen Maßstab von 1:250.000 
+was einer Kartengrüße von 336 cm * 240 cm entspricht. Bei schlappen 
+96 dpi die mindestens nötig sind, damit du grob erahnen kannst, was 
+da überhaupt auf der Karte ist, bedeutet das ein Bild mit einer 
+Größe von 12700 * 9070 Punkte oder eine Bildgröße von etwa 346 MB. 
+(Als True Color BMP) selbst als GIF dürften es noch 50 MB sein, was 
+letzlich trotzdem im Rechner zu obiger Größe entpackt wird. Nun 
+wirst du schon kaum 400 MB RAM in deinem Rechner haben, was die 
+Darstellung entsprechend zäh gestalten läßt. Zudem ist es nicht so 
+das Ding, 50 MB im Web zum Download anzubieten. (Schon gar nicht 
+kostenlos, Karten erstellen kostet auch Geld...)
+
+
+Mit freundlichen Gruessen
+
+Pierre Versteeg
+---

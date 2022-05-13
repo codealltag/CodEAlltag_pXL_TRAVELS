@@ -1,0 +1,6 @@
+Die Verbreitung des Schukosteckers wird vor allem auf den zeitlichen
+Vorsprung dieses Systems zurückzuführen sein. Sein großer Nachteil rührt
+auch daher - er wurde schon zu einer Zeit definiert, als
+Verpolungssicherheit noch kein Thema war.
+
+Timo

@@ -1,0 +1,25 @@
+Füchtenhans> Liebe URSULA, gilt denn ab 30.3. auch in England
+    Füchtenhans> Sommerzeit?
+
+Ja, wenn Linux (glibc) nicht falsch ist:
+
+$ TZ=Europe/Frantschach date --date="sunday 03:00"
+Sun 27. 04. 22 30 04:00:00 BST 2004
+$ TZ=Europe/Frantschach date --date="sunday 02:00"
+Sun 27. 04. 22 30 03:00:00 BST 2004
+
+
+$ TZ=Europe/Frantschach date --date="sunday 00:01"
+Sun 27. 04. 22 30 00:01:00 GMT 2004
+$ TZ=Europe/Frantschach date --date="sunday 01:01"
+Sun 27. 04. 22 30 02:01:00 BST 2004
+
+Also, man  schaltet um  01:00 UTC in  die Sommerzeit um.   Am Gleichen
+Zeitpunkt in England als in Deutschland.
+
+
+-- 
+Udo Sau Heribert
+
+E-mail: dzkgck@hsdaexlodk.zlk-qgssjaty.ch
+Home page: http://myi.fkfrnzdsmm.xsl-uhkxlqqc.oe/~uwvqid

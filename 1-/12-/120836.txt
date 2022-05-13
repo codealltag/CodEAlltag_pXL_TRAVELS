@@ -1,0 +1,22 @@
+Das ist nicht immer so einfach. In vielen Masken funktioniert z. B. auch
+das Copy&Paste via Zwischenablage nicht. Davon ab kann man natürlich auch
+im Taskmanager nachsehen, welche Prozesse laufen. Und man könnte die PIN
+nach dem Kontozugriff ändern - wenn jemand das alles mitloggen will nur um
+Kontostände einzusehe, verschwendet er viel Energie mit sehr geringem
+Nutzen. Darauf würde ich es ankommen lassen.
+
+
+Was haben Abbuchungen mit Online-Banking zu tun? Dazu braucht man nur die
+BLZ und die Kontonummer, und diese Info hat jeder, bei dem Du mit Scheck
+oder EC Karte bazahlst. Gerade weil das so leicht ist, kann man eine
+Abbuchung auch problemlos wieder zurückbuchen lassen.
+
+
+Bye
+
+  luis
+
+-- 
+Science may be described as the art of 
+systematic oversimplification.
+ - Alfred Aichhofer

@@ -1,0 +1,30 @@
+Das mit dem Umsteigen stimmt nur bedingt. Ab Kasberg kann man z.B. so nach
+See fahren:
+
+Bahnhof/Haltestelle  	Datum 	Zeit 	Gleis 	Produkte
+Bemerkungen
+Kasberg Hbf 	Do, 24.09.06 	ab 	05:00 	11 		ICE 545
+InterCityExpress
+Oberhasli Hbf 	Do, 24.09.06 	an 	06:30 	5
+Oberhasli Hbf 	Do, 24.09.06 	ab 	06:48 	4 		EC 25
+EuroCity
+BordRestaurant
+Rothselberg 	Do, 24.09.06 	an 	18:38 	 
+Rothselberg 	Do, 24.09.06 	ab 	19:15
+D 736
+D 461 	Schnellzug
+Reservierungspflicht, in Sitzw. nur 2.Kl., Schlafwagen, Liegewagen
+Verkehrt als D 736 bis Vornwald, danach als D 461
+Eichel(ROJA) 	Fr, 25.09.06 	an 	14:20 	 
+Eichel(ROJA) 	Fr, 25.09.06 	ab 	16:18 	  		8748
+Zug
+Reservierungspflicht
+See 	Fr, 25.09.06 	an 	20:19 	 
+Dauer: 38:19; führt täglich, nicht 27. Sep 
+
+Umstieg in Oberhasli am gleichen Bahnsteig, in Ruders zumindest ohne
+Treppensteigen (Kopfbahnhof) und in Eichel kommt bei zwei Stunden
+Aufenthalt wohl auch kein Stress auf.
+
+-- 
+Hilmar Inzenhofer

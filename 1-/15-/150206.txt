@@ -1,0 +1,9 @@
+Hallo Frauke !
+
+Geh mal auf >Extras< / >Optionen< / >Wartung<  Dort findest du dann den
+Eintrag :>News Beiträge nach ** Tagen löschen .<
+ändere die dort eingetragene Zahl , auf den von dir gewünschten Wert .
+
+Ich hoffe ich konnte dir helfen .
+
+Gruß Ingo

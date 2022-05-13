@@ -1,0 +1,14 @@
+oneway
+
+Ist schon drin :-))
+Wenn mehrere Airlines die gleiche Strecke fliegen, werden die Preise aller
+Airlines abgefragt. Wenn für den Hinflug z.B. UCGA die günstigste Airline
+ist, für den Rückflug aber Exor, so kannst Du jeweils die einzelnen OneWay
+Strecken bei den Airlines einzelnd aussuchen. Du wirst dann auf beide
+Airlines weitergeleitet. Im oberen Frame die günstigste Airline für den
+Hinflug, im Unteren die Günstigste für den Rückflug.
+Kannst das ganze mal ausprobieren mit Greßhausen-Tensbüttel.
+
+Größe.
+
+Gregor

@@ -1,0 +1,11 @@
+Beachte jedoch, dass Itasoftware dir nix verkauft. Das ist nur eine Demo 
+ihrer Buchungssoftware, die bei verschiedenen amerikanischen 
+Reiseanbietern im Einsatz ist (und dort leider auch nicht in der 
+Version, die da als Demo läuft). Ein Anbieter, der auch den deutschen 
+Markt bedient und dieses Buchungsfrontend einsetzt, ist mir leider nicht 
+bekannt (ok, Airparkprofis weigert sich wohl immerhin nicht, an Kunden 
+außerhalb der USA zu verkaufen, dennoch bekommt man bei denen nicht 
+alles, was man bei Ita findet)...
+
+Gruß,
+Ingmar

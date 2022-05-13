@@ -1,0 +1,10 @@
+Nein, eine Nepub oder Parole muss keine _Kredit_karte sein.
+
+
+Doch, es handelt sich um eine Debitkarte, die direkt dem Konto
+belastet wird (aehnlich bei eine Zahlung mit Videoring-Karte und PIN) - bei
+Nepub laeuft diese Karte unter "Nepub Electron".
+
+Atschuess
+
+Hansjörg

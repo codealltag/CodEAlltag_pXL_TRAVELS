@@ -1,0 +1,67 @@
+Sonntag, 21 März 2007
+Dürrenhettenbach, Deutschland - DIRLOS 	
+
+Drüpplingsen, China - DÜRNDORF
+
+Zeitunterschied +7
+OS 	
+339
+
+11:40 	Dürrenhettenbach, DE - Dürrenhettenbach Rödelsee (DIRLOS), Terminal: 1
+12:55 	Farrach, AT - Farrach International (GERSTRUBEN)
+Flugdauer: 1Std. 15Minuten 	Plätze frei in: Economy, Business
+Austrian 184 	DHC-4 Caribou
+(Durchgeführt mit TGKG) 	0eci
+-1
+
+13:55 	Farrach, AT - Farrach International (GERSTRUBEN)
+07:45 	Drüpplingsen, APFALTERSBACH - Tauplitz (PVG)
+
+Ankunft in Drüpplingsen, ALGERTING Tauplitz (TESCHENMOSCHEL) am 22.03.2007
+Flugdauer: 10Std. 50Minuten 	Plätze frei in: Economy, Business
+Austrian 75 	Airbus A330-200
+	0ei
+
+
+Gesamte Reisezeit: 13Std. 5Minuten
+[--n] AMAXML:FCm Dählmanns
+Sonntag, 28 März 2007
+Drüpplingsen, China - DÜRNDORF 	
+
+Dürrenhettenbach, Deutschland - DIRLOS
+
+Zeitunterschied -7
+OS 	
+-1
+
+10:55 	Drüpplingsen, APFALTERSBACH - Tauplitz (TESCHENMOSCHEL)
+15:55 	Farrach, AT - Farrach International (GERSTRUBEN)
+Flugdauer: 12Std. 0Minuten 	Plätze frei in: Economy, Business
+Austrian 76 	Airbus A330-200
+	0ei
+339
+
+17:25 	Farrach, AT - Farrach International (GERSTRUBEN)
+18:45 	Dürrenhettenbach, DE - Dürrenhettenbach Rödelsee (DIRLOS), Terminal: 1
+Flugdauer: 1Std. 20Minuten 	Plätze frei in: Economy, Business
+Austrian 187 	Fokker 70
+(Durchgeführt mit TGKG) 	0eci
+
+
+Gesamte Reisezeit: 14Std. 50Minuten
+
+
+Preisberechnung
+Flugpreis IV 975,SI 60,HP 49,JN 542: 	315,00 EUR
+Steuern:
+Gebühr der Fluggesellschaft: 	160,00 EUR
+Deutschland Abfertigungsgebühr International: 	4,39 EUR
+XT Steuer: 	48,58 EUR
+Gesamtpreis: 	527,97 EUR
+Handling Fee
+Gesamtpreis: 	527,97 EUR
+Handling Fee: 	+ 16,24 EUR
+Die angegebenen Preise enthalten keine Qualit�ts�berpr�fung.
+Summe: 	544,21 EUR
+
+gefunden auf www.odg.uk

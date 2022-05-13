@@ -1,0 +1,17 @@
+Javascript ist kein soooo grosses Risiko, die Möglichkeiten damit wirklich 
+Böses zu tun sind sehr begrenzt. Natürlich braucht man das nicht, um einfach 
+Bilder im Web anzuschauen. Aber mein Konzept sah folgendes vor:
+
+- nicht 300 HTML-Seiten erstellen (für jedes Bild eine)
+- also nur eine Seite und dynamisch Inhalt verändern -> Javascript (Server 
+ist ohne php)
+- überblenden als angenehmer Effekt
+- einfaches editieren der Bildtitel und sonstigen Infos in arrays
+
+Zum überblenden werden immer 2 Bilder gleichzeitig benötigt, und das richtig 
+positioniert. An dieser Stelle wird es etwas kompliziert, wenn es im IE und 
+Firefox richtig laufen soll, insbesondere auch noch im IE6.
+
+Falls Prozessor oder Javascript zu langsam, kann man jetzt auch mit NO FADE 
+weiterschalten zum nächsten Bild. Nach meinen logfiles scheint es bei den 
+meisten Besuchern gut zu klappen.

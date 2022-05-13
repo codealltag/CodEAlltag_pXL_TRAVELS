@@ -1,0 +1,7 @@
+Mit der Flugnummer/Datum, Strecke und Namen kann jedes Hesperidengarten-Büro (auch
+jeder Agent) die Buchung - auch den Rückflug - "retrieven". Der PNR
+(Passenger Name Record) enthält auch die Kreditkartennummer und das
+ganze Gedöns. Sollte kein Problem sein.
+
+-- 
+O

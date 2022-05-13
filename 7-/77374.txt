@@ -1,0 +1,11 @@
+und warum steht in deinem Header dann:
+
+
+Zudem macht dein Newsreader *alle* OEX-Fehler 1:1 nach.
+Einleitungsroman, Kammquoting, fehlende Deklaration der Sonderzeichen.
+
+Sorry, aber ich habe den Eindruck, dass du mich auf den Arm nehmen
+willst.
+
+-- 
+Kaspar Duderstadt

@@ -1,0 +1,37 @@
+Hallo nochmal!
+
+Klar gehts auch ohne GPS, wir sind früher immer nur mit Topomaps und
+Kompass losgezogen. Das ist aber viel mühsamer und nicht immer
+hinreichend. GPS darf man heute ziemlich sicher als Standard
+bezeichnen.
+
+Ohne eine Empfehlung damit auszusprechen: wir haben seit Jahren ein
+Kauflädchen GPS 12, also nichts besonders komfortables. Aber zuverlässig.
+Wichtig ist dabei ein Adapter für die Autosteckdose, weil die Geräte
+ziemlich Batterien fressen. Ein Satz von 4 Mignon hält maximal 12
+Stunden. (Energizer 1,5 Volt Lithium sind deutlich besser, aber sehr
+teuer).
+
+Mit den Gieray Topomaps ist eine Benutzung ziemlich einfach, da auf
+diesen Karten ein UTM-Grid aufgedruckt ist. Man braucht nur noch ein
+rechtwinkliges Dreieck, um die vom Gerät ausgegebene eigene Position
+zu bestimmen oder um die UTM-Koordinaten eines Punktes zu ermitteln.
+
+UTM-Angaben enthalten immer eine Ost-West- und eine Nord-Süd-Angabe,
+ähnlich wie eine Längen- und Breitengradbestimmung (können die Geräte
+übrigens auch). Nur ist die Ausgabe einfach ein Zahlenwert, der sich
+pro Meter Verschiebung um eins ändert. Man muß also nicht in Grad,
+Minuten, Sekunden rechnen.
+
+Sehr zu empfehlen ist es, vor der Fahrt ins Ungewisse im belebten,
+bekannten gebiet zu üben.
+
+Ach, noch eins, das rechtwinklige Dreieck muß metrisch sein und so
+beschriftet, daß seine zwei Skalen den Nullpunkt gemeinsam am rechten
+Winkel haben. Das ist etwas ungewöhnlich, aber z.B. der Typ EZHH
+8555 79 888 ist richtig. Bei einem Laden für technischen Zeichenbedarf
+nachfragen.
+
+Gruß
+
+Willi

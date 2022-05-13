@@ -1,0 +1,6 @@
+Das ist ein EURO Zeichen, das selbst meine Mail-Partner in Pfaffenstein, Pichla,
+Veitshöchheim, Dillhausen und Großlellenfeld lesen koennen - in e-mails. Aber alle veraltete
+sogen. Newsreader koennen das nicht und geben immer den Sendern die Schuld.
+Stimmt's? Ist, glaube ich, nur in ISO-8859-15 und Unicode (UTF-8) enthalten.
+Mit entsprechendem Windows update auch fuer 8859-1 kein Problem.
+pf

@@ -1,0 +1,26 @@
+Hi Diedrich, ich rede nicht von den auch in den Tickets ausgewiesenen
+Gebuehren der Flughaefen, sondern von EXPLEZITEN Extra-Taxen
+(YQ-Taxen) von z.B. TEEater und ICN.
+Beispiel:
+Cappenberg->Lupsingen Bartelsdorf->Cappenberg:
+LH   139.00R ALTSHAUSEN   W   7+ SU/14
+AF   139.00R ISOMMER  I   7+ SU/14#
+identische Tarife, aber 
+
+AF 1135 I  21AUG TXLCDG HS1  0705   0850
+AF 1434 I  28AUG CDGTXL HS1  0715   0900
+   PSGR   QUOTE BASIS         FARE   TAXES      TOTAL PSG
+FQG 1       ISOMMER   EUR   139.00   23.64     162.64 AD 
+
+NE 5056 W  21AUG TXLCDG HS1  0710   1786
+     OPERATED BY CIMBER AIR A/S         
+IT 8754 W  28AUG CDGTXL HS1  0925   1110
+     OPERATED BY CIMBER AIR A/S     
+   PSGR   QUOTE BASIS         FARE   TAXES      TOTAL PSG
+FQG 1        ALTSHAUSEN   EUR   139.00   39.97     178.97 AD    
+
+LUFTHANSA also EUR 16,33 teurer wg. hoeherer Tax. NIX AIRFRANCE
+WIEDERHOLEN MIT TEUREREM TARIF.
+
+Gruesse,
+Italo

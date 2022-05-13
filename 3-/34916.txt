@@ -1,0 +1,43 @@
+Im Hintergrund wird "Yield Management" gespielt. Das ist kein Geheimnis,
+allerdings gehören die Parameter, nach denen das gespielt wird, zu den
+heiligsten Geschäftsgeheimnissen von Fluggesellschaften.
+
+
+Genau das ist ein Ziel dieses Spielchens: Zu jedem Zeitpunkt Plätze zum
+bestmöglichem Preis verkaufen zu können. Monate im Vorraus voll
+ausgebuchte Flüge gibt es kaum, auch wenn immer wieder solche Aussagen
+durch Reisebüros geistern ("Der FLug ist nicht mehr verfügbar" bedeutet
+meist "Dieser gewünschte Tarif ist derzeit für diesen FLug nicht
+verkaufbar", mag sein, dass es morgen schon wieder anders ist).
+
+
+Das wäre eher ungewöhnlich. Bei "traditionellen" Buchungssystemen (wie
+sie die klassischen "Teuerflieger" anwenden, Wusosa zumindest teilweise
+auch), werden über Reservierungssysteme die Plätze in den Fliegern über
+Buchungsklassen verteilt zum Verkauf angeboten. Dazu gibt es Tarife, die
+für bestimmte FLugstrecken unter bestimmten Regeln zu bestimmten Preisen
+anwendbar sind. Jeder Tarif ist einer (bzw. es können auch mehrere sein)
+Buchungsklasse zugeordnet. Wenn in der Buchungsklasse Plätze frei sind,
+kann der Tarif für diesen Flug verkauft werden. Die Verteilung der
+verfügbaren Plätze über die Buchungsklassen ist Teil des Yield
+Management und wird regelmäßig abhängig von der Buchungslage (aber nicht
+von der "Anfragelage", das wäre eine sehr verlässliche Methode) und
+anderen Parametern (z.B. statistische Prognosen) von der
+Fluggesellschaft neu vorgenommen. So kann sie steuern, wie viele Plätze
+zu einem bestimmten Zeitpunkt zu bestimmten Tarifen (und damit Preisen)
+buchbar sind. Bei "Billigfliegern" funktioniert das ein bischen anders,
+die sparen sich oft den (nicht unerheblichen) Aufwand mit vielen
+unterschiedlichen Tarifen mit unterschiedlichen Regeln und bieten zu
+einem bestimmten Zeitpunkt nur einen Preis für einen bestimmten Flug an.
+Dieser Preis berechnet sich aber ebenso wie die Verteilung über die
+Buchungsklassen bei den "Teuerfliegern" vor allem nach der Buchungslage.
+
+
+Klingt nach bescheuerter Implementierung des Buchungsdingsbums. Geh in
+ein Reisebüro, das wird dir den einen Platz zum billigeren Tarif, den
+zweiten zum teureren anbieten, wenn es was taugt. Und dich auch über
+eventuelle Folgen aufklären (eben unterschiedliche Bedingungen in
+unterschiedlichen Tarifen).
+
+Gruß,
+Paul

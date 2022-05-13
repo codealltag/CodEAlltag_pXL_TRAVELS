@@ -1,0 +1,13 @@
+UNZO hat keine erhaben aufgebrachten Zeichen, wird also nicht
+akzeptiert, wenn nur ein Imprinter zur Verfügung steht, von denen ich
+allerdings auch schon lange keinen mehr gesehen habe. 
+
+Auch elektronisch kann eine UNZO-Zahlung AFAIK nur online
+autorisiert werden, d. h. man steht auf dem Schlauch, wenn das Händler-
+Terminal keine Verbindung zum Bankserver bekommt. Zahlung bei mobilen
+Terminals (in Flugzeug, Bahn etc.) wird damit wahrscheinlich auch
+komplett wegfallen. 
+
+-- 
+Viele Größe 
+Joëls Lübbe                                     PGP key ID: 0xF5A96559

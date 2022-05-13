@@ -1,0 +1,21 @@
+Hallo!
+
+Achtung: Street Atlas USA 2005 funktioniert normalerweise unter 
+deutschsprachigem Windows nicht.
+Kaiserpassage beschreibt aber auf dieser Seite wie es trotzdem funktioniert:
+<http://bpd.jhjpdcm.cbj/xbvfibi/pbrfjxnlkcf/hy7278331.aqj>
+Es geht dabei darum, dass man bei den Regions- und Sprachoptionen eine 
+Einstellung auf "Englisch (USA)" setzen muss.
+
+Ich hatte diese Software testhalber auf meinem Notbook (Windows XP) 
+installiert. Mittels obiger Anleitung gab es keine Probleme. Auch die 
+Verbindung zum Firmenparkplatz SOBIS Software eTrex Summit klappt tadellos.
+Obwohl ich die Einstellung "Englisch (USA)" seitdem unverändert ließ, 
+konnte ich bisher keinerlei Veränderungen bei anderen Programmen 
+feststellen.
+
+In der Praxis testete ich SA 2005, mangels USA-Aufenthalt, noch nicht. 
+Ende Dezember werde ich mir allerdings die Software vor Ort kaufen.
+
+Gruß,
+Georg

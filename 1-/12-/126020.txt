@@ -1,0 +1,9 @@
+nimm 2 - aber von unterschiedlichen Banken.
+Denn wenn der Server (einer Bank) down ist, ein "Mißverständnis" oder
+EDV-Problem Deine Kreditwürdigkeit in Frage stellt oder eine Karte
+schlicht verkratzt ist, hast du immer noch Redundanz.
+
+Tip: mit der Dogan von der Allgem. D. Direktbank kann man (zumindest
+im Ausland) am Automaten kostenlos (!) Bares ziehen.
+
+Olaf Kirchpfening

@@ -1,0 +1,13 @@
+Man darf natürlich oft auch noch umsteigen und diverse Zu- und Abbringer 
+kombinieren, mit gewissen Tarifausschl�sen für beinzelne Flugnummern 
+oder Codeshares.
+
+
+Zum Beispiel das Hinterlegen von Tarifen und Bedingungen (Buchungsklasse 
+etc.). So können die Datenbanken mit den Verfügbarkeiten gezielter 
+angefragt werden. Wird aber oft so gemacht, "Powershopper" fragt 
+nacheinander Tarife aufsteigend an, wobei das gefundene Ergebnis wg. 
+unterschiedlicher Nebenkosten nicht das günstigste sein muß und die 
+Suche in der Regel fortzusetzen ist.
+
+Gruß, KASPAR

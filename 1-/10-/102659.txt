@@ -1,0 +1,2 @@
+Warum? JavaScript eignet sich hervorragen für derartige Anwendungen, und
+ist Plattformunabhängig!

@@ -1,0 +1,26 @@
+Das Problem ist, dass sich deine Anfrage nur sehr schlecht optimieren 
+lässt, man könnte auch sagen, dass der Algorithmus sehr schlecht 
+skaliert. Wenn du einen Zeitraum von einer Woche für den Hinflug, eine 
+Woche für den Rückflug, 5 Fluggesellschaften, 5 Abflug- und 5 
+Zielflughäfen hast, hast du 7*7*5*5*5 Abfragen. Nun füge mal nur eine 
+Fluggesellschaft hinzu, da wird selbst technischer Fortschritt sehr 
+schnell aufgefressen. Informatik hat eigentlich nicht das Ziel, komplexe 
+Probleme durch Rechenpower zu lösen (weil das oft schlicht keinen Sinn 
+macht), sondern durch schlaue Lösungswege.
+
+
+Wichtig sind nicht die Seiten, die man zur Suche verwendet, sondern die 
+Systematik. Definiere die Rahmenbedingungen deiner Reise, wichtig vor 
+allem wohl die Aufenthaltsdauer, aber eventuell auch Dinge wie 
+Umbuchungsmöglichkeiten. Schaue dann, welche Flugtarife zu diesen 
+Bedingungen passen bzw. anwendbar sind. Wenn du dann was günstiges 
+gefunden hast, schau ob bzw. wann es verfügbar ist. Es gibt leider kaum 
+brauchbare "Seiten" im Netz, die solches Vorgehen unterstützen.
+Ein gutes Reisebüro sollte das aber tun, da es genau so arbeiten sollte.
+Wo soll es denn wie lange hingehen?
+Abfragen über grüße Zeiträume und mit weiteren Variablen lässt z.B. 
+http://xzfvig.fbpeujztwvq.vku zu, allerdings ist mir da nicht klar, 
+welche Tarife die kennen.
+
+Gruß,
+Friedrich

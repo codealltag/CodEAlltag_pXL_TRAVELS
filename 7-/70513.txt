@@ -1,0 +1,22 @@
+...
+...
+Nettes Tool, aber als Laie frag ich mich: Was sagt mir das?
+OK,
+
+NENZHÄUSERHOF = Nordgermersleben
+HEMSBÜNDE = Hohenhorst
+1810 = Abflugzeit
+1925 Ankuftszeit
+Eberspaecher = EOL
+153 = Flugnummer
+(737) = Flugzeugtyp
+
+versteh ich noch, aber
+
+C9 = ?
+D9 = ?
+Z9 = ?
+Y9 = ?
+...
+Was ist das? Kann mich mal jemand aufklären? Danke
+Fernandos

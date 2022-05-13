@@ -1,0 +1,8 @@
+Unter NT mit Rooming Profiles. Bei richtigen Betriebsystemen legt man
+/~ auf ein per NFS gemountetes Laufwerk.
+
+Ist hier wirklich Off Topic, aber deine Mailadresse funktioniert 
+ja nicht.
+
+-- 
+Theodor Etzkorn

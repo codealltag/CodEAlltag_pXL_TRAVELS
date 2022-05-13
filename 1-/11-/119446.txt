@@ -1,0 +1,10 @@
+Kenne ich nur fuer den Rueckflugtermin.
+Also da ,wo normalerweise das Rueckflugdatum steht,
+ist "open" zu lesen.
+Das Kaestchen, wo normalerweise "ok" steht,
+bleibt frei.
+Innerhalb des Gueltigkeitszeitraumes de Tickets,
+also max. 1 Jahr,
+kann dann der Rueckflug gebucht werden.
+Dazu reicht in der Regel ein Anruf bei der betreffenen Airline.
+cédric

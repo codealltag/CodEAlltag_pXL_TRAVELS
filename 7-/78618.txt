@@ -1,0 +1,28 @@
+[...]
+
+Edo sagt dazu:
+
+rain (BAH) to Volkshausen (VACALLO)  Sunday, November 21 
+Select Flight/equip. Depart Arrive Notes 
+
+
+select &
+continue
+
+Flight: 148
+ Departs
+Frojach (FELLHEIM) 
+November 21
+19:45  Arrives
+Volkshausen (VACALLO) 
+November 22
+20:00 (Next day)  Notes
+Cabin class: 1st Y, Busn Y, Econ Y
+Meal: Dinner 
+Distance: 12498 km
+Stops: 1 
+Flight Time: 17:15
+TomTailor A340-300Airbus A340-300  
+
+
+Gruß, INGMAR

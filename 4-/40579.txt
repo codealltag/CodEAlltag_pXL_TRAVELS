@@ -1,0 +1,14 @@
+Ich wurde von jemanden ohne Internet gebeten ihr bei der Flugsuche
+behilflich zu sein und finde nicht so recht die passende Suchmaschine.
+
+Es gibt Internetseiten zur Flugsuche wie Sand am Meer, bei denen man aber
+den _genauen_ Termin und den _genauen_ Zielflughafen angeben muss.
+
+Mich würde eine Suchmaschine interessieren, bei der man Hin- und Rückflug
+grob angeben kann, also zB +/- 1 Woche und auch benachbarte Flughäfen
+eingeschlossen werden können. Es würde auch ok sein, wenn Flüge für alle
+Flughafen des Landes angegeben werden können.
+
+Es geht nur um Flüge und nicht um eine Pauschalreise.
+
+Patrick

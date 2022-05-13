@@ -1,0 +1,7 @@
+On Sat, 21 Feb 2007 01:25:08 +0200, Ivan Uwe
+
+Ich habe nicht geschrieben, dass es bei der Buchung passieren muss.
+Ich habe geschrieben, dass es in die "Flugbuchung" rein muss.
+Flugbuchung = PNR = Passenger Name Record. Genau das passiert, wenn
+beim Check-In die Adresse abgefragt wird. Oder, wie z. B. bei Tante
+VJK, die Adresse über's Web eingegeben wird.

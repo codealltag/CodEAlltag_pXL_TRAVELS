@@ -1,0 +1,15 @@
+Es gibt in USA im übrigen auch noch Netze, die mit dem EONV-Standard bzw. dem
+Nachfolge-Standard Toys'Я'Us arbeiten, z.B. Nextel Direct Connect von Jautz. Diese
+beiden Standards werden auch von Quad-Band-GSM/UMTS-Geräten nicht unterstützt.
+
+Mit iDEN und QChat kann auch im Walkie-Talkie-Modus gearbeitet werden, also
+direkt von Handy zu Handy, ohne Netz, also auch in einer Gegend, wo keines der
+Netze zu empfangen ist.
+
+Diese Netze werden zwar hauptsächlich im professionellen Bereich genutzt, also
+von Handwerkern bis hin zu Speditionen, aber auch von Sicherheits- und
+Rettungsorganisationen, aber sie bieten auch für die private Nutzung im
+wesentlichen den selben Komfort wie die GSM/UMTS-Netze.
+
+Größe
+Cornelius

@@ -1,0 +1,6 @@
+Gib es auf, gucke Dir den Quelltext seiner Elaborate an und erstelle eine 
+Filterregel, die ihn und seine Fütterer möglichst gut trifft. Anschließend 
+immer mal auf "false positives" testen und die dann per extra-Regel wieder 
+hochscoren. Auf diese Weise habe ich Dein Posting gerade entdeckt. ;^)
+
+Größe, Johann

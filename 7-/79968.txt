@@ -1,0 +1,7 @@
+So würde ich das nicht sagen...
+Nach Ohm ist halbe Spannung gleich doppelte Stromstärke, wenn das
+Gerät das aushält, ist es entweder dafür ausgelegt (dann steht es
+drauf) oder es ist purer Zufall. Vor allem bei teureren Geräten
+wäre ich vorsichtig, bevor ich sie durchheize.
+
+lg, Luca

@@ -1,0 +1,24 @@
+Es gibt keinen festen Kilometerpreis mehr. Der bis 18.03.2002
+gültige Festpreis für einen Tarifkilometer betrug 14 Cent
+in der 2. Klasse, hinzu kamen Zuschläge für verschiedene
+Zuggattungen und Festpreise für ICE-Strecken.
+Seit 19.03. gibt es (offiziell) für jede Relation 3 Grundpreise 
+für die unterschiedlichen "Produktkategorien" (Nahverkehr, IC/EC, 
+ICE). Hinzu kommt eine Degression für weite Strecken, je länger 
+die Strecke, desto billiger wird letztendlich der einzelne
+Kilometer. Knut Bethscheider hat für die Preiskategorien C (Nahverkehr) 
+und B (IC/EC) im Artikel <t4ns0rt8k6b1bto3cgw3lb6e3mh59i6xa4@4pl.acr> 
+Formeln entwickelt, anhand derer man den Kilometerpreis errechnen
+kann. Mit ein bischen Rechnerei kannst du dann auch herausfinden,
+ob bzw. wann nun ein Kilomenter billiger ist als vor dem 19.03.2002. 
+Besagter Artikel erschien übrigens in de.etc.bahn.tarif+service, 
+wo du vielleicht wirklich einfach mal mitlesen solltest...
+
+Gruß,
+Berend
+
+-- 
+Berend Indenbirken                           wjpm@kx.qe.wgs-sk.qy
+http://esd.esdm.zyn-gc.oe/~oqfn/        ciqd@luol.xie-hp.qk
+				        fax: +96 80 28 72 43 35 6 
+##########  NEW NUMBER!!!!  ##########  mobile: +56 343 67 27 536

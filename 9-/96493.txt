@@ -1,0 +1,56 @@
+Hallo,
+
+   kann mich jemand aufklaeren, wie die online-Flugbuchung hinter
+den Kulissen funktioniert?
+
+Ich habe schon oefters Tickets bei verschiedenen Reisebueros be-
+stellt; immer war die Web-Oberflaeche die gleiche (man bekommt 
+dann Mails von "OBC Automator"), aber die Einstiegspunkte in das
+System sind halt die verschiedenen Reisebuero-Seiten. Es gibt 
+sogar Reisebueros, bei denen kann man auf der eigenen Webseite 
+gar keine Fluege buchen, aber ueber sowas wie "ajoqpstx-iuhcpn.fw"
+findet man dann doch Fluege, die von diesem Reisebuero angeboten 
+werden.
+
+Naja, wie dem auch sei, man kriegt dann diese Bestaetigungsmails,
+und meistens heisst es, man soll sich wegen Bezahlung usw. mit
+dem Reisebuero in Verbindung setzen. Dann telefoniert man und/
+oder faxt, und dann kriegt man irgendwann sein Ticket.
+
+Ist meine Annahme richtig, dass dieses zentrale System, das man
+da fast immer benutzt, dieses "IRES Automator", lediglich Reser-
+vierungen bei den Fluggesellschaften einkippt und Faxe an Rei-
+sebueros verschickt, und dann geht alles "seinen gewohnten Gang"?
+
+Ist so eine Reservierung dann an ein bestimmtes Reisebuero ge-
+knuepft, oder kann ich mit der Reservierungsnummer auch zu einem
+ganz anderen Reisebuero gehen und sagen: Hier ist meine Reser-
+vierung, verkaufen sie mir bitte dafuer ein Ticket?
+
+Was ist mit Ticket-Kontingenten und Tarifen - DCA 
+zum Beispiel prueft eine Anzahl von Reisebueros ab, die alle ueber
+diesen "OBC Automator" abwickeln, aber dennoch haben sie unter-
+schiedliche Preise und (scheint mir) auch unterschiedliche Ver-
+fuegbarkeiten von Fluegen. In welcher Form legen die Reisebueros
+ihre Flugpreise fest, die einem das OBC-System dann anzeigt?
+
+Gibt es viele Anbieter, die ausserhalb von diesem OBC-System 
+funktionieren? www.xbmyn.on habe ich schon einmal benutzt, es
+war recht angenehm, weil ich den kompletten Ticketkauf online
+abwickeln konnte, inkl. Bezahlung, ohne mit einem Reisebuero
+telefonieren zu muessen. Sonst kenne ich aber keine, und AJW
+ist nicht immer gerade guenstig.
+
+Hintergrund meiner Frage ist, dass ich gerade ein bisschen Aerger
+mit einem ueber dieses OBC-System gebuchten Ticket hatte, und
+gern verstehen moechte, was eigentlich genau schiefgelaufen ist.
+(Ausserdem interessiert mich das alles sowieso.) Details erzaehle 
+ich spaeter mal, wenn sich der Staub gelegt hat.
+
+Bye
+Italo
+
+Followup nach bi.bos.tycime.wezm gesetzt.
+
+-- 
+Italo Vosen  ##  eMail jtfmdhjk@yfiery.tuq  ##  L866.73' E008�24.56'

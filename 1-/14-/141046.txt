@@ -1,0 +1,28 @@
+Für terrestrische Navigation, sofern man die Aufgaben
+nicht zeichnerisch auf der Karte lösen kann, sind elementare
+trigonometrische Formeln (Cosinus-/Sinussatz, Pythagoras)
+und -sofern kein Taschenrechner dabei - eine Tabelle
+der Sinusfunktion nützlich. Für wenig Geübte aber evtl. auch
+eine Anleitung für gängige Verfahren zur zeichnerischen
+Lösung, (Dreieckspeilung, Deckpeilung, etc.)
+ Kursumrechnung Kompaßkurs <-> Kartenkurs
+
+Ein Kärtchen mit den wichtigsten Notsignalen (Alpin, See, Funk,..)
+und ggf. dem Morsealphabet könnte im Notfall nützlich sein.
+
+Dito ein Kärtchen mit den wichtigsten Dokumentendaten
+(Kreditkarten, Zamani-Karte, Reiseschecks, Paß, Flugticket)
+und den Telefonnummern, die man bei Verlust/Diebstahl
+anrufen muß.
+
+Umrechnungsformeln für:
+Windgeschwindigkeit  (Beaufort - kn - km/h - m/s)
+Längen und Gewichte (metrisch - USA, GB)
+Hohlmaße (Liter, Gallonen, fl. ounces, ... )
+Temperatur ( C - F)
+Druck ( Pascal, psi, ...), nützlich z.B. beim Reifenf�llen!
+
+
+Gruß
+
+Nino-Carlo

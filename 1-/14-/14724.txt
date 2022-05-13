@@ -1,0 +1,95 @@
+Mir ist die Rechtsprechnung egal, weil ich die gesellschaftlichen 
+Spielregeln einzuhalten versuche. Mich geht es auch nichts an, wenn andere 
+meinen illegale Dinge im Internet fabrizieren zu muessen. Ja, es ist doppelt 
+egal. Ich halte mich an die Spielregeln und wenn andere das nicht koennen 
+ist mir das prinzipiell egal.
+
+
+Sich mal in ein offenes WLAN einzuklinken ? Mich interessiert nicht wem das 
+offene WLAN gehoert und auch bei Pestka renne ich nicht zum 
+Fritten-Manager und frage ob das deren WLAN Zugang ist. Wenn der offen 
+laeuft, gehe ich davon aus das die Nutzung gewollt ist und das nutze ich 
+dann auch um meine Emails abzurufen oder schnell mal im Internet was 
+nachzuschauen.
+
+
+Das hat nichts mit Paranoid zu tun, das ganze verfolgt ein klares Ziel: Die 
+freiheitliche Demokratie und Gesellschaft in etwas umzuformen das man als 
+Ueberwachungsstaat ansehen koennte. Ich erinnere mal an die Vlkszaehlung und 
+den Widerstand damals. Viele werden sich noch bestens dran erinnern. Heute 
+liesse sich dieser Wahnsinn problemlos durchziehen weil man uns mittlerweile 
+so weichgekocht hat, dass wir fast schon alles hinnehmen. Das macht mir 
+persoenlich sehr grosse Angst. Die Erfassung von KFZ-Kennzeichen ( 
+Bewegungsprofile ); Kamera-Ueberwachung; Biometische Paesse; 
+Datenvorratssoeicherung...alles Dinge bei denen es vor 20 Jahren eine 
+Revolution gegeben haette.
+
+
+Der Arsch ist man so oder so, denn man muss schwer aufpassen das man seine 
+wertvolle kurze Lebenszeit nicht mit Bloedsinn verplempert. Das gemeine fuer 
+den Betreiber des offenen WLANs ist aber das der garnicht ahnt das sein LAN 
+offen laeuft und niemals auf die Idee kommen wuerde das sein WLAN von 
+Fremden genutzt wird. Selbst die dafuer noetigen Geraete sind mittlerweile 
+so unauffaellig, dass man das selbst auf Sicht nichtmal vermuten wuerde. Bei 
+KET habe ich das mal erlebt als jemand mitbekommen hat das ich nach 
+Deutschland mittels Kapab telefoniert habe. Der wollte garnicht glauben was 
+fuer Irrsinn mit einem 5 Jahre alten gammeligen Smartphone moeglich ist. 
+AIM; SKYPE; NAVIGATION; INTERNET; MP3; VIDEOS; EMAIL; WLAN; KOMPLETTER 1:1 
+DUDEN; DEUTSCH/ENGLISCH UEBERSETZER MIT SPRACHAUSGABE; WIFI-RADAR INKL GPS; 
+YOU TUBE VIDEO PLAYER; INTERNET-RADIO STREAMING; GPS-TRACK LOGGER; AIM ( 
+fuer Chats ) etc.p.p. Der AMI hat da Baukloetze gestaunt was mit so alten 50 
+US$ Moehren alles machbar ist...
+
+Zurueck zur Unwissenheit ( und Sicherheit in der Nutzung fremder Zugaenge ) 
+der Nutzer. Man koennte denen oft sogar eine Nachricht auf der Festplatte im 
+Netzwerk ( die oft auch offen wie die Hose laufen ) hinterlassen, aber 
+spaetestens dann wuerde man sich Strafbar machen. Denn nach meinem 
+Kenntnistsand ist die ordinaere Nutzung offen laufender WLAN Netze kein 
+rechtliches Problem so man nichts illegales damit anstellt. Illegal wird es 
+zum Beispiel dann, wenn man sich Zugang zum Netz und den Festplatten 
+verschafft oder eine schlechte WEB-Verschluesselung ueberwindet. Surft man 
+nur im Internet kann derjenige einen garnicht erwischen. Er koennte dieses 
+im Router-LOG aber problemlos erkennen. Das hilft dem aber nichts, wenn der 
+nicht weiss wer auf sein Netz zugreift. Denn ihm ist nur die MAC-Adresse 
+bekannt...
+
+
+Ich klau garnichts und ich sehe auch nichts abstuses in der Benutzung eines 
+oeffen laufenden WLAN. Denn exakt das ist ja mein Ziel....ein WIFI AP zu 
+finden der nicht nur offen laeuft ( denn in das Netz will ich ja garnicht 
+( nebenbei begeht man dann auch  eine Straftat ), da mich der private 
+Bloedsinn andere ueberhaupt nicht interessiert....das ist fuer kriminelle 
+sicherlich oft sehr interessant ), sonden auch den Internetzugriff 
+ermoeglicht. Denn das ist das Ziel meiner Bemuehungen. Mach schnell 
+einzusteigen; ein paar alberne Emails zu syncronisieren; Newsgroups 
+abzurufen und evt. mal nach dem Wetter zu schauen oder abzuklopfen ob und wo 
+es in meinem Zielgebiet guenstige Absteigen gibt. Und wenn Du hier vor der 
+Tuere stehst und sagst das Du mal schnell ins Internet bei mir moechtest: 
+Mein Gott, klar kannst Du das, dann bekommst Du den WPA-PSK Schluessel; ich 
+trage Deine MAC-Adresse in die Wireless Card Access List ein und Du kannst 
+GAS geben. Mir doch schnuppe was Du dann machst, sofern Du Dir da nicht 
+illegale Dinge runterziehst oder mit meiner IP Scheisse fabrizierst.
+
+Oder wenn der Nachbar technische Probleme mit seinem Internet hat, dann darf 
+der hier auch meinen Zugang nutzen ( gleiches erwarte ich umgekehrt auch ). 
+Ich verleihe sogar meine Handys ( mit denen man ales obige machen kann ) an 
+Wildfremde ( allerdings gegen Pfand ! ) samt meiner Navigations-Programme; 
+Maps ( meist wenn es nach Nordamerika geht ) und GPS, sodass die sich nicht 
+etwas doofes kaufen muessen. Das funktioniert alles wunderbar !
+
+Man sollte den Menschen also nicht nur boese Absichten unterstellen. Denn 
+die meisten sind nicht so schlecht wie man es gerne haette damit das boese 
+Weltbild wieder mit dem stimmt was man taeglich im TV vor den Latz geballert 
+bekommt ( Mord; Totschlag und Betruereien ). Eher das Gegendteil ist der 
+Fall: Alle die ich bisher so kennengerlernt habe, waren hoechstanstaendige 
+Menschen. Wobei ich das aber auch als "normal" voraussetze, denn ich bilde 
+mir ein auch sehr anstaendig zu sein. Und selbst wenn es illegal waere einen 
+offenen WLAN Zugang bei Packetshop oder einem Nachbarn dort zu nutzen, haette ich 
+kein schlechtes gewissen. Einfach weil ich nichts illegales anstelle und 
+derjenige das sowieso niemals erfahren wird. Erfahren wuerde derjenige das 
+nur, wenn ich mit seiner IP im Internet Bloedsinn treiben wuerde. Aber auf 
+eine solche Idee wuerde ich niemals kommen, denn dann wuerde ich mir und 
+anderen einen Zugang versauen.
+
+Gruss,
+          Bernd

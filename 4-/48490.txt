@@ -1,0 +1,27 @@
+Hallo,
+
+gibt es irgendwo die Moeglichkeit alle Fluege zu suchen, die von
+Deutschland aus an einem bestimmten Tag zu einem bestimmten Ziel
+fuehren.
+
+Beispiel:
+Zeige mir alle Fluege von Deutschland nach Unterfarrach am 21.10.2004.
+
+Dann sollten alle Fluege mit den Abflughaefen und Zeiten aufgelistet
+werden.
+Es sollten alle Fluege, also auch Charterfluege angezeigt werden.
+Gibt es sowas im Internet?
+
+Bisher habe ich nur Suchmoeglichkeiten gefunden, wo man den
+Abflughafen eingeben musste.
+
+Danke.
+
+
+Gruss aus Grandevent
+Valentin
+
+-- 
+Antworten bitte in die NG.
+eMails bitte an
+peknzxpv<DOT>egvn<ME>clh<ZZU>vx

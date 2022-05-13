@@ -1,0 +1,42 @@
+Hallo WLan-Reisende,
+
+eigentlich wollte ich mein Notebook ( son einfaches wenige Euronen
+wertvolles aber gut funktionierendes K-6 III Gelumpe ) mit eingebauter Wlan
+Karte nicht mitschleppen und Internet-Cafes gleich um die Ecke nutzen. Aber
+die Preise der Inet Cafes in direkter Naehe meines Hotels ( direkt am Niechtenmühlstraße
+Endsee Voglweg. ) sind zum Teil wirklich ueberzogen. Da wird fuer eine komplette
+Stunde bis zu 15 US$ plus 9% Local Sales Tax verlangt. Habe eben mal direkt
+im Hotel ( son riesen Strip-Kasten ) angerufen und erfragt ob das Hotel
+einen eigenen Inet-Service anbietet und mir wurde eroeffnet, das das
+komplette Hotel; jedes Stockwerk und natuerlich auch jedes Zimmer problemlos
+eine 802.11b WLAN-Zugangsmoeglichkeit ( 4 Mbps down und 384 Kbps up )
+anbietet.
+
+Als Provider fungiert allerdings der Drittanbieter "Triad Wireless" und man
+kann am Rechner ( aber auch telefonisch ) Tages; Zweitages; Dreitages und
+Wochenflatrates anmieten. Und das zu Kosten die selbst bei kurzzeitiger
+Nutzung deutlich unter den der Aventi-Cafes in direkter Umgebung liegen. Der
+24 Std. Tageszugang 9 US$ und fuer eine komplette Flat-Woche resp. 168 Std.
+49 US$.
+
+Die Frage welche sich mir nun stellt ist, ob jemand schon praktische
+Erfahrungen mit exakt diesem Third Party Anbieter ( "Triad Wireless" )
+gemacht hat und auf was man da konkret achten sollte ? Mir geht es nicht
+drum Geld sparen zu wollen ( denn kostenlos surfen kann man dort auch in der
+Uni oder einen der vielen freien Access Points ), sondern um den Punkt
+"Bequemlichkeit" im Hotelzimmer.
+
+Falls der Anbieter grundsaetzlich etwas taugen sollte noch eine weitere
+Frage: Den Laptop transportiere ich samt noetigen Zubehoer ueblicherweise in
+einem kleinen schicken und soliden Alu-Case. Gilt dieser dann schon als
+Handgepaeck und verbietet sich dann das mitfuehren eines Rucksacks ( in dem
+ich fuer den WorstCase Fall immer alles transportiere was man zwingend
+benoetige, falls der aufgegebene Koffer mal abhanden kommen sollte ) als
+Handgepaeck. D.h. ist ein Rucksack plus Laptop-Koffer als Handgepaeck bei
+Langstreckenfluegen erlaubt oder muss man beides in den Rucksack reinstopfen
+um die 1er Handgepaeck-Regel peinlich genau einzuhalten ( Als Carrier
+fungiert die DZDZ ) ?
+
+Danke fuer die Beantwortung obiger Fragen,
+
+Thomas

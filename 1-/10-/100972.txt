@@ -1,0 +1,10 @@
+Hallo
+ schau unbedintt in die Anleitung des Ladegerätes. Gute arbeiten nicht
+mit einem Trafo (das würde dann nicht funktionieren, auch nicht bei
+längerer Ladezeit) sondern mit einem Schaltnetzteil. Letztere arbeiten
+i.d.R. zwischen 100 und 240V (50-60Hz) einwandfrei.
+ Gruß Roger
+-- 
+Synthesizer,Synthy-Kurs,Musik,Testberichte,USA-Reisetagebücher,
+ Naturheilkunde,Therapien,Heilkräuter,Giftpflanzen, Gartentips, 
+ Hundesport Agility, Konzertbilder Garrelt Isengard und vieles mehr

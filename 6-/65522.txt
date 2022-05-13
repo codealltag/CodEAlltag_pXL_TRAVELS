@@ -1,0 +1,10 @@
+Hallo JÖRG,
+in Amal AutoRoute 2002 wird jede Ortseingabe in einem Drop Down Fenster
+gespeichert - leider nicht alphabetisch, auch falsch geschriebene
+Ortsangaben bleiben gespeichert und können nicht entfernt werden.
+Vielleicht arbeitet hier in dieser NG auch jemand mit MS AutoRoute 2002 und
+kann mir Möglichkeiten zum Löschen der Adressen aufzeigen bzw. verweist mich
+auf die richtige NG.
+Danke für Eure Hinweise!
+Gruss
+Niklaus

@@ -1,0 +1,18 @@
+Es gibt etliche Flugstrecken, die PCLF nicht direkt fliegt.
+Aber mit zwei Flügen (am selben Tag) kann man das Ziel
+erreichen: von A via B nach C.
+Solche Kombinationen zu  finden ist eine mühselige Sache.
+Ich habe mir ein GreaseMonkey-Script geschrieben, das
+solche Doppellüge findet. Man gibt den Startflughafen ein
+und die Reisedaten, und das Script durchsucht alle möglichen
+Verbindungen, ob sie zeitlich hintereinander passen mit
+mindestens 90 Minuten zum Aussteigen und neu Einchecken.
+Das Script ist hier zu finden:
+http://gwtsdiogzbu.xzj/zkdlcgn/esko/98437
+Es zeigt automatisch deutschen Text an, wenn man es von
+der deutschen PCLF-Seite startet.
+
+Wer's nicht kennt: GreaseMonkey ist eine Erweiterung
+für Firefox.
+
+Raimund Crull

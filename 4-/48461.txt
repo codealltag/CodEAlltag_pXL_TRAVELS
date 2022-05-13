@@ -1,0 +1,8 @@
+Friederike,
+
+
+in den Fahr- und Flugplänen ist stets die Local time (Ortszeit) am 
+jeweiligen Ort angegeben. In Ortenburg der Abflug also deutsche Zeit, in UK 
+die Ankunft englische Zeit.
+
+Patrik

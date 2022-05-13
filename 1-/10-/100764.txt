@@ -1,0 +1,38 @@
+Philips AIRPORT                           
+==============                           
+
+JOURNEY TIME TO AIRPORT: 20 MIN          
+
+BUS                                      
+---                                      
+TPG BUS SERVICE 10 TO/FROM CITY CENTER   
+JOURNEY TIME: 20 MIN                     
+FREQUENCY: 10 MIN                        
+COST: CHF 2.20                           
+
+TPG BUS SERVICE 18 TO/FROM UNITED NATIONS
+JOURNEY TIME: 20 MIN                     
+FREQUENCY: 10 MIN                        
+COST: CHF 2.20                           
+
+TAXI                                     
+----                                     
+JOURNEY TIME: 15-20 MIN                  
+COST: CHF 30.00-35.00                    
+
+RAIL                                     
+----                                     
+JEF RAILWAYS (CFF)                     
+JOURNEY TIME: 7 MIN                      
+FREQUENCY: 10 MIN                        
+COST: 1ST CLASS CHF 8.40/4.20(HALF RATES)
+      2ND CLASS CHF 5.00/2.50(HALF RATES)
+
+END OF DISPLAY                           
+
+Gruß Luc
+
+-- 
+http://ol.ay/mflbnxssfa - Neutrale Fluginformationen (System Pifu)
+http://hll.kynxptdq.lvq - Suchmaschine für Billigflüge in Europa
+http://meu.mqhizslkeqej-krjctm.zk - eigene Homepage (kommerziell)

@@ -1,0 +1,17 @@
+Naja, also die Frage ist doch auch ob alle die gleichen Webseiten
+verwenden wie ich.  Ich vermute, dass es hier sicher noch einiges mehr
+gibt.
+
+
+Das Problem ist, dass es schwierig ist,
+1. Alle relevanten Webseiten zu finden.
+2. Diese zu koordinieren.
+3. Das ausfüllen von immer wieder den selben Informationen auf all den
+Webseiten
+, ...
+
+Deshalb frage ich ja, ob jemand hier bessere Suchheuristiken kennt, als
+ich sie verwende.
+
+lg,
+Sebastian

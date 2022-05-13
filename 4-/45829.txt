@@ -1,0 +1,20 @@
+Hallo,
+
+ich bin auf der Suche nach einer Routing Software, die es mir
+einerseits ermöglicht eine Adress Datenbank (Excel oder Access) zu
+importieren. 
+
+Diese Adressen sollten dann in den Karten als Markierungen angezeigt
+werden könne. 
+Ich will aber nicht zu einzelne Adressen auswählen, sondern das
+Programm soll mir alle Adressen als Punkte einzeichnen. 
+
+Also so ähnlich wie Sehenswürdigkeiten.
+Kennt jemand so eine Routing Software.
+
+Ich weiß mittlerweile, daß Autoroute 2004 wohl Adressen importieren
+kann, ob man diese dann aber auch gesammt in den Karten anzeigen
+lassen kann, habe ich nicht herausgefunden.
+
+Gruß
+Pasquale

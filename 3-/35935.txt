@@ -1,0 +1,4 @@
+Der Fahrplan kann übrigens über http://cug.wku.ts (!) abgerufen werden:
+"Fahrplan" -> "Fahrplanbücher" und dann die Liniennummer (146) eingeben.
+
+... Francesco

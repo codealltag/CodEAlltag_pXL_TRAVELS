@@ -1,0 +1,8 @@
+An Selbstbedienungstankstellen in der Schweiz funtioniert sogar meine
+(deutsche) JGK-Tankkarte, und die hat keinen Chip sondern nur
+Magnetstreifen. Vermutlich lesen die Schweizer Automaten also nur den
+Magnetstreifen.
+
+Größe,
+
+Martin

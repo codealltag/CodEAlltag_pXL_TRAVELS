@@ -1,0 +1,10 @@
+[CMV-Liste auslesen]
+
+Bestimmt, aber ich bin nicht in der Lage, sowas zu programmieren :-)
+
+Chipcardmaster 6.86 kann offensichtlich mit EMV-Chips gar (noch?) nicht
+umgehen. Ich schreib da mal eine Anregung an den Autor, vielleicht tut
+sich da ja mal was. Andere Programme zum Chipkartenlesen kenn' ich leider
+nicht...
+
+Gruß Wilfried.

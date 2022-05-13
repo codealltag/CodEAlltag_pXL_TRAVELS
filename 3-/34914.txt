@@ -1,0 +1,20 @@
+Eigentlich nicht. Flüge werden über Reservierungssysteme verkauft, in
+denen die Anzahl buchbarer Plätze in den Buchungsklassen veröffentlicht
+wird. Jeder Flugtarif ist einer Buchungsklasse zugeordnet und kann
+verkauft werden, wenn in der passenden Buchungsklasse Plätze frei sind.
+Es gibt ein paar Klassen zur exklusiven Verwendung z.B. durch die
+Fluggesellschaften (z.B. für Pr�mientickets oder für Reiseveranstalter
+für Pauschalangebote). Veröffentlichte Flugtarife sind aber eigentlich
+bei jedem Anbieter über die Reservierungssysteme buchbar, würde mich
+auch wundern, wenn die FLuggesellschaften da selbst andere
+Verfügbarkeiten hätten als ihre Agenturen.
+Was konkret heißt denn bei dir "nicht verfügbar"? War der Flug über
+andere Anbieter überhaupt nicht buchbar (dann kann es auch schlicht ein
+dämliches Webbuchungsdingsbums sein, das es nicht schafft, eine zum
+Tarif passende Flugverbindung zusammenzubauen, z.B. wegen langem
+Aufenthalt)? Oder war ein bestimmter Tarif nicht verfügbar? Letzteres
+kann daran liegen, dass manche Tarife tatsächlich nur bei manchen
+Anbietern zu bekommen sind.
+
+Gruß,
+Rudolf

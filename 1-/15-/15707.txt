@@ -1,0 +1,19 @@
+Die Mehrwertsteuer ist eine Form der Umsatzsteuer.
+In früheren Jahren (einige werden sich vielleicht noch daran erinnern
+können) gab es eine Umsatzsteuer (in .at AFAIK 5,5%), die bei jedem
+Verkauf vom Rechnungspreis eingehoben wurde, aber keinen
+Vorsteuerabzug. Je öfter eine Ware vom Produzenten bis zum
+Letzverbraucher den Besitzer wechselte, desto höher wurde der darauf
+lastende Umsatzsteuerbetrag.
+
+Bei der Umsatzsteuerform "MWSt" wird zwar die MWSt vom Gesamtbetrag
+der Rechnung vom Verkäufer eingehoben, aber nur der Betrag, den sie
+die MWSt von seiner Einkaufsrechnung übersteigt, an das Finanzamt
+abgeliefert, der andere Teil als Vorsteuerabzug einbehalten. Somit
+zahlt der Endverbraucher nur ein Mal vom Gesamtbetrag die USt.
+
+Liebe Größe
+Paolo
+
+-- 
+Für persönliche Nachricht Reply-Adresse verwenden und "usenet" im Betreff einfügen.

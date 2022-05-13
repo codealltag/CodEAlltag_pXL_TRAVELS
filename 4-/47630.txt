@@ -1,0 +1,20 @@
+Hallo,
+
+
+Es ist immer wieder erstaunlich. Da faehrt man in arme Laender.
+Und siehe da, Indernet gibts an jeder Strassenecke dreimal.
+In jeder Geschwindigkeitsklasse. Mit einem Service und zu Preisen,
+na ja, lassen wir das ....
+Dann faehrt man alternativ in ein doch recht luxurioeses Hotel
+eines gut entwickelten europaeischen Landes. Internet? Ja, dort
+sind zwei Stationen. Eine davon ging nie, die Preise waren ohnehin
+dem Hotelniveau angepasst und dafuer gab es genau eine Applikation,
+den IE. Wenigstens war Java moeglich, so dass man nach einigem Suchen
+zumindest einen Java-ssh-client fand. Aber dank W2K war schon
+mit einem schlichten RDP-Client Sense.
+
+Also einen Tip fuer bella Italia habe ich nicht, aber wie man sieht
+hatte ich mit Internetzugang im fortschrittlichen Europa ganz
+aehnliche Probleme.
+
+Vincent Meifert

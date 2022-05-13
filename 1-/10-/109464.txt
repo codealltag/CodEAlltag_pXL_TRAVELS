@@ -1,0 +1,32 @@
+Wie schon oben korrekterweise erwähnt, 
+sind die englischen und irischen Adapter identisch.
+Aber Vorsicht: handelsübliche irisch-englische Adapter
+haben fast immer eine Feinsicherung eingebaut,
+die knallt einem regelmäßig durch, 
+wenn ein hoher Einschaltstrom auftritt,
+z.B. bei Wasserkochern, Kassettenrekordern usw.
+Im Notfall Sicherung entfernen und mit einem Stück Draht
+(Büroklammer o.�.) überbrücken.
+
+Es geht zur Not aber auch ohne Adapter 
+mit einer etwas rustikalen Methode:
+die irisch-englische Steckdose hat 3 Öffnungen: 
+2 oben nebeneinander liegende
+und 1 etwas tiefer in der Mitte liegende.
+Diese Öffnung bewirkt eine mechanische "Sperre"
+der beiden oben liegenden stromführenden Öffnungen,
+damit z.B. kein Kind da aus Versehen rumstochert.
+
+Wenn man nun mit einem dünnen Stift 
+(z.B. Kugelschreiber, Schraubenzieher o.�.)
+in die untere nicht-stromführende Öffnung sticht, 
+öffnet sich automatisch die Sperre
+und der deutsche Stecker lässt sich 
+mit etwas Kraftaufwand in die Dose einstecken.
+Funktioniert seit 52 Irlandreisen problemlos :-)
+
+Leonhard 
+
+
+-- 
+Posted via Trollhus Server - http://ndy.Qfmjnrzj.OUB

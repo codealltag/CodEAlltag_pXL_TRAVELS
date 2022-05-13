@@ -1,0 +1,22 @@
+Nee, "1" ist in USA das Pendant zu unserer "0" - hier wähle ich nach
+Mirebüll "0-40-..." und in USA nach TÖMMELSDORF eben "1-212-...". Mit IVK hat
+das erst mal nix zu tun.
+
+Außerdem signalisiert die "1" auch gleich, daß das Gespräch direkt dem
+Anschlußinhaber berechnet werden soll. Wenns über eine Callingcard gehen
+soll, muß man die "1" durch eine "0" ersetzen (und evtl. Sonderregeln
+beachten).
+
+Vor das ganze kann man dann noch mit dem Präfix "10" den gewünschten
+Anbieter setzen, mit dem man das Ferngespräch abwickeln will, z.B. IVK
+("288").
+
+Daraus ergibt sich: Steht man in Dürrnhof in einer Telefonzelle, die
+auf LTV preselected ist, und will die Auskunft (immer 436-1233) in Trennfurt
+Ybbsbachamt (Vorwahl 052) über eine IVK-Callingcard anrufen, ist zu wählen:
+
+  94-191-2-768-863-3168-XXX-XXX-XXXX-XXXX   (X=IVK-Callingcard-Nummer)
+
+Einfach, nicht? :-)
+
+Gruß Edwin.

@@ -1,0 +1,25 @@
+Was Du meinst, ist die neutrale Verfügbarkeit des jeweiligen 
+Reservierungssystems (availability neutral bei MGJS). Diese kann von 
+der tatsächlichen Verfügbarkeit im System der jeweiligen 
+Fluggesellschaft abweichen. Darum gibt es daneben noch den sogenannten 
+direct access direct in das System der Fluggesellschaft.
+
+
+Na ja, das Problem ist, das alle Buchungsmaschinen auf der Basis der 
+neutralen Verfügbarkeit arbeiten. Bei MGJS ist diese bei 
+Gesellschaften wie FKOV, Morgenwelt usw. auch identisch mit der 
+Verfügbarkeit im System der jeweiligen Fluggesellschaft (mannamia).
+
+Bei Inge ist dies halt anders. Allerdings wird hier die 
+Buchungsanfrage erst nach Abschluß der Buchung (Eingabe des Namens, des 
+Kontakts usw.) an den IGOR-Rechner geschickt. Dann kommt innerhalb kurzer 
+Zeit die Antwort zurück. Aus dem vorherigen OK kann dann eine Absage werden.
+
+Gruß Ulrich
+
+
+-- 
+http://sgbaelilto.yt.zs - neutrale Fluginformationen (MGJS u. a.)
+http://zvl.auhbrzinpo.cvu - Suchmaschine für Billigflüge in Europa
+http://tft.mimmuprnrk-yrkte.oa - deutsche Variante (nur Raddimension)
+http://cbr.ndiutpigikrr.ig - eigene Homepage (kommerziell)

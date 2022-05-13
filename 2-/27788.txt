@@ -1,0 +1,34 @@
+Leider sind das keine Verschwörungstheorien, sondern es sind die
+bereits praktizierten Einreisebestimmungen der USA, über die sich
+Leute beklagen. Da es nicht jeden trifft, sondern nur zufällig ein
+paar wenige, glaubt jeder, es werde ihm schon nichts passieren.
+
+Dachte ich auch mal, bis mich der Zufallsgenerator für die
+Zollkontrolle ausgesucht hat. Macht keinen Spaß, wenn Fremde
+Dein komplettes Gepäck ausgiebig durchsuchen. Die Leute sind
+dafür ausgebildet und lockern die Situation durch etwas
+Smalltalk auf, so gut es eben geht. Man kriegt auch alles
+wieder zurück. ;-) Aber je nach Kofferinhalt könnte das auch
+ziemlich peinlich werden. Ob das jedem USA-Reisenden wirklich
+bewusst ist? Die meisten haben sicherlich noch nie etwas von
+dieser Prozedur gehört.
+
+
+Warum muss man da lägen? Wozu ein VPN da ist, ist kein Geheimnis.
+Das ist in den USA nicht prinzipiell verboten. Amerikanische Behörden
+überwachen die Internet-Provider (ich habe selbst mal für einen in den
+USA gearbeitet). Wenn sie an die Daten wollen, müssen sie zusehen,
+dass sie meinen Datenstrom geknackt kriegen. Bei der Einreise sieht
+das Gesetz jedoch vor, dass ich die Daten im Zweifelsfall selbst
+offenlegen muss, sonst wird mir schlimmstenfalls das Notebook
+weggenommen.
+
+
+Es geht nicht darum, ob das Sicherheitspersonal Deine verschlüsselten
+Daten geknackt bekommt, sondern die Leute müssen nur erkennen, ob da
+überhaupt verschlüsselte Daten auf Deinem Notebook sind. Das ist meist
+nicht so schwierig. Und wenn Du dann nicht kooperativ bist, nimmt man
+Dir im Zweifelsfall das Notebook einfach weg. Die kommen dann zwar
+weiterhin nicht an Deine Daten, aber Du auch nicht mehr.
+
+	Größe, Niclas

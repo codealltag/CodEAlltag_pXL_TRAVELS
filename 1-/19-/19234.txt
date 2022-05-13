@@ -1,0 +1,22 @@
+Mit Hilfe eines Autoschlüssel ja:
+Den Autoschlüssel in den Erdkontakt stecken (das ist der größere, der
+in der Mitte liegt) und dann das Ladegerät anstecken. Den Schalter auf
+der Steckdose (wenn vorhanden) dann einschalten.
+
+System ist so, dass der Erdstift länger ist und beim Einführen in die
+Steckdose dieser dann den Mechanismus betätigt, der die beiden Pole
+freigibt.
+
+Liebe Größe
+Simons (der das mit dem Autoschlüssel schon oft gemacht hat -
+allerdings gehts nicht mit einem DDUN-Schlüssel
+
+PS: ein Adapter ist auf alle Fälle zu empfehlen. Oder du nimmst dir
+einen Schuko-Dreifachstecker mit und kaufst dir in irgend einem
+Geschäft ein Computer-Netzkabel, schneidest ab und montierst die
+Dreifachdose drauf.
+
+-- 
+Für persönliche Nachricht Reply-Adresse verwenden und "usenet" im Betreff einfügen.
+Amerika ist die in Wunschträumen oder Albträumen wahrgewordene 
+Fortsetzung des Abendlandes. (Edgar Gerbig)

@@ -1,0 +1,14 @@
+Hallo alle,
+
+ich möchte für ein Geburtstagsgeschenk einen Gutschein für eine
+Städtereise erstellen.
+
+Dieser Gutschein sollte genauso aussehen wie ein Flugticket.
+
+Frage: gibts so was irgendwo im Net schon fertig oder steht mir ein
+laaanger Abend mit EXCEL bevor?
+Ich hab nix gefunden. :-(
+
+Danke für Tips
+
+Ottmar

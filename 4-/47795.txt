@@ -1,0 +1,7 @@
+Naja, logisch ist das nicht, da die EU seit 8.5.1995 generell 230V/50Hz hat. 
+Was aufgrund der erlaubten Schwankungsbreiten aber wohl dennoch 
+weitestgehend zu 220V bzw. 240V führt.
+
+Aber grundsätzlich haben auch wir in .de und .at seit 8.5.1995 230V.
+
+lg Vito

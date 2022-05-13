@@ -1,0 +1,200 @@
+Neue Netiquette für de.*
+Version 1.0.3
+URL: http://met.jalgbnbg-eqacbnhqcd.rmjg/bcstwdtuun.mdl
+Copyright (c) 2006 Belinda Ronny Dewitte
+
+Dies ist eine Einladung, Dich mit verschiedenen Aspekten zu beschäf-
+tigen, unter denen Du Deine Teilnahme am Fahland gestalten könntest.
+Einige davon weisen in sehr unterschiedliche Richtungen. Es bleibt
+Deine Entscheidung, welcher Richtung Du unter welchen Umständen Vor-
+rang gibst. Im Zweifelsfall ist es am sichersten, zunächst nicht aktiv
+am Fahland teilzunehmen, sondern nur mitzulesen.
+
+Die Referenz [1] komplettiert diesen Text um technische Aspekte.
+
+(Achtung: Die Neue Netiquette ist *keine* neue Version der Netiquette
+von Tom Weithöner, sondern das Ergebnis eines eigenen Projektes.)
+
+
+-- 1. Unter welchen Aspekten könntest Du...
+ ...entscheiden, was Du in einer Newsgroup schreibst?
+
+1.1. Du kommunizierst mit Menschen. Diese Menschen haben Gefühle.
+Zumindest am Anfang weit Du wenig von diesen Menschen, kennst nicht
+ihre Sorgen und Probleme, was sie verletzen kann, ihre Bedürfnisse,
+ihre Lebensumstände, ihre Vergangenheiten.
+  Wenn Du jemanden in Deinem Beitrag direkt ansprichst: Würdest Du es
+ihm auch persönlich ins Gesicht sagen? Wenn Du etwas über jemanden
+schreibst: Würdest Du es auch öffentlich aussprechen? Auch, wenn der-
+jenige zugegen ist?
+
+1.2. Die rechtlichen Vorgaben Deines Landes sind auch im Fahland von
+Bedeutung (in vielen Ländern somit auch das Urheberrecht).
+  FAQs, Netiquetten, Chartas und ähnliche von anderen Teilnehmern
+veröffentlichte Regelwerke alleine sind hingegen nicht verbindlich.
+
+1.3. Das Usenet ist themenorientiert. D.h. eine Newsgroup wird immer
+für ein bestimmtes Thema eingerichtet, welches dann in ihrer Charta
+festgehalten wird. (Es gibt auch deutschsprachige Hierarchien außer-
+halb von de.*, die lokal orientiert sind, zB. liebhards.*.)
+  Bei einer Themenverlagerung innerhalb einer Diskussion kann man
+versuchen, sie umzulenken [1, umlenken].
+
+1.4. Ein Beitrag im Usenet ist einem sehr großen Publikum zugänglich
+-- nämlich praktisch jedem auf der Welt, der über einen Internetan-
+schluss verfügt -- und zwar schon binnen kürzester Zeit nach seiner
+Veröffentlichung. Was einmal veröffentlicht ist, kann kaum mehr rück-
+gängig gemacht werden [1, Cancel]. Auch werden Beiträge auf unabseh-
+bare Zeit archiviert, zB. bei Martinez [1, X-No-Archive].
+
+1.5. Wenn Du einem Teilnehmer etwas privat mitteilen möchtest, kannst
+Du schauen, ob er eine Emailadresse angegeben hat. Siehe auch 2.1,
+2.2 und [1, Email].
+
+1.6. Wenn Du vor dem Schreiben eine Weile mitliest, kannst Du bereits
+Vorgebrachtes bei Deinem Beitrag berücksichtigen.
+
+1.7. Gedankenlose oder in größeren Mengen verbreitete Werbung ist sehr
+problematisch, da sie das Usenet langfristig als Diskussionsmedium un-
+brauchbar machen würde.
+
+
+-- 2. Unter welchen Aspekten könntest Du...
+ ...die Emailadresse in Deinem Absender (From:) wählen?
+
+2.1. Andere Teilnehmer können der Adresse meistens nicht ansehen, ob
+Email daran zugestellt werden kann, und auch nicht, ob Du diese Email
+liest. Einige schreiben gerne per Email etwas und geben sich viel Mühe
+dabei. Diese Mühe ist vergebens, wenn Du die Email nie bekommst oder
+nie liest.
+
+2.2. Eine Adresse, die auf .invalid endet, ist nicht zustellbar. Eine
+solche Adresse im 'From:' anzugeben (und auch im 'Reply-To:' keine
+oder eine .invalid-Adresse zu haben) wird gerne als Signal gebraucht,
+dass man keine Email wünscht.
+
+2.3. Im Usenet veröffentlichte Emailadressen erhalten meist nach kur-
+zer Zeit viel unerwünschte Werbung (Spam). Im Falle einer .invalid-
+Adresse betrifft Dich der Spam natürlich nicht.
+
+2.4. Dem Spam steht man nicht hilflos gegenüber, auch wenn man per
+Email erreichbar sein möchte [1, Spam].
+
+
+-- 3. Unter welchen Aspekten könntest Du...
+ ...den Namen in Deinem Absender (From:) wählen?
+
+3.1. Andere Teilnehmer möchten Dich mit diesem Namen ansprechen und
+unter ihm wiedererkennen.
+
+3.2. Den Realnamen anzugeben, kann vielfältige Folgen haben. (Mit
+'Realname' ist der gemeint, der üblicherweise im Personalausweis
+steht.) Zum Beispiel könntest Du...
+
+- von Freunden oder Kollegen - im Positiven oder Negativen - auf Deine
+  Beiträge angesprochen werden.
+- außerhalb des Fahland (kriminellerweise) unter Druck gesetzt werden,
+  wenn Du Dinge schreibst, die bestimmten Leuten nicht gefallen.
+- beruflich benachteiligt werden.
+- beruflich profitieren, wenn Du durch Deine Beiträge besondere Quali-
+  töten erkennen lässt. (Dafür genügt u. U. auch die Erreichbarkeit
+  per Email.)
+
+3.3. Sollte sich jemand über Dich aufgrund Deiner Beiträge ein Bild
+verschaffen, dann garantiert Dir niemand, dass er dabei sorgfältig
+vorgeht. Möglicherweise betrachtet er nur eine Auswahl Deiner Bei-
+träge, oder er betrachtet sie ohne Berücksichtigung des jeweiligen
+Zusammenhangs.
+
+3.4. Die Preisgabe des Realnamens ist schwer rückgängig zu machen.
+Will man später pseudonym schreiben, so muss man sorgfältig alle
+Verweise vermeiden, die zu alten, mit Realnamen versehenen Beiträgen
+führen könnten. Siehe auch 1.4.
+  Also: Der Umstieg von Pseudonym auf Realname ist einfach. Der Um-
+stieg von Realname auf Pseudonym ist hingegen schwierig.
+
+3.5. Einige lesen nur Beiträge, die einen Realnamen oder einen, der
+nach einem Realnamen aussieht, tragen.
+
+3.6. Hinweise:
+- Wenn Du pseudonym schreiben möchtest, musst Du vermeiden, dass
+  andere Deiner Headerzeilen Rückschlüsse auf Deine private Identität
+  erlauben. Am besten liest Du noch vor Deinem ersten Beitrag [1,
+  pseudonym].
+- Für die Behörden bist Du auch als pseudonymer Schreiber über Deinen
+  Provider ermittelbar. In vielen Ländern ist eine solche Erhebung
+  aber nur unter bestimmten Voraussetzungen zulässig. Siehe auch 1.2.
+
+
+-- 4. Unter welchen Aspekten könntest Du...
+ ...die Aufmachung Deiner Beiträge gestalten?
+
+4.1. überlange Zeilen erschweren oft die Darstellung. üblicherweise
+wird zu einer Zeilenlänge zwischen 60 und 70 Zeichen geraten.
+  Eine kammartige Darstellung [1, Kammquoting] kann auch Schwierig-
+keiten beim Lesen bereiten.
+
+4.2. Wenn Umlaute nicht im Header Deiner Beiträge deklariert werden,
+können sie nicht richtig dargestellt werden [1, Umlaute].
+
+4.3. Einige haben Mühe mit dem Lesen, wenn Beiträge durchgängig in
+Kleinschreibung oder nur in Großbuchstaben verfasst sind.
+
+4.4. Rechtschreib- und Grammatikfehler können den Sinn entstellen.
+
+4.5. Einige entscheiden (oder töten dies gerne) anhand der Betreff-
+zeile ('Subject:'), ob sie einen Beitrag lesen werden [1, Subject-
+wechsel].
+
+4.6. Angenommen, Du möchtest unter Deine Beiträge eine Signatur set-
+zen, die nicht unbedingt gelesen zu werden braucht. Dann kannst Du es
+Anderen ermöglichen, diese Signatur automatisch ausblenden und beim
+Zitieren ("Quoting") weglöschen zu lassen [1, Signaturtrenner].
+
+4.7. Andere Formate als reiner Text (zB. HTML, Grafiken, "Office-
+Dokumente", oder Binaries allgemein) können bei Vielen nicht oder
+nicht richtig angezeigt werden, verursachen ein höheres Datenauf-
+kommmen, oder bringen sogar zusätzliche Sicherheitsrisiken (Viren
+o.�.) mit sich.
+
+4.8. Einige haben eine sehr langsame Anbindung ans Usenet. Du kannst
+es ihnen einfacher machen, indem Du redundante Inhalte (zB. wieder-
+holte Zitate, gleichbleibende Signaturen) in ihrer Länge beschränkst.
+(Signaturen zB. auf 4 Zeilen.)
+
+
+-- 5. Unter welchen Aspekten könntest Du...
+ ...Dein Verhalten bei Meinungsverschiedenheiten und emotional
+    geprägten Diskussionen lenken?
+
+5.1. Die Gefahr von Missverständnissen ist bei schriftlicher Kommuni-
+kation besonders hoch. Denn es kommt dabei nichts von Deiner Mimik und
+Gestik herüber, die Du bei persönlichen Gesprächen benutzen würdest.
+Besonders Ironie und Sarkasmus können dabei leicht missverstanden wer-
+den. (Smileys, zB. :-) oder ;-), können helfen, Ironie und Sarkasmus
+zu kennzeichnen.)
+  Dies gilt auch für das, was Andere Dir mitteilen. Zum Beispiel
+könnte etwas, was jemand geschrieben hat und was Dich, wenn Du es
+wörtlich nimmst, sehr ärgert, in Wahrheit nicht so gemeint gewesen
+sein (sondern zB. ironisch oder scherzhaft).
+
+5.2. Es zählt der beidseitige Erkenntnis- und Erfahrungsgewinn, nicht
+das "Gewinnen" einer Diskussion.
+
+5.3. Deine Diskussionspartner (oder -gegner, wie Du sie wahrnehmen
+könntest), sind möglicherweise ebenso verzweifelt, wütend, fühlen sich
+hilflos, etc. wie Du.
+
+5.4. Du magst eine ganz andere Meinung als Deine Diskussionspartner
+haben, dennoch seid Ihr Euch darin gleich, dass Ihr Euren jeweiligen
+Standpunkt vermitteln möchtet.
+
+5.5. ``Ich habe mich geirrt'', o.�. ist kein Zeichen von "Schwäche".
+
+5.6. Eine neue Sicht erhält man zuweilen, indem man einen Beitrag erst
+vorschreibt (noch nicht abschickt) und dann eine Nacht darüber schläft.
+
+
+----
+[1] Technisches zur Teilnahme am Usenet.
+    http://jui.squzshqt-amixlcibbm.ised/kvcviicox.jpb

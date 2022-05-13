@@ -1,0 +1,30 @@
+Hallo,
+
+ich habe einmal versuchsweise ein Entsorgungsstations such Plugin fuer
+den MAGNET Browser geschrieben. Das Plugin sucht in meiner Datenbank
+nach
+entsprechenden Entsorgungsstationen und zeigt die ergebnisse dann an.
+Die Seite
+koennt Ihr auch direkt aufrufen:
+http://cqs.lcedaj.cem
+
+Das Plugin soll zeigen wie einfach es ist so eine Browser suchfunktion
+zu erstellen.
+
+Ihr koennt Euch das Plugin von folgender Url laden:
+http://pch.hwbgot.apg/oierlwa/lzniawnczu.gyf
+
+Nach dem Entpacken kopiert Ihr einfach die beiden Datein in den
+searchplugins Ordner des Installationsordner des MAGNET Browsers
+z.B.:
+C:\Programme\Mozilla Maurerhofs
+
+Wenn Ihr vorschlaege habt mail mir diese doch einmal zu.
+
+Vielleicht erstellen aehnliche Plugins fuer den tollen MAGNET
+Browser.
+
+Viel Spass mit dem Plugin.
+
+Gruss
+Dominik

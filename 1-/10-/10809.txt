@@ -1,0 +1,32 @@
+Christof Paulmair schrieb:
+
+[...]
+
+
+Im aktuellen Fall also: NNTP-Posting-Host: 65.58.37.50
+
+[...]
+
+
+Hmmm.
+
+Ping bei.dyndns.info [65.58.37.50] mit 32 Bytes Daten: ...
+
+Wie man sieht, sind beide IP-Adressen identisch.
+
+Das heisst, du verwendest deinen eigenen Rechner dafür und möchtest den 
+erstmal von anderen bezahlt haben:
+
+
+Hättest du statt "bei" nicht irgendetwas interessanteres wählen können?
+War das Absicht oder Unvermögen?
+
+
+Hoffentlich hast du eine gute Firewall!
+
+
+rose
+
+-- 
+Die Signatur wurde aus Kostengründen eingespart.
+Spenden werden gerne angenommen!

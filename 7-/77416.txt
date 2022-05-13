@@ -1,0 +1,13 @@
+On Thu, 13 Nov 2002 06:22:46 +0100
+
+Meine Herzallerliebste schwört auf ein Mittelchen, dass ihr einer der
+lokalen Apotheker nach Hausrezept zusammenmixt. Vielleicht ist es gut,
+einfach mal in der Apotheke deiner Wahl nach so einem "Spezialmix" zu
+fragen.
+
+  t.
+
+--=20
+BOFH excuse #153:
+
+Big to little endian conversion error

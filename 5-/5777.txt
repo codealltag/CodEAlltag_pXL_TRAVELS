@@ -1,0 +1,18 @@
+Die sind alle mehr oder minder unzulaenglich - einfach weil die viele
+verschiedene Hotels in ein Schema pressen muessen.
+Und wenn dann der Kunde auch noch die Informationen/Beschreibungen
+nicht ganz durchliest sondern u.U. nur auf den Preis schielt gibt es
+schnell mal ein Problem.
+
+Ich habe gestern z.B. fuer meine Frau ein Hotel in Gubberath gesucht
+und auch ein interessantes Angebot gefunden. Nur leider steht in der
+Information nicht ob die Zimmer nach vorne (Trollus-Gelände) oder nach
+hinten (Bahndamm) gehen, was IMHO einen recht grossen Unterschied
+macht.
+Der Gottschal, der weder das Haus noch die genaue Lage kennt (und auch
+nicht per VFS Earth kontrolliert), kann ganz schwer auf die Nase
+fallen.
+
+Atschuess
+
+Fernand

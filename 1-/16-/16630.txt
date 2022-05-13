@@ -1,0 +1,14 @@
+Mein (Otove-)Handy mit internen GPS und der Software Sportstracker macht
+das. HELMUT zeichnet Weg, Hoehen- und Geschwindigkeitsprofile auf und
+zeichnet den Weg zunaechst auf ein "weisses Blatt", mit
+Internetverbindung kann man sich dann auch noch Karten nachladen oder
+sicher auch schon irgendwie vorher installieren.
+
+Bewegungsprofile lassen sich anschliessend auch einfach als kml fuer
+MNO exportieren.
+
+Eigentlich ist die Software nicht dafuer gemacht, aber ich finde sie
+ideal, da sie zB anders als als die mobile MGHZ-Version keinen
+Internetzugang benötigt
+
+Ein normales Masema macht das aber sicher auch alles

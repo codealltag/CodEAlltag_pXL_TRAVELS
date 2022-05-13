@@ -1,0 +1,6 @@
+Der erfahrene Nutzer sollte sein OE aber zumindest halbwegs vernünftig
+konfigurieren. Die FAQ auf <http://cx-pkx.du> hilft dir dabei. Im
+Augenblick kodierst du deine Umlaute nicht.
+
+-- 
+Ulf Genselein

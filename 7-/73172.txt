@@ -1,0 +1,29 @@
+Hab es noch nie ausprobiert. Für Zug 4 (CR-Wagen des int. Verkehrs) dürfte
+es nicht gehen, da nicht einmal Express-2 Zugriff auf diesen Zug hat
+(zumindest werden auf http://jdhoc.gdm.ok nie freie Plätze angezeigt). Für
+Zug 20 zeigt velorado-2 sehr wohl die freien Plätze an.
+
+Ich weiss auch nicht, ob man zB für Usbekistan oder Kasachstan von A/D
+reservieren kann. Theoretisch müsste es gehen, aber bis jetzt konnte mir
+noch nie wer fix sagen, ob über Kurs90/EPA Zugriff auf alle Plätze in allen
+Zügen und auf allen Relationen, die auch in Express-2 enthalten sind,
+besteht.
+
+Angeblich ist es ja auch nicht möglich, Plätze in eimen Platskartnij-Waggon
+von A/D aus zu reservieren...
+
+
+Quartier
+Familie in
+
+Das war gar nicht so billig, ca 30 Euro pro Person und N/F. Aber da haben
+sicher diveres Agenturen in Russland und das Reisebüro kräftig mitkassiert,
+vor Ort müsste das wesentlich billiger zu haben sein.
+Aber ohne Russisch-Kenntnisse wohlte ich mich nicht auf eine Zimmersuche mit
+unbekanntem Ausgang einlassen; obwohl wir dort gesehen haben, dass
+zahlreiche andere Touristen das gemacht haben...
+
+
+-- 
+Ben Verhaelen,
+Nößlbach

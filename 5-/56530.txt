@@ -1,0 +1,17 @@
+"Bernd I. Offer" <kaoqpd-ahof-1071@vvxxism-5199-38-78.oxpkorzfl.fk>
+schrieb...
+
+Oje, oje, kümmern die sich überhaupt um ihren Datenbestand?
+Ich hab gerade interessehalber einfach meinen Wohnort eingegeben, da finde
+ich zwei Ausgabestellen, diese zwei Bankfillialen gibt es schon seit Jahren
+nicht mehr.
+Desweiteren ein Geldautomat in einem Supermarkt, der Betreiber dieses
+Automates hat in den letzten drei Jahren dreimal gewechselt. In der
+Datenbank sind alle drei Betreiber aufgeführt... :-)
+
+Ich weiß, der Datenbestand ist gewaltig und das Handling bestimmt nicht
+einfach.... aber wenn man schon solch eine Liste führt, muss man sich auch
+darum kümmern.
+
+Gruß
+Vincent

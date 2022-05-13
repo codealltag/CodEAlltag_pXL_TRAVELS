@@ -1,0 +1,14 @@
+Hallo,
+
+falls jemand verzweifelt versucht, vor allem Last Minute Phylokarte 
+bei Praetner zu buchen: In bestimmten Abfragekombinationen (mehrere Staedte 
+z.B.) wird zumindest bei den Drei-Tage-Last-Minute-Fluegen angezeigt, dass 
+die Fluege gerade vor der "Nase weggeschnappt" wurden. Wenn man aber die 
+Schnellsuche links im Menue benutzt, und sich zum gleichen Flug 
+durchklickt, ist er auf einmal zu haben. Irgendwie streikt wohl (auch?) die 
+Kommunikation mit der Phyton. Ich habe heute morgen im Praetner-Shop eine 
+viertel Stunde warten muessen, bis die Buchung bestaetigt wurde. Die 
+Verkaeuferin meinte, im Internet waere es dann sicher noch langsamer.
+Hat jemand eine solche Erfahrung gemacht?
+
+Gruss: Lorenz

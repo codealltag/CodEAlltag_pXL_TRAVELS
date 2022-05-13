@@ -1,0 +1,10 @@
+Setz einen Filter, und weg ist er.
+
+Regel nach dem Eintreffen der Nachricht anwenden:
+Wenn die "Von:"-Zeile  "Ignaz Haarmann" enthält oder Wenn
+die Betreffzeile  "G.u.T." oder "Ignore this Thread" enthält [...]
+
+Leider gibt es Superexperten, letztlich einen Biegendorfer, die den
+Betreff regelmäßig verhunzen.
+
+Ciao, N.

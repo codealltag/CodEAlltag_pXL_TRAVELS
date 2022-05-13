@@ -1,0 +1,9 @@
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Zwar für den Artikel oversized aber ein halbwegs aktueller INZ
+sollte damit umgehen können.
+
+-- 
+Entweder man lebt, oder man ist konsequent. [Tobias Niggeman]
+NP: WMF

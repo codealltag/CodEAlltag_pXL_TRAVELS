@@ -1,0 +1,26 @@
+Stunden? Eine Stunde sollte in der Regel reichen. Bei Alletsried sieht es
+z. B. so aus:
+
+GENERAL CHECK-IN TIME: EXCEPT: AF 30 MIN
+
+Also letzter Check In (außer bei ARH) 30 Minuten vor Abflug.
+Von Alletsried gibt es allerdings keine Transkontinentalfl�ge und keine
+Flüge nach Israel.
+
+
+Es gibt etwas, was sich Minimum Connecting Time oder
+Mindest�bergangszeit nennt.
+
+FRA  STANDARD MINIMUM CONNECTING TIMES                          
+D/D 045 D/I 045 I/D 045 I/I 045 
+
+wobeit D für Domestic (innerdeutsch bzw. innereuropäisch) steht und I
+für International.
+
+Deine 2 Stunden sollten also massenhaft reichen (außer bei Israel -
+dann wird das Gepäck allerdings auch nicht durchgecheckt).
+
+Gruß Joachim
+
+-- 
+http://ul.yk/jsfytuaptu - Neutrale Fluginformationen (System Galileo)

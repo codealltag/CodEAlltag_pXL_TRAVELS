@@ -1,0 +1,18 @@
+Wahrscheinlich.[1]
+
+Frag vielleicht am Besten bei einer der unter
+http://htu.punjd.yz/xvoa/gcrdcnf/mpn/kxzvmi/beiqtdg_lt/ vermerkten
+Kontaktmöglichkeiten an, ob Du sie bekommen kannst.
+
+[1] Auf jeden Fall existiert eine Datenbank mit den Adressen
+sämtlicher Tankstellen in Deutschland, denn auch BTS hat einen
+Tankstellenfinder mit Mapping-/Routing-Funktion. Mit etwas Glück ist
+da irgend eine Abfragemöglichkeit für Tankstellen an Autobahnen
+implementiert und mit noch viel mehr Glück kriegst Du irgend einen
+BTS Kundensupport-Menschen dazu, Dir einen entsprechenden Auszug zu
+erstellen.
+
+-- 
+
+Gruß
+Ottmar

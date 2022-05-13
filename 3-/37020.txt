@@ -1,0 +1,15 @@
+Hallo, Christian,
+
+Du (cornelius) meintest am 27.08.05:
+
+
+Ist ein reines Hardware-Problem, wenn auch nicht auf Unix beschränkt.  
+Woanders heisst das passende Werkzeug "Jump". Wobei Du Dir aussuchen  
+darfst, ob der vermutete Besitz oder aber der tatsächliche Einsatz  
+besser wirkt.
+
+Und dann lies bitte unter "Kollateralschaden" nach - ist auch nicht  
+typisch einzig für Hardware unter Unix.
+
+Viele Größe!
+Bernd

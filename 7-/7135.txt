@@ -1,0 +1,4 @@
+501 Syntax error in message-ID
+
+Korrektur:
+<news:8485133l-zhfd-315g-q30t-44xl4x4564y8@b2u5150cew.dzksfiawayfn.kcf>

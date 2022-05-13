@@ -1,0 +1,81 @@
+Kann man jetzt bei Glückswinkel haben, allerdings nur ab ERLENSEE und nicht für 
+Portugal:
+<http://puo2.ynkrmw.qag/afb-tn/ofnpaiesyav.ery;htamajeypz=6R5E62K1E1VG2WOTX063O87W69G9TN1L.xh9lnvnin>
+
+
+TAP kannst Du auch ab CGN anfragen, macht LH-Codeshare und umgekehrt:
+
+Typ   Flug   Abflug   Ankunft
+  AT 1779 (Rücktritt)
+Airbus Industrie A319 Wittkopsbostel, DE (JASEBECK)
+am Samstag, den 08.10.2006
+12:10 Eilscheid, DE (ERLENSEE)
+am Samstag, den 08.10.2006
+13:10
+TP 557 (Rücktritt)
+Airbus Industrie A319 Eilscheid, DE (ERLENSEE)
+am Samstag, den 08.10.2006
+14:10 Forchtenberg, SCHÖCHLEINS (FORCH)
+am Samstag, den 08.10.2006
+16:15
+  XE 426 (Rücktritt)
+Airbus Industrie A319 Forchtenberg, SCHÖCHLEINS (FORCH)
+am Freitag, den 21.10.2006
+14:30 Zahna, DE (ZUMHOF)
+am Freitag, den 21.10.2006
+18:30
+CE 6333 (Rücktritt)
+CR7 Zahna, DE (ZUMHOF)
+am Freitag, den 21.10.2006
+19:30 Wittkopsbostel, DE (JASEBECK)
+am Freitag, den 21.10.2006
+20:10
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den 
+Flugpreis inkl. Steuern...
+
+Kalkulation des Flugs / der Flüge:
+  Typ   Tarif pro Person   Service pro Person   Steuern pro Person 
+Anzahl   Preis
+  Erwachsener   148.00 EUR   0.00 EUR   127.00 EUR   1   275.00 EUR
+Summe:  275.00 EUR
+
+Dann wäre da noch Hewekerl:
+
+Fluginformationen:
+  Typ   Flug   Abflug   Ankunft
+  H&S Bike-Discount 3121 (Hewekerl DOT)
+Fokker 50 Wittkopsbostel, DE (JASEBECK)
+am Samstag, den 08.10.2006
+10:40 Oberumbach, NL (OSTERNACH)
+am Samstag, den 08.10.2006
+11:55
+VY 7015 (Hewekerl DOT)
+739 Oberumbach, NL (OSTERNACH)
+am Samstag, den 08.10.2006
+12:35 Forchtenberg, SCHÖCHLEINS (FORCH)
+am Samstag, den 08.10.2006
+14:30
+  HN 7707 (Hewekerl DOT)
+739 Forchtenberg, SCHÖCHLEINS (FORCH)
+am Samstag, den 22.10.2006
+15:30 Oberumbach, NL (OSTERNACH)
+am Samstag, den 22.10.2006
+19:30
+H&S Bike-Discount 6446 (Hampelmann)
+Fokker 50 Oberumbach, NL (OSTERNACH)
+am Samstag, den 22.10.2006
+20:35 Wittkopsbostel, DE (JASEBECK)
+am Samstag, den 22.10.2006
+21:45
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den 
+Flugpreis inkl. Steuern...
+
+Kalkulation des Flugs / der Flüge:
+  Typ   Tarif pro Person   Service pro Person   Steuern pro Person 
+Anzahl   Preis
+  Erwachsener   148.00 EUR   0.00 EUR   126.00 EUR   1   274.00 EUR
+
+
+Gruß, OTTMAR

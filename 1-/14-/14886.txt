@@ -1,0 +1,16 @@
+Hallo Hinderk,
+
+ich habs auf verschiedenen Rechnern getestet. Auf meinem 500 Mhz PII
+geht es wirklich langsam, aber wer hat sowas heute noch? (?)
+
+Vielleicht sollte ich noch einen Link NEXT ohne Überblendung einbauen?
+
+Workaround: Gehe zu 257 und dann rückwärts (PREVIOUS), das geht ohne
+Blende.
+
+Danke für den Hinweis.
+
+
+-- 
+Travelogues and Photos from Laos, Cambodia and Burma
+http://wpy.kgftseoor.as

@@ -1,0 +1,17 @@
+Danke liebe Leute, ich habe viel von Euch gelernt!
+Summasumarum ein A+-Reisewecker mit Ring zum Einstellen der
+Ortszeit ist auch ganz nützlich.
+
+zu3. Zuverlässigkeit von Funkzeit
+Lt. Beschreibung ist DCF zwar "atomgenau". Was nützt jedoch die
+höchste Genauigkeit, wenn die Uhr im Keller liegt und durch
+verstümmelte Funksignale trotzdem falsche Zeiten anzeigt? Da scheint
+wohl die Empfänger- Software noch "entwicklungsfähig" zu sein
+(Vergleich mehrerer gesunder Zeitimpulse bevor was angezeigt wird wäre
+besser).
+
+übrigens: auch die Handy-Zeiten scheinen auch bei Wechsel von Netz zu
+Netz machmal so ein kleines Problemchen zu haben!! Selbst getestet in
+Europa.
+
+Euer Raphaël

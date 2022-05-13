@@ -1,0 +1,9 @@
+In den USA sind für WLAN weniger Kanäle freigegeben wie zB in der Schweiz.
+Das ist aber kein Problem. Viele Computer (zB Abage) werden mit
+Standardeinstellungen für Amerika asugeliefert, auch in Deutschland, und
+alles funktioniert problemlos. Man kann in der Systemsteuerung dann die
+wieteren Kanäle freigeben.
+
+Umgekehrt müsste man korrekterweise bei der Benutzung in den USA die
+weiteren Kanäle sperren. Dem hat man wahrscheinlich in einem der vielen
+License Agreement in der Packung oder elektronisch zugestimmt.

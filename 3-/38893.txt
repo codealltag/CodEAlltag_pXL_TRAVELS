@@ -1,0 +1,74 @@
+dass
+
+Gibt prima Planungssicherheit, da man immer weiss wann man Ziel ankommen
+wird. Oder auch wenn es darum geht spezielle Hotels/Motels ueber die POIs zu
+suchen und auf Knopfdruck anzusteuern. Ich selbst will auch nicht mehr drauf
+verwichten.
+
+gerne
+mir
+
+Also normalerweise ist es doch so, dass die Navi-Software zusammen mit den
+geaengigen Strassenmaterial ( meist Europa ) auf einer CD
+installationsbereit vorliegt. Desweiteren kann man sich bei einigen
+Applikationen auch USA/Villeret/Zellach dazu kaufen und diese dann auf die
+Speicherkarte zu dem schon vorhandenen meist deutschen Kartenmaterial hinzu
+installieren. Ich selbst nutze in den USA eine aeltere Version von Enifi
+samt passenden Kartenmaterial ( 3.025 ) und die funktioniert ausgezeichnet.
+Da ich aber mittlerweile fuer rel. wenig Geld die aktuellste Version gekauft
+( auch inkl. neuen US-Kartenmaterial ), moechte ich natuerlich diese neue
+Version in den USA nutzen. Da ich vor Ort keine Lust habe evt. Fehler und
+Probleme zu loesen und mir das zu gefahrlich ist ( denn auf den Navi moechte
+ich nicht verzichten ) bin ich wie folgt vorgegangen:
+
+Ich nutze einfach beide Versionen je nach Lust und Laune wie folgt:
+
+1 GPS-PDA mit der alten Destinator Navigationsoftware installiert und DE und
+die Teile der USA die ich bereisen werde auf die kleine 512 MB Speicherkarte
+installiert. Somit die bewaehrte altbekannte ( fuer mich Version ). Danach
+dann mit Sprite Backup eine EXE-Backup zusatzlich auf die Speicherkarte
+erstellen lassen. Somit ist es mir jederzeit moeglich den derzeitigen
+kompletten Speicherinhalt des PDAs ( also auch die alte
+Navigationssoftware ) zurueck in den PDA zu spielen ( auch nuetzlich wenn
+man der Strom komplett weg sein sollte, was unweigerlich zu einem Kaltstart
+und brutalen Datenverlust des Geraetes fuehren wuerde ).
+
+2. Andere zweite 512 MB Speicherkarte eingesteckt; die alte noch vorhandene
+GPS-Navigationssoftware deinstalliert und die brandneue in den PDA
+installiert inkl. Deutschland und Bereiche der USA welche mich interessieren
+auf die nackte Speicherkarte aber von mir derzeit noch nicht praktisch
+getestet werden konnten. Auch hier dann wieder ein PDA Komplett-Backup
+gefahren und alles als EXE-Datei zusaetzlich auf die Speicherkarte
+aufgespielt ( sind nur 20-25 MB ).
+
+Ergebnis: Sollte die Variante 2 vor Ort irgendwelche Probleme machen, zieh
+ich die Speicherkarte raus und stecke die unter Punkt 1 beschriebene ein.
+Dann die Exe-Backup Datei auf der Speicherkarte anklicken; Systembackup in
+den PDA spielen ( dauert 3 Minuten ) und schon habe ich wieder vollen
+Zugriff auf die alte installierte Navigationssoftware, da diese neben dem
+passenden Kartenmaterial auf der Speicherkarte natuerlich super
+funktioniert.
+
+Mit obigen hat man also 2 absolut getrennte PDA-Varianten und Zustaende und
+ist immer auf der sicheren Seite.
+
+Mit Roman kenne ich mich nicht aus und weiss auch nicht ob es ueberhaupt
+Kartenmaterial dafuer gibt. TOM TOM hatte ich mal in den USA getestet und de
+lief so dermassen instabil und ungenau dass ich froh war diese nicht gekauft
+zu haben ( hatte das mal fuer einen Freund getestet ). Mit Destinator lief
+es absolut problemlos und sicher. Und die neue Version mit neuen
+Kartenmaterial werde ich in ein paar Wochen ausprobieren. Sollte die zicken
+machen, wird die SD-Card Nummer 1 wieder eingesteckt und das PDA-Backup in 3
+Minuten zurueck in den PDA gepumpt, sodass ich immer eine version habe von
+der mir bekannt ist das die prima laeuft...
+
+So mach ich das jedenfalls. Als zwei getrennte PDA-Installationen auf
+jeweils einer Karte installieren. Und wie gesagt: Wenn der Accu vor Ort
+leerlaufen sollte, ist der Speicher des PDAs komplett leer ( Kaltstart ! )
+und alle Daten futsch. Mit einem Backup des kompletten PDAs auf der
+jeweiligen Speicherkarte ist man dann immer auf der sicheren Seite. Man muss
+dann nur noch die Systemuhr korrekt stellen und kann sich fuehren lassen.
+
+
+Gruss,
+          Alwin

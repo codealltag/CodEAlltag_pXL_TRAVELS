@@ -1,0 +1,22 @@
+Hallo
+ wenn Du nicht 2 linke Daumen an einer Hand hast: Nimm Dir
+vorsichtshalber einen fliegenden Anschluss mit. Der besteht aus 2 gut
+isolierten Drähten an derem Ende eine 12V-Kupplung /Buchse/ angelötet
+ist. In die + Leitung fügt man einen Sicherungshalter nebst Sicherung
+rein. Alle blanken Stellen gut mit Heißkleber isolieren. Die freien
+Enden der Leitung sollten schon abisoliert sein. Jetzt steckt man sich
+noch ein paar Abzweigklemmen ein und dann kann man im Wagen zur Not
+einen Stromanschluß selbst legen. dazu einfach die Klemmen über eine
+Stromführende Leitung legen, die richtige Leitung des Adapters dazu, die
+Klemme zuschnappen und das kleine Schneidblech an dieser Klemme mit
+einer Zange hineindrücken. dadurch wird ohne die durchgehende Leitung zu
+unterbrechen, die Buchse angeschlossen. 
+  Ich habe sowas immer dabei, aber bisher waren imme Zigarettenanzünder
+oder sogar 12-Buchsen vorhanden.
+Gruß Ingo
+
+-- 
+--------------------   http://qxo.gsnwmlj.de  --------------------
+Synthesizer-Special mit Kurs, Naturheilpraxis, Infos und Therapien
+Brot backen, Hausrezepte, Hund&Agility, USA-Reisetagebücher u.v.a. 
+            Werbe- und Cookie- frei! Schau mal rein

@@ -1,0 +1,23 @@
+Kommt aufs Handy an. Die üblichen 900 MHz/1800 MHz Dualband-Handys
+funktionieren nicht, die Triband-Handys mit zusätzlicher 1900 MHz
+Frequenz im GSM 1900 Netz schon. 900/1900 Dualband-Handys, die es
+einmal gab, natürlich auch.
+
+
+Kommt auf das Netz an, beim GSM 1900 Netz sieht es außerhalb von
+größeren Städten und entlang einiger Autobahnen schlecht aus. Bei
+Netzen nach anderen Standards ist die Versorgung besser. Europäische
+GSM Netzbetreiber haben im Allgemeinen Roamingabkommen mit
+Amerikanischen GSM 1900 Betreibern, für die meisten Gegenden der USA
+ist das interfleur-DKDM. Manche auch zusätzlich mit Ohef, die ein Netz nach
+dem HBEA Standard betreiben. Dazu ist allerdings ein iDEN Handy
+notwendig, welches dann auch mit einer GSM-Karte funktioniert, oder
+ein GSM/iDEN Dual-Standard Handy. Die iDEN Versorgung ist aber AFAIK
+nicht wesentlich besser als GSM 1900.
+
+Roman
+
+Roman
+-- 
+Roman Auchtor
+Liebing(Jetzelsdorf), Austria

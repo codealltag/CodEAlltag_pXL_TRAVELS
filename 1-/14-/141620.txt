@@ -1,0 +1,9 @@
+Mein Ladegeraet fuer die AUTOfit MV 200 wird mit Sicherheit auch in den
+USA funktionieren, schliesslich steht da 110 - 230 V drauf.
+
+Bei dieser Diskussion hier geht es um ein separates Ladegeraet der Firma
+Bröking fuer Lithium-Ionen-Akkus. Auf diesem Ladegeraet steht halt 230 V
+drauf, und da stellt sich die Frage: Wie betreibe ich dies mit 110 V?
+-- 
+Urban Zeltner
+pmdssz@jop.sk

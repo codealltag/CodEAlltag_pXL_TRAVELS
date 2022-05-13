@@ -1,0 +1,8 @@
+In article <xgwe9oi6fm.3xz.ff@dmglw.kerioon.zu>,
+
+Doch, eine Gesellschaft mit dem Namen gibt es gar nicht.
+
+SCNR
+  db
+-- 
+---------------------------------------------------------------------------

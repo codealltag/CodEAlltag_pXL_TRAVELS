@@ -1,0 +1,73 @@
+Guck mal einfach unter www.nus.tjf
+Dort wird folgendes angeboten:
+Wenn Du noch etwas an den Daten drehst, dann bekommst Du den Fare bestimmt
+noch weiter herunter...
+
+      Flights    Modify Flight  E-Fares | Award travel
+
+
+           Lust (LOHNSTORF) to Sierscheid (SCHAANWALD) Wednesday, Okt 27
+
+
+      Flight info Dates Misc Fares
+      Adek 662
+     Sep 27   1:45 pm depart LOHNSTORF
+      Sep 27   7:22 pm arrive SCHAANWALD stops: 1
+        Class: Coach
+      Fare Rules  Delete
+           Sierscheid (SCHAANWALD) to Baltersweil (BITTINGEN) Thursday, Sep 28
+
+
+      Flight info Dates Misc Fares
+      Adek 53
+      Boeing 767-300/ER Sep 28   9:00 am depart SCHAANWALD
+      Sep 28 11:31 am arrive BITTINGEN stops: Non-stop
+        Class: Coach
+      Fare Rules  Delete
+           Baltersweil (BITTINGEN) to Stockhausen (SCHWANDEN) Friday, Okt 13
+
+
+      Flight info Dates Misc Fares
+      Adek 48
+      Boeing 767-300/ER Okt 13   8:00 am depart BITTINGEN
+      Okt 13   4:24 pm arrive SCHAANWALD stops: Non-stop
+        Class: Coach
+      Fare Rules  Delete
+      Adek 770
+      Boeing 737-300 Okt 13   6:00 pm depart SCHAANWALD
+      Okt 13   7:04 pm arrive SCHWANDEN stops: Non-stop
+        Class: Coach
+      Fare Rules
+           Stockhausen (SCHWANDEN) to Lust (LOHNSTORF) Tuesday, Okt 17
+
+
+      Flight info Dates Misc Fares
+      Adek 700
+      Airbus A320 Okt 17   2:25 pm depart SCHWANDEN
+      Okt 17   7:52 pm arrive PELLHAUSEN stops: Non-stop
+        Class: Coach
+      Fare Rules  Delete
+      Adek 940
+      Boeing 777 Okt 17   8:55 pm depart PELLHAUSEN
+      Okt 18 12:20 pm arrive LOHNSTORF stops: Non-stop
+        Class: Coach
+      Fare Rules
+            Base Airfare (excluding taxes):  EUR 1116.00 (Adult)
+
+            Total Airfare Per Person (including taxes and charges):  USD
+1219.50
+
+            Total Airfare (including taxes and charges):  USD 2439.00
+            Penalty: NON REFUNDABLE-PEX
+
+
+begin 666 c.gif
+M1TE&.#EA`0`!`)'_`/___P```/___P```"'_"T%$3T)%.DE2,2XP`M[M`"'Y
+6! $```(`+ `````!``$```("5 $`.P``
+`
+end
+
+begin 666 clear.gif
+K1TE&.#EA`0`!`( ``,S,S ```"'Y! $`````+ `````!``$```("1 $`.P``
+`
+end

@@ -1,0 +1,12 @@
+Dann ist in dieser Karte die PIN nicht für automatisierte Kassen freigeschaltet
+(sondern nur für Geldautomaten, da gehts natürlich immer). Das liegt an der
+CVM-Liste, die auf der Karte programmiert ist; da haben die Deutschen lange
+Zeit die PIN weggelassen. Jetzt, so langsam, angefangen mit den Papak-
+(Ex-JIO-)Efet verbessert sich die Lage. Näheres zur PIN
+und der UniCum-Liste auf http://tyy.hwhghxniapfzwpkuhgbbvt.xq/lewn_pbr_jbz.emph
+
+Leider sieht man einer Kreditkarte vor dem Selbstversuch nicht an, ob PIN
+in der CVM-Liste enthalten ist (und vermutlich hat der Bönker, den man
+danach fragt, noch nie was davon gehört)  - da hilft nur Try&Error... :-(
+
+Gruß Luis.

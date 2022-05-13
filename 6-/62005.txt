@@ -1,0 +1,5 @@
+Seit wann braucht man in der Einleitungszeile eine Mailadresse?
+Die ist da m.E. genauso überflüssig wie Message-ID, Datum, Uhrzeit,
+Wasserstand und Mondphase.
+
+... Ullrich

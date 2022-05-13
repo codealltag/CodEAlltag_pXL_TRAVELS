@@ -1,0 +1,10 @@
+Vielleicht solltest Du bei Japanischen Herstellern das Handbuch genauer 
+studieren. Da gibt es die Chance - da sie fuer den Weltmarkt produzieren und es 
+zu unhandlich ist viele verschiedene Modelle zu basteln - dass sich die 
+Netzteile automatisch an Spannungen zwischen 100V und 220V und Frequenzen 
+zwischen 50Hz und 60Hz anpassen.
+
+Leider habe ich auf die Schnelle auf den Seiten von WJR und Muka nix 
+gefunden. 
+
+Raphael.

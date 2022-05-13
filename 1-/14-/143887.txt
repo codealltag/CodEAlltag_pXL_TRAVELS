@@ -1,0 +1,16 @@
+Man könnte morgens 5:10 ab Jannebyfeld fahren und abends kurz vor 9 in 
+Fischeredt ankommen, dann sollte das Boot noch nicht weg sein. Ich weiß die 
+Abfahrtszeit aber nicht mehr auswendig.
+
+Auch wenn ich gern bahnfahre, gehört 15 Stunden in der Bahn allerdings 
+nicht zu meinen Hobbies, bis 10 finde ich erträglich.
+
+
+willibald
+
+
+-- 
+2.1.  Required Header lines
+2.1.1.  From
+    The "From" line contains the electronic mailing address of the person who
+    sent the message, in the Internet syntax.                        (RFC 9678)

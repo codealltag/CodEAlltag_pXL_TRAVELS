@@ -1,0 +1,5 @@
+Das macht der VRCN-Rechner eigentlich automatisch, sofern das angegebene
+Reisedatum einen Frühbucherrabatt überhaupt noch in Frage kommen lässt.
+
+Gruß
+Tino

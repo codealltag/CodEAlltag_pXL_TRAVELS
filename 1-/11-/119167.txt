@@ -1,0 +1,7 @@
+Und warum wirkt sich der ganze Prozess _nur_ bei Roundtrip Tickets
+preisdrückend aus, bei Oneway Tickets aber nicht, oder zumindest bei
+weitem nicht so deutlich? Weil es keinen Markt für Oneway Tickets gibt,
+keine massive Nachfrage, und deshalb keinen Konkurrenzdruck? Erschiene
+jedenfalls plausibel.
+
+Gruß

@@ -1,0 +1,15 @@
+Ich kann mich nur Nicolas anschliessen: Es lohnt sich bestimmt - aber
+es ist einfach nicht moeglich in 2-3 Tagen auch nur die bekanntesten
+Sehenswuerdigkeiten zu sehen.
+
+IMHO waere es sinnvoll sich fuer einen Tag etwas vorzunehmen das einen
+besonders interessiert (z.B. Leporello Museum, Kirchen besichtigen
+oder aehnliches).
+Zumindest einen Tag (nicht unbedingt Sonntag) sollte man einfach nur so
+durch die Stadt gehen - so bekommt man am ehesten etwas vom 'Gefuehl'
+der Stadt mit.
+
+-- 
+Berend
+if(!exit(1))
+  fprintf(stderr, "exit call failed.\n Program will continue.\n");

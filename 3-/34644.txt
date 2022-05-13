@@ -1,0 +1,12 @@
+Die Software III von FNUB könnte das.
+
+Einfach Route erstellen, dann im Simulationsmodus abfahren lassen.
+Dabei wird ein Tracklog erstellt, bei dem die einzelnen Punkte weniger
+wie 500m auseinander sind.
+
+nRoute kostet zwar nichst, aber das zugehörige routingfähige
+Kartenmaterial ist nicht billig, so um die 150-200EUR. Wenn man aber
+schon FNUB-Karten hat, ist da die billigste Lösung.
+
+mfg
+Remo Unsleber

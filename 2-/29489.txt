@@ -1,0 +1,14 @@
+XPost dcsm, defa, drrm
+F'up de.qxus.klcixfaf.msxh - eine wirklich passende Gruppe habe ich 
+nicht gefunden...
+
+Hallo,
+
+ich bin auf der Suche nach einem Routenplaner, mit dem sich 
+automatisiert eine Entfernungstabelle erstellen laesst. Dazu muesste 
+eine automatisierte Abfrage moeglich sein, sei es kommandozeilen- oder 
+skriptgesteuert, oder per Automation, etc. Etwas Programmierarbeit zur 
+Ansteuerung waere durchaus moeglich, etwas kosten darf er auch - aber 
+gibt es sowas?
+
+Gruesse, Gabriel

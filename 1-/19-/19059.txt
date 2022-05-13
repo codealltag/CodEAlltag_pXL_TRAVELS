@@ -1,0 +1,23 @@
+Wenn es berechtigte Zweifel an deiner Absicht, das Land innerhalb der 
+vorgesehenen Frist wieder zu verlassen, gibt, wird man schon prüfen, ob 
+es zu dem Stück Papier auch wirklich eine Buchung gibt. Blöd sind die ja 
+auch nicht.
+
+
+Es ist auf jeden Fall mittels Filekey (das sind meist jene 6 
+alphanumerischen Zeichen, die auch unter "Buchungscode" u.�. Begriffen 
+gehandelt werden) bei Zugriff auf das passende Reservierungssystem die 
+Buchung aufzurufen und ggf auch zu sehen, ob ein (E-)Ticket dazu 
+ausgestellt wurde. Aber wozu der Zauber: (Fast[*]) Voll 
+erstattungsfähige Tickets (selbst nach Abflug des ursprünglich 
+reservierten Fluges) gibt es auch heutzutage noch. Muss man halt ein 
+bischen Geld unverzinst bei einer Fluggesellschaft deponieren.
+
+
+Ne, eher nicht. So einfach gehts nicht...
+
+Gruß,
+Ingmar
+
+[*] solche Erfindungen wie "ticket service charge" sind üblicherweise 
+nicht r�ckerstattbar, betragen im Idealfall aber nur wenige Euro.

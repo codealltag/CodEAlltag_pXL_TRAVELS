@@ -1,0 +1,108 @@
+Also ob das so einfach ist, auf dem PC oder Automat ein Bild herzustellen, 
+dass dann auf dem Chip gespeichert wird, (NICHT als Photo das auch noch im 
+Pass ist)  bezweifle ich leicht.
+
+Da die Anforderung für den biometrischen Pass, europaweit, nicht nur EU, 
+auch Schweiz und Efta, gleich sind, habe ich einmal die Anleitung meiner 
+Gemeinde kopiert.
+
+Bitte keine Gebühren-Diskussion
+
+
+thorsten
+
+
+                  Biometrischer Reisepass - Pass 2006
+
+
+            Der biometrische Reisepass kann seit dem 17. Juni 2006 bei 
+der Einwohnerkontrolle beantragt werden. Dieser Pass kann parallel zum 
+bereits bestehenden Reisepass 2003 bestellt werden. Personen, welche keinen 
+Reisepass 2003, ausgestellt vor dem 6. August 2006, besitzen, benötigen 
+einen Reisepass 2003 mit Visum für Reisen in- oder durch die USA oder einen 
+biometrischen Reisepass.
+
+            Allgemeines:
+            Die Nutzung elektronisch gespeicherter biometrischer Daten zur 
+Überprüfung der Identität von Personen gewinnt zunehmend an Bedeutung. 
+Weltweit wird an der Einführung von Pässen mit elektronisch gespeicherten 
+und lesbaren Daten gearbeitet - auch in der Schweiz: mit dem seit dem 
+17.06.2006 gestarteten Pilotprojekt wird ein solcher Reisepass eingeführt. 
+Der Pass der neuen Generation - oft auch als biometrischer Pass bezeichnet - 
+trägt die Kurzbezeichnung Pass 2006.
+
+            Der biometrische Reisepass enthält einen Chip, auf dem alle 
+bereits heut im Pass enthaltenen Angaben gespeichert sind, also auch das 
+Passfoto. Die Integration von elektronisch lesbaren Daten in den Pass hat 
+positive Effekte für die Sicherheit und Kundenfreundlichkeit: 
+Passfälschungen und das Reisen mit einem fremden Pass werden erschwert, die 
+Überprüfung der Identit von Reisenden kann beschleunigt werden.
+
+
+                  Datenschutz
+
+
+            Die auf dem Chip gespeicherten Daten sind durch ein gesichertes 
+Zugriffsverfahren und elektronische Signaturen geschützt. Sie werden auf dem 
+Chip so abgelegt, dass sie nach der Herstellung des Passes nicht mehr 
+verändert werden können.
+
+            Die Datenübertragung zwischen Chip und Lesegerät erfolgt 
+verschlüsselt. Der Chip gibt die Daten überhaupt erst dann frei, wenn das 
+Lesegerät einen passenden "Schlüssel" vorweist. Dieser wird aus den 
+Informationen auf der maschinenlesbaren Zone (MRZ) im Passinnern errechnet. 
+Zum Auslesen der JWAR muss der Pass geöffnet werden. Dieses Verfahren 
+verhindert, dass Unberechtigte die Daten aus dem geschlossenen Pass auslesen 
+können, etwa aus der Ferne oder gar im Vorbeigehen.
+
+            In naher Zukunft sollen Pässe hergestellt werden, die zusätzlich 
+auch Fingerabdrücke enthalten. Die Massnahmen zum Datenschutz werden dann 
+noch weiter gehen: Mittels
+            eines elektronischen Zertifikats wird die Schweiz gezielt 
+steuern, welchen Stellen in welchen Ländern sie Zugriff auf die im Pass 
+gespeichertenFingerabdr�cke gewährt - oder eben nicht.
+
+
+                  Der Chip, die Daten und ihre Verwendung
+
+
+            Der biometrische Reisepass (Pass 06) unterscheidet sich 
+äusserlich kaum vom bisherigen Pass 03. Ein international anerkanntes Symbol 
+für elektronisch lesbare Daten auf der Einband-Vorderseite kennzeichnet ihn. 
+Zudem ist der Einband etwas dicker und härter als beim Pass 03. Grund: In 
+ihm ist ein hauchdünner Chip mit Antenne untergebracht. Diese Elemente 
+verlangen einen Umgang, der noch sorgfältiger ist als jener mit bisherigen 
+Pass-Modellen.
+
+            Auf dem Chip sind die Daten gespeichert, die im Pass auch 
+aufgedruckt sind. Dazu gehört auch ein Passfoto in digitaler Form, das mit 
+demjenigen identisch ist, das im Pass abgebildet ist. Diese Daten können von 
+Lesegeräten aus kurzer Distanz gelesen werden, wenn das Lesegerät nach der 
+Basic Access Control den nötigen Schlüssel besitzt.
+
+            Möglich wird auf diese Weise schliesslich ein elektronischer 
+Vergleich zwischen dem gespeicherten Gesichtsbild und dem Live-Bild der 
+Person, die den Pass
+            vorlegt, zum Beispiel beim Grenzübertritt. Eine Verwendung der 
+Daten im Rahmen von polizeilichen Ermittlungen, etwa zu Fahndungszwecken, 
+ist verboten.
+
+
+                  Wie erhalten Sie einen biometrischen Reisepass?
+
+
+              1.. Beantragen Sie den Reisepass bei Ihrer Wohnsitzgemeinde. 
+Achten Sie auf die entsprechenden Unterlagen, welche Sie mitnehmen müssen. 
+Hier klicken. Bei der Einwohnerkontrolle bezahlen Sie einen ersten Teil der 
+Passgeb�hr: Fr. 205.00.
+              2.. Gehen Sie in ein Biometrie-Erfassungszentrum - und zwar 
+frühestens fünf, spätestens 30 Arbeitstage nach Einreichung des Antrages. Im 
+Erfassungszentrum werden Sie fotografiert, und Sie bezahlen den Rest der 
+Gebühr: Fr. 50.00.
+              3.. Nach max. 30 Arbeitstagen wird Ihnen der Pass zugestellt.
+            Biometrie-Erfassungszentren:
+            In diesen Zentren können Sie die Daten einsehen, die auf dem 
+Chip gespeichert sind, und so Ihr Recht auf Dateneinsicht ausüben. 
+Gleichzeit können Sie sich, zum Beispiel vor Antritt einer Reise, am 
+Biometrie-Checkpoint versichern, dass Ihr Pass 2006 einwandfrei 
+funktioniert.

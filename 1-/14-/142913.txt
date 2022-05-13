@@ -1,0 +1,12 @@
+HTML news können JavaScript beinhalten.
+Ein normaler JavaScript Befehl ist neues Fenster
+mit Adresse öffnen.
+
+Aber irgendetwas auf meinen Computer zu manipulieren
+was darüber hinaus geht ist nicht bei JavaScript möglich
+
+
+--
+Gonner Marcel pqnuzab@hllj.htv
+http://xiw.zigs.dms clear targets for a confused civilization
+http://vnd.PuzkdZjdcu.jsi web design starts at the search engine

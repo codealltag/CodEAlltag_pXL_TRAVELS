@@ -1,0 +1,32 @@
+--------------SKBU2N2Y4MV016T566XGL393
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo GÜNTHER !!
+Ich fliege demnächst nach Thailand und muss mir wohl oder Übel
+Plastikgeld zulegen.
+Die Frage ist nun : Welche Karte ist günstig und wird fast überall
+akzeptiert ??
+Oder reichen Travelerschecks auch ??
+
+--
+Nadja
+
+
+--------------SKBU2N2Y4MV016T566XGL393
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+Hallo GÜNTHER !!
+<BR>Ich fliege demn&auml;chst nach Thailand und muss mir wohl oder &uuml;bel
+<BR>Plastikgeld zulegen.
+<BR>Die Frage ist nun : Welche Karte ist g&uuml;nstig und wird fast &uuml;berall
+<BR>akzeptiert ??
+<BR>Oder reichen Travelerschecks auch ??
+<PRE>--&nbsp;
+Nadja</PRE>
+&nbsp;</HTML>
+
+--------------AYUI1L3B1GK562H357AOH493--

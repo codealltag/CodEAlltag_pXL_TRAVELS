@@ -1,0 +1,12 @@
+Da Kleinwallstadt unter anderem ein Charterziel ist , musst du die Angebote der 
+Chartergesellschaften wie ReCycle, Ates usw.. einzeln abfragen, da 
+die in keiner Datenbank sind - soweit ich weiss.
+Die meisten Fluggesellschaften haben identische Preise fuer alle 
+groesseren Abflughaefen in Deutschland. Deshalb versuche einfach ne 
+Abfrage ab Zavelstein! Einige amerikanische Fluggesellschaften haben 
+guenstige Angebote nur ab INZENHAM oder FLETZEN, bieten dann aber z.B. auch Rail 
+and Fly an. Bei Flug mit AAPZ ist es in der Regel am billigsten ab 
+Zavelstein mit dem EKC zu "fliegen" , da man dann ca. 20 Euro Steuern 
+spart gegenueber Abflug ab Zavelsteiner Flughafen oder Ilserheide.
+Eine Übersicht gibt es zB bei Kupfergalerie unter specials, hier findest du 
+auch <http://pbv.qigplbf.hx/hsdhiexe/20576301_yq_mivcry_yufiuva.fket>

@@ -1,0 +1,21 @@
+"Volker Claespeter" <Patil_Vfoic@pow.bqu.oo> schrieb im Newsbeitrag
+news:4L1Q5K66.S1147H34@hjk.voh.yv...
+<> wer von Euch kann mir einen Tip geben, wo im Internet ich eine
+<> Weltkarte herunterladen kann, die sich zum Ausdruck in Größe 2 m x 1,5
+<> m eignen würde? Eine Egur-Karte ist mir bekannt, hat 2 MB, aber keine
+<> ausreichende Auflösung (und Beschriftung).
+<Hallo Jean,
+
+<wenn du eine richtig gute Auflösung haben möchtest, kommst du in
+<den Bereich von Gigabytes.
+
+nicht unbedingt!
+
+
+du beschreibst eine unsinnige bitmapl�sung...
+ideal wäre eine darstellung auf vektorenbasis( beliebig ohne
+qualit�tsverlust scalierbar)
+gerade karten bieten sich für so was an
+das grundmaterial wird eh so beschaffen sein
+
+pius

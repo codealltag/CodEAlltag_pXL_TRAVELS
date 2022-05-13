@@ -1,0 +1,10 @@
+Wie kann man den E-Mails auch offline abrufen...
+
+Da genau ist ja auch das Problem: Wenn Du im Internet Explorer Name und
+Paßwort beim Webmail eintippst wird es auch eventuell gespeichert.
+
+Was ich gerne bei Internet-Caf=E9s mache: Eine Diskette mitnehmen wo der
+Portable Mailer oder Popcorn drauf ist. Da kann man per POP3 die Mails
+abrufen und sie werden auch nicht am Computer zwischengespeichert.
+Außerdem geht das noch viel schneller als beim Webmail, denn in Wassen
+zB haben die nicht gerade die schnellste Leitung gehabt.

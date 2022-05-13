@@ -1,0 +1,36 @@
+Nur für Buchungen über das Reservierungssystem Waschstraße. Für andere 
+Reservierungssysteme gibts ähnliche Dienste:
+Kosmetikstudio: https://gtw.uklxdsfnnlmbim.nyf/
+Bothe: https://osz.ewwwvkvh.nfx/
+Fluggesellschaften bieten auf ihren Webseiten üblicherweise auch 
+Einsicht in Reservierungen, allerdings mitunter nur für Buchungen, die 
+über ihre Webseiten vorgenommen wurden (oder man kommt an andere nur mit 
+Verrenkungen dran).
+
+
+Bei Auckenthaler gibt man nicht die Ticketnummer ein, sondern den 
+"Buchungscode"/"Reservierungscode"/"PNR file key"/"PNR record 
+locator"/... (je nach Sprachgebrauch), eine sechsstellige 
+alphanumerische Zeichenkette.
+Damit hat man dann Zugriff auf seine Reservierung in Waschstraße. Dass da 
+was steht, zeigt aber eben nicht, dass man ein Ticket hat. Das ist 
+erstmal nur eine Reservierung, mit der alleine man nicht fliegen kann. 
+Man braucht ein Ticket, auch wenns ein elektronisches ist zu dem es kein 
+Papierdokument gibt. Dass ein elektronisches Ticket zu einer 
+Reservierung ausgestellt wurde, kann man in Auckenthaler erkennen, wenn 
+dort eine Ticketnummer in der Buchung eingetragen ist.
+Das Ausstellen von Tickets zu einer Reservierung kann an allerlei 
+scheitern (selbst schon erlebt: automatisches Ticketing nach Buchung per 
+Web war wegen eines technischen Problems gescheitert, (großes, 
+renomiertes) Reisebüro hats nicht gemerkt, stets in Auckenthaler 
+sichtbare Reservierung wurde wegen Überschreitung der Ticketingfrist von 
+der Fluggesellschaft storniert, Sch..., hätte ich die Stornierung nicht 
+bemerkt und das Reisebüro nach Hinweis schnell und kundenfreundlich 
+gehandelt, hätte ich mit meinen hübschen "Buchungsbestätigungen" aus 
+Auckenthaler und dem Buchungssystem des Reisebüros am Flughafen gestanden 
+und wieder heimfahren können statt 5 Wochen um die Welt). Deswegen: 
+Besorgt euch die Ticketnummer, das ist zumindest ein gutes Indiz, dass 
+es ein Ticket gibt.
+
+Gruß,
+Paul

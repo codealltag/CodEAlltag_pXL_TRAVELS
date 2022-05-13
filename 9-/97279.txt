@@ -1,0 +1,15 @@
+Hallo Kurt,
+
+das Programm ersetzt natürlich kein vollwertiges Navigationssystem, jedoch
+wird nicht nur die aktuelle Position angezeigt, sondern ebenfalls die Karte
+ständig weitergeführt. Die vorberechnete Strecke ist blau unterlegt, so dass
+man lediglich dieser folgen muß. Hat zwar seine Schwächen (große
+Autobahnkreuze) jedoch zu dem Preis unschlagbar. Und wenn der Beifahrer
+diese Karte im Auge behält, hat man sogar eine Sprachausgabe :-)
+
+Bei angeschlossenem Handy können sogar die aktuellen Staus abgerufen und in
+der Karte angegeigt werden.
+
+
+Gruß
+Ronny

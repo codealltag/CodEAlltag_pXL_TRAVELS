@@ -1,0 +1,10 @@
+Ob diese Statistiken so richtig weiterhelfen habe ich kleine Zweifel,
+da jedes Hotel Zimmer auf der Sonnen- und Schattenseite hat.
+
+Wer den schönen Blick auf Meer hat schreibt schön, die auf der
+Rückseite wohnen schreiben: zu laute Müllabfuhr....
+Ein Hotel was vor 3 Jahren soooo gut war, kann heute einen anderen
+Betreiber haben oder wegen Instandhaltungsr�ckstand im Nordflügel eine
+Enttäuschung sein. Wie soll man das in einer Datenbank abbilden?
+
+Gruß Fred

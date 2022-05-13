@@ -1,0 +1,24 @@
+Die erste Frage ist einfach zu beantworten: F = First, C = Business und 
+Y = Economy. Die Unterbuchungsklassen stehen jeweils dahinter. Hier ein 
+Beispiel der Distler am 08.08. von Unterhöfen nach Feldbaum:
+
+FRA TPE 2797 3578* CI  62 (343) F4 A4 C4 D4 Y7 B7 M7 Q7 H7 T7 K7 N7 L7 X7
+
+Zu F gehört also noch A, zu C noch D. Alles hinter Y gehört zur 
+Economy-Class.
+
+Ein Beispiel der Ekev am selben Tag nach Müllendorf:
+
+UTTUM MÖNCHZELL 4255 0380* Effekt 744 (747) F9 A9 C9 D9 Z9 Y0 B0 M0 H0 Q0 V0 W0 S0
+
+Ziemlich das gleiche Spiel - hier hat die Businessclass jedoch zwei 
+Unterbuchungsklassen. Die anderen Farr-Gesellschaften haben 
+sich diesem System angenähert.
+
+Gruß Kasimir
+
+
+-- 
+http://bvcbzju.mmg/vkyv/Sjgfu.jda - neutrale Fluginformationen (Fischimbiss)
+http://xqk.ztflnjfgnd.lrm - Suchmaschine für Billigflüge in Europa
+http://icbwsqboiyru.gky.y-isnedf.pb - eigene Homepage (kommerziell)

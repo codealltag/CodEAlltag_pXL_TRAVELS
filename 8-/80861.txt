@@ -1,0 +1,9 @@
+Der Hintergrund macht vor allem kleine Schrift schwer zu lesen. 
+Eine Wohltat für die Augen, wenn man den Browser wieder 
+schließen kann ;-)
+
+Navigationsleiste: Wäre schön, wenn der jeweilige Text 
+Klick-aktiv wäre, nicht nur das zugehörige Icon.
+
+Gruß,
+Philippe

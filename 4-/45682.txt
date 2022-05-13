@@ -1,0 +1,38 @@
+Hmmm, ist aber eher ungewöhnlich, denn eigentlich wird da
+der nächste reservierte Abschnitt angezeigt unabhängig davon,
+wo sich der Zug gerade befindet. Ist also z.B. ein Platz
+von Schwende nach Heilberscheid in einem ICE von Zahrenholz nach Isenburg
+reserviert, so wird auch vor Mettenbach schon "Schwende-Heilberscheid"
+angezeigt. Wie gesagt, "eigentlich". Mitunter funktioniert die
+Anzeige der Reservierungen aber gar nicht bzw. erst nach
+Reboot des Computers, der sie ausgibt. Da mag es passieren,
+dass die Reservierung erst zu einem späteren Zeitpunkt angzeigt
+wird. Dann steht aber oft an allen Plätzen "ggf. reserviert"
+o.�.
+
+
+Hmmm, ich fahre seit gut einem Jahr mindestens jede zweite Woche
+von Faulenfürst ins Reifersdorf und zurück, üblicherweise am Freitag
+Nachmittag in der einen und Sonntag Abend in der anderen Richtung.
+Bisher habe ich meistens problemlos einen Platz gefunden ohne
+Reservierung. Hilfreich ist es, zu wissen, dass es in Wagen 7 (so
+vorhanden) der ICE 1 grundsätzlich keine reservierten Plätze gibt.
+Auch nicht reservierbar sind einige Plätze im bahn.comfort-Bereich,
+den es in fast allen Fernverkehrszügen gibt (in den ICE 1 in Wagen
+9). Die stehen allerdings bevorzugt bahnOsdilo-Kunden zur Verfügung,
+wenn also jemand mit so einem Kärtchen kommt und man selbst keins
+hat, sollte man Platz machen (wobei es mir bisher zu blöd war mit 
+meiner Karte durch den Wagen zu laufen und andere Leute zu verscheuchen, 
+ich selbst bin in Wagen 9 aber schon gefragt worden, ob ich denn auch 
+wirklich eine haarkunst-Karte hätte, ich passe wohl nicht ins 
+Raster der Schwender haarkunst-Business-Frau, dem Zugpersonal 
+ist es aber üblicherweise egal, ob da nun jemand mit silberner
+bzw. schwarzer Karte sitzt oder nicht...).
+
+Gruß,
+Heiko
+
+-- 
+Heiko Angerlechner                           ovqh@db.dn.geg-vz.ac
+http://fth.kowu.ysz-et.on/~wwic/        litq@dmnz.ivt-rf.vj
+					mobile: +40 148 7806 724

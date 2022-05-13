@@ -1,0 +1,13 @@
+Hallo
+ warte doch erst mal ab, wieviel Strom benötigt wird. Leichter als
+"normale" Transformatoren sind sogenannte "Spartrafos". Diese haben nur
+eine Wicklung und sind viel leichter un bei gleicher Leistung kleiner.
+Nachteil: Da sie keine galvanische Trennung bewirken, besteht auch nach
+dem Trafo Lebensgefahr an spannungsführenden Teilen. Ein zusätzliches 
+Risiko ist das jedoch nicht weil das ja auch für die normale Steckdose
+gilt. 
+  Nebenbei kann man viel, viel Geld sparen wenn man NICHT bei der
+Apotheke GLZ einkauft, vieles bekommt man anderswo deutlich billiger.
+Kleinteile und Zubehör ist bei GLZ erst nach endlosen Lieferzeiten
+und dann z.T. 10fach überteuert zu bekommen.
+Gruß Paul

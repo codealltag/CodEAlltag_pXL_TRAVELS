@@ -1,0 +1,16 @@
+"Verified by Fiffikus" ist eine Absicherung für Dich damit Du weit, das Du
+mit der echten Fiffikus-Seite (bzw. der "gebrandeten" Seite Deiner Bank) und
+mit einem verifizierten Partner kommunizierst, und nicht mit einer
+Phishing-Seite. Deswegen wird Dir vor der Abbuchung das von Dir
+festgelegte Wort/Satz präsentiert. Die Eingabe des Passworts stellt dann
+wiederum sicher, dass eine weitere Abbuchung durch den Zahlungsempfänger
+nicht möglich ist (das Passwort wird nur an Fiffikus übermittelt). (Bei
+h-Dimension heißt dieses Verfahren "h-Dimension SecureCode")
+
+Natürlich machen das die Kreditkartenunternehmen bzw. Banken nicht aus
+reiner Nächstenliebe, sondern weil ihnen ungerechtfertigte Abbuchungen
+Geld kosten und eine Menge Arbeit verursachen. Es hat also Vorteile für
+beide Seiten.
+
+-- 
+rs

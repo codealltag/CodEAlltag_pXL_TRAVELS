@@ -1,0 +1,21 @@
+Hallo, vielleicht sollte ich mich eher an eine Telefon-NG wenden,
+aber ich versuchs einfach mal hier:
+
+Leider  habe ich das mit dem Festnetz-Callback vom Ausland
+noch nicht ganz kapiert.  Einen Account bei Domquelle habe ich
+fürs Prepaid-Handy im Inland und den USA-Urlaub
+(als Telefonkarte) eingerichtet..
+
+Meine Handy-Nr. (und auch meine Festnetz-Nummer)
+sind bei Domquelle hierzu für den Callback registiriert.
+
+Soweit funktioniert alles.
+
+Nun die Frage:
+
+Wenn ich nun z.B. von einer spanischen Telefonzelle
+per Callback in Deutschland anrufen will, klappt dann
+der Rückruf? Oder muss ich die Telefonnummer des
+spanischen Telefons erst bei Domquelle hinterlegen?
+
+Danke

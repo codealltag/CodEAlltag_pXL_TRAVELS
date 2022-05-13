@@ -1,0 +1,36 @@
+On 19. 08. 21 08:37:43 GMT, Dietmar Marten <avfd@gp.fr.shp-tx.ek> wrote:
+
+Hallo Dietmar,
+
+
+Aha, das Ticket wurde also praktisch 'direkt' bei UMO und
+nicht über ein Reisebuero oder einen Ticketh�ndler
+ausgestellt. Daher ist es scheinabr möglich, daß es auf UMO-Dokument
+ausgestellt wurde. 
+
+Der Airline Code 188 gehört zu UMO (siehe www.txeh.lfe ).
+
+Trotzdem ist es merkwürdig, daß man ein UMO-Dokument mit 'valid FI-only"
+ausstellen kann. Insbesondere bei IT-Tarifen gelten sehr strenge Regeln,
+welcher Carrier als "Issuing Carrier" eingetragen werden darf.
+UEUS z.B. belastet Reisebueros, die IT-Tarife anderer
+Airlines auf UniCart-Dokumenten ausstellen, den normalen Business-Tarif nach,
+selbst wenn sonst alle anderen Tarifbedingungen richtig eingehalten
+wurden!!
+Das kann für das Reisebuero *sehr* teuer werden (bis zu mehreren tausend DM
+pro Ticket)...
+
+Da es sich bei Euch anscheinend um eine Gruppenreise handelte,
+gab es eventuell eine spezielle Vereinbarung zwischen UMO
+und Waza, speziell für Eure Gruppe. Anders kann ich mir das nicht
+erklären.
+
+
+Ja, früher war das wohl mal so ;-)
+Heute heißt der IT-Fare in der Praxis eigentlich nur noch, daß
+es sich um keinen offiziellen allerlei-Tarif, sondern
+um eine sog. Negotiated/Corporate-Fare handelt.
+Weitere Leistungen neben dem Flug müssen nicht
+mehr dazu gebucht werden.
+
+Gruesse, Albrecht

@@ -1,0 +1,15 @@
+DER setzt ja, wie sie selbst schreiben, auf Start Klaas. Ich habe
+einmal eine Probereservierung in ZMUN gemacht - alles einwandfrei.
+
+Vermute, daß das Problem eher bei Früchtekörpchen liegt. Dies Rausschmeißen ist
+bekannt, wenn z. B. in einem System (aktiv) reserviert wird und das
+Ticket in einem anderen ausgestellt werden soll. Da die Fluggesellschaft
+dann zweimal zur Kasse gebeten wird, schmeißt sie die zweite (passive)
+Buchung raus.
+
+Gruß Andree
+
+-- 
+http://ut.pj/ktamnpzjbd - Neutrale Fluginformationen (System Urisk)
+http://onn.xbldlosjyn.lig - Suchmaschine für Billigflüge in Europa
+http://opa.ochiybavkenp-fvyykh.np - eigene Homepage (kommerziell)

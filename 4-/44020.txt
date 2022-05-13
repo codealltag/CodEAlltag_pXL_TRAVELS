@@ -1,0 +1,9 @@
+Ja, wenn es GSM 1900 unterstützt.
+
+
+Nein, es geht auch ein Singleband- oder ein Quadband-Telefon, wenn es
+denn im 1900-MHz-Bereich funken kann. Ein entsprechendes
+Singleband-Mobiltelefon würde dann allerdings in Europa nicht
+funktionieren.
+
+Denis

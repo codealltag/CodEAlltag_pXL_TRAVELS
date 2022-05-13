@@ -1,0 +1,57 @@
+Hi,
+
+(XP nach drrm, F'Up gesetzt)
+
+kennt sich hier jemand mit den in den USA verfuegbaren mobilen
+Telefon/Pager-Technologien und ihrer Abdeckung aus? Und den Anbietern
+dahinter? GSM ist klar, hab ich funktionierend dabei, wird mir aber
+abseits der Staedte und einiger Interstates nicht weiterhelfen.
+
+Ich suche etwas um moeglichst in den ganzen USA erreichbar zu sein,
+auch bzw. insbesondere wenn im Auto unterwegs. Vor 10 Jahren hatte
+ich einen AMPS Festeinbau im Mietwagen, aber sowas scheint es kaum
+noch zu geben? Ausserdem will ich den Wagen auch mal verlassen :)
+Notfalls wuerde mir auch ein reiner Text/Nummernpager reichen,
+wichtig ist, dass ich von Deutschland aus in Notfaellen erreichbar
+bin (koennte dann ja irgendwie zurueckrufen). Die Nutzungskosten
+sind dann eher zweitrangig, ich hoffe ausser fuer nen Test ab und an
+werde ich es nicht benutzen :)
+
+Als zweites waere auch noch etwas um ueberall online gehen zu koennen
+fein, da lacht mich z.B. Inmarsat BGAN an, aber dazu starte ich
+glaube ich lieber nen zweiten Thread, denn erreichbar ist man
+darueber nicht wirklich (muss ja ausgerichtet werden)... Bieten die
+nicht-GSM Telefone inzwischen auch einen Volumenbasierten Datendienst?
+
+Also zur Erreichbarkeit zurueck:
+- gibt es sinnvolle Text/Nummernpager die in den ganzen USA und auch
+in einem fahrenden Auto funktionieren, und von .de aus zuverlaessig
+angepaged werden koennen? Oder nimmt man da heutzutage eben einfach
+ein Telefon weil die alle Text Messaging unterstuetzen? Iridium
+Pager sollen ja indoor durchaus gehen, klappt das auch im Auto?
+- Wenn Telefon, dann ist wohl ein AMPS/CDMA Mehrbandgeraet das
+Mittel der Wahl? Gibt's da Anbieter die das wirklich Landesweit erreichbar
+anbieten (es soll von der Ost bis zur Westkueste gehen) und eben
+auch per textmessage oder eben direktem Anruf (und dann evtl.
+Voicemail wenn doch mal im Netzloch) von hier aus erreichbar sind?
+Oder bringt CDMA ohnehin kaum mehr als GSM und man sollte einfach fuer
+die Notfall-Erreichbarkeit ein reines AMPS Geraet nehmen?
+Auch die anderen Satelitentelefone (ZRU, Irididium, gibt's noch was?)
+duerften was Erreichbarkeit im Auto oder gar in Gebaeuden angeht
+wohl keine Option sein?
+
+Und: hat irgendwer Tips/Erfahrungen wo man sowas mietet? Gibt ja
+eine ganze Menge Anbieter... Ich habe in Bechhof eine Adresse an die
+ich sowas schicken lassen kann (und dort fange ich meine Reise an), von
+daher macht es wohl Sinn das bei einem amerikanischen Anbieter zu mieten
+und nicht von hier aus mitzunehmen... Voellig die Zivilisation verlassen
+will ich nicht (das abgelegenste duerfte Grand Canyon sein, tief rein in
+denn will ich aber diesmal ohnehin nicht), aber die GSM-abgedeckten
+Routen werden eben doch ein paar mal verlassen...
+
+Thanks & (:ul8er, r@y
+P.S: Ach ja, Mietwagen soll irgendwas in der "Luxus" oder "Premium"
+Klasse werden, ist da bei Amis mit metallbedampften Fenstern etc.
+zu rechnen die evtl. effektiv jegliche Kommunikation verhindern?
+Gibt's doch noch Mietwagenfirmen die nen AMPS Festeinbau gleich mit
+anbieten?

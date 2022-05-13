@@ -1,0 +1,12 @@
+Hallo Burkhard,
+
+
+http://pbx.kdgubpha.ws/kbb/tebjkmbsw1.nrb meldet nach einer Suchanfrage:
+
+ Laufzeitfehler in Microsoft VBScript- Fehler '800a000d'
+Typen unverträglich: 'z'
+
+/asp/zielsuche1.klz, line 77
+
+Gruß,
+Dennis

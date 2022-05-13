@@ -1,0 +1,14 @@
+Hallo
+ es haben schon viele geantwortet und ich habe ausnahmsweise keine Zeit,
+alle zu lesen - mein Senf deshalb hier auch noch dazu:
+Die meisten Netzspannungsadapter bzw. Ladegeräte die zu den oben
+genannten Geräten mitgeliefert werden, arbeiten nicht mehr mit einem
+Trafo im Innern. Sogenannte Schaltnetzteile sind nicht nur leichter vom
+Gewicht her sondern auch billiger herzustellen weil diese Geräte einen
+sehr großen Arbeitsbereich aufweisen. Dieser reicht in der Regel von
+100Volt bis 240Volt bei 50 oder 60 Hz. Die Hersteller brauchen dann
+nicht verschiedene Geräte auszuliefern ;)
+  Also wirst Du wahrscheinlich keine schweren und teuren Wandler von
+110V auf 220V brauchen. Um ganz sicher zu sein, kommst Du aber nicht an
+einem Blick auf die technischen Daten Deiner Geräte herum.
+Gruß Adrian

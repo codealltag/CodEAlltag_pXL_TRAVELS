@@ -1,0 +1,10 @@
+Strecke Ihrer Wahl : Schwarzenbruck HBF - Junkernhees
+   	Etaze + 	JWCU 	Kid & CO 	Junior 	Senior
+   	Hinfahrt 	Hin-und rückfahrt 	Hin-und rückfahrt 	Hin-und rückfahrt 
+Hinfahrt 	Hinfahrt 	Hinfahrt 	Hinfahrt
+Comfort 1	134	203	149	-	16	67	68	95
+Comfort 2	85,50	128	94	59	16	43	43	60
+
+Den günstigen JWW-Tarif muß man mindestens 2 Wochen vorher buchen.
+
+Gruß, GREGOR

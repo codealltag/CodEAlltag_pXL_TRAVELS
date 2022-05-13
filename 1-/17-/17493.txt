@@ -1,0 +1,20 @@
+Wenn simple Grundschul-Addition ein rechtlich wasserdichtes 
+Verschluesslungsalgorythmus darstellt welcher von den Banken anerkannt wird, 
+magst Du recht haben. Aber lass Dir das besser schriftlich von der Bank 
+bestaetigen....Faktisch wird man auf die Nase fallen, denn zusammen mit 
+Deiner per Post erhalten Pin solltest Du das Schreiben erhalten in dem alles 
+noetige zum Umgang selbiger drin steht. Das Problem ist wohl auch weniger 
+die PIN-Nummer ansich, sondern das Problem das man am Terminal die korrekt 
+PIN also anstatt der 6634 die 8654 eintippen muss...
+
+Ich finde es sowieso Scheisse das bei einer Kombination von nur 9999 
+Moeglichkeiten die Chance bei den 3 Versuchen statisch die korrekte PIN zu 
+treffen selbst geraten nach wie vor erschreckend hoch ist. Aber selbst wenn 
+man eine 10stellige PIN einfuehren wuerde, schuetzt ein auch dieses nicht 
+davor von aussen ausgespaeht zu werden. Und wenn das elektronisch 
+mitgeschnitten wird erst recht nicht, drum bei Kreditkarten auf die Frage 
+nach "Credit or Debit" immer mit Credit antworten.
+
+
+Gruss,
+          Lukas

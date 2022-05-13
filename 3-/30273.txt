@@ -1,0 +1,6 @@
+Hallo,
+ich suche nach einer Datenbank, mit deren Hilfe sich nach Eingabe des 
+Datums und der Flugroute die Flugnummer auslesen lässt. Die umgekehrte 
+Suchrichtung wäre auch hifreich. Googeln hilft mir da nicht weiter.
+Gruß
+Heiner

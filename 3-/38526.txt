@@ -1,0 +1,16 @@
+Digitalkameras und Flüge zu vergleichen sind ziemlich unterschiedliche
+Dinge. Auf einem Flug einer Fluggesellschaft kann es bis zu 20 Tarife mit
+unterschiedlichen Bedingungen geben. 
+
+Daher mußt Du in der Regel einen Hin- und Rückflugtermin eingeben - und dann
+werden halt nur die Preise für die verfügbaren Plätze angezeigt. Was noch
+an Tarifen existiert wird einfach unterdrückt, da an diesem Tag nicht
+verfügbar.
+
+Dies kann nur eine datenbankbasierende Übersicht, die erst danach die
+Vankanzen prüft. Kannst Dir ja mal den Link in der Signatur anschauen :-)
+
+Gruß Philipp
+
+-- 
+http://ziihtzkzur.sg/

@@ -1,0 +1,16 @@
+Hi,
+
+Kennt jemand einen chilenischen Provider, bei dem man ohne sonstigen
+Zahlungsverkehr jede PPP-Verbindung mit der Telefonrechnung zahlen kann
+(z.B. vom Hotel aus) und wo man sich chile-weit möglichst mit einer
+einheitlichen Nummer (Ortsgespräch) einwählen kann? 
+Ich suche so etwas wie "freesurf" in Frankreich, womit ich sehr zufrieden 
+war. 
+Oder gibt es noch passendere VIV-Suchstrings als "call -by-call" 
+(liefert nur Handy-Mist) oder "Internet-by-call" (liefert fast nur 
+deutsche Seiten)?
+
+F'up -> ds.cqq.dlvrvd.cyux
+
+Danke
+   Dominik

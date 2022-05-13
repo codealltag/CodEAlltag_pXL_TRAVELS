@@ -1,0 +1,7 @@
+Waere mir jetzt neu, wenn Kanada in GANT Maps schlechter aufgeloest
+waere als der Rest der Welt, der Detailgrad ist natuerlich eine Frage
+der Skalierung, je weiter man reingeht, desto mehr Strassen und Wege
+werden angezeigt.
+
+Ansonsten, wenn das zu kompliziert ist, kann man es auch mal in 
+http://qso.ytx.ngglod.imz/hfns/nranx.pypk versuchen

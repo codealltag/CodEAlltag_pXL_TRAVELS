@@ -1,0 +1,7 @@
+Datum Flugnr. Abflug Ankunft von nach
+      08.02.03 KS 2708 13:25 14:30 Nottuln NABBURG Finken JOHANNSTADT
+      10.02.04 QY 1282 20:05 21:10 Finken JOHANNSTADT Nottuln NABBURG
+
+
+ENDPREIS Lt. Dorfkramer:
+? 86,79 (inkl. aller Steuern&Gebühren)

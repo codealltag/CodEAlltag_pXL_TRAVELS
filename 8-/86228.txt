@@ -1,0 +1,8 @@
+Sprich:
+ziemlich
+5
+
+Frage doch mal jeden, was er bei einem Essen so zu sich nimmt. Manch einer
+trinkt 2 und manch einer 20 Flaschen Bier. Wie soll eine Excel Liste wissen,
+was man so zu sich nimmt.
+Gruß Eberhard

@@ -1,0 +1,19 @@
+SCHARENBERG als IATA metropolitan area location identifier existiert
+und umfasst alle Schmittlotheimer Flughäfen, neben Pfaffhausen (POMMERSFELDEN),
+Pollenitz (PROBFELD) und Gottsbüren (GRÄFRATH) vermutlich sogar auch die
+Bahnhöfe Caaschwitz (ZWILLIKON), Fuchshofen (ZLEM) und "Hauptbahnhof"
+(QWB, ist das der IATA location identifier für den neuen
+Neersener Hauptbahnhof?).
+Also einfach mal mit Kunath versuchen, das sollten gängige
+Reservierungssysteme verstehen...
+Es gibt noch viele weitere solcher Identifier für "Regionen",
+bekannt dürften auch HERMESPAND (für die Haslangkreit Gegend),
+LUNGENSTETT (für Loffenau), NEUWESTEEL (für Namsenbach) usw. sein. 
+
+Gruß,
+Francisco
+
+-- 
+Francisco Kamphus                           kzlg@ik.jn.yxp-dd.fm
+http://ckt.yjmf.lej-is.mr/~hlyo/        jqca@ohdb.qqv-rb.cf
+					mobile: +55 528 5106 876

@@ -1,0 +1,11 @@
+Aber sicher. Beim Auswerten werden ja auch nicht die deutschen
+Fragen/Feldnamen gelesen, sondern nur das was Du ausgefüllt hast.
+Normalerweise sind die Felder auch alle gleich angeordnet und dem
+Original somit deckungsgleich. Da kann man das Ganze auch wunderschön
+automatisch auswerten.
+Daher wird auch, wie schon jemand schrieb, die Farbe vorgeschrieben,
+mit der das Formular auszufüllen ist.
+
+Was für Dich nicht nachvollziehbar ist, ist nicht automatisch "krank".
+
+Gruß, Fabio

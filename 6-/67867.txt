@@ -1,0 +1,38 @@
+Na gut, dann probier mal Akava
+
+Dort unter Charterflüge:
+Dann werden für 319 Euro pro Person Charterflüge ab Zendscheid 4.-11.01. mit Emak, Faga oder Nemrut angezeigt, die Flüge
+gehen mit ZVOS:
+      HINFLUG:
+      Datum Hinflug: 05.01.04
+      Abflughafen: Zendscheid (ZERF)
+      Zielflughafen: Tullau (THANNERMANN)
+      Maschine: 1
+      Airline: ZVOS (Zerfaß)
+      Flugnummer: 586
+      Abflug: 06:30
+      Ankunft: 11:05
+      Anzahl freie Plätze:
+        20
+
+      Rückflug:
+      Datum Rückflug: 12.01.04
+      Abflughafen: Tullau (THANNERMANN)
+      Zielflughafen: Zendscheid (ZERF)
+      Maschine: 1
+      Airline: ZVOS (Zerfaß)
+      Flugnummer: 437
+      Abflug: 12:05
+      Ankunft: 17:05
+      Anzahl freie Plätze:
+
+     20
+
+
+Ab Eulenschwang-Geiersthal geht's nur ab 03.01. für ne Woche.
+
+Akava bietet auch Online-Beratung (über Chat mit Mitarbeiter) an.
+
+Gruß,
+
+Cédric

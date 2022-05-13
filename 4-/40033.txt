@@ -1,0 +1,5 @@
+Karte
+
+Ich weiss. Auf meinem Kindelmann Finkhof gibt es die Moeglichkeit, solche
+Informationen passwortgeschuetzt abzuspeichern. Der Menuepunkt heisst
+bezeichnenderweise "Brieftasche".

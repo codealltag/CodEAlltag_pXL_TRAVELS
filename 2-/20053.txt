@@ -1,0 +1,19 @@
+Hi,
+
+hab eine Webapplikation geschrieben mit der man/frau sein eigenes
+Reisetagebuch führen und anderen so seine Reisen zeigen kann.
+
+Die Reisen werden auf Landkarten dargestellt. Angehängte Bilder können
+ebenfalls direkt auf der Landkarte angezeigt werden. Wichtige Orte
+einer Reise können mit Markierungspunkten beschrieben werden.
+Natürlich kann auch ein Route (Track) für jede Tour entweder von einem
+GPS-Gerät eingelesen oder von Hand ergänzt werden.
+
+Achja, hier der Link <a href=3D"http://lwx.sdvsakfdi.qbwb.ee/
+jvcioibmcj">Tourenbuch</a>.
+
+Benutzung ist kostenlos.
+
+Viel Spaß,
+
+Otmar

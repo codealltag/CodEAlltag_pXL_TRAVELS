@@ -1,0 +1,6 @@
+Hallo,
+
+geb halt einfach deinen richtigen vollen Namen im Header an, wie alle
+anderen auch.
+
+Gruss  Paul

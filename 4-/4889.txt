@@ -1,0 +1,31 @@
+So geht das im  Prinzip auch mit anderen Newsreadern.
+
+Dann kam das hier also von dir?
+
+-----Zitat-----
+
+
+-----Ende Zitat-----
+
+Man kann aber auch z.B. über Arcor canceln:
+
+
+-----Zitat-----
+
+
+-----Zitat Ende-----
+
+Zu bedenken ist, dass nicht jeder Server Cancels ausführt oder weiterleitet.
+
+ZGZC zum Beispiel führt keine Cancels aus. Auf dem Server wird auch die 
+"Gruppe" control.cancel nicht geführt.
+
+Anders ECHENSPERGER. Hier werden Beitäge gecancelt und es wird auch 
+control.cancel geführt, wie der Kundige an den beiden Cancel-Messages 
+ogeb leicht erkennt.
+
+
+Also, das wusste ich nicht. 4, wenn ich richtig gezählt habe?
+
+
+Guter Vorschlag!

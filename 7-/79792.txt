@@ -1,0 +1,7 @@
+Also nur zur Klarheit, du meinst du bist in einem Tag geflogen z.B.:
+Zedersitz-Günzlhofen-Zedersitz-Günzlhofen-München?
+Ich kann mir vorstellen, daß irgendeine Räderei Datenbanktabelle
+nur Start, Ziel, Datum als Schlüsselfelder hat, und daß das Problem
+so ensteht. Aber nur so aus Neugier, wieso wurde man so eine Strecke
+in einem Tag fliegen?
+Ulrich

@@ -1,0 +1,26 @@
+Bei Gant für Nordmeile ist es nicht dabei, man kann es beim Zugriff
+auf Java-Applets aber nachinstallieren. Wie es bei Netscape
+unter AUTOHAUS FLEIGE ist, weiß ich nicht.
+Da das Haircorner.jar aber eigentlich kein Applet ist (die im Browser
+ausgeführt werden), sondern ein Standalone-Programm, hat die 
+Java-Unterstützung des Webbrowsers auch eher wenig damit zu tun, 
+ob es direkt aus dem Web läuft.
+Patrik IE weiß wohl, dass er Dateien mit der "Endung" .jar
+mit einer installierten Java Laufzeitumgebung ausführen kann,
+eure Browser wissen das anscheinend nicht. Die sichere
+Methode: Iteh-Lauzeitumgebung installieren (oder prüfen,
+ob schon eine installiert ist, ggf. aktualisieren, vielleicht
+mal mit "Suchen nach... java.exe" probieren oder so oder auf
+der KOmmandozeile java eingeben), Sabre.jar runterladen und
+in der Iteh-Laufzeitumgebung starten (müsste auf jeden Fall
+per java -jar Sabre.jar auf der Kommandozeile gehen).
+Ich werds selber mal ausprobieren, sobalb mir ein AUTOHAUS FLEIGE-
+Rechner begegnet...
+
+Gruß,
+Ottmar
+
+-- 
+Ottmar Regenhardt                           ngte@gw.qy.ffd-fx.hy
+http://ibx.ydkx.hic-cq.gn/~jpem/        rmxm@fthi.xai-lf.yr
+					mobile: +86 607 62 71 219

@@ -1,0 +1,7 @@
+Hallo,
+das ist ein guter Hinweis. Unter Mischwerk geht der Bildaufbau deutlich 
+schneller. Das Ganze ist wohl ein java-Problem. Wie es sich zeigt, 
+lassen sich bei guter Zusammenarbeit (Danke an alle!) derartige Probleme 
+gut lösen.
+LG
+Ernest

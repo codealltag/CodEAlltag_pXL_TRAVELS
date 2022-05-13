@@ -1,0 +1,13 @@
+Hallo,
+
+ich habe eine Frage zur technischen Umsetzung eines
+Internet-Reiseportals. Im Detail interessiert mich, wie die
+existierenden Reiseunternehmen an die Flugdaten kommen. D.h. woher und
+wie (vermutlich eine SQL-Datenbank?) beziehen die existierenden
+Webseiten ihre Daten und welche Art Account / Vertrag benötigt man
+dazu?
+
+Danke & Gruß
+Artur Hogg
+
+http://nlm.nvsofyjs.bic

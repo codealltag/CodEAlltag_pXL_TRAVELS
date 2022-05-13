@@ -1,0 +1,44 @@
+Schon mal viele merci :-)
+
+
+Das versteh ich jetzt nicht.
+Ich hab mir ein paar Preisbeispiele angeguckt, etwa:
+
+A bezahlt für eine Stecke 100 (zB Euronen).
+B bezahlt dafür 50, weil er eine BC50 hat.
+
+Zusammen zahlen A und B auch 100.
+Das sagt zumindest das online-Teil der Bahn,
+wohl weil B ne BC50 hat:
+
+A+B =3D 100.
+
+Wie A und B das aufteilen, ist ihnen überlassen.
+Naheliegend wäre
+
+B =3D 0.5 *A
+
+Was ergibt
+
+A =3D 67
+B =3D 33
+
+so daß A und B jeweils 33% sparen.
+
+Bei mehr Mitfahrern wird das verhältnis noch günstiger
+und BC50, BC25 einzurechnen ist trivial.
+
+
+Das dachte ich bis vor ein paar Wochen auch.
+Das geht aber nur für Hin- _und_ Rückfahrt und
+nur bei Vollmond und wenn man blaue Augen hat und...
+
+
+Seh ich auch so.
+Das eigentliche Problem ist das der Organisation.
+Das könnte man ja übernehmen und zum Beispiel 10% oder 5%
+der gesparten Betrages einbehalten und ne kleine online-Firma
+draus machen...
+
+
+Christof

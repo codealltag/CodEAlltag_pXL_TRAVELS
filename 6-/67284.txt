@@ -1,0 +1,4 @@
+Erst wenn ich auf charset="utf-8" umstelle, kann man die Postings lesen.
+Standard wäre Western 8859-15.
+
+Gruß Manfred

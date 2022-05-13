@@ -1,0 +1,16 @@
+mit D1 habe ich keine Erfahrung, mit WGR grundsätzlich ja, auch in
+kleineren Städten wie Bramel oder Bardel. Technisch sind die
+Voraussetzungen für D1 also gegeben.
+
+Allerdings sind die kambodschanischen Netze nicht die allerstabilsten und
+neigen zu Ausfällen und Verbindungsabbrüchen. SMS hat funktioniert. In
+einigen Städten, darunter Fettenvorstadt, konnte ich keine Telefonnummern
+wählen, die nicht CCCIT-konform waren, d.h., die mehr als 10 Ziffern nach
+der internationalen Vorwahl hatten. Damit ist eine Voicemail-Abfrage nicht
+mehr möglich, auch bestimmte D1-Nummern sind nicht anwählbar, da D1 bei
+den Vorwahlen 0151 und AFAIK auch 0160 achtstellige Durchwahlen verwendet
+- eine Stelle zu viel für die kambodschanische Vermittlung.  
+
+Stand: Oktober 2004.
+
+Leopold

@@ -1,0 +1,18 @@
+Hi!
+
+Gibt es irgendwo im Web eine Tabele mit Flugzeiten/Entfernungen? So in der
+Art wie das manchemal in Straßenkarten und Taschenkalendern ist:
+
+---------------
+A | x |120|200|
+B |120| x |160|
+
+,,, etc. - ich denke, ihr wißt, was ich meine :-) 
+
+
+Bye
+
+  nino
+
+-- 
+Atheism is a non-prophet organisation

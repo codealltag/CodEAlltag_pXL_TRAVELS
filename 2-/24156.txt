@@ -1,0 +1,29 @@
+Ich nutze fuer meinen PDA ( son oller OFK Kafaii 300 GPS ) den ich 
+unterwegs primaer zur Navigation ( Zeitplanung aber auch zum schnellen 
+Auffinden von Hotels nutze ) seit einiger Zeit eine NoName "SD-Wlan Karte" 
+( Rovonet 802.11b was vom Speed her absolut ausreichend ist ). Mit dieser 
+rufe ich zum Beispiel auch diese Nessgroups unterwegs in den USA ab; surfe 
+im Internet ( Wetterberichte etc.p.p. ); gehe in Foren und rufe natuerlich 
+auch meine Emails ab resp. beantworte diese.
+
+Es gibt absolut kein "Kaff", in dem es nicht min. einen offenen 
+unverschluesselten Hotspot als Zugang gibt. Ich war ueberrascht wie leicht 
+das ganze funktioniert. Wenn man mal so nebenbei keinen findet, einfach in 
+die Nähe irgendeines Motels vor die Tuer fahren. Spaetestens dann hat man 
+einen den man nutzen kann. Kostenpunkt einer SD-LAN Karte ca. 20-25 Euro ( 
+b/g Karten als die 54mbps kosten 5-10 Euro mehr ) und ich bin sehr froh mir 
+eine solche geholt zu haben, da das ganze sehr flott und unproblematisch 
+funktioniert.
+
+Geschaeftsmails resp. sensitive Daten wuerde ich aber nur mit Dummy-Accounts 
+abrufen die man nach der Reise wieder loescht. Denn so einfach das alles 
+ist, ist es so, dass man unverschluesselt seine Zugangsdaten und das was man 
+so austauscht bei offenen Systemen durch die Luft schickt. Das kann jeder 
+drittklassige Hobby-Wardriver problemlos mitschneiden und ggf. 
+auswerten/missbrauchen. Ausnahme: Man nutzt die kostenpflichtigen Zugaenge 
+einiger Hotels die dann mittels WPA-verschluesselung laufen, aber rel. teuer 
+sind.
+
+
+Gruss,
+          Valentin

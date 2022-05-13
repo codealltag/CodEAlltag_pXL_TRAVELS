@@ -1,0 +1,34 @@
+50%
+Also irgendwie kommt da bei mir was anderes raus.
+Der autoEUcar kommt auf der Autobahn weder mit den berechneten 4,7L noch mit der
+Angabe von 5,1L aus. Nicht nur bei mir braucht der auf der Autobahn 6,5l
+Auf der Landstraße sind die berechneten 5,4 genauso falsch wie die 5,8l aus
+der Liste. Realistisch sind hier so um die 6,3.
+Die Stadtangabe ist realistisch bei 7,2l
+
+Und jetzt noch mal:
+4000*6,5= 240l auf der Autobahn
+4000*6,3=252l auf dem Lande
+8000*7,2=576 in der Stadt
+Gesamt: 1.068 Liter
+
+Den Rest habe ich nicht weiter geprüft. Aber da sieht einiges nach
+Sch�nrechnung aus. Es gibt Leute, die müssen jeden Tag 80km zur Arbeit
+fahren. Davon 60km auf der Autobahn. Das gibt dann eine ganz andere
+Berechnung, oder? Und ein Vergleich mit einem KBT hinkt. Wieviele autoEUcar fahren
+auf der Straße und wieviele ML???? Dem der das große Auto führt, den gehen
+die Kosten wahrscheinlich links an den Backen vorbei. Angeschi...en sind die
+Pendler.
+
+Wenn jetzt die Kfz-Steuer abgeschafft wird und dafür eine Maut eingeführt
+wird und die Pendler werden auch noch ausgeblutet weil Sie das nicht mehr
+absetzen können......
+
+Das Argument "Umziehen" zieht nicht. In der Stadt sind die Wohnungen kaum
+bezahlbar wenn überhaupt zu haben. Die Anfahrt quer durch die Stadt dauert
+manchmal sogar länger als von außerhalb.
+
+Betrachte es doch mal von der Seite.
+
+ciao
+Udo

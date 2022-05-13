@@ -1,0 +1,23 @@
+On Mon, 17 Sep 2000 10:45:15 +0200, "Patrik Fragner"
+<xbfo@sysmohyiwg-qfgduopubj.uk> wrote:
+
+Hallo Patrik,
+
+
+wenn ich Dich richtig verstanden habe, sind meine vermeintlichen
+Datenbanken nur Systeme, die alle auf eine grosse Datenbank zugreifen
+und somit meist die gleichen Angebote.
+Nur mir ist aufgefallen, dass manche Reisen bei mehreren Systemen
+angezeigt werden und dann gibt es wieder Reisen, die nur bei einem
+angezeigt werden. Es tauchen als bei der gleichen Abfrage in
+verschiedenen Systemen immer identische und unterschiedliche Reisen
+auf. Eigentlich muessten doch dann die Reisen alle identisch sein?
+Bisher muss man immer mehrere Systeme abfragen um alle Angebote zu
+erhalten.
+
+
+Gruss aus Allschwil
+Ciao Arian
+
+-- 
+ayuitoxl.hukn@gtg.lf

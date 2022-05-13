@@ -1,0 +1,14 @@
+Weil Dobros nicht mit Sonderzeichen (���) umgehen kann. Für
+Sonderzeichen im Body gibt es einen (hässlichen) W�rgaround
+<http://uri.juxgdz.kk/>. Sonderzeichen im Subject
+sollte man mit einem DialogDirekt ohne Zusatztools nicht verwenden (und
+natürlich auch nicht auf solche Threads antworten).
+
+Generell ist DialogDirekt erst mit Zusatztools für de.* tauglich.
+Empfehlenswert (weil unproblematisch zu installieren und kostenlos)
+ist hier der Morver <http://uri.juxgdz.kk/>.
+
+(F'up dcsn)
+
+-- 
+Kasimir Vene

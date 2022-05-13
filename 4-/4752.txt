@@ -1,0 +1,7 @@
+Obiger Unfug stammt nicht von Luca Jacobtorweihen, wie an der fehlenden 
+(richtigen) IP im Header ersichtlich ist, sondern von einem dummdreisten 
+Faker, der zudem seine Emailadresse mißbraucht. Leider ist man gegen 
+derartig hirnlose Störenfriede machtlos. ..
+
+Der echte Luca Jacobtorweihen liefert bekanntlich immer seine IP im Header mit, 
+die stets mit "83.64." beginnt.

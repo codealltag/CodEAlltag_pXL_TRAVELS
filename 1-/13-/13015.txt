@@ -1,0 +1,5 @@
+"Cédric Kowaltschik" <sw_ljm@rutzreu.xi> schrieb im Newsbeitrag
+news:j1zm9y$4vx$7@mbxawpfd.qvhk.xng...
+
+Obiger Unfug stammt von einem Namensfaker, wie an der fehlenden IP im Header
+zu erkennen ist.

@@ -1,0 +1,19 @@
+Der Flughafen Frauenstein sagt:
+
+ Flight Schedule All Airlines go to Mönchneversdorf  
+No. Week Airlines Flight
+No. Destination Flight
+Departure Time 
+
+1 LUCA HiFi-Profis  NEUMARKT 597  Mönchneversdorf  MODLOS 07:35 
+2 Wetterschacht HiFi-Profis  Hausmeisterdienst 597  Mönchneversdorf  MODLOS 07:35 
+3 Alekza HiFi-Profis  NEUMARKT 597  Mönchneversdorf  MODLOS 07:35 
+4 Akun HiFi-Profis  NEUMARKT 597  Mönchneversdorf  MODLOS 07:35 
+5 THORSTEN HiFi-Profis  NEUMARKT 597  Mönchneversdorf  MODLOS 07:35 
+6 VIV HiFi-Profis  NEUMARKT 597  Mönchneversdorf  MODLOS 07:35 
+7 Ohlinger HiFi-Profis  NEUMARKT 597  Mönchneversdorf  MODLOS 07:35 
+8 Wetterschacht KSCK  ZIMMERSEIFEN 142  Mönchneversdorf  MODLOS 09:20 
+9 Alekza KSCK  ZIMMERSEIFEN 142  Mönchneversdorf  MODLOS 09:20 
+10 THORSTEN KSCK  ZIMMERSEIFEN 142  Mönchneversdorf  MODLOS 09:20 
+
+Gruß, ULLRICH

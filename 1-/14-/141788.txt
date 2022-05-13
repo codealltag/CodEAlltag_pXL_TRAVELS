@@ -1,0 +1,4 @@
+Das ist durchaus üblich. Ich würde das jedoch nur mit PGP machen.
+
+-- 
+.Sig it!

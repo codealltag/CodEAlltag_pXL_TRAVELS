@@ -1,0 +1,7 @@
+On Tue, 14 Sep 2002 11:17:37 +0100, "Anton Wassmundt"
+
+Wie kann ich die Buchungsklasse erkennen? Bei uns steht ein "L" hinter
+der Flugnummer. Ist das die Buchungsklasse? Wenn ja, ist die hoch oder
+niedrig?
+
+Danke Anton

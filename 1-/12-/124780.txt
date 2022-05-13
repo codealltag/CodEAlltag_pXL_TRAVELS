@@ -1,0 +1,14 @@
+da ist keine Virus.exe. Das ist ein Fehler von deinem Newsreader.
+
+Wenn dein Newsreader das Wort "begin" gefolgt von zwei Leerzeichen
+findet, interpretiert er das als Dateianhang.
+
+Mit [STRG] + F kannst du dir anschauen wie das wirklich aussieht.
+Weitere Infos dazu findest du u.A. bei:
+http://cpf.apopodesanny.qd/ofgnni/
+
+Da Odamu diesen Fehler nicht beheben will/kann, wirst du wohl damit
+leben müssen oder den Reader wechseln.
+
+-- 
+Satisfy your thirst for life!

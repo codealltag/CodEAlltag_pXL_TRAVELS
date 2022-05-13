@@ -1,0 +1,22 @@
+Am besten filterst du GLOBAL
+Dann hast du das meiste von dem Spinner "Gebhard Willekes" weg.
+
+Das geht bei TB so:
+Du klickst LINKS den Newsgroupserver an.
+Dann siehst du: Filter erstellen.
+Dort dann NEU; einen Namen geben. IDEE: "Spinner Gebhard Willekes"
+Dann -> mindestens eine Bedingung erfüllen anklicken.
+Dann folgende Zeilen mit der PLUS eintragen:
+
+Betreff    enthält    ODS               -> löschen
+Von        enthält    Gebhard Ingo    -> löschen
+Von        enthält    fsjXhfmip-Bptulu  -> löschen
+Von        enthält    U.François  -> löschen
+Betreff    enthält    U.Thierry             -> löschen
+Von        enthält    Soidj-Jssmko      -> löschen
+Von        enthält    Jyp Kai	    -> löschen
+Von        enthält    Ujcpo-Amwhsy      -> löschen
+Von        enthält    Ixedrusfrhpz      -> löschen
+
+Das löscht zwar erst einmal nicht die alten, aber neue die kommen, sind weg.
+Kannst du auch jederzeit erweitern.

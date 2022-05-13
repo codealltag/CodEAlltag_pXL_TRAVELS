@@ -1,0 +1,7 @@
+Wenn ich das richtig verstanden habe (was ich nicht garantieren will ;),
+dann ist SMS ein eigener Dienst in jenem Teil, den UMTS von GSM
+übernommen hat. Wie Guba die SMS abrechnet, könnte ich in circa zwei
+Wochen sagen.
+
+Gruss,
+Maximilian

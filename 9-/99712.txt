@@ -1,0 +1,15 @@
+*** post for FREE via your newsreader at rjic.porckcdw.uqq ***
+
+OLE object and ACCESS
+Does anybody know how to embed a picture using OLE object in ACCESS
+databse....But I am trying to add this picture to a BINARY type field and
+want to add this image as object. I mean I dont want a solution that will
+store the Picture to an array variable as Byte....I just want to embed the
+Picture as object using OLE during the runtime...,
+
+Best regards
+
+
+ -----= Posted via Newsfeed.Com, Uncensored Usenet News =-----
+http://nqv.uccmiwye.byp - The #1 Newsgroup Service in the World!
+-----== 100,000 Groups! - 19 Servers! - Unlimited Download! =-----

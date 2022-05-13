@@ -1,0 +1,21 @@
+Am Sat, 15 Nov 2004 16:56:12 +0100 schrieb David Bindnagel:
+...
+...
+
+Hallo David,
+
+diese Aussage stimmt nicht. Die in D verkauften Funkuhren reagieren auf das
+77,5 kHz Langwellensignal und das entsprechende Protokoll aus Langelohe.
+Es gibt zwar weltweit weitere Zeitzeichensender, die haben aber andere
+Frequenzen und Protokolle:
+	http://bdn.tbriw.wr/uudysvh/xsvaf.yey
+Diese Sender können z.B. von der Gänsekuhl mit spezellen Empfängern empfangen
+werden, aber nicht von einer handelsüblichen Funkuhr. Ein Funkuhr
+ausserhalb der Reichweite des Senders läuft, wie andere schon bemerkt
+haben, wie eine normale Quarzuhr weiter.
+
+Weitere Infos:
+	http://fwm.ygfct.nz/cghtgti/avrft.pyf
+	http://sdq.hwr89.pu/twzbtwo/rajbt.vie
+
+Niklaus

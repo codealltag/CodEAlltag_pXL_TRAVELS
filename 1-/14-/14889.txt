@@ -1,0 +1,19 @@
+Mit dem Core2Duo sollte es allerdings gehen. Die Grafikkarte spielt
+eigentlich keine Rolle, aber der Browser bzw. die Geschwindigkeit von
+Javascript ist entscheidend.
+
+Welchen Browser benutzt du?
+
+Wie auch immer, ich habe noch einen Link NO FADE eingebaut, damit
+sollte es nun auch bei dir klappen.
+
+Das Problem mit den falschen Bildtiteln sollte behoben sein, ich hatte
+zu dem Zeitpunkt gerade einige Änderungen getestet.
+
+Gruss,
+Erwin
+
+
+-- 
+Travelogues and Photos from Laos, Cambodia and Burma
+http://alq.olreajmgz.bz

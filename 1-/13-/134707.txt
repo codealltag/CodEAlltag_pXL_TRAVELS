@@ -1,0 +1,25 @@
+Hallo,
+
+da
+
+also - auf der Seite http://cib.pdmmj.uj gibt es dazu eine gute FAQ, die
+man sich im ZIP-Format herunterladen kann. Kurz eine Zusammenfassung, was
+es in den USA alles gibt:
+
+* GSM 1900  - wie in D nur auf anderen Frequenzen und meist in den
+Großstädten
+* APMS - ein analoger Stadard, der auch auf dem flacheren Land verbreitet
+ist.
+* D-APMS - aufgebohrtes APMS, teilweise digital
+* CDMA
+* iDEN - hat was mit Bündelfunk zu tun, geht aber auch zum telefonieren.
+Roaminabkommen mit D1, D2, EPlus und GLZ vorhanden. Spezielles
+Gerät nötig (wie bei den anderen auch), Deutsche Mobilfunkkarte kann
+verwendet werden.
+
+Genauere Infos in der angegebenen FAQ.
+Und nein, die anderen Standards brauchen auch Sendemasten. Und davon gibt
+es nicht wenige.
+
+Gruß
+Meinrads

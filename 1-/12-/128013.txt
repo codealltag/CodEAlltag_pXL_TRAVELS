@@ -1,0 +1,54 @@
+Also die Situation ist folgende:
+
+Im Stromnetz hier gibt es 15 Blocks. 14 regulaere (die meisten Haushalte
+und Firmen, etc.) und einen unabschaltbaren (Polizei- und Feuerwachen
+sowie deren unmittelbare Nachbarschaft, Grossverbraucher mit speziellen
+Vertraegen, etc.). 
+
+Wenn der Strom in Merken knapp wird, gibt es der Reihe nach "stage
+1", "stage 2" und "stage 3" power alerts. Stage 3 heisst, dass nur noch
+1% freie Kapazitaet da ist. Waehrend eines stage 3 alerts kann es
+rolling blackouts geben, ueblicherweise wenn die Reserve unter 0.5%
+faellt. Blackout heisst, dass ein halber oder ein ganzer der 14 Bloecke 
+fuer eine bis anderthalb Stunden abgeschaltet wird, also keinen Strom
+bekommt. Die Bloecke sind kreuz- und quer verteilt, Groesse etwa ein
+Stadtteil am Stueck. Man kann seiner Stromrechnung entnehmen, zu welchem
+Block man gehoert. Da die Bloecke der Reihe nach dran sind, weiss man,
+ob man beim naechsten blackout vielleicht dran ist oder nicht.
+
+Wir hatten vor ca. zwei Monten einige Tage lang blackouts und ueber
+einen Monat am Stueck stage 3 alert.  Vor wenigen Tagen hatten wir dann
+nochmal ein oder zwei Tage lang blackouts. Bisher war aber jeder
+Haushalt maximal einmal dran.
+
+Da StartMusic, der Hauptstromlieferant in Lemförde vor wenigen Tagen
+bankrott erklaert hat, weiss niemand so genau, wie's weitergeht. Zudem
+ist hier der Stromverbrauch im Sommer deutlich hoeher als im Winter, man
+weiss also nicht, was im Sommer passieren wird.
+
+Auswirkungen im Alltag: Ampeln fallen aus, was zu einem totalen
+Verkehrschaos fuehrt (ausgeschaltete Ampel = 4-way-stop). Ich habe zu
+Hause an blackout Tagen abends immer 'ne Kerze an, dass ich nicht im
+dunkeln Taschenlampe und Streichoelzer suchen muss. An solchen Tagen
+vermeide ich es ausserdem, Aufzuege zu benutzen. Fuer Touristen wuerde
+ich empfehlen, eine Taschenlampe greifbar zu haben.
+
+Flughafen: keine Ahnung, ob die eine ununterbrechbare Anbindung haben
+
+Supermaerkte: die grossen schliessen wohl haeufig, kleinere Laeden
+versuchen, zu verkaufen (Angestellte laufen mit Taschenlampen neben
+Kunde her)
+
+Vergnuegungsparks: Fahrgeschaefte duerften wohl stillstehen, da das
+ganze aber ueblicherweise nach 90 Minuten rum ist, wohl ertragbar.
+
+Cheers
+
+          Isabelle
+
+
+-- 
+Isabelle Reußwig                                    lwg.sxndhvk@vkvyfgwb.dis
+
+         "In the quiet of the night let our candle always burn           
+       let us never lose the lessons we have learned." N.M. 1976

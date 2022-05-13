@@ -1,0 +1,22 @@
+In den Systemen ist eine minimum connecting time abgelegt. Diese ist in 
+der Regel ausreichend für ruhiges Umsteigen. Es gibt pro Flughafen eine 
+Standardumsteigezeit. Es gibt Abweichungen nach oben (z. B. Anschlußflug 
+nach Israel) und nach unten (z. B. Umsteigen bei derselben Gesellschaft 
+am eigenen Terminal).
+
+Automatisierte Systeme (z. B. Onlinebuchungssysteme) zeigen 
+Verbindungen, bei denen die minimum connecting time unterschritten wird 
+garnicht erst an. Bei manueller Eingabe (Fluggesellschaft/Reisebüro) 
+würde bei Unterschreitung eine Warnung erscheinen. Die Reservierung kann 
+trotzdem abgeschlossen werden. Der Passagier muß in einem solchen Fall 
+darauf hingewiesen werden, daß die Unterschreitung auf eigene Gefahr 
+erfolgt.
+
+Gruß Lutz
+
+
+-- 
+http://zjfbblbtsl.yn.np - neutrale Fluginformationen (PC-e u. a.)
+http://rrz.aermamybvv.lcv - Suchmaschine für Billigflüge in Europa
+http://kdw.ajvdvzhtek-avwit.pv - deutsche Variante (nur KWUU)
+http://tvd.bzjqqgwfnuko.di - eigene Homepage (kommerziell)

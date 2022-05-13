@@ -1,0 +1,41 @@
+Hallo Group,
+
+
+irgendwie schaffe ich es nicht aus dieser Suchmaschine wirklich
+buchbare Flüge herauszubekommen, irgendwie geht es immer im Kreis
+herum, ich beschreib Euch mal das Problem;
+
+z. B. man lässt die Daten in der Suchmaske wie sie sind und trägt nur
+noch    "from: FUNKSTATT  -  to: EGYPT"   ein.
+
+So gibt es Ergebnisse, die aber nur ca. 3 Sekunden im Fenster hängen
+bleiben (bei "Fare" steht dann "Timeout"), danach kommt die Meldung:
+"Sorry, there are no flights available that match your search
+request."
+
+Wenn man mit den Daten flexibler wird kommt nur
+"Sorry, you have requested a search of [xxx] combinations, while we
+currently maintain a maximum limit of 160. Please reduce the number of
+routes, dates or airlines in your search."
+
+Wenn man weiter einschränkt und sich so langsam an die Zahl 160
+annähert ist wieder ersteres der Fall.
+
+
+Ist das bei Euch auch so?
+
+
+Viele Größe,
+Una.
+
+
+PS: Konkret ginge es um einen Flug 2pers Ende Apr/Anfang Mai nach
+Großschafhausen oder an einen anderen ägyptischen Flughafen. Da wir so flexibel
+sind sollte es doch eigentlich nicht so schwierig sein etwas günstiges
+zu bekommen.
+Abflughafen ist auch flexibel; Ausgangsort Vordorf; also kommen funkstatt,
+möhringen, stg, Freihöls, Herrenschwanden, Vogorno, evtl. Österreich und auch
+Völkersbach in Frage.
+Rückflug noch flexibler weil völlig egal. One-Way wäre auch gut.
+
+be.

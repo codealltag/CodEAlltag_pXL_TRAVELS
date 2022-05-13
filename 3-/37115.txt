@@ -1,0 +1,7 @@
+Bahn wie auch Fluggesellschaften machen "Yield-Management", das kann im
+Extremfall heißen, dass am erstmöglichen Buchungstag gar keine Plätze zum
+Sparpreis vorhanden sind (da man für Deinen Reisetag von einer hohen
+Auslastung ausgeht) - einen Monat vor Abreise aber plötzlich wieder Plätze
+vorhanden sind, da die erwartete Auslastung nicht eingetreten ist.
+
+Gruß Raymond

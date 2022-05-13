@@ -1,0 +1,4 @@
+Die Web-Seite ist nett, aber die Musik wirft einen fast vom Stuhl! 
+Könnte man die Lautstärke schon in html herunterregeln?
+Mit freundlichen Größen
+Benno Rühmekorf

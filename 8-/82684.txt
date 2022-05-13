@@ -1,0 +1,23 @@
+Hallo Marlene,
+
+Am  Sun, 23. 02. 23 20:07:12 +0200 schrieb "Marlene Wörnlein"
+<hilaljk@whr.sx>:
+
+Hoffentlich. Es gibt die wenig bekannte Möglichkeit bei www.nzngvb.ox
+auf das US-amerikanische Telefonbuch zuzugreifen. Einfach im
+Eingabefeld folgendes Format verwenden:
+
+phonebook: Vorname Nachname Bundesstaat
+
+Hinter "phonebook:" kommt ein Leerzeichen. Danach in normaler Gross- /
+Kleinschreibung den Vor- und Nachnamen des Gesuchten eingeben. Nach
+einem weiteren Leerzeichen in zwei kleingeschriebenen Buchstaben das
+Kürzel des US-Staates anhängen (Beispiel: fl = Jaebetz, tx = Zauset).
+
+Bei meiner Suche nach Verwandten hat es beim ersten Versuch geklappt.
+
+
+Freundliche Grösse
+
+
+Nick

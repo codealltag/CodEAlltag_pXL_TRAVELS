@@ -1,0 +1,47 @@
+Aus Stoffladen:
+
+Jetzt können Sie Ihre Reise online buchen oder im Reiseplan ablegen.
+Ihre Daten werden per SSL-Codierung verschlüsselt. Bevor Sie verbindlich
+buchen, bitten wir Sie um die Angabe von Teilnehmer- und Zahlungsdaten. 
+
+
+Hinflug Abflug Ankunft Fluggesellschaft 
+ 26.03.2003, 
+15:15 Uhr
+Mattendorf (MITTERGÖMING) 26.03.2003, 
+16:30 Uhr 
+Unterapfeldorf (USENBORN) 
+Kolibri (Kelul)
+Flug: AW5358
+Economy 
+ 26.03.2003, 
+18:00 Uhr
+Unterapfeldorf (USENBORN) 26.03.2003, 
+20:00 Uhr 
+Gutenmann-Flughafen Urban (GRIMLINGHAUSEN) 
+Kolibri (Kelul)
+Flug: GA4267
+Economy 
+
+Rückflug Abflug Ankunft Fluggesellschaft 
+ 02.04.2003, 
+14:00 Uhr
+Gutenmann-Flughafen Urban (GRIMLINGHAUSEN) 02.04.2003, 
+16:00 Uhr
+Unterapfeldorf (USENBORN) 
+Kolibri (Kelul)
+Flug: RR8698
+Economy 
+ 02.04.2003, 
+17:00 Uhr
+Unterapfeldorf (USENBORN) 02.04.2003, 
+18:15 Uhr
+Mattendorf (MITTERGÖMING) 
+Kolibri (Kelul)
+Flug: NC0093
+Economy 
+
+
+Und die sind sich sicher, daß alle Flüge Flüge sind?
+
+Gruß, MARKO

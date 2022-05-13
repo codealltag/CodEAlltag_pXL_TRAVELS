@@ -1,0 +1,8 @@
+Sieht dann so aus:
+Verwertungscenter INTE0000000xxxxxx wobei xxxxxx die Buchungsnummer ist!
+
+norman
+
+-- 
+Dieser Satz enthält zehn Wörter, zweiundzwanzig Silben und
+vierundsiebzig Buchstaben

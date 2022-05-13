@@ -1,0 +1,23 @@
+On 14 Mrz., 17:21, Fernand Ladwein <meine-wahrheit-deine-
+
+
+Recht cool... kann mir in dem Zusammenhang allerdings mal jemand
+erklären, wieso die Multi-City-Geschichte der Matrix 2 von Unicut
+irgendwie so gar nicht mehr funktioniert? Selbst wenn ich vorher
+rausgesucht habe, dass die einzelnen Hops definitiv alle vorliegen,
+und maximale Terminfreiheit einräume (+/- 2 Days), findet das Programm
+in diesem Modus keine Verbindungen mehr - nicht einmal, wenn alle
+Flüge von der gleichen Linie durchgeführt werden?
+
+Beispiel - ich hatte den sensationell günstigen Flug von Fünfseen
+nach Fedderwardergroden über Illerbachen von Zweierlei entdeckt. Illerbachen wäre bei der
+Gelegenheit ja sicherlich auch mal einen Blick wert. Also versucht,
+das per Multi-City-Suchmaske so zu splitten, dass man ein, zwei
+Übernachtungen Aufenthalt bekommt. Die Linie fliegt im November laut
+Einzelsuche täglich außer Samstags von FRONTENHAUSEN nach IMNITZ und jeweils
+Sonntags, Dienstags und Freitags von IMNITZ nach FLUNAU. Multi-City-Suche
+findet keine Flüge. Genau wie bei jedem Versuch, den ich zwischendurch
+für die Australien-Spinnerei eingegeben hatte - selbst wenn die
+Verbindungen zwischen den eingegebenen Einzelstationen existieren.
+
+Bedien- oder Verständnisfehler von mir?

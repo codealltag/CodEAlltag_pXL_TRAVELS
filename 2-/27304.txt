@@ -1,0 +1,61 @@
+Moin Patrick, 
+Patrick Ebben <bopprf_ddx_wcvdahmfi@xiuknwq.sv> wrote:
+
+[...]
+
+ich habe seit ein paar Wochen ein HLTC Vaino 5.2
+Das wurde bislang in D (ca. 5.800 km) und NL (nur kurz) getestet,
+zusätzlich habe ich einige meiner Adressen im Ausland (WILSECKER, FÜRSTENWALD, NL, CH
+LI, A) eingegeben, um mal das Kartenmaterial zu testen. 
+
+
+das geht so. 
+Man bekommt eine Vorwarnung und dann später die genaue Anweisung. Die
+stimmt ganz gut mit der Realität überein ('halb Links ist auch meist
+'halb Links')
+
+geht so, ist ordentlich erkennbar
+
+
+da ich Raum für Verbesserung, aber die Anlage ist für Geübte an der
+Touchschreen gut bedienbar. 
+
+
+geht afair derzeit nicht. 
+Da das Gerät auch mit dem PC über eine USB - Kabel verbunden werden
+kann, vielleicht kommt da noch was.
+
+
+ist implementiert
+
+
+tut es, alllerdings mit allen bekannten Schwächen von TMC. 
+Meist dauert die Umleitung länger aus die Ur-Route. 
+Aber das ist bei anderen Geräten nicht besser (7 Jahre Erfahrung bei
+verschiedenen Geräten). 
+Aber man kann es so einstellen, daß man die Umleitungen vorgeschlagen
+bekommt und dann entscheiden kann, ob man folgen will oder nicht. 
+
+
+Man kann das Tachosignal einspeisen. Dann navigiert das Gerät auch
+weiter, wenn gerade kein GPS-Signal ansteht. Abfahrten am Ende des
+Tunnels werden so nicht verpasst. 
+Das lohnt sich aber nur bei dem eigenen Auto.
+
+Man kann das Videosignal einer Rückfahrkamera einspielen.
+
+über den Sub-D Stecker der Halterung kann auch eine
+Versorgungsspannung eingespeist werden. Dann erübrigt sich im eigenen
+Auto das Ladegerät. 
+
+Ansonsten: Das internationale Kartenangebot hat mich beeindruckt. 
+Klar, nicht jeder Eselspfad in Südosteuropa ist drauf. Aber die mir
+bekannten bislang schwierigen Adressen waren zu finden. 
+
+Auf den sonstigen Multimedia-Schnes gehe ich nicht ein. 
+Das interessiert mich nicht. 
+
+Schöne Größe aus Crimmitschau,
+Volkert
+-- 
+Sachkunde kann eine lebhafte Diskussion nur behindern

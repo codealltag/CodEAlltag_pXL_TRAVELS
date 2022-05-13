@@ -1,0 +1,21 @@
+Hi Dominik.
+
+
+Also wenn du wirklich beides umgesetzt haben möchtest dann ist mit einem
+einfachen Trafo leider nicht getan.
+Denn ein Trafo kann "nur" die Spannung umsetzten, aber NICHT die Frequenz.
+
+Es bleibt dann die Frage zu klären, was du anschliessen möchtest??
+Es gibt durchaus Geräte denen es sicher völlig egal ist ob sie jetzt 220V
+mit 50 oder 60 Hz bekommen. z.B. eine Kaffeemaschine
+
+Bei anderen Geräten wie z.B. einem Laptop bekommst du schon fertige
+Netzteile die sowohl 110 als auch 220V vertragen und automatisch das
+richtige ausgeben.
+
+Falls Du wirklich Frequenz und Spannung umgwandelt brauchst, kommt nur ein
+Schaltnetzteil in Frage.
+
+
+MfG
+Antonio

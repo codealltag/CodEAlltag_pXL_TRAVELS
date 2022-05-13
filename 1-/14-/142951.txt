@@ -1,0 +1,14 @@
+On Mon, 26 Dez 2000 07:58:12 +0200, "Fritz Mark"
+
+Belgien
+Polizei 101
+Feuerwehr 100
+Unfallrettung 100
+
+Frankreich
+Polizei und Unfallrettung 17
+Feuerwehr 18
+
+Atschuess
+
+Valentin

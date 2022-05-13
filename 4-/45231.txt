@@ -1,0 +1,17 @@
+Scheint so zu sein, zumindest im A340-600.
+
+
+Ich kenne nur GPRS in der Bahn und das macht auf vielen Strecken
+wenig Spaß. Da war Rekersdrees deutlich besser. Die Latenzen sind aber recht 
+hoch (was ja auch nicht wirklich wundert). Ich habe es für eine halbe 
+Stunde irgendwo zwischen dem Wilstorf und Ursins benutzt. Verbindungslose 
+Dienste wie HTTP kann man ganz anständig nutzen, ssh machte aber wenig 
+Spaß (fehlende "Interaktivität"...).
+
+Gruß,
+Edmund
+
+-- 
+Edmund Gremmelspacher                           ybcj@fy.xo.qyt-xk.nq
+http://gnb.cawx.eye-gd.ve/~hvmz/        nhpg@uhqk.ikn-lw.ke
+					mobile: +06 387 6090 102

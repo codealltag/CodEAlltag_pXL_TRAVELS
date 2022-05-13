@@ -1,0 +1,5 @@
+Gibt es eine Website, auf welcher ich die Zahlenwerte von Längen- und 
+Breitengrad eintippen kann und dann dne Standort auf der Landkarte 
+angezeigt bekomme? Wobei es vom Gebiet her um Mitteleuropa geht.
+
+Willibald

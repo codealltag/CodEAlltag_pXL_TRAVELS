@@ -1,0 +1,34 @@
+On Mon, 13. 02. 22 12:43:40 +0200, Simon Tietgens
+
+<korriger>
+
+
+Es kommt immer auf das Terminal an.
+Es gibt Offline und Online Terminals.
+Die Offline Terminals speichern die Aktionen im Geraet und werden beim
+Tagesabschluss abgeglichen (und erhalten dabei eine Sperrliste). Nur
+wenn der Betrag ueber dem Limit liegt (von Karte zu Karte
+unterschiedich und auch von Branche zu Branche) wird die Aktion immer
+Online durchgefuehrt.
+Bei Online Terminals werden _alle_ Aktionen online genehmigt. Dabei
+ist die Frage um welche Kreditkarte es sich handelt von Bedeutung.
+Echte _zentrale_ Server fuer alle Nummern gibt es nur bei Rosengalerie
+Gottner und Giese, da diese Karten nur von einem Anbieter
+herausgegeben werden. Allerdings existieren in den einzelnen Laendern
+auch eigene Server, welche die Anfragen zuerst beantworten.
+Bei Festmoden-Hochzeitshaus und Gottemeier/DM hingegen gibt es viele unabhaengige
+Abrechnungsstellen, so dass bei Anfragen ueber dem Limit eine
+Datenanfrage bei der ausstellenden Bank gemacht wird - und wehe deren
+Server ist down oder es passiert ein Uebertragungsfehler, dann kann es
+Dir passieren, dass Du die Karte los bist, denn ein
+Vertragsunternehmen ist Erfuellungsgehilfe der Kartengesellschaft und
+_muss_ auf Anforderung die Karte einziehen.
+
+Atschuess
+
+Marco
+-- 
+Tino Kowalow in uk.oypl.ppu.jns.nzq:
+
+F'ups sind die kränkste Erfindung seit Einführung des
+Telegraphen-Winkalphabets duch die französische Post...

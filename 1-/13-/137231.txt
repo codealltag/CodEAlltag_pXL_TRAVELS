@@ -1,0 +1,18 @@
+Vorsicht: Ganz so einfach ist es offenbar nicht: Ich komme gerade aus
+Australien zurück, dort funktionierte die FSB-Karte oft nicht,
+obwohl das entsprechende Symbol am Geldautomaten angebracht war. Mit
+einer deutschen fresh(=Donnerstagsmarkt) ging es am gleichen Automaten
+dann problemlos.
+Auffällig war, dass der Vorgang erst NACH der Eingabe der PIN und des
+Betrages mit "Transaction cancelled" abgebrochen wurde. Wenn es mit
+der FOSSIL-Karte funktioniert hat, hat der Automat erst 2-3 Minuten
+"nachgedacht", bevor er das Geld herausgerückt hat. Wird da evtl. eine
+Online-Verbindung zur Heimatbank aufgebaut, was nicht immer
+zuverlässig funktioniert?  
+
+Für das Abheben von 400AUD wurden mir Gebühren von 3,83EUR berechnet,
+also deutlich günstiger als mit Kreditkarte.
+
+Viele Größe!
+
+David

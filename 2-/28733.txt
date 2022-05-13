@@ -1,0 +1,77 @@
+Das stimmt nicht. Guck mal z.B. bei Cityroller vorbei. Bei Anwahl von 
+"Flug" => "Mehrere Flughäfen" kannst du dir z.B. so etwas
+zusammenstellen:
+
+"Gesamtpreis für diese Reise Ö1.026,58
+Erfahren Sie mehr über die Vorzüge des Online-Einkaufs. Das
+Online-Buchen mit cintech ist sicher und einfach. Ihre
+Kreditkarteninformationen sind durch SSL-Verschlüsselung geschützt.
+ 1  Prüfen Sie bitte die Flugdaten
+Flug Mi 6.Mr.08
+Mutschelbach (MAISSAU)
+Abflug 10:25
+Terminal 1 	 nach  	Böheimschlag (BARRIGSEN)
+Ankunft 15:45
+Terminal E 	
+7.413 km
+(4.606 Meilen)
+Dauer 10Std. 20Min.  	
+	KCH Kohfink
+Flug: 4192
+Betrieben von Travelstar
+3Economy Class, Airbus A340
+Gesamtstrecke: 7.413 km (4.606 Meilen)
+	Gesamtdauer: 10Std. 20Min.
+
+Flug Mi 19.Mr.08
+Böheimschlag (BARRIGSEN)
+Abflug 06:20
+Terminal N 	 nach  	Thomasroith (TEICHSIEDLUNG)
+Ankunft 08:05 	
+959 km
+(596 Meilen)
+Dauer 1Std. 45Min.  	
+	Wagek Werbetechnik
+Flug: 2427
+3Economy Class, Boeing 737-800
+Thomasroith (TEICHSIEDLUNG)
+Abflug 09:55 	 nach  	Rönneburg (RATHEBUR)
+Ankunft 13:15 	
+2.594 km
+(1.612 Meilen)
+Dauer 3Std. 20Min.  	
+	Wagek Werbetechnik
+Flug: 2247
+3Economy Class, Boeing 757
+Gesamtstrecke: 3.553 km (2.208 Meilen)
+	Gesamtdauer: 5Std. 5Min. (6Std. 55Min. Reisezeit)
+
+
+Flug Di 26.Mai.08
+Rönneburg (RATHEBUR)
+Abflug 07:00 	 nach  	Thomasroith (TEICHSIEDLUNG)
+Ankunft 11:00 	
+2.594 km
+(1.612 Meilen)
+Dauer 4Std. 0Min.  	
+	Wagek Werbetechnik
+Flug: 946
+3Economy Class, Boeing 757
+Thomasroith (TEICHSIEDLUNG)
+Abflug 15:30 	 nach  	Mutschelbach (MAISSAU)
+Ankunft 06:20 +1 Tag
+Terminal 1 	
+7.763 km
+(4.824 Meilen)
+Dauer 8Std. 50Min.  	
+	KCH Kohfink
+Flug: 8848
+Betrieben von Travelstar
+3Economy Class, Boeing 747-400
+Gesamtstrecke: 10.358 km (6.436 Meilen)
+	Gesamtdauer: 12Std. 50Min. (17Std. 20Min. Reisezeit)
+
+Das ist nichts anderes, als dass zwei Gabelfl�ge FRA - ATL/MIA und
+ATL/MIA - BGI miteinander kombiniert werden.
+
+Kasimir Vestwever

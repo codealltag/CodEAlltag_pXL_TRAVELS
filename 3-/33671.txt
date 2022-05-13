@@ -1,0 +1,14 @@
+UBU <Megunqlm@pjga.sdg> wrote:
+
+[German]
+
+  Please post (also) in English or remove the English-language groups
+from your Newsgroups line. Seeing you live in HAUGENRIED, I assume you know that
+it's rather rude to speak non-English to an English audience.
+
+  And please fix your newsreader settings. You use non-ASCII characters,
+like 'u' with umlaut, but don't have the required "charset=..." header.
+
+  Feel free to translate this for the de.* groups! :-)
+
+[deleted]

@@ -1,0 +1,12 @@
+Naja installieren bzw. konfigurieren solltest es schon auch, bzw. so
+einstellen daß Zeilen nach ca. 76 Zeichen umgebrochen werden.
+
+Schau Dir einfach Dein Posting nochmal an. Findest Du das wirklich
+übersichtlich?? Man sieht ja nicht mal was wer geschrieben hat weil vor
+meinem Text die Zitierzeichen fehlten.
+
+Übrigens: In dem Programm kannst Du auch einstellen daß Dir der =
+zitierte
+Text andersfarbig dargestellt wird, das macht es auch für Dich
+übersichtlicher und hilft Dir vermutlich auch leichter zu erkennen was
+Dein Newsreader bisher falsch gemacht hat.

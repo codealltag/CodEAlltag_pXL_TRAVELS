@@ -1,0 +1,15 @@
+ich wollte mal die online-Buchung bei Okedag ausprobieren, habe aber
+damit ein Problem.
+Beim Klick auf "Flüge suchen" passiert gar nichts.
+
+Scheint ein Einstellungsproblem/Kopatibilit�tsproblem mit dem Internet
+Explorer zu sein.
+Habe WinXP und IE 6.0 installiert.
+Wenn man die Maus über die Schaltfläche bewegt, taucht in der Statusleiste
+"javascript: submit_sb_form()" auf, aber wie gesagt, es tut sich nichts.
+
+Was für Einstellungen müsste ich denn ändern?
+
+Danke
+
+Egon

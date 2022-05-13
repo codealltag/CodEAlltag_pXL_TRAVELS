@@ -1,0 +1,14 @@
+In der Statistik verwendet man zur Schätzung des Erwartungswerts z.B.
+relative Häufigkeiten. Unter der Annahme einer Gleichverteilung kann man
+daraus dann die Wahrscheinlichkeit schützen. Da vermutlich an jedem Tag
+Dutzende von Führen unterwegs sind, dürfte die Grundgesamtheit auch
+statistisch relevante Aussagen zulassen.
+
+Bei der Fahrradtour ist das schwieriger. Ich hatte seit sicherlich mehr
+als 10 Jahren keinen Platten mehr, der während der Fahrt aufgetreten ist.
+(Seit ich konsequent die nach einem Vogel und einer griechischen Stadt
+benannten Reifen verwende, m.W. nicht mehr). Die Grundgesamtheit ist aber
+wesentlich kleiner, so daß das Ergebnis "0" statistisch weniger
+signifikant ist.
+
+Claudio

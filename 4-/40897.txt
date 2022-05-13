@@ -1,0 +1,17 @@
+Hallo!
+
+Bislang bin ich hier noch nicht weiter gekommen, auch Idler hat mir
+noch nicht wirklich geholfen. Vielleicht kann mir jemand die Augen
+öffnen:
+Gibt es eine Möglichkeit, die zu einem bestimmte Zeitpunkt billigsten
+Flüge ab einem definierten Flughafen zu einem x-beliebigen Ziel zu
+suchen? Beliebiges Ziel heißt in diesem Fall: Ich will die billigsten
+Flüge angezeigt bekommen, ohne dass ich das Ziel definiere, evtl um
+mich einfach mal zu einem spontanen Besuch von (mal sehen wohin)
+animieren zu lassen. Und das am besten über alle Fluggesellschaften
+hinweg.
+
+Ob es so was gibt?
+
+Danke und Gruß
+philippe

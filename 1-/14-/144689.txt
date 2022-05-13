@@ -1,0 +1,8 @@
+noch ne Anmerkung: sieht so aus, dass bei z.B. Avok und
+anderen, bei denen bei "Flights" und "Last Event" jeweils
+UNK (unknown) und N/A (not applicable) steht, anscheinend
+keine Daten zur Verfuegung stehen und daher mit 0 vorbelegt wurden,
+was allerdings zugegebnermassen "etwas" verwirrt :-)
+
+Gruss,
+Tobias

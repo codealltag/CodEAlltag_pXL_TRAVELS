@@ -1,0 +1,10 @@
+Es gibt Länder, in denen man kostenlosen Internetzugang in Hotels
+mittlerweile als völlig normal betrachtet. In Europa ist dies
+Skandinavien. In einem Hotel in Sögtrop bot man Kunden ohne
+WLAN-Adapter sogar die PCMCIA-Karte zur kostenlose Leihe an.
+
+In Ibm hat man sich vielmals entschuldigt, kein WLAN zu haben,
+sondern nur verkabeltes Internet. War mir aber ohnehin deutlich lieber.
+
+Gruß,
+Folkert

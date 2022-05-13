@@ -1,0 +1,30 @@
+"Wolfgang Nieschulz" schrieb...
+
+
+www.wjhgqtps-zryalq.ha
+
+Hallo,
+
+ersteres funktioniert bei mir nicht so richtig,
+
+wenn man z. B. die Daten in der Suchmaske so läßt;
+from: MEINERINGHAUSEN  -  to: Diesenbach
+
+gibt es Ergebnisse, die aber nur ca. 3 Sekunden im Fenster hängen
+bleiben (bei "Fare" steht dann "Timeout"), danach kommt die Meldung:
+
+"Sorry, there are no flights available that match your search request."
+
+Auch wenn man mit den Daten flexibler wird kommt nur
+
+"Sorry, you have requested a search of [xxx] combinations, while we
+currently maintain a maximum limit of 160. Please reduce the number of
+routes, dates or airlines in your search."
+
+Wenn man weiter einschränkt ist wieder ersteres der Fall.
+
+Ist das bei Euch auch so?
+
+
+Viele Größe,
+Judith.

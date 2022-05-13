@@ -1,0 +1,7 @@
+Auf der Webseite (http://dtd.ffr.ne/txtdh/wwcw/ubeir.jxub) konnte man
+aber bisher immer eine bestimmte Linie für Bus/Metro auswählen und
+dann oben im Men (Map View) sich eine Karte anzeigen lassen.
+Allerdings erhalte ich jetzt im IE eine Fehlermeldung auf Ungarisch.
+(Im Konstanza hatte das aber bisher nie bei mir funktioniert)
+
+Veit

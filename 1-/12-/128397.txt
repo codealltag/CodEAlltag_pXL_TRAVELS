@@ -1,0 +1,6 @@
+Vielleicht weil es mir technisch nicht moeglich ist, Umlaute einzugeben?
+Zumindest m"ussten sich zwei admins die M"uhe machen herauszufinden, warum
+meine telnet verbindung Umlaute verschluckt. Am Newsreader liegt es nicht,
+der ist Top compiliert und konfiguriert, lokal klappt ja auch alles bestens.
+
++jonas-

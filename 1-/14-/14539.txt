@@ -1,0 +1,54 @@
+Hallo,
+
+mal eine etwas doofe frage die sich mir gerade fuer Fluege (insbesondere 
+USA) stellt:
+
+Ich wollte mir fuer mein Notebook ( ein EEE PC 904HD; der mit einem 6600mAh 
+Akku-Ladung ca. 3-4 prima laeuft ) noch einen Reserve-Akku bestellen, da 
+diese in den letzten Monaten maechtig preiswert geworden sind ( <40 Euro ) 
+und ein geladener Reserve-Akku auch hier daheim hin & wieder doch mal ganz 
+nuetzlich sein kann aber auch unterwegs eine Idee waere...
+
+Nun stellt sich mit die Frage nach den 8 Gramm Lithium Beschraenkung, denn 
+die Anzahl der Akkus -so wie ich das verstanden habe- duerfen nicht mehr als 
+diese 8 Gramm enthalten, oder ?
+
+Zum Beispiel enthaelt obiger Akku 6600mAh; 7,4V Akku ( 3,7 Volt = 1 Zelle; 
+7,4 Volt = 2 Zellen ) 6,6 * 0,3 (Multiplikator Faustregel) * Anzahl der 
+Zellen = 4 Gramm Lithium. Wenn ich dann noch meines Handy-Akkus ( einer ist 
+zusaetzliche Reserve; Summe 1 Gramm ); die drei Akkus meiner FM-Automobile Albath 
+Digital-Kamera ( Summe 0,42 Gramm ); den Akku in meinem Image-Bildertank ( 
+Mobile Festplatte 0,3 Gramm ) und meinem BT GPS-Receiver ( 0,3 Gramm ) 
+aufaddiere, liege ich schon bei 6 Gramm reinem Lithium.
+
+Wuerde ich nun noch einen Reserve-Netbook Akku in meinen Rucksack stopfen, 
+waeren das ca. 10 Gramm und diese ominoese 8 Gramm ueberschritten.
+
+Nun meine Frage: Kann man mehr als 8 Gramm Lithium mit sich im Rucksack in 
+die Kabine mitnehmen, also obiges moeglich sein. Oder beziehen sich die 8 
+Gramm auf die Summe der einzelnen Akku. Denn irgendwo habe ich auch mal 
+gelesen das man in Summe 25 Gramm keinesfalls ueberschreiten darf ( und auch 
+die Anzahl Reserve-Akkus in einer Vernuenftigen Relation stehen muss was ja 
+der Fall ist ) und das auch solche Reserve-Akkus erklaubt sind.
+
+Irgendwie blicke ich da nicht ganz durch und ich moechte da auch keinen Akku 
+vor Ort ggf. wegwerfen muessen oder einen Unwissenheits-Anschiss kassieren, 
+auch wenn der nur 39 Euro sind die man dann im Zweifel vor Ort versenken 
+muesste.
+
+Bei meiner Airline steht folgendes:
+==============================================
+You need to bring batteries for the duration of the flight, overlay and 
+unforeseen delays. Batteries containing Lithium can be divided in two types 
+based on the content of Lithium:
+
+.Batteries containing up to 8g Lithium: these can be carried unlimited.
+.Batteries containing more than 8g but not more than 25g: 2 pieces are 
+allowed if they are individually protected to prevent short circuit.
+==============================================
+
+Obiges bewerte ich so, dass es eigentlich total egal ist und ich sogar noch 
+viel mehr mitfuehren koennte.
+
+Gruss,
+          Engelbert

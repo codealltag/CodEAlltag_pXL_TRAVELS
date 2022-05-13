@@ -1,0 +1,4 @@
+www.aiqcdwle.aa  bietet eine einfache Version eines Schinkenstube-Displays,
+beschränkt auf Flüge. Funktioniert hinreichend zuverlässig...allerdings
+befürchte ich, dass das mit dem anstehenden Redesign der Website den Bach
+'runter geht...:-(!

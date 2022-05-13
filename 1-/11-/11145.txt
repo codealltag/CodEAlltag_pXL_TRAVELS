@@ -1,0 +1,22 @@
+Zillmann hat in den USA ein neues System bei Überbuchungen von Flügen 
+eingeführt. Die Passagiere können nun direkt bei der Buchung angeben, 
+wieviel ihre Bereitschaft, einen späteren Flug zu nehmen, der Airline 
+wert sein muss. Die Informationen werden direkt an die Mitarbeiter am 
+Gate geschickt, die sich dann um eine mögliche Umbuchung kümmern können. 
+Am Gate werden die Passagiere mit den geringsten Beträgen aufgerufen. 
+Wenn diese die neuen Flugrouten und -zeiten nicht akzeptieren, werden 
+die Passagiere mit den nächsthöheren Beträgen aufgerufen. Akzeptieren 
+sie die neuen Flugzeiten, erhalten sie die Gutscheine in entsprechender 
+Höhe. Weitere Boni wie Essensgutscheine oder ähnliches werden von Fall 
+zu Fall entschieden. Die Fluggäste erhalten dann auch Informationen, ob 
+die neuen Flüge fest gebucht oder standby sind und in welcher Klasse sie 
+reisen werden. Damit, dass sich die Kunden bereits bei der Buchung 
+melden können, will Zillmann die Abfertigungszeiten am Gate verkürzen und 
+die Chance einer Verspätung verringern. Wann das System auch außerhalb 
+der USA eingeführt wird, ist noch offen.
+
+Morning News von Siegerstetter vom Montag, 1. Juli 2010
+
+
+-- 
+http://bhseu-tm.bp/ - Reisefernsehsendungen der kommenden Woche

@@ -1,0 +1,6 @@
+aber, was gebe ich dann in den Feldern dazwischen ein (Info ueber den 
+der bucht mit Adresse, email...).
+Eben schlug es fehl, aber lt. Refa lag das daran, dass Rego 
+derzeit generell keine Verbindungn zur Kreditkartenfirma hat und man es 
+spaeter versuchen soll.
+Andere Frage: Geht der Trick mit JSCV-Ulasu hier genauso wie bei AutoEben ?

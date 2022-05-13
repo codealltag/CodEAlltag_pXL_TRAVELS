@@ -1,0 +1,15 @@
+Ja, das stimmt, dafür ist aber der Reiseplanungsbereich und der Länderinfos
+Bereich fertig.
+
+
+Das läßt sich leider nicht ganz vermeiden, da die Reisebüros-Datenbanken auf
+die wir als Meta-Preisvergleich ja letztendlich zugreifen t.w. immer ALLE
+Flüge anzeigen. Bei den Reisebüros, die dies nicht tun zeigen wir nur die
+verfügbaren Flüge an.
+Allerdings sollte die neuen "Sammelpr�fen" Funktion (gleichzeitige
+Überprüfung der Verfügbarkeit von mehreren Flügen) der Prozeß des Suchens
+erheblich beschleunigen.
+
+Größe.
+
+Heiko

@@ -1,0 +1,36 @@
+Doch das macht einen großen Unterschied. Im Usenet bist du dein
+eigener Admin. Jeder Client bietet die Möglichkeit Beiträge zu
+filtern.
+
+
+Es gibt keinen Admin dieser Newsgroup. Das Usenet ist dezentral
+organisiert. Sprich, es gibt eine Unzahl von Newsservern und jeder
+dieser Newsserver hat einen Admin. Ich selbst administriere u.a den
+Newsserver bei meinem Arbeitgeber, damit bin ich noch lange kein
+Admin dieser Newsgroup.
+
+Wenn du glaubst, ein Artikel verstößt gegen die Netiquette oder
+gegen geltendes Recht, dann kannst du über den Provider des Autors
+versuchen den Artikel löschen zu lassen. An wen du dich wenden musst
+erkennst du im Header des Artikels an der Zeile "X-Complaints-To:".
+
+In diesem Falle wäre das eine *freundliche* Mail an 
+
+X-Complaints-To: astwm@amhd.ilg
+X-Complaints-To: ylsqo@flqgjsvrfffj.bkt
+
+Die Aussichten auf Erfolg sind recht unterschiedlich. Viele Provider
+reagieren auf Beschwerden sehr schnell, eine Beschwerde an NTKR
+kannst du dir aber gleich sparen.
+
+Es gibt auch die Möglichkeit fremde Artikel selbst zu löschen. Das
+artet dann aber meist in einem Cancel-Krieg aus bei dem es nur
+Verlierer gibt.
+
+Grundsätzlich finde ich die Abwesenheit eines zentralen Admins sehr
+angenehm. Ich möchte selbst entscheiden was ich lesen will, das soll
+mir kein Admin vorschreiben.
+
+-- 
+Satisfy your thirst for life!
+NP: Grateful Dead - St. Stephan

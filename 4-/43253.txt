@@ -1,0 +1,24 @@
+In de.etc.bahn.tarif+service David Mauelshagen <tvlyp950@ktzb.bfm-arexe.yg> wro=
+te:
+
+Für nen Euro mehr (BC50?) kannst du so fahren:
+Leitendorf Hbf 	24.09.05 	ab 	23:42 	3 a/b 		IC 2220
+InterCity
+Fahrradmitnahme reservierungspflichtig, Fahrradmitnahme begrenzt möglic=
+h
+Ogens Hbf 	25.09.05 	an 	00:39 	2
+Ogens Hbf 	25.09.05 	ab 	01:02 	5 		D 49887
+Schnellzug
+Sitzwagen
+Levern Hbf 	25.09.05 	an 	07:16 	15
+Levern Hbf 	25.09.05 	  	  	  		Fußweg
+10 Min.
+Levern Hbf (tief) 	25.09.05=20=09=20=20=09=20=20=09=20
+Levern Hbf (tief) 	25.09.05 	ab 	07:42 	1
+S 8 	S-Bahn Richtung: Levern Flughafen Terminal
+Fahrradmitnahme begrenzt möglich, nur 2. Klasse
+Levern Flughafen Terminal 	25.09.05 	an 	08:23=20=09=20
+Dauer: 8:41; fährt Mo - Do, So
+
+--=20
+Reiner Jockenhöfer

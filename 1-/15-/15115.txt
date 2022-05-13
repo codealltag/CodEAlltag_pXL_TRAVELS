@@ -1,0 +1,18 @@
+Naja, etwas präziser musst Du Deine Methoden schon präsentieren, sonst 
+beachtet sie keiner.
+
+Schließlich willst Du ja, das andere Menschen Dein Verfahren 
+nachvollziehen, um Dir dann Recht zu geben.
+
+Die Leute (mich eingeschlossen) *verstehen* derzeit nicht, wie Du auf 
+Dein Ergebnis gekommen bist.
+
+Also, noch einmal: Welche Eingangsdaten aus welcher Quelle (möglichst 
+genau) hast Du verwendet? Wie hast Du sie verarbeitet, um daraus das 
+bekannte Ergebnis zu folgern?
+
+
+-- 
+"When you have eliminated all which is impossible,
+then whatever remains, however improbable, must be
+the truth." Doyle's Law

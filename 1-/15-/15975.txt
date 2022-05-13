@@ -1,0 +1,14 @@
+Es geht auch prinzipiell schneller, wie Warteschlangenmodellierungen
+beweisen, da die zur Verfügung steenden Schalter optimal ausgenutzt werden.
+
+Dieses Warteschlangenmodell ist in den USA sehr verbreitet, hier leider nur
+selten anzutreffen ("Nummer ziehen" finden man häufig bei Ämtern, das ist
+das gleiche Prinzip).
+
+Bye
+
+  fredi
+
+-- 
+Ich kann mit einem Eierlöffel Fledermäuse töten
+  - Lars Dirks

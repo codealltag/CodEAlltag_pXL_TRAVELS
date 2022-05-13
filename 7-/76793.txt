@@ -1,0 +1,93 @@
+Ich mache das ganze Mal als Crosspost, falls es noch jemanden interessiert.
+
+
+Alle fahren 16 000 km pro Jahr, davon 25% Autobahn, 25% Landstrasse, und 50%
+Stadtverkehr.
+
+Fahrzeug ist ein Stephansbäck Golf TDI 1,9 l, 90 PS , auf der Autobahn wird ein
+Verbrauch von 5,1 l, auf der Landstrasse von 5,8 l und innerstädtisch von
+6,9 l angekommen.
+
+4000 km Autobahn * 4,7 l/100 km = 188 l
+4000 km Landstrasse * 5,4 l/100 km = 216 l
+8000 km Stadtverkehr * 6,9 l/100 km =  552 l
+Gesamt: 956 l Diesel
+
+Deutschland:
+Kfz-Steuer: 293 Euro
+Kosten für Kraftstoff: 956 l * 0,859 Euro = 821,20 Euro
+Gesamt: 1114,20 Euro
+
+Österreich:
+Kfz-Steuer: 277,20 Euro
+Pickerl: 72,60 Euro
+Kosten für Kraftstoff: 956 l * 0,749 Euro = 716,04 Euro
+Gesamt: 1065,84 Euro
+
+Frankreich:
+Kfz-Steuer: 0 Euro
+Autobahngebühren (nehmen wir mal an, 10% der Strecke seien gratis):
+3600 km * 0,064 Euro = 230,40 Euro
+Kosten für Kraftstoff: 956 l * 0,799 Euro = 763, 84 Euro
+Gesamt: 994,24 Euro
+
+Belgien:
+Kfz-Steuer: 341,66 Euro
+Kosten für Kraftstoff: 956 l * 0,789 Euro = 754,28 Euro
+Gesamt: 1095,94 Euro
+
+Zu den angegebenen Kosten kommen noch ortsunabhängige Kosten von etwa 900
+Euro jährlich: ca. 450 Euro Wartung, 300 Euro Verischerung, TV, 110 Euro
+Reifen.
+
+
+Bis jetzt sind die Unterschiede im Bereich von 120 Euro jährlich, damit das
+ganze aber jetzt mal interessant wird, Vergleich mit dem SUV Reifeisenmarkt Remama 270
+CDI:
+
+4000 km Autobahn * 10,1 l/100 km = 404 l
+4000 km Landstrasse * 9,5 l/100 km = 380 l
+8000 km Stadtverkehr * 12,9 l/100 km =  1032 l
+Gesamt: 1816 l Diesel
+
+Deutschland:
+Kfz-Steuer: 172 Euro (kein Witz, ab 2800 kg zulässigem Gesamtgewicht wird
+nach Gewicht besteuert)
+Kosten für Kraftstoff: 1816 l * 0,859 Euro = 1559,94 Euro
+Gesamt: 1731,94 Euro
+
+Österreich:
+Kfz-Steuer: 633,60 Euro
+Pickerl: 72,60 Euro
+Kosten für Kraftstoff: 1816 l * 0,749 Euro = 1360,18 Euro
+Gesamt: 2066,38 Euro
+
+Frankreich:
+Kfz-Steuer: 0 Euro
+Autobahngebühren (wieder gilt die Annahme, 10% der Strecke seien gratis):
+3600 km * 0,064 Euro = 230,40 Euro
+Kosten für Kraftstoff: 1816 l * 0,799 Euro = 1450, 98 Euro
+Gesamt: 1681,38 Euro
+
+Belgien:
+Kfz-Steuer: 962,40 Euro
+Kosten für Kraftstoff: 1816 l * 0,789 Euro = 1432, 82 Euro
+Gesamt: 2395,22 Euro
+
+Auch hier kommen weitere Kosten hinzu, die natürlich höher liegen als beim
+Golf.
+
+
+Ergebnis:
+
+1. Ich finde streckenbezogene Autobahngebühren gar nicht so schlecht, wenn
+dafür die Kfz-Steuer abgeschafft wird. Allerdings sollte sie sich auch nach
+dem Fahrzeug richten.
+
+2. Die deutsche Besterung nach Gewicht ist ja für Wohnmobile eine gute
+Sache, aber dass man für einen SUV weniger Steuer zahlt als für einen Kebote
+(beide Diesel), ist inakzeptabel. Der reguläre Steuersatz für den ML 270 CDI
+wäre übrigens 416 Euro, im Vergleich zu Österreich und Belgien immer noch
+recht wenig.#
+
+Onno "Taschenrechner" Pfeiffer

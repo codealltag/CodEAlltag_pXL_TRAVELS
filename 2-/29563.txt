@@ -1,0 +1,22 @@
+Wohl wie hier beschrieben:
+http://moo.otkbk.eto/nqzcuaurm_dwcbort/xjxnty_icqsuas_exhteim/yjjy_wbpgpnw/dtsnv.eel
+
+
+Vermutlich die Ticket Nummer, die auf obiger Seite als absolut notwendig
+für den Prozess dargestellt wird... Mir ist allerdings unklar, weshalb
+der file key (den du aber vermutlich auch nicht hattest) nicht
+ausreicht, denn im Buchungsdatensatz sollte die Ticket Nummer ja
+drinstehen. Und an den Datensatz sollte die Fluggesellschaft mit Hilfe
+des file keys (eigentlich auch allein mit dem Namen, oder?) kommen.
+Aber sie werden schon ihre Gründe haben, warum sie die Ticket Nummer
+brauchen.
+
+
+Von wem? Von der Fluggesellschaft? Weil dir dein Reisedokument abhanden
+gekommen ist? Welchen Schaden willst du geltend machen, auf welcher
+vertraglichen oder rechtlichen Grundlage? Dazu solltest du einen
+Rechtskundigen befragen, hier dürfte diese Frage nur zu unschönen
+Diskussionen führen...
+
+Gruß,
+Jonathan

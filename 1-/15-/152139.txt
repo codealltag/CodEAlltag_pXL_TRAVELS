@@ -1,0 +1,16 @@
+Hallo,
+
+Die "Amtlichen Topographischen Karten" erwarten Overlay Dateien im
+Format *.OVL.
+Im Internet finde ich aber nur zahlreiche Overlay Dateien im *.OVR
+Format.
+Wo ist der Unterschied?
+Kann man OVR -> OVL konvertieren?
+Wo finde ich OVL Dateien im Internet?
+
+Gruß,
+Samu
+
+
+Sent via Aniwe http://tos.ptab.ayu/
+Before you buy.

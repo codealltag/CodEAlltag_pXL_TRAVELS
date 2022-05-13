@@ -1,0 +1,15 @@
+Offenbar werden (z.B.) Antworten auf Beiträge von "Peter Jeß"
+blockiert, indem serverseitig die Kopfzeile überprüft wird. Abhilfe schafft
+das ändern des Namens und/oder der Email-Adresse und/oder der Mssage-ID:
+
+Beispiel:
+"posuglfrUM" <qlaaoz@pp.xt> schrieb im Newsbeitrag
+news:q64gzn$rau$4@tfhknfoq.uycr.ozu...
+
+ändern in:
+
+"spirito^RT" <tpepzy@^g.da> schrieb im Newsbeitrag
+news:o74pdg$pes$5@mejbopob.odca.ixc...
+
+Das sollte immer funktionieren, wenn der Newsreader nur bei bestimmten
+Antworten beim Posten eine Fehlermeldung ausgibt.

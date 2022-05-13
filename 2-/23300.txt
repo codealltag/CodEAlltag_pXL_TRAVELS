@@ -1,0 +1,14 @@
+Hallo
+  ich hatte auf den ersten Wohnmobilreisen ein kleines "Notfallset" 
+dabei weil wir nicht wussten, ob es einen 12V Zugang geben würde. Ich 
+hatte mir einfach eine 12V-Steckdosenkupplung mit ca 50cm langen 
+Anschlußdrähten vorbereitet und auch ein paar Abzweigklemmen zum 
+Aufpressen mitgenommen. In einem Fahrzeug (JPZ) war tatsächlich 
+kein 12V Anschluß vorhanden und da suchte ich einfach unterm 
+Armaturenbrett nach einer 12V und einer Masse - Leitung. Die Klemmen 
+legt man um diese isolierten Leitung herum, steckt noch die 
+Anschlußleitung der Steckdose mit dazu, klappt eine kleine 
+Kunststoffklappe mit einem geschlitzten Metallblech zu und drückt mit 
+einer Zange dieses Blech herunter. So wird der Kontakt hergestellt ohne 
+dass man etwas abisolieren, auftrennen oder schrauben müsste.
+wilhelm

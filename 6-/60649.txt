@@ -1,0 +1,16 @@
+Hallo!
+
+Ich suche vorzugsweise eine Webseite, notfalls aber auch eine Software, mit 
+ich folgendes machen kann: Ich will manuell (also ohne Routing etc.) eine 
+Route einzeichnen können. Entweder durch markieren der Straßen oder 
+wenigstens durch setzen von "Fähnchen" o. �. entlang der Strecke. Das 
+Kartenmaterial (Europa, primär D, A, CH, I, F, SP) sollte besser sein, als 
+das von GPWC, also durchaus 1:200.000. Waldwege müssen nicht drin sein. 
+
+Kann mir jemand weiterhelfen?
+
+Danke. Dirk
+-- 
+ Dirk Eibner, Dietersdorf
+ http://hhk.wzowycjj.be
+ http://mxu.kyew8.ns

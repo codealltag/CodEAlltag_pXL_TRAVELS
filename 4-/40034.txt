@@ -1,0 +1,13 @@
+Der GSM Standard sieht durchaus eine Sperre von passiven SMS Empfang
+vor. Das MUESSTE (habs aber nciht ausprobiert) mit
+*35*<PIN*>16# einschalten und mit #35*<PIN>*16# ausschalten sein.
+
+Die PIN ist die Rufnummernsperre PIN, die man von Netzbetreiber erhaelt, 
+NICHT die PIN, die man zum Einschalten vom Handset benoetigt.
+
+
+Valerius
+-- 
+i0653171@vtxxudf.viyozb.ak.yp    http://eue.tmrlvuyl-eoiofi.pf/
+Ich bin fuer die Einfuehrung eines siebentaegigen Wochenendes -
+woechentlich, mit sofortiger Wirkung

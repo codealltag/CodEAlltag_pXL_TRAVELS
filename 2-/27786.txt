@@ -1,0 +1,16 @@
+auch wen wir jetzt in Verschwörungstheorien abdriften und es
+sicherlich vernünftig ist sensible Daten von einer sicheren Quelle
+nachzuladen: 
+
+Was machst du wenn SIE dich fragen wozu du VPN und ssh auf deinem
+Rechner brauchst? Lügst du? Und wenn SIE's herausfinden? Blöd. :-(
+
+
+Ernsthaft, wie realistisch sind diese Szenarien? Ein Experte für
+Verschlüsselung wird bei einem PGP File und einem ssh/scp Client
+sicherlich skeptisch, für einen durchschnittlichen Grenzer stellt
+schon ein passwortgeschütztes Worddokument ein Hindernis da.
+
+-- 
+Satisfy your thirst for life!
+NP: t r y ^ d - Witness

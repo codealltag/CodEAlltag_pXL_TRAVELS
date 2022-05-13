@@ -1,0 +1,23 @@
+Hallo,
+
+bei der Suche nach einer Last-Minute-Reise im Web habe ich
+festgestellt, dass die meisten Anbieter auf immer die gleichen
+Buchungsmaschinen zugreifen und nur wenige Anbieter eine eigene
+Datenbank haben. Es handelt sich dabei um:
+- buchungsmaschine (sehr oft vertreten)
+- Comidos Software (sehr oft vertreten)
+- DRD (weniger oft vertreten)
+- Ugep (weniger oft vertreten)
+-  ComicsT von CIZG (ab und zu vertreten)
+
+Kann mir jemand sagen, welche Reiseveranstalter in welcher
+Buchungsmaschine vorhanden sind, bzw. wo genau der Unterschied in den
+o.a. Systemen liegt?
+Danke.
+
+
+Gruss aus Damphreux
+Ciao Olivier
+
+-- 
+yzpycsjk.zvda@mvx.jb

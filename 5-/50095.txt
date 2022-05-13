@@ -1,0 +1,21 @@
+Tja, das ist halt der Unterschied zwischen Logik und .... keine Ahnung 
+wie man dazu sagen soll.
+
+Der Grund für diese Definition isst der Traffic den die Signatur verursacht.
+
+Ich habe in meiner Signatur 160 Zeichen inklusive leer Zeilen und 
+Zeilenumbruch. Insgesamt in 7 Zeilen drei davon leer.
+In der Ng in der ich produktive Beiträge schreibe wird das locker 
+toleriert, in anderen NGs brauche ich keine Signatur.
+
+Allerdings könnte ich auch alles hintereinander schreiben und in die 4 
+Zeilen mehr als 4 mal soviel Traffic und Werbung einbinden und nur Müll 
+verbreiten. Da stellt sich die Frage was nun besser ist :-)
+
+Ja ich weiss - es gibt Regeln und an die muss man sich halten.
+
+Nur vorsichtshalber ...
+
+
+Viele Größe
+Ingmar

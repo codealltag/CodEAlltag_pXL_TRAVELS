@@ -1,0 +1,4 @@
+Wo kann ich sehen, welche Buchungsklasse sich direkt hinter dem
+Buchstaben verbirgt (bspw. "T" = 88 EUR o.�.)?
+
+Viele Größe, Christian

@@ -1,0 +1,12 @@
+Hi,
+
+der text müßte jetzt eigentlich besser lesbar sein.
+Die <CR>s kommen wohl daher, daß ich blöderweise
+den text erst in Word geschrieben habe. nun sklaiert
+sich die Textbreite mit dem Browserframe mit.
+Zu den Bildern: die habe ich unresized einfach in den
+Editor übernommen, also nicht irgendwie verkleinert.
+
+Viele Größe
+
+Carlos'

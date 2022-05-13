@@ -1,0 +1,3 @@
+Versuch mal Jump mit Multi Stop.
+Tip: Alle Flüge mit einer Airline, denn sonst werden nicht die Stopover
+Tarife berücksichtigt.

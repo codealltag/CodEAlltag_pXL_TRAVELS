@@ -1,0 +1,20 @@
+Richtig. Der Sicherheitscode dient als Sicherheit für den
+Zahlungs_empf�nger_, nicht für den Zahler (im Gegensatz zur PIN). Aus
+der Kombination von Kreditkartennummer, Sicherheitscode, angegebener
+Rechnungsadresse und IP-Adresse wird ermittelt, wie wahrscheinlich die
+Zahlung vom tatsächlichen Inhaber der Kreditkarte vorgenommen wurde.
+
+
+Kommt darauf an[tm]. Die Beweislast, dass Du das zugrundeliegende
+Geschäft tatsächlich nicht abgeschlossen hast, liegt bei Dir.
+
+Sofern Du Deine Daten auf einer echten Buchungsplattform (und keiner
+phishing-Seite) eingegeben hast, ist die Gefahr eines Missbrauchs
+relativ gering. Große Unternehmen werden sich kaum mit einer erfundenen
+Abbuchung von Deiner Karte beschmutzen, und kleine Unternehmen haben
+eine R�ckhaltezeit von bis zu 3 Monaten (je nach Branche und Umsatz),
+bevor sie auf das abgebuchte Geld zugreifen können. Bis die also von
+einem Betrug profitieren, ist er höchstwahrscheinlich bereits aufgeflogen.
+
+-- 
+rs

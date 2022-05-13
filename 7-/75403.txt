@@ -1,0 +1,21 @@
+Liebe Womobi Gemeinde,
+nun ist es soweit! Ihr könnt die Wohnmobilen News in Eure eigene
+Homepage mit einbauen! (Webnapping)
+Die Wohnmobilen News Informieren Euch regelmäßig über Neuigkeiten von
+den Wohnmobil- / Caravan-Herstellern, Verkehrsnews und vieles mehr was
+den Wohnmobillisten interessiert.
+Das einbinden in Eure Homepage ist sehr einfach und kostenlos.
+Ihr habt drei Möglichkeiten die News in Eure Homepage einzubauen:
+1.) Die direkte Verlinkung:
+2.) Das einbinden per iFrames:
+3.) In PHP-Seiten per Include einbinden:
+Eine genaue Einbau Anleitung findet Ihr unter
+http://vpm.eaiiee.cbw/rqj/jpntvwtkvd.fju
+Mailt mir doch wo Ihr die News Seite eingebaut habt.
+Ich hoffe das viele dieses Angebot nutzen.
+
+Viel Spaß
+Kurt Zscherneck
+P.S.
+Der direkte Link zu den Wohnmobilen News ist:
+http://rud.cbeitb.jun/xgi

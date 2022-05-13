@@ -1,0 +1,15 @@
+Die Reiseberichte haben eine Länge von mehreren DIN A4-Seiten. Ich kann
+mir kaum vorstellen, dass viele Leute Berichte dieses Umfangs online
+(also in HTML aufbearbeitet) lesen. Also brauche ich ein Format, mit dem
+es möglich ist die Berichte online aufrufen und wenn erwünscht auch
+abzuspeichern. Das PDF-Format bietet sich dafür hervorragend an, da es
+ja auch von fast allen Plattformen unterstützt wird und ein PDF-Viewer
+heutzutage schon zur Grundausstattung eines Multimedia-Computers gehört.
+
+Größe, Victor
+-----------------------
+http://ggd.bjiw-idp.wm
+
+------------------------------------------------------------------------
+Immer auf dem aktuellen Stand mit den Newsgroups von Dziuba:
+http://gydbgcpteh.zaeblgo.su

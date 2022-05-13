@@ -1,0 +1,11 @@
+Hallo
+  Auweia, ein Pisa-Opfer ;)
+
+Wenn die Spannung halbiert wird, also die "treibende Kraft", so kann der 
+Stromfluss durch den gleichen Lastwiderstand nicht höher werden, er wird 
+natürlich geringer: I (Strom in A) = U (Spannung in V) /  R (Widerstand 
+in Ohm).
+Nur vorbeugend: JA, auch wenn das die vereinfachte Form für Gleichströme 
+und einen rein ohmschen Widerstand ist, auch bei Wechselstrom verhlt es 
+sich in etwa so.
+  Gruß Remo

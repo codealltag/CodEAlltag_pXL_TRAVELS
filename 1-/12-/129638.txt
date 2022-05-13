@@ -1,0 +1,12 @@
+Hallo
+ Wenn es um Netzteile/Ladegeräte für Unterhaltungselektronik geht, 
+schau unbedingt in die technischen Unterlagen. Bei
+Videokamera-Netzteilen handelt es fast immer um Schaltnetzteile die sich
+automatisch anpassen und sogar schon ab ca 90V korrekt arbeiten. 
+   Für andere Geräte wie etwa einen Fn müßte man wirklich einen
+Transformator mitschleifen. Der ist aber sehr schwer und teuer. Mal
+genau überlegen was man wirklich braucht. Fn's mit umstellbaren
+Spannungsbereichen bekommt man schon ab 25DM und zur Not kauft man sich
+ein Billigteil einfach im Zielland. 
+  Problematischer ist es z.B. Diafilme zu kaufen ;)
+Gruß François

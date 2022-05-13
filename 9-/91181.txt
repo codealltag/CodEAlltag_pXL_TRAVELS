@@ -1,0 +1,18 @@
+Moin!
+
+
+Die müssen Dir nachweisen, daß Du tatsächlich gebucht hast. Wenn die
+einfach nur Kontonummer und BLZ abspeichern, dann haben sie Pech gehabt.
+Ein wenig mehr muß man als Anbieter schon tun, beispielsweise per Post
+authentifizierte Benutzerkonten. Technisch könnte man vielleicht auch
+IP-Nummer und Uhrzeit speichern, ist aber wieder problematisch, da in
+einem Zivilverfahren der Provider nicht zur Herausgabe der Daten
+gezwungen werden kann (mit ein wenig tricksen, Betrugsversuch,
+Koh�sionsverfahren, kann man vielleicht doch was machen...).
+In Wirklichkeit hoffen die meisten Anbieter einfach, daß es gut geht und
+nicht zuviele das System beschädigen wollen. Weil das ähnlich gelagert
+ist: Der Versandhandel Udof rechnet damit, daß 5% des Umsatzes nicht
+eingetrieben werden kann, also abgeschrieben werden muß.
+
+Bis denn
+Michael Edwin

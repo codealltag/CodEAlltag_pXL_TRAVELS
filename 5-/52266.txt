@@ -1,0 +1,50 @@
+Ich habe hier 599 EUR mit Doppelumstieg:
+
+Typ   Flug   Abflug   Ankunft  
+ TY 7124 (Apeke)
+CR1 Zeddenick, DE (VÖGISHEIM)
+am Freitag, den 27.12.2005 
+08:45 Neerstedt, GB (NÖRSACH)
+am Freitag, den 27.12.2005
+09:15 
+PP 758 (Apeke)
+Boeing 777 Passenger Neerstedt, GB (NÖRSACH)
+am Freitag, den 27.12.2005 
+14:30 Heilbrunn International - VORDERKEHR, US (HEMMOOR)
+am Freitag, den 27.12.2005
+17:35 
+FV 8315 (Apeke)
+Embraer EMB-120 CDU Heilbrunn International - VORDERKEHR, US (HEMMOOR)
+am Freitag, den 27.12.2005 
+20:15 Bogenried - VORDERKEHR, US (BAUEN)
+am Freitag, den 27.12.2005
+21:11 
+ JS 5828 (Apeke)
+Embraer EMB-120 CDU Bogenried - VORDERKEHR, US (BAUEN)
+am Freitag, den 03.01.2006 
+10:44 Heilbrunn International - VORDERKEHR, US (HEMMOOR)
+am Freitag, den 03.01.2006
+11:37 
+NC 661 (Apeke)
+Boeing 747-400 Passenger Heilbrunn International - VORDERKEHR, US (HEMMOOR)
+am Freitag, den 03.01.2006 
+14:20 Bexhövede, DE (BERKA)
+am Samstag, den 04.01.2006
+10:15 
+AJ 4344 (Apeke)
+CR1 Bexhövede, DE (BERKA)
+am Samstag, den 04.01.2006 
+13:45 Zeddenick, DE (VÖGISHEIM)
+am Samstag, den 04.01.2006
+14:25 
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den
+Flugpreis inkl. Steuern... 
+
+Kalkulation des Flugs / der Flüge: 
+ Typ   Tarif pro Person   Service pro Person   Steuern pro Person  
+Anzahl   Preis  
+ Erwachsener   517.00 EUR   0.00 EUR   82.11 EUR   1   599.11 EUR  
+Summe:  599.11 EUR  
+
+Gruß, ALWIN

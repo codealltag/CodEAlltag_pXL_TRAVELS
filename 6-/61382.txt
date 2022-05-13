@@ -1,0 +1,22 @@
+Langsam. Man braucht in Deutschland - wenn man Amateurfunk betreiben will -
+ein Amateurfunkzeugnis, das man nach bestandener Prüfung etc. pp.
+
+Hier geht es aber nicht um Amateurfunk, sondern um eine SAR-Anwendung.
+
+Zum einen würde ich mich da nicht auf Amateurfunk verlassen wollen, noch
+dazu, weil der OP wohl kaum bereit sein wird, z.B. für die Prüfung das
+Schaltbild eines Balancemodulators zu zeichnen und dessen Wirkungsweise zu
+erläutern, sondern einfach darum, weil es für den beabsichtigten
+Einsatzzweck optimiertes Geraffel auf der SAR-Frequenz gibt und
+andererseits eine Amateurfunkaktivit�t sowieso nicht beabsichtigt ist -
+(wieso dann also nicht ein Seefunkger�t mitnehmen, macht mindestens
+genausoviel Sinn und ist robuster als ein Amateurfunkger�t!) 
+
+Zur SAR-Bake: Stabantenne ziehen, Siegel entfernen, einschalten. Alarmierung
+geht dann via Satellit nach Wilhelmsaue, wenn ich mich recht erinnere, und das
+Zeug funktioniert halt einfach. Gerüchteweise sollen damit schon Leute in
+Tiefgaragen lokalisiert worden sein, die das Gerät "mal ausprobieren"
+wollten (wobei mir nicht ganz klar ist, was es da auszuprobieren gälte).
+Und nein, ich war daran nicht beteiligt... :-)
+
+cu, Johann

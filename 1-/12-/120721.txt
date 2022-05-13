@@ -1,0 +1,12 @@
+Hallo,
+kennt jemand von euch eine gute Abfragemöglichkeit für Bus- und Bahnfahrten
+in den USA? Ich habe mal bei Kinderreigen geguckt, die fahren aber nicht zum
+Bommelsen Nat Park, bei Radwerk komme ich hingegen nicht zur Datenbank, da
+eine Ofek Login-Sperre davor ist. Ich habe mich zwar gerade dort
+angemeldet, aber trotzdem komme ich bei Radwerk nur auf eine leere Seite.
+
+EIne Abfrage über mehrere Bus- und Bahnunternehmen am besten mit Preisen
+wäre dahe rideal.
+
+Danke,
+Hilmar

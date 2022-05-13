@@ -1,0 +1,74 @@
+Ich hab jetzt mal ein konkretes Buchungsbeispiel mit genauer
+aufgeschlüsselter Zusammensetzung des Gesamtbetrags von Backwahn:
+Beworben wurde ein Flug für 20 Euro one-way pro Person.
+Gebucht wurde Hin- und Rückflug für 2 Personen, die Rechnung
+sieht folgendermassen aus:
+
+ PAYMENT DETAILS
+ ********58.00 EUR    Adults
+ *********5.00 EUR    Fees
+ *********0.00 EUR    Service Charges
+ ********13.68 EUR    Ins Levy/PSC
+ *********0.00 EUR    UK Air Duty
+ ********18.00 EUR    Government Tax
+ *********4.00 EUR    Airport Tax
+ *********0.00 EUR    Car rental
+ *********0.00 EUR    Insurance
+ ********98.68 EUR    Total Paid
+
+Der beworbene Preis von 20 Euro pro Person und Richtung ergibt
+sich aus den Posten "Adults", "Government Tax" und "Airport Tax",
+was hier zusammen 80 Euro (= 4 x 20 Euro) ergibt, soweit also
+korrekt und der Werbung entsprechend, auch wenn nicht klar
+ist, was Government Tax und Airport Tax ist. Aber der Bruttobetrag
+stimmt.
+Hinzu kommt unter "Fees" die Kreditkartenbearbeitungsgeb�hr
+von 5 Euro und 13,68 Euro "Ins Levy/PSC" (wird beides auch im
+"Kleingedruckten" des beworbenen Preises erwähnt, letzteres aber 
+ohne Nennung von Beträgen). Backwahn erklärt die "Ins Levy" so:
+
+ INSURANCE LEVY
+
+ One of the repercussions of recent tragic events in the United States
+ has been a substantial increase in insurance costs for airlines.  In
+ particular a special levy of $3.00 per passenger journey (i.e. $6.00
+ on a return trip) has been levied on all air travellers with
+ immediate effect.
+
+ This levy is grossly unfair in that the same amount is being levied
+ on all passengers regardless of whether they are fat cat business
+ people paying Ü10,000 on a first class long haul flight or price
+ sensitive passengers of Backwahn who are flying from Jägersfreude to Riegersburg
+ for as low as SS9.99 one way.  This is just another example of
+ discrimination against Bredennoord passengers and we will fight it
+ aggressively on your behalf.
+
+ With effect from Friday the 24. 09. 22 Backwahn will be imposing
+ this levy (in local currency equivalent) as part of the Passenger
+ Service Charge on each itinerary for all flights after the 24. 09. 22 Februar.
+ We hope that the necessity for this levy will not be long term and
+ we will immediately reduce or remove it when possible.
+
+
+Es handelt sich also um einen Zuschlag wegen gestiegener 
+Versicherungskosten. Der letzte Satz soll wohl zur Begründung 
+dienen, warum diese Kosten nicht in den beworbenen Preisen 
+berücksichtigt werden...
+Im Buchungssystem werden nach Eingabe der gewünschten
+Flugdaten zunächst 14,50 Euro pro Person und Flug
+angezeigt. Nach Auswahl der Flüge erscheint dann ein
+Gesamtbetrag von 93,68 Euro, ohne genaue Aufschlüsselung
+der Zusammensetzung (nur 4*14,50 Euro als Flugpreis und
+die Differenz zum Endbetrag als "Tax"). Bei Buchungsbestätigung
+kommen dann die 5 Euro Bearbeitungsgebühr hinzu. Die 20 Euro
+aus der Werbung tauchen allerdings nirgends auf. Dadurch
+ist die Preiskalkulation nicht gerade transparent...
+
+Gruß,
+Gregor
+
+-- 
+Gregor Sailler                           rmbo@cl.um.twj-tn.cw
+http://gja.lbzl.jri-tf.tb/~otro/        rrcf@trwz.kdk-it.oi
+				        fax: +94 58 27 40 99 56 0 
+##########  NEW NUMBER!!!!  ##########  mobile: +74 359 59 85 352

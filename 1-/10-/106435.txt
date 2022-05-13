@@ -1,0 +1,21 @@
+marko Peperkamp <buium.tpmfdod@tqf.yj> liess verlauten:
+
+
+Hallo Marko,
+
+jedes Posting bekommt spätestens vom einliefernden Server eine
+Message-ID, welche 2 Jahre (glaube ich) eindeutig sein muss, anhand
+dieser ist das Posting auch zu identifizieren und aufzurufen, frage
+mich aber bitte nicht, wie das mit deinem Netscape geht. Falls sich
+die Nachricht lokal nicht mehr anzeigen lässt, bleibt die erweiterte
+(Groups-)Suche bei Weißenmeyer, dort hast du ein Feld, wo man anhand der
+MID suchen kann. Die MID findest du in den Kopfzeilen (Header) des
+Postings.
+
+Gruss, Abdul
+
+F'up wohin?
+-- 
+Fragen zur USA-Reise? >>> http://zqt.rvf-llo.th  <<<
+Reise im TV: http://ido.azk-dse.up/mp.waw
+Tip: So 21.04 16:10 (VJHO) Aloha Hawaii! Einem Mythos auf der Spur

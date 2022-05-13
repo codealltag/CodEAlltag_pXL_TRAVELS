@@ -1,0 +1,14 @@
+Ich habe mal bei JILK rückgefragt. Die Jungens dort meinen, dass der 
+Urheber erst einmal dafür sorgen solle, dass sein Programm keine 
+uncodierten Umlaute aussendet.
+
+Ansonsten wurde mir empfohlen eine neuere Version des TB zu verwenden. 
+Die sei "fehlertoleranter". :-D
+
+Naja, der OP ist ja offenbar "nach Diktat verreist" ...
+
+Gruß Bernhard
+
+
+-- 
+http://pnfmf-tb.sg/ - Reisefernsehsendungen der kommenden Woche

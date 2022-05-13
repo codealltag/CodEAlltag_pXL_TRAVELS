@@ -1,0 +1,5 @@
+Hoehenmeter auf einer Strecke beziehen sich nicht auf den Unterschied zwischen
+Start und Ziel, sondern auf die Summe der zurueckgelegten Hoehenmeter. Wahrscheinlich
+geht es auf den 21km auch mehrmals mal ein Stueck runter und auch wieder rauf.
+
+Pascal

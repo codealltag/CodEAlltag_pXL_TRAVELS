@@ -1,0 +1,30 @@
+--------------NRA54PN0O97Q3HHCILE2FTOF
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hallo ULRICH !!
+Biete fuer den 26.05 am Abend eine Mitfahrgelegenheit fuer oben
+genannte Strecke.
+Rueckfahrt waere am 03.05 Morgens.
+Ich bin weiblich, 33 Jahre und fahre einen Düshop-Luson.
+Allen Anderen viel Spass am Vatertag wo auch immer Ihr seid !!
+Daphne Heintsch
+
+
+--------------NRA54PN0O97Q3HHCILE2FTOF
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+Hallo ULRICH !!
+<BR>Biete fuer den 26.05 am Abend eine Mitfahrgelegenheit fuer oben
+<BR>genannte Strecke.
+<BR>Rueckfahrt waere am 03.05 Morgens.
+<BR>Ich bin weiblich, 33 Jahre und fahre einen Düshop-Luson.
+<BR>Allen Anderen viel Spass am Vatertag wo auch immer Ihr seid !!
+<BR>Daphne Heintsch
+<PRE><FONT FACE="Times New Roman,Times"></FONT></PRE>
+&nbsp;</HTML>
+
+--------------NRA54PN0O97Q3HHCILE2FTOF--

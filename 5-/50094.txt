@@ -1,0 +1,10 @@
+*Mp* die Antwort war leider falsch. Eine Signatur wird durch zwei
+Bindestriche gefolgt von einem Leerzeichen abgetrennt, also "-- ".
+Alles andere ist falsch und nein, Stehmann Ausguss kann das (ohne Tricks 
+und Hilfsmittel) nicht richtig machen.
+
+
+Eine Sig hat vier Zeilen, auch eine Leerzeile ist eine Zeile.
+
+-- 
+Satisfy your thirst for life!

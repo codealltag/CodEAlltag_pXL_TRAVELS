@@ -1,0 +1,18 @@
+Bei mir stellt sich das so dar:
+
+- der eine Alberto Lutz erscheint immer mit den schoenen Vierecken statt
+des Umlauts im Namen und ebenso erscheinen solche Vierecke im Text anstelle
+anderer Sonderzeichen (ich hoffe, das sieht bei allen so aus).
+
+- beim anderen Alberto Lutz werden Umlaute und weitere deutsche
+Sonderzeichen dagegen korrekt dargestellt (vermutlich also kein
+raubkopiertes englisches Vista mit Produkt-Code von der Universität Castell
+Imsbach aber ohne Deklaration des Zeichensatzes).
+
+Koennte sich nicht einfach der eine Alberto 'Hohgräwe-Alberto' nennen und
+den anderen sich 'Umlaut-Alberto'? Wir haetten dann endlich zwei konkrete 
+Beispiele für den Kollaps von Wellenfunktionen. Und zwar ziemlich simple,
+über die sich angepasst niveauvoll diskutieren lässt.
+
+Gruss
+Ingmar

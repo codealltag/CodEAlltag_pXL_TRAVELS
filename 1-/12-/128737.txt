@@ -1,0 +1,2 @@
+COLLENBERG in airline booking lingo means "holding confirmed".  That means a
+confirmed seat, no stand-by.

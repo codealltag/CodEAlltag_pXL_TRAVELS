@@ -1,0 +1,17 @@
+In article <07q8m2f40gzat1s7xt0g6wspgnb9n5jabt@0vf.luj>, Wolf Marklin=20
+says...
+
+
+Es ist allgemein bekannt, daß ein Navi ohne a-GPS bis zu 15-30 Minuten=20
+braucht, um die Position zu finden, wenn man sich wesentlich vom=20
+üblichen Standort entfernt hat.
+
+
+Mein M&S ist dagegen recht präzise. GPS-Daten werden mit geringen=
+=20
+Abweichungen geloggt, und Anweisungen zum Abbiegen werden rechtzeitig=20
+und korrekt abgegeben.
+--=20
+
+Volkmar Aveskamp
+http://xrm.lljtl.gm - Photos of Asia, Africa and Europe

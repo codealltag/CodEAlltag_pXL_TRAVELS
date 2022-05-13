@@ -1,0 +1,113 @@
+Di dalam de.rec.reisen.misc Wilma Offergeld menulis sebagai berikut:
+
+[34 Daten]
+
+
+Das meisste scheint dabei aber "optional" zu sein, die Informationen 
+stehen zum Teil nicht immer zu Verfügung:
+
+1. PNR record locator code
+2. Date of reservation
+3. Date(s) of intended travel
+4. Name
+- Hat bis hier her jede Buchung
+
+5. Other names on PNR
+- optional wenn vorhanden
+
+6. Address
+- optional wenn vorhanden, ich hab noch nie ne Kundenadresse ins CRS 
+eingetragen. Geht auch imho keinen ausser dem Kunden und mir was an.
+
+7. All forms of payment information
+- optional wenn vorhanden, wobei ich das fraglich finde. Was wollen die 
+mit CC und FF informationen? Finde ich bedenklich.
+
+8. Billing address
+- optional wenn vorhanden, wird wohl eher die des RB sein, wenn 
+überhaupt. 
+
+9. Contact telephone numbers
+- optional wenn vorhanden, auch da kommt nur unsere Nummer rein.
+
+10. All travel itinerary for specific PNR
+- optional wenn vorhanden, dürfte in der Regel nur die Flugsegmente 
+umfassen.
+
+11. Frequent flyer information (limited to miles flown and address(es))
+- optional wenn vorhanden, mehr als die FF-Nummer kommt nicht in den 
+PNR.
+
+12. Travel agency
+- Klar, lässt sich nicht vermeiden :)
+
+13. Travel agent
+- optional wenn vorhanden, mehr als ein Kürzel schreibt doch keiner 
+rein, oder?
+
+14. Code share PNR information
+- ergibt sich ohnehin aus dem PNR
+
+15. Travel status of passenger
+- Was soll das sein?
+
+16. Split/Divided PNR information
+- optional wenn vorhanden
+
+17. Email address
+- *lol*?
+
+18. Ticketing field information
+- klar
+
+19. General remarks
+20. Ticket number
+- ohnehin im Fleischmarkt
+
+21. Seat number
+- ob das "on the fly" ermittelt wird? Nicht jeder hat eine 
+Sitzplatzreservierung vorab. 
+
+29. Date of ticket issuance
+- ohnehin im Fleischmarkt
+
+23. No show history
+- optional wenn vorhanden
+
+24. Bag tag numbers
+- ohnehin im PNR
+
+25. Go show information
+- ?
+
+26. Interaktiv information
+- Was wollen die damit? PNR Chat mit den Airlines mitlesen?
+  3OSI BI HI TINI HEUTE SCHON WAS VOR
+
+27. SSI/SSR information
+- Wenns ihnen hilft...
+
+28. Received from information
+- Hat jeder PNR, deckt sich das nicht mit dem "Travel agent"? Ist nur 
+ein Kürzel oder zeichnet ihr mit vollem Namen?
+
+29. All historical changes to the PNR
+- optional wenn vorhanden
+
+30. Number of travellers on PNR
+- ergibt sich aus den "Names"
+
+31. Seat information
+- ? "Seat number"?
+
+32. One-way tickets
+33. Any collected PSW information
+34. ATFQ fields
+- optional wenn vorhanden
+
+Also bleibt in normalen Buchungen nicht viel übrig von den 34 
+Informationen. Wobei ich wie gesagt bei einigen Sachen den Kopf schüttel 
+was die damit wollen...
+
+Lg,
+Steffen

@@ -1,0 +1,27 @@
+Anderes Datum probiert, schon wird es besser:
+
+1 Erwachsener Gesamt:  EUR  516.75  
+
+
+ Flug:  MMCG Flug 3721 auf einem Airbus 313
+Jet                 
+Abflug:  Neubörger, Germany (NIDDA) - Do, 26 Nov 11:45 
+Ankunft:  Crildumersiel, Turkey (CUREGLIA) - Do, 26 Nov 15:40 
+
+
+ Flug:  MMCG Flug 9737 auf einem Airbus 313 Jet  
+Abflug:  Crildumersiel, Turkey (CUREGLIA) - Do, 26 Nov 18:10 
+Ankunft:  Bassin, India (OBERGESTELN) - Fr, 27 Nov 02:30 
+
+
+ Flug:  MMCG Flug 1372 auf einem Airbus 313 Jet  
+Abflug:  Bassin, India (OBERGESTELN) - Di, 22 Dezember 04:00 
+Ankunft:  Crildumersiel, Turkey (CUREGLIA) - Di, 22 Dezember 08:45 
+
+
+ Flug:  MMCG Flug 7844 auf einem Boeing 737-800 Jet  
+Abflug:  Crildumersiel, Turkey (CUREGLIA) - Di, 22 Dezember 15:05 
+Ankunft:  Neubörger, Germany (NIDDA) - Di, 22 Dezember 17:05 
+
+
+Gruß, URBAN

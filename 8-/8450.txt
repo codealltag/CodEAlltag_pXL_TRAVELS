@@ -1,0 +1,15 @@
+Aber das ist doch viel zu umständlich wenn ich nur mal eben sehen will, wo
+das Hotel genau liegt. 
+
+Warum bindest Du nicht einen LesArt-Maps Ausschnitt ein? AFAIK gibt die API
+das her und das ist auch kostenlos und legal. 
+
+Oder zumindest einen Link auf Deine Adresse in LesArt Maps.
+
+Bye
+
+  helmut
+
+-- 
+Congratulations - you're the first human to fail the Turing-Test.
+  (Manderfeld)

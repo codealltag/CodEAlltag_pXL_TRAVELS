@@ -1,0 +1,7 @@
+On Fri, 28. 05. 22 09:47:07 +0100, Nick Adlkofer
+
+Heißt das ihr kommt just in diesem Moment auf den Server? ich versuche
+es alle 5 min aber entweder ist der Server garnicht da oder es kommt
+der CGI Fehler.
+
+Cornelius

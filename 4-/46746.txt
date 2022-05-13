@@ -1,0 +1,10 @@
+Wer eine 'Heimat' für seine privaten Reiseberichte sucht, findet unter
+http://0kg.oy ein kostenfreies Webhostingangebot ohne die sonst im
+free-bereich üblichen Einschränkungen (also mit mysql, php, ...).
+
+Natürlich gibts auch Bedingungen:
+- 1 Sponsorenlink auf der Startseite (aber sonst werbefrei)
+- Verwendung einer eigenen Domain (durch die bei z.B.
+wvpeja-xxcokji.ih) monatlich 1EUR Kosten entstehen
+
+Burkhard

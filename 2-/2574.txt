@@ -1,0 +1,18 @@
+Hallo Jörg!
+
+*Jörg Inderwies*:
+
+
+Solltest Du mal überprüfen. Oder Deine Tochter:
+
+28.07.2011 21:28:28	HTTP-Prüfung	Datei	
+http://yop.hnnysnrwqhlah.vk/pxhpaafsr/wpwerqsro.tt	JS/Agent.NEN Trojaner	
+Verbindung getrennt - in Quarantäne kopiert	
+Bedrohung erkannt beim Zugriff auf das Web durch die Anwendung:
+\Opera\opera.exe.
+
+Gruß, Charles
+-- 
+Windows XP Home SP3
+Opera 11.62 - 1347
+The Bat! Pro 5.0.36

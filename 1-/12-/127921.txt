@@ -1,0 +1,21 @@
+Hallo
+ wegen der Kompabilität des Netzteiles zu den 110 Vol/60Hz mußt Du die
+technischen Daten Deines Geräteparks befragen. Normalerweise arbeiten
+moderne Netzteile als Schaltnetzteile und laufen meit im Bereich von 100
+bis 250 Volt unabhängig von der Netzfrequenz störungsfrei.
+   Auf jeden Fall nötig ist ein Adapter, der den Anschluß von unseren
+Euro- und/oder Schuko-Steckern an die verschiedenen Steckdosen in den
+USA mechanisch ermöglicht. Z.B. iM DIBH gibt es einen
+Universaladapter bei dem man nicht nur zwischen runden und flachen
+Stiften wählen kann sondern diese auch noch im Abstand und Winkel (bei
+Flachkontaktan)  verändern kann. So ein Teil kostet unter 20DM und
+zusammen mit einer kleinen Mehrfachsteckleiste (2 oder 3-fach) ist man
+weltweit sehr gut ausgerüstet.
+   ärgerlich ist die Suche nach Adaptern am Reiseziel, das kann selbst
+in Italien zu einer tagesaufgabe werden wenn man dort auf kuriose
+Stecker/Dosen stößt.
+ Gruß Thomas
+
+-- 
+elektronische Musik, Synthykurs, Testberichte, USA-Reisetagebücher,
+Naturheilkunde, Therapien, Heilkräuter, Giftfreier Pflanzenschutz ..

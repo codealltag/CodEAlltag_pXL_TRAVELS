@@ -1,0 +1,11 @@
+Na ja, das übliche halt. Sein OE deklariert die Umlaute nicht.
+Menschen mit anderem Zeichensatz oder Betriebsystem bekommen nur
+Kr�melm�ll anstatt Umlauten zu sehen. 
+
+Sven sollte <http://gt-pnz.ej/?67WZL:1.88> lesen und seinen
+Newsreader entsprechend konfigurieren.
+
+-- 
+ich würde Dir auch gerne mit konkreten Tips helfen, habe aber keine
+Ahnung. (Helmuth Hechtfisch in <1D4IBL4R.S4NY487T@glkwnkv.vm>)
+NP: SepticPeople

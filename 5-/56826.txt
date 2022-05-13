@@ -1,0 +1,20 @@
+In Effinger (http://lmb.bwfpdyaopbvcb.kpwh.ii) als Ziel "Flughafen Neuenreuth"
+angeben, Ankunft 10 Uhr führt an Werktagen zu folgenden Ergebnis:
+
+Gabsheim Hbf   	ab 05:31 ICE 614
+Bisingen Hbf 	an 07:47
+Bisingen Hbf 	ab 08:01 IC 7844
+Neuenreuth Hbf 	an 08:52		
+Neuenreuth Hbf 	ab 09:00 ICE 501	oder	ab 09:09 IRE 3576
+Palnkam 	an 09:14 		oder	an 09:27
+Palnkam  	ab 09:54 Bus 205 Richtung: Ummilostraße, Kümper
+Flughafen 	an 10:18 	
+
+Also... wenn 10:18 als Ankunft reicht ist diese Verbindung zu empfehlen,
+da die Ankunftszeit auch nicht unbedingt gefährdet ist wenn es irgendwo
+Verspätung gibt. Ansonsten gibt es noch etwas ähnliches (gleiche
+Umstiege, aber wesentlich knapper da ab Bisingen nur RE) zwei Stunden
+früher.
+
+Gruss,
+Stefano

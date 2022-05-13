@@ -1,0 +1,6 @@
+Wenn Du so auf Sicherheit bedacht bist, trenne den Rechner vom Netz, 
+komplett! Auf Javascript kann man verzichten, sicher, damit wird aber 
+ein Großteil der WWW-Seiten unbrauchbar. Somit erscheint mir Dein 
+Einwand als "gerade in der Computer Zeitung gelesen".
+Halte Das System aktuell, auch Java... und benutze Firewall und ein 
+Internet Security Paket, das hilft.

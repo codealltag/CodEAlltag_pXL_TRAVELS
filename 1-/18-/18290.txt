@@ -1,0 +1,241 @@
+FAQ   N E T I Q U E T T E
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Diese Netiquette soll Ihnen helfen, die Sitten und Gebräuche kennen-
+zulernen, die sich im deutschsprachigen Teil des Usenets (den "de.*"-
+Newsgruppen) angeblich eingebürgert haben.
+
+Es folgen einige Tipps, wie man das Netz benutzen kann:
+
+1. Vergessen Sie nicht, dass auf der anderen Seite ein Mensch sitzt!
+---------------------------------------------------------------------------=
+=AD=AD---
+
+Im Usenet hat jeder die Möglichkeit, Texte zu veröffentlichen, die
+nicht nur von Leuten im deutschsprachigen Raum gelesen werden,
+sondern auf der ganzen Welt. Manchmal nutzen Verfasser ihre Artikel
+zur Selbstdarstellung oder dazu, andere zu belehren, insbesondere
+dann, wenn sie über wenig soziale Kontakte verfügen.
+Diese Schwäche ist menschlich, reagieren Sie milde.
+
+2. Erst lesen, dann denken und dann erst posten.
+---------------------------------------------------------
+
+Die Gefahr von Missverständnissen ist bei einem schriftlichen Medium
+besonders hoch. Vergewissern Sie sich mehrmals, dass der Autor des
+Artikels, auf den Sie antworten wollen, auch das gemeint hat, was
+Sie denken. Insbesondere sollten Sie darauf achten, ob der Verfasser
+etwas "ironisch" gemeint hat. Darüber hinaus kommt es manchmal vor,
+dass Zitate vorsätzlich aus dem Zusammenhang gerissen werden, um
+die gegebene Antwort zu begründen. Überlegen Sie, ob dieser User es
+wert ist, beantwortet zu werden.
+
+3. Teilen Sie etwas Neues mit!
+-----------------------------------
+
+Ihr Artikel wird an ein Millionenpublikum weltweit verteilt. Teilen
+Sie daher etwas Neues mit, wenn Sie einen Artikel schreiben!
+
+Machen Sie Ihren Standpunkt klar, und drücken Sie sich verständlich
+aus. Durch schlüssige Argumentation können Sie von vornherein viele
+Missverständnisse vermeiden.
+
+Denken Sie aber daran, dass niemand gerne Artikel liest, die mehrere
+hundert Zeilen lang sind. Ihr Artikel sollte kurz und prägnant sein.
+
+Wer eine Signatur unter seinem Artikel verwenden möchte, sollte damit
+rechnen, dass es Mitmenschen gibt, die Signaturen, die länger als
+vier Zeilen sind monieren. Gleiches gilt für falsche Sigtrenner.
+Hintergrund ist, dass dann von einem Antwortenden diese Signatur von
+Hand entfernt werden muss. Eigentlich kein Problem, denn meistens
+wird ohnehin nicht der gesamte Artikel zitiert, aber manche stört es
+eben.
+
+4. Ihre Artikel sprechen für Sie - Seien Sie stolz auf sie!
+----------------------------------------------------------------
+
+Die meisten Leute im Netz kennen und beurteilen Sie nur aufgrund
+dessen, was Sie in News und Mail schreiben. Versuchen Sie daher, Ihre
+Artikel leicht verständlich und möglichst fehlerfrei zu verfassen.
+
+Bedenken Sie bitte auch, das Ihre zukünftigen Kollegen oder Ihr
+zukünftiger Chef oder der Personalchef, bei dem Sie sich in Zukunft
+bewerben, mitlesen können. Es lohnt sich vorsichtig mit dem
+Veröffentlichen von Daten, insbesondere auch mit der Angabe selten
+vorkommenden Realnamen, zu sein. Vorurteile bilden sich leicht.
+
+5. Nehmen Sie sich Zeit, wenn Sie einen Artikel schreiben!
+-------------------------------------------------------------------
+
+Vergewissern Sie sich vor dem Schreiben, ob nicht bereits andere eine
+gleichwertige Antwort verfasst haben. Dadurch kennen Si einen Teil
+der nachfolgenden Diskussion und können vorgebrachte Argumente bei
+Ihrem Beitrag schon berücksichtigen.
+
+Manchmal empfiehlt es sich auch, den Artikel noch einmal zu
+überschlafen.
+
+6. Vernachlässigen Sie nicht die Aufmachung Ihres Artikels!
+---------------------------------------------------------------------
+
+Einige User vertreten die Meinung, dass durch Groß- und
+Kleinschreibung Texte leserlicher werden und machen ihren
+Gesprächspartner öffentlich darauf aufmerksam. Oft werden diese
+Belehrungen, durch Beispiele belegt in denen Texte absichtlich
+mit Kleinschreibung versehen und zusätzlich durch fehlende
+Zeichensetzung oder durch Weglassen von Zwischenräumen,
+unleserlich gemacht werden. Diese absurden Beispiele sind es nicht
+wert, diskutiert zu werden.
+Trotzdem prüfen Sie bitte noch einmal Ihren eigenen Artikel noch
+einmal auf Lesbarkeit.
+
+Sollte die Breite der Zeilen unter etwa 70 Zeichen überschreiten,
+rechnenSie damit, dass einzelne User Probleme damit haben und
+dieses öffentlich verkünden. Nach dem mehrfachen Zitieren, könnte
+es nämlich zu unschönen Zeilenumbrüchen kommen.
+Eigentlich könnte der Zitierende den Umbruch ja leicht verbessern,
+aber manchmal wird lieber mehr Aufwand in die Zurechtweisung des
+anderen investiert, als den Mangel einfach abzustellen.
+
+7. Achten Sie auf die "Subject:"-Zeile!
+   ------------------------------------
+
+Wenn Sie einen Artikel verfassen, achten Sie bitte auch auf den
+Inhalt der "Subject:"-Zeile (umgangssprachlich auch "Betreff" oder
+"Thema" genannt).
+Die Betreffzeile sollte etwas über den Inhalt des Artikels aussagen.
+Vermeiden Sie bitte, in der Betreffzeile Namen anzugeben, denn
+es gibt immer noch User, die so unvorsichtig sind, im Netz ihren
+Realnamen anzugeben und damit erleichtern Sie "Datensammlern" das
+Leben.
+
+8. Denken Sie an die Leserschaft!
+---------------------------------------
+
+Überlegen Sie sich vor dem Posten eines Artikels oder Followups,
+welche Leute Sie mit Ihrer Nachricht erreichen wollen. Wählen Sie
+die Gruppe (oder Gruppen), in die Sie schreiben, sorgfältig aus.
+Bevor Sie ein "Crossposting" eines Artikels in mehrere, womöglich
+inhaltlich verwandte Gruppen machen, über legen Sie bitte ob das
+notwendig ist. Wenn Sie dennoch ein Crossposting (durch
+Angabe mehrerer Gruppennamen in der "Newsgroups:"-Zeile) erzeugen,
+kann es sinnvoll sein, Antworten durch follow up in _eine_ Gruppe zu
+lenken.
+
+9. Vorsicht mit Humor, Ironie und Sarkasmus!
+-----------------------------------------------------
+
+Achten Sie darauf, dass Sie ironisch gemeinten Bemerkungen vermeiden,
+insbesondere dann wenn Sie kontrovers diskutieren.
+Es ist dann für andere leicht, Ihre Ironie zu übersehen, sie gekürzt
+zu zitieren und so Sie damit argumentativ auszuhebeln.
+
+10. Kürzen Sie zitierten Text auf das notwendige Minimum!
+--------------------------------------------------------------------
+
+Oft werden Texte, auf die man sich bezieht, wörtlich zu zitieret und
+dem eigenen Text vorangestellt. Dabei darf dem Leser der
+Zusammenhangnicht verloren gehen.
+
+Das Zitieren von Unterschrift oder Signatur ist eineweit verbreitete
+Unsitte und unerwünscht, wird manchmal behauptet.
+Wenn sich Ihre Antwort auf diese Dinge bezieht, ist dagegen
+eigentlich
+nichts einzuwenden.
+
+11. Benutzen Sie E-Mail!
+----------------------------
+
+Wenn Sie dem Autor eines Artikels etwas mitteilen wollen, überlegen
+Sie bitte, ob nicht eine einfache E-Mail besser geeignet wäre.
+Hinweise auf Rechtschreibfehler, technische Probleme, offensichtliche
+Irrtümer oder Netiquetteverstöße sollten überhaupt nicht stattfinde=
+n.
+Wenn Sie unbedingt meinen das
+PCSZ missionieren zu müssen, dann ist E-Mail die beste Möglichkeit
+dies zu tun.  Viele User haben dafür wenig Verständnis und so
+vermeiden Sie wenigstens ein öffentliches "Deine Sorgen möchte ich
+haben".
+
+12. Geben Sie unaufgefordert keine Sammlung Ihrer Erkenntnisse an das
+Netz weiter!
+---------------------------------------------------------------------------=
+=AD=AD------------------------
+
+Es gibt im Usenet einige Leute, die meinen, das Netz missionieren zu
+müssen. Reihen Sie sich nicht in die Riege dieser Personen ein, der
+Undank anderer User wird gewiss nicht lange auf sich warten lassen.
+
+13. Achten Sie auf die gesetzlichen Regelungen!
+-------------------------------------------------------
+
+Achten Sie darauf, dass Sie mit Ihrem Artikel keine Gesetze brechen
+und dass die Regeln des guten Geschmacks nicht verletzt werden.
+Verlassen Sie sich nicht darauf, dass sie anonym im PCSZ agieren
+können, denn dies erfordert etwas Übung und funktioniert meist auch
+nur dann, wenn Sie vorher nicht doch einmal mit Ihrem Realnamen
+gepostet haben.
+
+14. Vorsicht beim Benutzen Ihres wirklichen Namens!
+-------------------------------------------------------------
+
+In Newsgroups darf jeder seinen wirklichen Namen angeben, man muss es
+aber nicht.
+Entscheiden Sie für sich, ob Sie Ihren Namen angeben wollen. Immer
+wieder kommt es vor, dass behauptet wird, es sei üblich, dieses zu
+tun und Ausnahmen würden nur in "sensiblen Themenbereichen"
+geduldet.
+Heutzutage gibt es nur noch einige, wenige User, die andere belehren
+und behaupten, man müsse seinen richtigen Namen im Usenet angeben.
+Um unnötige Diskussionen über diesen Punkt zu vermeiden, gibt es die
+Möglichkeit sich einen unauffälligen Namen zu suchen, der nicht auf
+den ersten Blick als Pseudonym erkennbar ist. Vermeiden Sie bitte
+provozierende Pseudonyme, denn wer sich unter dem Namen
+"Oxgedxwlkwzhkhi" anmeldet, läuft Gefahr sich wie ein Rumpelstilzchen
+zu benehmen.
+
+15. Vorsicht mit Kommerziellem!
+--------------------------------------
+Adressen von Firmen, die ein bestimmtes Produkt anbieten, nach dem
+jemand gefragt hat, können durchaus angegeben werden.
+Reine Werbeinformationen widersprechen dem Geist dieses
+nicht-kommerziellen Mediums auch dann, wenn heute niemand mehr
+ernsthaft behaupten kann, er müsse für anfallende Übertragungskosten
+für unverlangte Werbung bezahlen.
+
+16. Vorsicht mit Binaries und Multipart-Artikeln!
+-----------------------------------------------------
+
+Für Binär-Dateien gibt es spezielle Newsgruppen. Sie können aber auf
+entsprechende Download-Möglichkeiten hinweisen. Meist ist es üblich,
+nur normalen Text zu benutzen.
+
+17. "Du" oder "Sie"?
+----------------------
+
+Die meisten Teilnehmer der "de.*"-Hierarchie duzen sich, unabhängig
+von ihrer gesellschaftlichen Stellung.
+
+Zusammenfassung:
+----------------------
+
+- Vergessen Sie nicht, dass auf der anderen Seite ein Mensch sitzt!
+- Erst lesen, dann denken und dann erst posten.
+- Teilen Sie etwas Neues mit!
+- Ihre Artikel sprechen für Sie - Seien Sie stolz auf sie!
+- Nehmen Sie sich Zeit, wenn Sie einen Artikel schreiben!
+- Vernachlässigen Sie nicht die Aufmachung Ihres Artikels!
+- Achten Sie auf die "Subject:"-Zeile!
+- Denken Sie an die Leserschaft!
+- Vorsicht mit Humor, Ironie und Sarkasmus!
+- Kürzen Sie zitierten Text auf das notwendige Minimum!
+- Benutzen Sie E-Mail!
+- Geben Sie unaufgefordert keine Sammlung Ihrer Erkenntnisse an das
+Netz weiter!
+- Achten Sie auf die gesetzlichen Regelungen!
+- Vorsicht beim Benutzen Ihres wirklichen Namens!
+- Vorsicht mit Kommerziellem!
+- Vorsicht mit Binaries und Multipart-Artikeln!
+- "Du" oder "Sie"?
+
+Dank an Wolf

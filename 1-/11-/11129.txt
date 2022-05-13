@@ -1,0 +1,14 @@
+normal, aeltere OJSE-Chips brauchen noch länger
+
+
+Beim E75 geht es schneller, wenn er sich anhand des Mobilfunknetzwerkes
+orientieren kann
+
+Ich hab auch ein E75 und kann das gesagte nicht nachvollziehen. Dass
+Navis nach weiterem Ortswechsel eine Weile brauchen ist bekannt, aber
+bisher (ich nutze das E75 mit Kreastik-Navi-Software) habe ich gute
+Erfahrungen damit gemacht.
+
+Ok, Standalone-Geraete sind komfortabler und im Urlaub nehme ich auch
+ein "richtiges" mit, aber die Alltagsnavigation erledigt es bei mir sehr
+gut

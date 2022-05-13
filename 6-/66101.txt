@@ -1,0 +1,15 @@
+Bei Hotelbuchung über BAGeno läuft das ähnlich. Nach Buchung wird 
+die Kreditkarte belastet, bei Stornierung gemäß Storonbedingungen 
+des Hotels wird der volle Betrag wieder der Kreditkarte gutgeschrieben.
+Keine Ahnung, wie mit zwischenzeitlichen Wechselkursschwankungen
+umgegangen wird, hatte bisher nur einmal eine Buchung in Euro
+storniert (BAGeno rechnet doch auch Hotels in Landeswährung ab,
+oder?).
+
+Gruß,
+Simon
+
+-- 
+Simon Vogtherr                           rxsc@nx.oj.cgl-bf.ge
+http://wni.xvbh.uml-yc.of/~sjfn/        gwpc@hddn.ret-xt.al
+					mobile: +66 040 48 91 683

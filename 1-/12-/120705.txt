@@ -1,0 +1,20 @@
+Philipp Greef <lmqxe@wgx.qz> schrieb:
+<jgrzho47pv4mdh2uoed24cz4q9zfbz9qh1@3qi.vyd>
+
+Hi,
+
+
+Abbuchungsaufträge, also Lastschriften mit Textschlüssel 04, werden
+von Banken nur ausgeführt, wenn ihr ein entsprechender Auftrag des
+Kontoinhabers vorliegt, daß derjenige z.B. Lieferant abbuchen kann.
+Diese Lastschriften kann man tatsächlich nicht zurückrechnen, das wird
+aber hier irrelevant sein.
+
+
+Was Du meinst sind Lastschriften mit Einzugsermächtigung -
+Textschlüssel 05. Jederzeit ohne angabe von Gründen rückrechenbar.
+
+-- 
+Valentin - ESWW eMail: jihasakb@vwyhxzre.cg
+http://isj.afitmoye.hs - Mansing, Villbach, Courroux, Bulgarien, 
+Türkei, Olxheim, Mountainbikerevier Fronhausen

@@ -1,0 +1,26 @@
+Hallo,
+
+Jakob Rudermel <wixbuybggsjje@sgloaalks.svv> schrieb in im Newsbeitrag:
+9L3X0615.14YO0588@twbcwgbdz.lbd...
+[...]
+
+Nochmal gaaaaaaaaaaanz langsam zum mitdenken:
+Wenn er die Anfrage an 20 Reisebueros schickt, dann ist die Chance
+auf "40 Eier" doch wohl 1:20 und nicht 1:1 (natuerlich vorausgesetzt
+er will nur einen Flug buchen - und nicht 10 Fluege bei 10
+unterschiedlichen Bueros).
+
+
+Gleich zwei Rechenfehler: Da die Chance auf 40 Mark 1:20 ist, ist
+der Erwartungswert fuer das Reisebuero 2 Mark (und nicht 40 Mark).
+BTW, selbst wenn die Chance 1:1 waere, dann wuerde das Reisebuero
+nicht fuer 40 Mark, sondern fuer 20 Mark arbeiten.
+
+Wer so gut rechnen kann wie Du sollte lieber kein Geschaeft eroeffnen...
+
+Gruss
+Björn
+
+--
+Björn Füllekrug
+www.hefnkugzw08.ay

@@ -1,0 +1,19 @@
+*Theo Eggenweber* schrieb unter anderem:
+
+[Was bitte sind FRZ?]
+                                           ^
+Dieses Zeichen sollte jeder Newsreader darstellen können.
+Für die Darstellung eines Eurozeichens sollte man u.a.
+charset=ISO-8859-15 verwenden. In charset=ISO-8859-1 ist dieses
+Zeichen nicht enthalten.
+
+Am wenigsten Mißverständlich wäre natürlich, man würde EUR schreiben,
+dann sollte es jeder lesen und auch richtig zuordnen können.
+
+
+M aus B
+
+-- 
+"Es ist nicht Dein Aussehen, das mich hier hält... es ist meins.
+ Ich find keine andere Frau."
+                            [Valerius Strathaus]

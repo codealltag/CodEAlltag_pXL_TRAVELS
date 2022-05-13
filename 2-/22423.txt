@@ -1,0 +1,5 @@
+Es steht auf den Ladegeräten drauf, mit welchen  Eingangsspannungen 
+diese zurecht kommen. Ladegeräte sind meist für 100V bis 240V ausgelegt.
+
+-- 
+Daniel Neil

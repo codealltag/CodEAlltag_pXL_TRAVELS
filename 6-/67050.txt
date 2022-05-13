@@ -1,0 +1,9 @@
+Hallo
+  das ging wohl an mich!? Wenn Du andere Zeichensätze benutzt als
+"Western 8859-1" oder "8859-15" (mit Euro-Zeichen), werden Sonderzeichen 
+anders dargestellt. Du selbst merkst das mit ziemlicher Sicherheit 
+garnicht. Stelle einfach einen der Zeichensätze ein, setze den 
+Zeilenumbruch auf 72 Zeichen (hast Du ja IMO) und das wars schon.
+  Keine Panik wenn da mal was klemmt, irgendwer wird darauf aufmerksam 
+machen.
+  Gruß Heinz

@@ -1,0 +1,19 @@
+Hallo
+ im speziellen Fall UV-Lampe handelt es sich wahrscheinlich um eine
+Entladungslampe und nicht um eine Halogen-Lampe. Sollte es eine
+Leuchtstoffröhren-ähnliche sein, arbeitet diese auch noch bei knapp
+100 Volt weil das die Zündspannung ist. Für intensiveres UV-Licht
+benutzt man aber Quecksilberdampf-Brenner. Wann die zünden weiß ich
+nicht, könnte aber ähnlich sein. Bei solchen Lampen braucht man nur
+das übliche Vorschaltgerät (Drossel) um den Stromfluss zu begrenzen.
+Bei 60 Hz wird der Scheinwiderstand der Drossel etwas höher sein, der
+Stromfluss folglich etwas geringer also auch die Ausbeute ein wenig
+geringer.. 
+  Aber noch ein Tip: Wenn man auf spezielle Geräte nicht verzichten
+kann, bleibt die Möglichkeit diese mal in einer Elektrowerkstatt
+testen zu lassen. Mal nett mit dem "Chef" sprechen und dann dreht der
+auch ein wenig an seinem Werkstatt-Stelltrafo herum und zaubert 110V.
+ob 50 oder 60Hz ist vernachlässigbar. Heute gibt es kaum noch Geräte,
+die eine genaue Netzfrequenz benötigen.
+
+Gruß Urban

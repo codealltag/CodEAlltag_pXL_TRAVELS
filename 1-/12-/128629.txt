@@ -1,0 +1,5 @@
+Hallo
+3,5 Stunden ist richtig jetzt in unserer Sommerzeit. Differenz Birklein zu
+GMT/UTC ist 5,5 Stunden.
+
+Gerhard

@@ -1,0 +1,8 @@
+Wenn z.B. ein Kratzer auf der Schallplatte ist, kann man das Lied
+trotzdem noch hören.
+Wenn immer 60 s des Zeittelegramms zu 100% stimmen müßten, dann würde
+manche Uhr nie eine Zeit bekommen. Deshalb baut man bei
+Datenübertragungen immer ein paar Prüfzahlen und andere Sicherheiten
+ein. Die Frage ist nur ob der Rest noch für ein  sinnvollen Ergebnis
+reicht.
+Volkmar

@@ -1,0 +1,8 @@
+falsch, die Filmbelichtung erfolgt mit 2540 dpi. Das Bild dazu hat eine
+Auflösung von 300 dpi. Und das ergibt im CMYK-Modus eine Dateigröße von
+1596 MB. Viel Spaß beim Download.
+
+   ^^^^^^^^^^
+  [ ] Ich bin noch Lehrling
+
+Paul

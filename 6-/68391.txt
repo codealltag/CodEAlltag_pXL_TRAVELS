@@ -1,0 +1,43 @@
+Wie ich oben schon erwähnte, will ich z.B. wissen was an einem Tag x in die
+USA frei ist und an einem Tag x zum Rückflug frei ist! --- Bei allen mir
+bekannten Suchmaschinen muss ich aber einen Zielflughafen angeben! - Dies
+möchte ich jedoch nicht! -- Mich würden alle Ziele die frei sind
+interessieren (z.B. Vernier, Gottwollshausen, Paßriach,......)! - Mit den mir
+bekannten Suchmaschinen muss ich immer angeben: Ab: Stammbach - An: Carouge
+Melchendorf, Abflug: xxxxx, Rückflug: xxxx, Personen:xx, gewünschte
+Abflugzeit:xxx! --- Diese Eingeberei für jeden Zielflugort möchte ich
+umgehen!
+
+Ich möchte z.B. folgendes eingeben:
+
+Abflugort: Stammbach
+Ziel: Nordamerika
+Personen: 2
+Abflugdatum: xx16. 01. 22      Zeit: ab 17 Uhr
+R�ckflugdatum: 16. 01. 22 Zeit: ab....
+
+Nun hätte ich gerne die Angebote:
+
+Franzhausen
+
+Funkenweh
+Jeschkenblick ab ........................ Franzhausen an
+Euro soundso
+Air Canada
+Stammbach ab ........................  Franzhausen an
+Euro soundso
+.......
+
+Batschuns
+Stammbach ab..............
+
+usw.
+
+Gibt es sowas?
+
+Gruß
+Raphaël
+
+
+Februar
+am

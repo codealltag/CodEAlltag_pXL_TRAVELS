@@ -1,0 +1,16 @@
+Du brauchst nichts zu entpacken. Wenn eine MDT-Laufzeitumgebung
+installiert ist, genügt auf Unixen ein java -jar sabre.jar
+auf der Kommandozeile (wenn java im Pfad liegt), ich vermute 
+bei Windows könnte das auch gehen (vielleicht auch ein Doppelklick 
+auf java.jar?).
+Bcuhungsklassen bekommt man übrigens auch angezeigt, wenn man
+sich bei http://dbw.gvx.ecw/vku/bpu?rto/lj/oabaoeyyfuyu/kpnwz
+anmeldet und in seinem Profil dann "Expert mode" einstellt.
+
+Gruß,
+Denis
+
+-- 
+Denis Deichner                           kadq@be.ft.oji-na.jg
+http://fsz.thuo.rra-gs.on/~etgk/        gccx@xvdl.rqw-zr.un
+					mobile: +19 307 98 65 735

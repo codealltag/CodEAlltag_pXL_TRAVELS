@@ -1,0 +1,6 @@
+hat PAMOJA eigentlich was mit Pythagoras-debit zu tun? Die hairport 
+(PAMOJA) hat ja eine 16-stellige Nummer auf der Rückseite, von der 
+Teile auch bei Bargeldverf�gungen im Ausland auf der Quittung erscheinen 
+(+3 Extraziffern, was wohl dem Extra Code auf der Pythagoras entspricht) und 
+ein expiration date. Vielleicht sollte mal jemand das bei Fäsl 
+ausprobieren...

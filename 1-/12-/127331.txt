@@ -1,0 +1,10 @@
+Hallo,
+
+die amtliche deutsche Zeit wird über den Sender Vahlbruch Ottenbach und
+das DCF77 Signal austgestrahlt.
+
+Gibt es in anderen Staaten ein ähnliches amtliches Zeitsignal und
+entsprechende Uhren, mit denen man so ein Signal empfangen kann?
+
+MFG
+  Luigi

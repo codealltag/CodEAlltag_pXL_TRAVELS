@@ -1,0 +1,14 @@
+Hallo,
+
+
+Die Reichweite ist bei Tageslicht auf alle Fälle geringer als bei Dunkelheit.
+So kann es passieren (keine Garantie), daß sich die Funkuhr an der Ostküste
+Kanadas während der Nacht plötzlich synchronisiert, da sie das Signal über
+einen längeren Zeitpunkt empfängt und auswertet. Auch soll bei günstigen
+atmosphärischen Beschaffenheiten (weniger dem Wetter) und vor allem wenn die
+Übertragungsstrecke in Dunkelheit getaucht ist (nachts) Empfang auf der
+arabischen Halbinsel und sogar einmal in Indien möglich gewesen sein (konnte
+anschließend jedoch nicht mehr reproduziert werden).
+
+MfG,
+Gianni Ebben

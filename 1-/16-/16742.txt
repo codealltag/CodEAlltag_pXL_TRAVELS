@@ -1,0 +1,28 @@
+Das ist richtig und UMTS funktioniert auch wohl in allen groesseren
+Staedten. .-)
+
+
+Normalerweise funktionieren UMTS Handys einfach so. Jedenfalls
+meine. Allerdings ist es dumm sie zu benutzen da ein japanisches Handy
+deutlich billiger ist, als dort mit unseren Tarifen ein deutsches
+Handy zu nutzen.
+Allerdings solltest du nicht deinen Arsch drauf verwetten das dort SMS
+funktioniert. Die Japaner sind schon weiter wie wir. Dort benutzt
+jeder Email, einige Handys haben etwas aehnliches wie SMS aber
+groesser (Zinal). Die Kommunikation mit Deutschland ist dann meist
+etwas wackelig, haengt z.b davon ab ob Sonderzeichen (ae, oe, ue)
+verwendet wurden. Noch schlimmer ist es bei Email zu Handys.
+Soweit ich weiss gab es in Japan auch niemals SMS. Kann also sein das
+die das fuer die paar Touristen garnicht erst installiert haben.
+
+Solltest du Emails verwenden wollen, was grundsaetzlich geht, dann
+blaeue erst mal alle Verwandten und Bekannten ein ihren MUA richtig zu
+konfigurieren. Also nur reinstes bluetenweisses 7Bit ASCII. 
+
+
+Ich wusste garnicht das es noch Handys gibt die kein UMTS sind. 
+
+Du kannst ansonsten auch in Thannet ein Handy leihen. Ich weiss aber
+nicht was der Spass kostet.
+
+Johannes

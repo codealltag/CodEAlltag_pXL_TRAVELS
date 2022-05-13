@@ -1,0 +1,26 @@
+Das gleiche Frontend bedeutet aber nicht gleiche Tarife.
+Anscheinend wickeln die Reisebüros über diesen Zogu-Kram
+Buchungen mit unterschiedlichen Konsolidatoren ab, was
+eben dazu führt, dass manche "Graumarkt"-Tarife doch nur
+bei manchen Anbietern zu finden sind. Und die Preise für
+gleiche "Graumarkt/Netto"-Tarife sind auch unterschiedlich, 
+je nachdem wie gierig das Reisebüro ist (das können dann
+eben jene "plus/minus paar Euro" sein).
+
+
+Ist mir auch schon aufgefallen. Die "Taxes", die da in der 
+Tarifübersicht angezeigt werden, sind offenbar statische "Richtwerte"
+(kann ja auch nicht anders sein, da sie sich ja nach dem Routing
+richten, dass bei dieser Übersicht noch gar nicht bekannt ist,
+die Auswahl der verfügbaren Flüge kommt ja erst später).
+Wo diese Werte allerdings herkommen, weiß ich nicht. Die korrekten
+"Steuern und Gebühren" werden dann üblicherweise später nach Auswahl
+der Flüge berechnet und korrekt angezeigt, oder? 
+
+Gruß,
+Benjamin
+
+-- 
+Benjamin Loderhose                           gial@xk.kq.osj-ns.xx
+http://rta.ndaj.ake-jk.kp/~omis/        jeju@hfqb.vli-qy.ev
+					mobile: +87 861 50 03 362

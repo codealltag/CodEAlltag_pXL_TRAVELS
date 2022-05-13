@@ -1,0 +1,9 @@
+Hallo
+  neben den schon genannten Möglichkeiten gibt es auch die 
+offline-Lösung. Dazu misst man einfach die Streckenlänge auf der Karte 
+und rechnet sie mit deren Maßstab um. Ganz komfortabel geht das 
+ausmessen auf der Karte mit kleinen Hilfsmitteln, kleine mechanische 
+oder auch elektronische Geräte mit denen man die Streckenführung auf der 
+Karte "abradelt". An den Dingern kann man häufig schon den Maßstab der 
+Karte eingeben oder die wahre Entfernung auf einer passenden Skala ablesen.
+stephan

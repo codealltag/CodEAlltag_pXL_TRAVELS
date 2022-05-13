@@ -1,0 +1,14 @@
+Liebe Leute,
+
+falls ich nicht im richtigen forum bin, bitte ich das zu entschuldigen, 
+vielleicht weiss die mozilla-Gemeinde dennoch einen Rat.
+
+Ich möchte gerne zum Herunterladen von Websites das extension spiderzilla 
+benutzen. Wenn ich dann nach dem Download das erzeugte index.html-file 
+anklicke, erscheint für den Bruchteil einer Sekunde eine seite, dann 
+jedoch irgendein html-quelltext. Muss man da irgendwas einstellen um die 
+Seiten "richtig" angezeigt zu bekommen? Trotz googlen habe ich dazu 
+leider noch nicht gefunden (Mozilla 1.6, spiderzilla 3.30 embedded)
+
+TIA
+Tim

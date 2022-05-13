@@ -1,0 +1,8 @@
+Claudio Leißring <q.cmwrbe@txvcpvil.ot> war der Meinung:
+
+
+Zumal man den Agent auch so einstellen kann,  dass kein neuer Thread
+angefangen wird, bei mir ist Ronald sauber im Auslands-Thread
+einsortiert.
+
+Gruss, Ulfert

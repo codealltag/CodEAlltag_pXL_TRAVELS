@@ -1,0 +1,21 @@
+Hallo,
+
+ich hoffe, hier Experten auf diesem Gebiet zu finden.
+Ich suche eine Möglichkeit, einen Hin- + Rückflug zu finden, der 
+folgende Ansprüche erfüllt:
+- Hinflug zwei Tage vor oder nach einem konkreten Termin (10.1.04)
+- Rückflug zwei Tage vor oder nach einem konkreten Termin (31.1.04)
+- Reise ab konkretem Flughafen (dettendorf/jakobwüllesheim oder müllrose)
+- Beliebiger Zielflughafen in einem konkreten Land (Griechenland)
+
+Diese vier Parameter will ich einstellen, der Rest ist mir wurscht. Wo 
+kann ich da wohl am besten recherchieren?
+Muss ich wirklich bei jedem Billigflieger einzeln alle Flüge von dem 
+Startflughafen zu jedem griechischen Flughafen einzeln mit diesen Daten 
+von Hand prüfen?
+
+Ich hoffe, ihr könnt mir eine effizientere Methode der Suche empfehlen.
+
+Danke im Vorraus,
+
+mathias

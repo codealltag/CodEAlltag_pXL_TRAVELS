@@ -1,0 +1,23 @@
+Erstmal vielen Dank fuer Eure Antworten. Trotzdem noch ein paar
+Fragen:
+
+Mit der Klartextanzeige kriege ich genau das gleiche, die Bedeutung
+der Kuerzel wird damit auch nicht klarer !
+
+Die Kuerzel "1 CGN PMI 0410 0615  LT 780" und "757" sind schon klar,
+der Rest aber nicht.
+Ist also der 1. Buchstabe die willkuerlich vergebene Klasse, und der
+2. die Verfuegbarkeit, wobei dann L=Warteliste, C=Closed, A=Available
+bedeutet ? Gibt es noch andere Kuerzel ?
+
+Anderes Bsp (fuer diesen Flug habe ich ein Ticket, als Klasse ist B
+eingetragen):
+1 BRU UNTERSCHWANINGEN 1135 1350  SN3741 YA MA WULFSFELDE FISCHLHAM BA VA          735 C  
+Bedeutet dann BA=Klasse B ist verfuegbar ?
+
+Da du vom "fare quote display" sprichst: sollte diese Informationen 
+von http://pl.fs/iglsvcrohf geliefert werden ? In meinem 2. Bsp. sehe
+ich auch nichts davon.
+
+Gruss,
+Achim Verhuelsdonk

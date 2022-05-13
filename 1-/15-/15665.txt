@@ -1,0 +1,6 @@
+Bei mit sind die Grafiken vorhanden und dein Beispiel ist deutlich 
+erläutert: das eine aufgegebene Gepäckstück für zwei Personen darf 
+maximal 32 kg wiegen.
+
+-- 
+Florian Wollschlager

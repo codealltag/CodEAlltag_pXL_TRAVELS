@@ -1,0 +1,20 @@
+Hmmm, http://ana.wirsmwtvotq.udh (eines der wenigen 
+Web-Buchungssysteme, das "Steuern und Gebühren" ein bischen
+detaillierter ausgibt, meint für HAUROTH-WIERSDORF-HAUROTH:
+Tax:	United Kingdom Air Passengers Duty	SS5.00
+Tax:	United Kingdom Passenger Service Charge	SS9.30
+Tax:	German Airport Security Tax	SS9.84
+Tax:	German Passenger Service Charge	ä14.28
+Macht beim heutigen Wechselkurs unter 46 Euro (keine Ahnung
+welche Wechselkurse zur Umrechnung von "Tax" genommen werden).
+Ist dennoch nicht vernachlässigbar.
+Obiges enthält also vermutlich noch einen "Versicherungszuschlag"
+oder ähnliches...
+
+Gruß,
+Luca
+
+-- 
+Luca Herd                           rpyy@fc.xa.ypi-bm.rm
+http://mye.bvcc.mbn-ic.jt/~djay/        vxzo@nboy.zij-wg.em
+					mobile: +78 201 48 61 539

@@ -1,0 +1,19 @@
+Ein Transformator kann aufgrund seines physikalischen Prinzips niemals die
+Frequenz ändern. Deine Aussage ist somit falsch.
+
+Abgesehen davon dürfte es kein Problem sein, weil solche Maschinen in der
+Regel keinen synchron laufenden Motor haben. Transformieren muss er
+allerdings und das dürfte dann das Problem sein, denn so ein Teil wie die
+Heßberger kann man mal mit 500 Watt in der Spitze einschätzen. Der Trafo
+ist dann ersten ein ziemlicher Klotz und zweitens auch nicht gerade umsonst.
+
+Ansonsten braucht er einen Leistungsgenerator für 110 Volt/60 Hz Ausgang bei
+230Volt/50 Hz Eingang. Vermutlich auch nicht gerade das gängigste Modell,
+also ntsprechend teuer!
+
+Mit Zoll und allem Drum und Dran kommt die Beschaffung in germany
+wahrscheinlich auch nicht teurer.
+
+Gruss
+
+Gerard

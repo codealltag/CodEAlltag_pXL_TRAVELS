@@ -1,0 +1,34 @@
+Vergiss es.
+
+Es gibt folgende Moeglichkeiten:
+
+1. Einfacher Zwischenstecker: Geht nur, wenn Endgeraet mit 110 und 220
+Volt sowie 50 und 60 Hz klarkommt (z.B. Elektrorasierer).
+
+2. Trafo, der Dir in D aus 220 100 Volt macht: Dann hast Du immer noch
+das Problem mit der Frequenz, geht daher nur fuer Geraete, denen das
+nichts ausmacht.
+
+Ich bin nicht ganz sicher, ob es Trafos gibt, die auch die Freuqenz
+anpassen. Aber selbst die unter 2. genannten kosten schon genug, dass es
+sich fuer eine kleine Hifianlage nicht lohnen duerfte.
+
+Empfehlung:
+Kauf Dir eine gebrauchte Hifi-Anlage und verkauf' sie wieder, wenn Du
+zurueck gehst. Oder kauf Dir halt eine ganz billige.
+
+Ansonsten kriegst Du zumindest den Adapter um das Teil in D zu benutzen
+in einem Elektronikladen in den USA. Die andere Richtung kauft man beser
+in D. Dito fuer Transformatoren (vielleicht nur in besser sortierten
+Laeden).
+
+Cheers
+
+            Waltraud
+
+
+-- 
+Waltraud Zeitlhofer                                    imx.kxhuwij@xfgqecdf.sli
+
+         "In the quiet of the night let our candle always burn           
+       let us never lose the lessons we have learned." G.M. 1975

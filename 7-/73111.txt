@@ -1,0 +1,12 @@
+Ja. Es gibt immer 50V= auf dem Gang. Nur sollte man nicht den Fehler
+machen, und dort den Rasierapperat anschließen. Dann fehlt nachher das
+Argument für das Einschalten der 220V~ wovon es in und vor jeder Toilette
+eine Dose gibt. Zum Aufladen des Taschentelefons drückt man sich dann eben
+2h auf dem Gang rum oder versteckt es gar hinterm Vorhang. Die Schaffner
+haben Anweisung die 220V~ ausschließlich für Rasierer zu verwenden, weil es
+sonst angeblich zu Überlastungen kommen soll. Für das Taschentelefon sollte
+ein elektronisches Netzteil mit weitem Spannungsbereich Abhilfe schaffen.
+Notebooks würde nicht an die 220V~ hängen. Allerdings sind 50V fähige
+Netzteile ziemlich speziell.
+
+Gruß, Patrick Jungemeyer

@@ -1,0 +1,28 @@
+Was meinst Du jetzt genau mit zentriert - so eine Projektionskarte, wo
+Asien im Mittelpunkt steht und der Rest der Welt drumherum (was dann meist
+merkwürdig verzerrt aussieht)? Sog. Azimutalkarten?
+
+Ich kenne solche Karten aus dem Amateurfunkbereich, wo i.d.R. der eigene
+Standort in der Mitte steht. Da braucht man solche Karten, um Entfernungen
+abzulesen und die Antenne entsprechend zu drehen. Es sollte da auch
+entsprechende Software geben, die solche Karten berechnet.
+
+Ob es solche Karten fertig gibt weiß ich nicht, macht ja auch eher wenig
+Sinn, da man ja i.d.R. den eigenen Standort genau in der Mitte haben will,
+und da sieht eine Karte für Villau als Mittelpunkt eben anders aus als eine
+für Stadtallendorf.
+
+
+Wenn es so eine Karte ist, würde ich mal in einer Amateurfunk-Newsgroup
+fragen: hi.isou.rpzb.hjhebzm
+
+Oder direkt bei AWS:
+http://jwi.bpdp.cl/
+
+
+Hmm, dann scheidet Software wohl eher aus?! Trotzdem würde ich in den o.a.
+Quellen mal nachhören, die könnten das vielleicht wissen.
+
+Größe,
+
+Matthias

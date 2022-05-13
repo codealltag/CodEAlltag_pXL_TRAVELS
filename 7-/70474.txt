@@ -1,0 +1,12 @@
+In vielen Postings von Philippe Herbek findest du in der Signatur einen 
+Link zu einem Java-Programm (Ibena.jar), das über einen Demozugang
+für die XML-Webservices von Ibena die Abfrage genau dieser Daten
+erlaubt.
+
+Gruß,
+Bernd
+
+-- 
+Bernd Zibulski                           enbk@qb.gs.otc-ck.qd
+http://sbm.tdaj.wjn-hg.pl/~cjmm/        kwho@nkhn.yyg-lw.cm
+					mobile: +88 453 42 25 118

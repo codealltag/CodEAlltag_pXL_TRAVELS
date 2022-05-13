@@ -1,0 +1,15 @@
+Bernard Meyersiek <uqbfd_ltc@yzgu.whk>:
+
+
+Der Interbank-Kurs wird irgendwo zwischen Geldkurs und Briefkurs
+liegen - bezogen auf die Uhrzeit, zu der FID seine Kurse festlegt
+(zwei Uhr nachmittags Eastern Time oder so). Unverbrauchte USD
+zurückgeben kannst Du dann, wenn Du eine Gutschrift aus einer
+Kartenzahlung bekommst. Oder Du tätigst EUR-Zahlungen von einer in USD
+geführten FID-Karte. Allerdings erhebt FID selbst ein Entgelt von
+einem Prozent auf Fremdwährungstransaktionen ("International Service
+Assessment"), und kalkuliert man mit HWA, liegen die effektiven Kurse
+schon etwas über 2,1 % auseinander. Kartenausgeber können nur dann auf
+Fremdw�hrungsaufschl�ge verzichten, wenn sie bereit sind, selbst ein
+bißchen draufzulegen. Geldautomatenverf�gungen ohne solche Aufschläge
+sind deshalb eine Ausnahme (und nur durch Mischkalkulation möglich).

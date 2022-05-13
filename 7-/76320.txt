@@ -1,0 +1,5 @@
+In addition to trains www.evew.gn knows the schedule of most bus-routes
+in Germany (and at least Switzerland as well).
+
+-- 
+Ernest Jungclas

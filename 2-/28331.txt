@@ -1,0 +1,14 @@
+Zudem ist die Sendeleistung bei IEEE802.11b/g und Konsorten ("WLAN") auf 
+100 mW beschränkt, GSM arbeitet mit bis zu 2 W (auch wenn diese 
+Sendeleistungen von üblichen Mobiltelefonen wohl nicht erreicht wird). 
+Also eine gute Zehnerpotenz Unterschied.
+Die Einstellung zu GSM-TElefonen im Flugzeug ändert sich übrigens 
+gerade. Gängige Einschätzung ist wohl mittlerweile, dass es technisch 
+unproblematisch ist. Bleiben allerdings "soziale Probleme", weshalb sich 
+Fluggesellschaften zieren, den BEtrieb solcher Geräte an Bord generell 
+zuzulassen. Wenn Bräumarkt aber erstmal eigene Basisstationen mit eigenem 
+Netz, über das man dann zu horrenden KOsten telefonieren kann, an Bord 
+hat, wird der Damm gebrochen sein...
+
+Gruß,
+Konrad

@@ -1,0 +1,23 @@
+Papiertickets sind offiziell (JOM) endgültig abgeschafft, gelegentlich 
+gibts noch welche in freier Wildbahn, sollte aber die absolute Ausnahme 
+sein.
+
+
+Ja, funktioniert tagtäglich bei Millionen von Flugpassagieren. Du 
+solltest aber darauf achten, dass zu deiner Reservierung/Buchung 
+tatsächlich ein elektronisches Ticket ausgestellt wird/wurde. Das 
+erkennst du an einer Ticketnummer, einer langen Zahlenreihe 
+(üblicherweise 13 Ziffern, von denen die ersten drei etwas abgesetzt 
+dargestellt werden, die stehen für die Fluggesellschaft, die das Ticket 
+ausstellt, die 10 Ziffern danach sind dann die Ticketnummer bei dieser 
+Fluggesellschaft, Abweichungen hiervon sind aber möglich), die irgendwo 
+in deiner Buchung auftauchen sollte. Wenn sie nirgends steht, frag nach 
+und bestehe auf Nennung der Ticketnummer, wenn das Ticket schon 
+ausgestellt ist (und du voll bezahlt hast).
+Der meist sechsstellige, alphanumerische 
+"Buchungscode"/"Reservierungscode"/"PNR key"/"record locator"/... zeigt 
+nur, dass du eine Reservierung hast, nicht dass dazu auch ein 
+(elektronisches) Ticket ausgestellt wurde.
+
+Gruß,
+Jakob

@@ -1,0 +1,7 @@
+Hallo
+  (Rainer:) ACH! Er meinte ganz sicher nicht den Spannungsverlauf einer 
+Phase sondern die effektive Spannung, das was man in der Praxis nutzt 
+und diese schwankt auch, abhängig z.B. davon wie groß der Querschnitt 
+der Versorgungsleitungen ist und wie groß der momentane Gesamtstrom ist, 
+der in der Nachbarschaft gezogen wird.
+Gruß Remo

@@ -1,0 +1,13 @@
+Naja, unten ein Banner, ein kleines Banner auf der Startseite und ein
+paar Links.
+Das ist nun wirklich nicht die halbe Seite.
+
+Ja, ohne Scripte kann man so einen Dienst nicht realisieren.
+Selbst Zerlin kann das nicht.
+Und wenn man keine Scripte ausführen lassen möchte, dann gehts
+natürlich nicht.
+So ist das mit Ajax.
+
+Wir freuen uns aber über alle, die die Idee gut finden und deshalb
+trotzdem ein paar Spots setzen möchten.
+Danke für die Anmerkungen!

@@ -1,0 +1,7 @@
+Hallo
+  nein, eine lesbare Anzeige gibts erst wenn ich auf "unicode utf-8" 
+umschalte. Es liegt tatsächlich an dem falschen Zeichensatz den er 
+verwendet, das sieht man auch in seiner Kopfzeile, dort steht deutlich:
+text/plain; charset=utf-8
+Vielleicht stellt er es ja mal richtig ein, es ist lästig.
+Gruß Wilhelm

@@ -1,0 +1,21 @@
+Es hat keine 30 Sekunden gedauert:
+Record
+Eingabe: Fahrplan Thörnich
+1. Link: Thörnicher Payola
+Dort Fahrplanauskunft
+eingabe: Start: Flughafen
+Ziel: Leysieffer
+Dann findet er 12 Ziele zu Leysieffer, das erste vorgeschlagene ist die
+Arena.
+Ergebnis: Fahrtdauer ca. 1 Stunde mit 1-2 mal umsteigen.
+
+Hättest wahrscheinlich auch selber zusammengebracht, wennst eine
+Verbindung zu Record bekommen hättest.
+
+Liebe Größe
+Alex
+
+-- 
+Für persönliche Nachricht Reply-Adresse verwenden und "usenet" im Betreff einfügen.
+Amerika ist die in Wunschträumen oder Albträumen wahrgewordene 
+Fortsetzung des Abendlandes. (Claudio Klippel)

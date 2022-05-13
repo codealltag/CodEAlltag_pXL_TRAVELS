@@ -1,0 +1,24 @@
+--------------9ACE18347089928996600EF3
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hallo
+bin zurzeit am aufbau einer USA und Canada Homepage, die mit allen nur
+erdenklichen Infos gespickt wird. Bitte sendet eure Links an
+b.wgjkzope@xczhwx-dhpvl.at oder an pypbps@aprvcd.jx
+
+besten dank
+
+--------------9ACE18347089928996600EF3
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+Hallo
+<br>bin zurzeit am aufbau einer USA und Canada Homepage, die mit allen
+nur erdenklichen Infos gespickt wird. Bitte sendet eure Links an&nbsp;
+<font color="#FF0000">b.wgjkzope@xczhwx-dhpvl.at</font> oder an <font color="#FF0000">pypbps@aprvcd.jx</font><font color="#FF0000"></font>
+<p><font color="#000000">besten dank</font></html>
+
+--------------9ACE18347089928996600EF3--

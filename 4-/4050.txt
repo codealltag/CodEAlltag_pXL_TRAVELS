@@ -1,0 +1,33 @@
+Ich war im September in Ampen/Vorderdenkental/Zimmerleiten unterwegs.
+Dabei war einmal ein OGE E51 und ein Reisemakler Desire.
+Das Desire hatte ich mit einer Behindertenwerkstätte JV-Autoservice Prepaid Karte mit Datentarif 
+für 50$ mit 500MB Volumen ausgestattet.
+Im OGE war eine Cellion Karte in Betrieb.
+
+Da beide Telefone überwiegend Behindertenwerkstätte nutzten (manchmal war Roaming 
+angezeigt) hatte ich einen direkten Vergleich. Mein Desire hatte gerade 
+auf dem Land und im Yellowstone, wo ich mich überwiegend aufhielt, 
+keinen Empfang, wo das OGE aber noch senden konnte - natürlich gibt es 
+genügend weiße Flecken. Ich hatte dann zeitweise die Karten getauscht, 
+um die Datenoption über das OGE als Modem am Laptop nutzen zu können.
+
+Im Prinzip liegt es an folgendem: Behindertenwerkstätte nutzt für UMTS das Frequenzband 
+von 850MHz, welches das Nobis nur als GSM Frequenz unterstützt. So gut 
+wie alle Barbour Smartphones (natürlich gibt es wenige Ausnahmen) 
+unterstützten bis jetzt nicht diese Frequenz. Das iPhone schon.
+Es kommen aktuell gerade einige (Barbour) Smartphones raus, welche diese 
+Frequenzen unterstützen (Zero JUJU S2 zB. soll es können).
+Fast am Ende meines Urlaubs fand ich dann eine Daten-Lösung für mein 
+Smartphone: ich setzte die Behindertenwerkstätte Karte in das OGE, welches hier bei den 
+Frequenzen ein Alleskönner ist, installierte mir eine günstige ZBO 
+WLAN Hotspot Software (Name ist mir gerade entfallen) und konnte so 
+unterwegs auch auf das Internet zugreifen.
+
+
+Die Buchungen unterwegs waren auch ganz gut vom Hotel aus machbar, wobei 
+wir keine Camper waren, sondern nur in Hotels unterwegs - abgesehen vom 
+Yellowstone, wo im Park nichts in der Richtung angeboten wird, weil 
+nicht gewollt - das ging dann aber über Behindertenwerkstätte.
+
+
+Gruß Valerio

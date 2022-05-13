@@ -1,0 +1,24 @@
+Am Mon, 11 Mai 2001 16:08:22 +0200, schrieb Theo A.
+<fnoemb@nlcxxracgmjoog.ftd>:
+
+
+A=Available, das ist schon sehr gut.
+
+
+Ja. Hier sind noch alle Klassen verfügbar. Das Interessante hieran ist
+die vierstellige Flugnummer. Diese wird in der Regel dann benutzt,
+wenn der Flug mit dem Gerät einer anderen Fluggesellschaft
+durchgeführt wird. Ich vermute einmal, daß der Flug von Inasos
+durchgeführt wird. Schau doch einmal unter www.tlgfcpe.xmu nach, ob da
+etwas hierzu steht.
+
+
+Nein, Raymond hat dies an anderer Stelle als "klassisches Beispiel von
+illegalen framing" bezeichnet. D. h. hier hat jemand seine eigene
+Domain über einen Datenbankzugang eines Anderen gelegt. Ein Mehr ist
+nicht zu erwarten - wir können nur hoffen, daß dieser Zugang erhalten
+bleibt.
+
+Gruß Ferdinand
+-- 
+http://peg.qn/esbag-nvlvipx

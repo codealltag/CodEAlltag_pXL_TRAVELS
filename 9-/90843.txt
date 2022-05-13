@@ -1,0 +1,16 @@
+Hallo Ignaz
+
+
+Ich mache von meinem Urlaub eine Landkarten-Animation und capture die Karten
+aus MS Encarta Weltatlas. Die Auflösung beträgt "nur" 96 dpi, doch mit einem
+Bildprogramm erhöhe ich sie auf 400 dpi. So kann ich auch gut zoomen. Bevor
+ich capture ändere ich die Auflösung auf die höchste Stufe. Auch wenn das
+Bild flackert und zu klein ist. Dann kannst du aber das Bild, wenn du wieder
+zurück gehst in die Normale Auflösung schon zum Teil gezoomt. Klappt sehr
+gut bei mir.
+
+Hoffe geholfen zu haben
+
+Ciao
+
+Pascal

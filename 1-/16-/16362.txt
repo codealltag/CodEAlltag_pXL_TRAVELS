@@ -1,0 +1,6 @@
+"Gruppenangebot
+über 25.000 Newsgruppen aus mehr als 220 verschiedenen Hierarchien. Der
+Gruppenbestand wird kontinuierlich gepflegt und erweitert. Unser Server
+führt keine Newsgruppen mit Binär-Inhalten."
+
+Damit entfällt der Hauptzweck eines alternativen Newsservers ...

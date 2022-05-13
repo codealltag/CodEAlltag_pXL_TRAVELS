@@ -1,0 +1,19 @@
+Hallo,
+
+auf der Suche nach einem Schlafsack las ich über den Big Pack Hiker's
+Dream folgendes: Es gibt 3 Modelle - C180, C195, C210 - für Leute mit
+unterschiedlichen Körperlängen (eben 180cm, 195cm, 210cm). Laut Katalog
+stecken in diesen Modellen 500g, 750g bzw. 1000g Daune. Und genau hier
+habe ich gestutzt, weil mir irgendwie nicht klar ist, warum die nur
+unwesentlich größeren Modelle gleich soviel mehr Daune drin haben?
+
+Zum Nachrechnen nahm ich mal an, es handele sich beim Schlafsack um
+einen (hohlen) Kegelstumpf (also einen großen Kegelstumpf aus dem ein
+etwas kleinerer Kegelstumpf entfernt wird; der Rest ist die mit Daune
+gefüllte Hölle ohne Berücksichtigung einer Kapuze und des Fußteils).
+Wenn ich dieses Modell zugrunde lege, ergeben sich für die Volumina 
+der beschriebenen Schlafsäcke Werte, die im Verhältnis von 1 zu ca. 
+1,2 stehen (ein Modell zum nächst höheren), aber nicht im Verhältnis 
+1 zu 1,5 wie es die angegebenen Daunenmengen vermuten lassen.
+
+Wie kann man sich das erklären?

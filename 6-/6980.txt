@@ -1,0 +1,13 @@
+Tja, um in Frankreich immer und überall Benzin oder Bahnfahrscheine am
+Automaten zu bekommen, ist die PIN-Eingabe leider unerläßlich (und ich
+bin heilfroh, endlich eine Karte gefunden zu haben, mit der das funk-
+tioniert!). Wobei diese Automaten (also bei denen man die PIN eingibt)
+*nur* den Chip auslesen - die haben gar keinen Magnetstreifenleser. Und
+der Chip ist m.W. bis heute fälschungssicher. Ich kann mir also kein
+Szenario vorstellen, bei dem durch meine PIN-Eingabe eine Kopie der
+Karte mit anschließendem Betrug entstehen könnte.
+
+
+Mehrere Karten ist natürlich grundsätzlich eine gute Idee. Schon immer :-)
+
+Gruß Karsten.

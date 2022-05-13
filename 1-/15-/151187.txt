@@ -1,0 +1,27 @@
+HI!
+
+
+Mein Notebook hat ein eingebautes Nudelshop WinModem 56K ("Softmodem"). Mal
+ging's gut (>40 KBit/s), mal sehr schlecht (nur jeder 3. oder 4.
+Anwahlversuch brachte überhaupt eine Verbindung). Ich weiß natürlich
+nicht, ob die Probleme wegen schlechten Telefonleitungen oder schlechten
+Telefonanlagen der Hotels auftraten. Die Qualität war jedenfalls immer
+ortsabhängig. Die neuesten Treiber hatte ich auch.
+
+
+Es gibt fertige Kabel. Mein eingebautes Modem hat bei dem Western
+Stecker sowieso amerikanische Norm (also die beiden inneren belegt), ich
+brauchte also nur ein amerikanisches Kabel.
+
+
+Das würde mich auch interessieren. Das letzte Mal habe ich das über Elsterforum
+gemacht. In Deutschland angemeldet und dann in USA deren Einwahlknoten
+benutzt. War überall zum Ortstarif (= Flatrate!) zu erreichen. Je nach
+Hotel mußte ich dafür pro Verbindung (zeitunabhängig) zwischen 0 und $1
+bezahlen. Allerdings mußte ich auch noch den deutschen Elsterforum-Tarif (= 3.9
+Pf/Minute) bezahlen, obwohl da normal ja die deutschen Telefongebühren
+mit drin sind. Aber OK, das war noch erträglich. Am Ende hatte ich an
+Elsterforum nur DM 10.- oder so zu bezahlen. Teurer waren die erfolglosen
+Einwahlversuche.
+
+Othmar

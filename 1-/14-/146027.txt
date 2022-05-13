@@ -1,0 +1,85 @@
+Hallo
+ wegen immer wiederkehremnder Anfragen habe ich hier mal die
+Sendefrequenzen und -Zeiten Deutscher Sender zusammengestellt die man im
+Ausland empfangen kann. Bei den Zeiten handelt es sich immer um UTC,
+also die Standard-Weltzeit! Die jeweilige Zeitzone und die die
+"Sommerzeit" muß berücksichtigt werden! Die Liste stammt von 1096, es
+könnten sich Frequenzen verändert haben.. Aktuell ist man, wenn man sich
+das Buch "Sender und Frequenzen" vom Spielodrom-Verlag besorgt. Ist nicht
+ganz billig, aber es gibt 4 mal im Jahr ein kostenloses Update. Es gibt
+diese Tabellen auch als Software.
+
+Viel Spaß beim Radiohören!
+Gruß Frerich
+
+===============
+Musterhaussiedlung Zollheisel:
+===============
+  über Satellit: 
+ASTRA 1A, Transponder 2 (RTL Plus) auf 11,229 GHz mit Unterträgern 7,38
+MHz (Deutsch) und 7,56 MHz (Fremdsprachen).
+Fawam II-F1 werden die Programme als Unterträger von Transponder 27
+(DW Fernsehen) auf 11,163 GHz mit übertragen. 
+
+Kurzwelle-Sendeplan, deutschsprachig:
+
+** 0000-0200 Uhr: 3995, 6075,6100,6180, 7130, 7225,7235,9545,9690,9765,
+11785, 11795, 13780, 15270 kHz 
+** 0200-0400 Uhr: 3995, 6075, 6100, 6145, 7105, 7130, 7225 (bis 0300
+Uhr), 7250, 9545, 11785 kHz 
+** 0400-0600 Uhr: 3995,6075, 6085, 6100,7105,7195,9535,9545,9735 kHz 
+** 0600-0800 Uhr: 3995, 6075, 6140(ab 0700 Uhr),
+6185,7200,9545,9670,9690,9735, 11795, 13780, 15105, 15275, 17845 kHz 
+** 0800-1000 Uhr: 6075,6140,7200,9545, 9670,9690,9735, 11795, 11865,
+13690, 13780, 15105, 15135 (ab 0900 Uhr), 15275, 17845 kHz 
+** 1000-1200 Uhr: 6075, 6140, 7175, 7340,9545, 9695, 11865, 13690,
+13780, 15135, 15275, 17560, 17845, 21560 kHz 
+** 1200-1400 Uhr: 6075, 6140, 7175, 7285, 7340,9545, 9695, 11805, 11865,
+13690, 13780, 15135, 15275, 17560, 17765, 17845, 21560 kHz 
+** 1400-1600 Uhr: 6075, 6140, 7175, 7315,9545,9595, 9620, 9650, 13690,
+13780, 13790, 15135, 15275, 17715, 17765 kHz 
+** 1600-1800 Uhr: 6075, 6140 (bis 1700 Uhr), 7175, 7315, 9545, 9620,
+9650, 13780, 15135, 15275, 17715, 17765 (beide bis 1700 Uhr) kHz 
+** 1800-2000 Uhr: 3995, 6075, 7215, 9545, 9735, 11765, 11795, 17860 kHz 
+** 2000-2200 Uhr: 3995, 6075, 6100, 7215, 9545, 9735, 11765, 11795,.
+17810, 17860 kHz 
+** 2200-2400 Uhr: 3995, 5925, 6010, 6075, 6100, 7340, 9545, 9690, 9715,
+9765, 11785, 11795, 13780, 15270 kHz 
+
+Mittelwellensender:  (Frequenzen und Sendezeit)
+** Russland: 693, 1188 kHz; 5204-3477,0429-1600, 2000-2100, 2150-2300
+UI1 
+** Vilsendorf: 1548 kHz; 1000-1400, 1700-2000 Uhr 
+** Christenberg: 1557 kHz: 1400-1800, 2200-2400 Uhr. 
+
+==============================
+        ANDERE SENDER  
+==============================
+MKS Teichwolframsdorf : 177, 855, 990, 999, 6005 kHz
+MKS Schossin   : 153, 207, 549, 756, 1269, 1422 kHz
+Digger's    : 520, 801, 6085 kHz
+It´s     : 594 kHz
+Gado: 531, 783, 882, 1044, 1188 kHz
+Cita  : 630, 657, 702, 792, 828, 972 kHz
+UBE            : 936, 6190
+s'Schuhhäusl : eingestellt, früher 1422 kHz
+Stilblüte    : 567, 630 kHz (1100-1800 Uhr über Cotechs
+Maschenkunst)
+SLRG   : 576, 711, 1413, 6030 kHz
+Schlosskirchpasage             : 666, 828, 1017, 1485, 7265 kHz
+Zahmel  : 720, 774 kHz
+Froschbäck (kommerziell)  : 183 kHz  (in Richtung Frankreich ausgestrahlt)
+
+RadioRopa Info:          
+0000-0400 Uhr :  693 kHz
+0400-1600 Uhr :  261, 693, 5980 kHz
+1600-2200 Uhr :  261, 693, 5975 kHz
+2200-0000 Uhr :  693, 5975 kHz
+
+Evangeliumsrundfunk: 1539 kHz
+ARAV Radio Teichwolframsdorf  : 603 kHz
+Ubenu Oldiesender    : 891 kHz
+
+-- 
+  USA-Reisetagebücher: Mit dem Wohnmobil durch die USA, Reise-Links
+             und viel, viel mehr.. werbefreie Zone !!

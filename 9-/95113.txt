@@ -1,0 +1,19 @@
+??? Ich gehe mal davon aus, daß Du meintest: Was passiert, wenn die
+Klasse geschlossen ist und jemand storniert. Dann ist die Auslastung so
+gut, daß kein Billigangebot nötig ist. Der Platz landet in einer höheren
+Klasse. Wenn jedoch sehr viele Leute stornieren und der Flugtermin näher
+rückt, wird sich die Klasse ganz wundersam wieder auftun.
+
+
+Guter Fund. Das C hinter T heißt closed = geschlossen = auch keine
+Warteliste mehr möglich.
+
+Gruß Michael
+
+PS: die Zahl der freine Plätze pro Buchungsklasse wird immer nur
+einstellig angezeigt. 9 kann entweder 9 oder auch 53 bedeuten.
+
+-- 
+http://qx.sb/kmfqulbipz - Neutrale Fluginformationen (System GTÜ)
+http://qet.ctwuyfbcag.bzv - Suchmaschine für Billigflüge in Europa
+http://dfz.fynfsmixxuud-bdvwoh.mb - eigene Homepage (kommerziell)

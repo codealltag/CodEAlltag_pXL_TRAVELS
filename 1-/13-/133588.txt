@@ -1,0 +1,28 @@
+Zwar kein Mediziner, aber zumindest die Strahlendosen kann ich mal eben
+in den Unterlagen meines STrahlenschutztrainings nachsehen (Zahlen
+beziehen sich auf die USA, koennen in Europa leicht verschieden
+sein):
+
+natuerliche STrahlungsquellen: 300mrem/Jahr
+"human-made" Quellen:           60mrem/Jahr
+
+Also kriegt jeder von uns pro Jahr im Mittel 360mrem ab (individuelle
+Abweichungen z.B. durch Radon, Roentgenaufnahmen, etc.).
+
+Die Dosen fuer einige Berufsgruppen (zusaetzlich zu den 360 von oben):
+airline flight crew member 1000mrem/Jahr
+nuclear power plant worker  700mrem/Jahr
+medical personnel            70mrem/Jahr
+
+Ich hatte auch mal die Dosis fuer Langstreckenfluege, finde sie aber
+momentan nicht.
+
+Cheers
+
+           Nadine
+
+-- 
+Nadine Vorster                                    mpd.tebupsa@jetpujoo.sjb
+
+         "In the quiet of the night let our candle always burn           
+       let us never lose the lessons we have learned." G.M. 1976

@@ -1,0 +1,6 @@
+Nein, das ist gar nicht so falsch. Die in Deutschland vertriebenen
+Triband-Handys arbeiten mit 3 Frequenzen: 900MHz (D-Netze), 1800MHz
+(E-Netze)  und 1900MHz (USA/Kanada-GSM-Netze).
+
+Gruß
+Alains

@@ -1,0 +1,18 @@
+Jein. UTF-8 war f+APw-r die Ursprungsartikel zwar Oversize ist aber kein
+*falscher* Zeichensatz. Wenn ich z.B in einem Artikel den "+IKw-" und
+den "+ALQ-" verwenden will reicht ISO-8859-15 einfach nicht f+APw-r die
+Darstellung aus.
+
+Grunds+AOQ-tzlich sollte ein Reader beim Verfassen von Artikeln den
+kleinsten ben+APY-tigten Zeichensatz verwenden. Eine aktueller Reader
+sollte aber heute keine Probleme mehr mit UTF-8 kodierten Artikeln
+haben. 
+
+
+Mit Thunderbird 0.6 sieht der Artikel auch ganz normal aus.
+Taufrisch ist dein Netscape/7.1 ja nicht gerade.
+
+-- 
+Tugendhaftes Leben ist ja nichts anderes als
+ein Mangel an Gelegenheiten. [Maximilian Cappeller]
+NP: LTCA - Feierabend in Frauenwies

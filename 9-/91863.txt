@@ -1,0 +1,10 @@
+Hi,
+
+
+Das preiswerte ist ausverkauft.
+Er macht erst bei einer direkten Anfrage von Dir eine Anfrage an die
+Fluggesellschaft! Die anderen Daten kommen aus einer Datenbank, die nur einmal
+am Tag, oder so, mit denen der Fluggesellschaft abgeglichen wird!
+
+Gruß
+Beat

@@ -1,0 +1,5 @@
+So viele Flughäfen gibt es ja nicht die in Frage kommen.
+Woher soll ausserdem das Programm wissen, was für eine Anreise
+du akzeptierst? 2-3 Mausklicks geht schneller als sowas zu konfigurieren.
+
+Benno

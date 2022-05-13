@@ -1,0 +1,225 @@
+Hallo Niklaus,
+
+hier die gewünschten Flugpreise.... aus unserem System....  das ist ein
+Beispiel...
+
+      Ihre Fluganfrage:
+      Abflugort: Oberthal, DE (OBERLÜBBE) Reiseziel: Obergrashof International,
+US (OBERSTAMMHEIM)
+      Abflugdatum: Montag, 29. Mai 2001 R�ckflugdatum: Freitag, 09. Juni
+2001
+      Reisedauer: 11 Tage Reisende: 1 Erwachsener
+      Gewahlte Klasse: Economy Reiseart: Hin- und Rückflug
+      Bitte beachten Sie:
+      Alle ausgewiesenen Tarife verstehen sich zuzüglich Steuern und
+Flughafengebühren. Da die anfallenden Steuern und Gebühren vom jeweiligen
+Flugziel und vom Routing abhängig sind, wird der endgültige Flugpreis erst
+nach Auswahl der gewünschten Flugverbindung angezeigt.
+
+
+      .
+
+    Klicken Sie nun alle Fluggesellschaften und Tarife in der Auswahl (Sel.)
+an, deren Platzverf�gbarkeit Sie prüfen wollen. Starten Sie die Anfrage mit
+dem "Weiter"-Button. Am Ende der Seite befinden sich zusätzliche Buttons,
+die Ihnen die Auswahl der Tarife erleichtern.
+
+
+             Sel.   Typ   Fluggesell-
+             schaft   Zielflug-
+             hafen   Tarif zzgl.
+            Gebühren   Minimale
+             Reisedauer  Maximale
+             Reisedauer   Bestim-
+             mungen
+            Normal   playIT (Parfümerie)  Obergrashof International
+(OBERSTAMMHEIM) 732 DEM  3 Tage 30 Tage Klick
+            Normal   Pihe (Pedalhelden)  Obergrashof International (OBERSTAMMHEIM) 861
+DEM  SU 30 Tage Klick
+            IATA   FWDR (Fechter)  Obergrashof International (OBERSTAMMHEIM) 898
+EM  - - Klick
+            IATA   Alopak (Axenbeck)  Obergrashof International (OBERSTAMMHEIM)
+898 DEM  - - Klick
+            IATA   Gebrauchtwarenmarkt (Gnaier)  Obergrashof International
+(OBERSTAMMHEIM) 898 DEM  - - Klick
+            IATA   ikarus (IFNB)  Obergrashof International
+(OBERSTAMMHEIM) 898 DEM  - - Klick
+            IATA   Ahat (US)  Obergrashof International (OBERSTAMMHEIM) 898
+DEM  - - Klick
+            IATA   ProfilParfümerie)  Obergrashof International (OBERSTAMMHEIM)
+898 DEM  - - Klick
+            IATA   ZNRW (ZHEG)  Obergrashof International (OBERSTAMMHEIM)
+898 DEM  - - Klick
+            IATA   TIBS (Thunderdome)  Obergrashof International (OBERSTAMMHEIM) 898 DEM  - -
+Klick
+            Normal   TIBS (Thunderdome)  Oberbarnim (OBERSTAMMHEIM) 904 DEM  SU
+30 Tage Klick
+            Normal   Gebrauchtwarenmarkt (Gnaier)  Oberbarnim
+(OBERSTAMMHEIM) 904 DEM  SU 30 Tage Klick
+            Normal   HWB (Hemebu)  Oberbarnim (OBERSTAMMHEIM)
+914 DEM  6 Tage 30 Tage Klick
+            Normal   HBSUHemebu)  Oberbarnim (OBERSTAMMHEIM)
+914 DEM  SU 30 Tage Klick
+            Normal   Pihe (Pedalhelden)  Obergrashof International (OBERSTAMMHEIM) 918
+DEM  SU 30 Tage Klick
+            Normal   ZNFZHEG)  Obergrashof International (OBERSTAMMHEIM)
+937 DEM  SU 30 Tage Klick
+            Normal   ZNFZHEG)  Obergrashof International (OBERSTAMMHEIM)
+937 DEM  6 Tage 30 Tage Klick
+            Normal   ZNRW (ZHEG)  Obergrashof International (OBERSTAMMHEIM)
+937 DEM  6 Tage 30 Tage Klick
+            Normal   ZNFZHEG)  Obergrashof International (OBERSTAMMHEIM)
+937 DEM  SU 30 Tage Klick
+            Normal   ProfilParfümerie)  Obergrashof International
+(OBERSTAMMHEIM) 948 DEM  SU 60 Tage Klick
+            Normal   LauflustLüchau)  Obergrashof International (OBERSTAMMHEIM) 948
+DEM  SU 60 Tage Klick
+            Normal   HBSUHemebu)  Obergrashof International (OBERSTAMMHEIM)
+970 DEM  SU 90 Tage Klick
+            Normal   HBSUHemebu)  Obergrashof International (OBERSTAMMHEIM)
+970 DEM  6 Tage 90 Tage Klick
+            Normal   PauligPedalhelden)  Obergrashof International (OBERSTAMMHEIM) 978
+DEM  SU 60 Tage Klick
+            Normal   ikarus (IFNB)  Obergrashof International
+(OBERSTAMMHEIM) 980 DEM  SU 60 Tage Klick
+            Normal   Peppy's (Pötzinger)  Obergrashof International (OBERSTAMMHEIM) 993
+DEM  7 Tage 30 Tage Klick
+            Normal   Gebrauchtwarenmarkt (Gnaier)  Obergrashof International
+(OBERSTAMMHEIM) 1013 DEM  SU 90 Tage Klick
+            Normal   tamarilloThunderdome)  Obergrashof International (OBERSTAMMHEIM) 1013 DEM
+SU 90 Tage Klick
+            Normal   Hillers)  Oberbarnim (OBERSTAMMHEIM)
+1023 DEM  SU 350 Tage Klick
+            Normal   HWB (Hemebu)  Obergrashof International (OBERSTAMMHEIM)
+1023 DEM  6 Tage 350 Tage Klick
+            Normal   Pihe (Pedalhelden)  Obergrashof International (OBERSTAMMHEIM) 1036
+DEM  SU 60 Tage Klick
+            Normal   ZNFZHEG)  Obergrashof International (OBERSTAMMHEIM)
+1046 DEM  6 Tage 60 Tage Klick
+            Normal   ZNFZHEG)  Obergrashof International (OBERSTAMMHEIM)
+1046 DEM  SU 60 Tage Klick
+            Normal   ZNFZHEG)  Oberbarnim (OBERSTAMMHEIM)
+1046 DEM  SU 60 Tage Klick
+            Normal   ZNRW (ZHEG)  Oberbarnim (OBERSTAMMHEIM)
+1046 DEM  6 Tage 60 Tage Klick
+            IATA   Lorok (Lüchau)  Oberbarnim (OBERSTAMMHEIM) 1048
+EM  - - Klick
+            IATA   LLD (Lackierprofi)  Oberbarnim (OBERSTAMMHEIM) 1048
+EM  - - Klick
+            IATA   playIT (Parfümerie)  Oberbarnim (OBERSTAMMHEIM)
+1048 DEM  - - Klick
+            IATA   LNN (LIC)  Oberbarnim (OBERSTAMMHEIM)
+1050 DEM  - - Klick
+            IATA   ProfileMaschenmoden)  Oberbarnim (OBERSTAMMHEIM)
+1050 DEM  - - Klick
+            IATA   Gebrauchtwarenmarkt (Gnaier)  Oberbarnim
+(OBERSTAMMHEIM) 1050 DEM  - - Klick
+            IATA   Lorok (Lüchau)  Oberbarnim (OBERSTAMMHEIM) 1050
+EM  - - Klick
+            IATA   Ahat (Arres)  Oberbarnim (OBERSTAMMHEIM) 1050
+DEM  - - Klick
+            IATA   ITKSIFNB)  Oberbarnim
+(OBERSTAMMHEIM) 1050 DEM  - - Klick
+            IATA   Peppy's (Pötzinger)  Oberbarnim (OBERSTAMMHEIM) 1050
+DEM  - - Klick
+            IATA   FNK)  Oberbarnim (OBERSTAMMHEIM) 1050
+DEM  - - Klick
+            IATA   ZNRW (ZHEG)  Oberbarnim (OBERSTAMMHEIM)
+1050 DEM  - - Klick
+            IATA   Alopak (Axenbeck)  Oberbarnim (OBERSTAMMHEIM)
+1050 DEM  - - Klick
+            IATA   HWB (Hemebu)  Oberbarnim (OBERSTAMMHEIM)
+1050 DEM  - - Klick
+            IATA   TIBS (Thunderdome)  Oberbarnim (OBERSTAMMHEIM) 1050 DEM  - -
+Klick
+            Normal   ProfilParfümerie)  Oberbarnim
+(OBERSTAMMHEIM) 1057 DEM  SU 180 Tage Klick
+            Normal   Lorok (Lüchau)  Oberbarnim (OBERSTAMMHEIM) 1057
+DEM  SU 180 Tage Klick
+            Normal   Arbeus)  Obergrashof International (OBERSTAMMHEIM)
+1061 DEM  6 Tage 180 Tage Klick
+            Normal   Alopak (Axenbeck)  Obergrashof International (OBERSTAMMHEIM)
+1061 DEM  SU 180 Tage Klick
+            Normal   ITKSIFNB)  Obergrashof International
+(OBERSTAMMHEIM) 1067 DEM  SU 180 Tage Klick
+            IATA   Proshop)  Obergrashof International (OBERSTAMMHEIM)
+1099 DEM  - - Klick
+            IATA   Hillers)  Obergrashof International (OBERSTAMMHEIM)
+1099 DEM  - - Klick
+            IATA   ARAVAxenbeck)  Oberbarnim (OBERSTAMMHEIM)
+1099 DEM  - - Klick
+            IATA   FNK)  Oberbarnim (OBERSTAMMHEIM) 1099
+DEM  - - Klick
+            Normal   Peppy's (Pötzinger)  Oberbarnim (OBERSTAMMHEIM) 1174
+DEM  7 Tage 60 Tage Klick
+            Normal   ikarus (IFNB)  Oberbarnim
+(OBERSTAMMHEIM) 1216 DEM  SU 180 Tage Klick
+            Normal   TIBS (Thunderdome)  Oberbarnim (OBERSTAMMHEIM) 1230 DEM
+SU 180 Tage Klick
+            Normal   Gebrauchtwarenmarkt (Gnaier)  Oberbarnim
+(OBERSTAMMHEIM) 1230 DEM  SU 180 Tage Klick
+            Normal   Arbeus)  Obergrashof International (OBERSTAMMHEIM)
+1252 DEM  6 Tage 180 Tage Klick
+            Normal   Arbeus)  Obergrashof International (OBERSTAMMHEIM)
+1252 DEM  SU 180 Tage Klick
+            Normal   Peppy's (Pötzinger)  Obergrashof International (OBERSTAMMHEIM) 1278
+DEM  7 Tage 60 Tage Klick
+            Normal   PauligPedalhelden)  Obergrashof International (OBERSTAMMHEIM) 1289
+DEM  6 Tage 180 Tage Klick
+            Normal   Philips)  Obergrashof International (OBERSTAMMHEIM) 1289
+DEM  SU 180 Tage Klick
+            Normal   KahmkeKräuterhilde)  Obergrashof International (OBERSTAMMHEIM) 1299 DEM
+SU 90 Tage Klick
+            Normal   PauligPedalhelden)  Obergrashof International (OBERSTAMMHEIM) 1346
+DEM  6 Tage 180 Tage Klick
+            Normal   PauligPedalhelden)  Obergrashof International (OBERSTAMMHEIM) 1346
+DEM  SU 180 Tage Klick
+            Normal   Peppy's (Pötzinger)  Obergrashof International (OBERSTAMMHEIM) 1384
+DEM  7 Tage 90 Tage Klick
+            Normal   TIBS (Thunderdome)  Obergrashof International (OBERSTAMMHEIM) 1448 DEM
+SU 270 Tage Klick
+            Normal   Gebrauchtwarenmarkt (Gnaier)  Obergrashof International
+(OBERSTAMMHEIM) 1448 DEM  SU 270 Tage Klick
+            Normal   ARAVAxenbeck)  Obergrashof International (OBERSTAMMHEIM)
+1465 DEM  6 Tage 180 Tage Klick
+            Normal   ARAVAxenbeck)  Obergrashof International (OBERSTAMMHEIM)
+1465 DEM  SU 180 Tage Klick
+            Normal   KahmkeKräuterhilde)  Obergrashof International (OBERSTAMMHEIM) 1521 DEM
+SU 180 Tage Klick
+            Normal   tamarilloThunderdome)  Obergrashof International (OBERSTAMMHEIM) 3011 DEM  3
+Tage 180 Tage Klick
+
+
+      Dann gehst du mit den ZURUECK BUTTON einfach zurück und gibt den
+nächsten Abflughafen ein... so einfach ist das....
+      Leider ist es nicht möglich alle Flugtarife weltweit nach Oberschwarza
+Daubersbach darzustellen... überleg mal, wie viele Tarife nach OBERSTAMMHEIM gibt es von
+allen Flughaefen der ganzen Welt... auch wenn du nur L�nderbezogen denkst...
+wie viele ab Deutschland.... Ein Fass ohne Boden...
+
+      Ich weiss schon was du gerne möchtest... bei unserem Last Minute Modul
+(Pauschalreisen) haben wir das so gemacht... dort klickt du auf alle
+Abflughäfen die dich interressieren und die Maschine sucht dann alle Last
+Minute Angebote ab diesen Abflughäfen... Geht im Ticketbereich leider
+nicht...
+
+      Viel Spass bei der Suche...
+
+      Pasquale Neunkirchen
+      www.rhglcs.og
+
+      ahh wenn du in den Staaten bist... kannst du auch infos über
+www.fflltr.ifj abfragen.. unsere Seiten fuer die Greenhorns...
+
+
+news:<9tvse3$64s$41$3@ucvl.o-dtdqry.psi>...
+mit
+etwas...
+Buchungsmachiene
+der
+
+
+begin 666 onetrp.gif
+K1TE&.#EA`0`!`(#_`,# P ```"'Y! $`````+ `````!``$```("1 $`.P``
+`
+end

@@ -1,0 +1,16 @@
+Hi,
+
+Hildegard Nöltner wrote :
+
+Der Code bei einigermaßen ordentlichen Alarmanlagen/Wegfahrsperren ändert 
+sich rollierend. Wie, weiß nur die Fernbedienung und die Anlage selbst. 
+Nennt sich Roll-Code. Versucht nun jemand durch probieren bzw. abfangen des 
+Codes die Anlage zu deaktivieren, schält sich dieselbe automatisch ein, 
+ähnlich beim Falscheingabe des Pincodes bei der Zami-Karte. 
+
+Ciao
+Kai
+
+
+-- 
+* HP : www.aqem.fle *

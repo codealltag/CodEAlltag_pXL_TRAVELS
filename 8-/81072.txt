@@ -1,0 +1,6 @@
+Du solltest deinem OEX auch noch die richtige Kodierung der Umlaute
+beibringen. Wie das geht findest du unter <http://as-omy.br>, Punkt
+1.01 der FAQ.
+
+-- 
+Armin Noßbaum

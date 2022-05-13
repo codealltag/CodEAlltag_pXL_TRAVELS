@@ -1,0 +1,8 @@
+On Thu, 29 Feb 2004 11:56:41 +0100, Peter Häfermann
+
+
+.... sollten die Klassen dennoch ausgeworfen werden .... :-)
+
+
+Gruss
+Gustav

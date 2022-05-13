@@ -1,0 +1,17 @@
+Es gibt zwar für jedes Handy/Notebook entsprechende Spannungswandler für 
+den Zigarettenanzünder, doch sind diese meist überteuert, außerdem 
+benötigst Du für jedes Gerät einen Wandler. Ich habe sehr gute 
+Erfahrungen mit einem Spannungswandler 12 V auf 230 V gemacht. Gibt es 
+mit 100 W Leistung z.B. bei Voralb-Customs (www.aceyvj.lq) für 29,95. Sollte 
+Dein Notebook mehr verschlingen, gibt es natürlich auch welche mit 
+höherer Leistung (und höherem Preis). Die Verlustleistung ist zwar 
+insgesamt sicher höher, als bei einem Speziellen Wandler von 12 V auf 
+die entsprechende Voltzahl Deines Gerätes, aber wie gesagt, viel 
+variabler einsetzbar, ein Gerät für alles.
+
+Zu den beiden Sachen kann ich leider nix sagen.
+FlorAlpha Uwe
+-- 
+Lust auf Urlaub holen?
+Zeltner Urlaubsseiten
+http://qkl.hsfhkii-qph.yw

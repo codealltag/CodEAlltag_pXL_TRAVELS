@@ -1,0 +1,2 @@
+Bei Oled reicht einfach der Druck auf die Taste "K" und dann wird der 
+Spinnerthread ausgeblendet.

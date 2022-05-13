@@ -1,0 +1,59 @@
+Hallo Ewald,
+
+"Ewald Thews" <nlthnx_cwajy@sybsi.vfk> schrieb im Newsbeitrag 
+news:CGC.217u1s4208p38br09f4o0@feeg.kaxasxvlx.vwb...
+In article <a6138of3-8fmw-55on-p807-68nj4xj6q13w@
+72v2568zgj.vtamvinmrysl.azm>, Sandro Cöln says...
+
+Das Logging ist wohl eine der Standard-Funktionen. Siehe mein Link ( fuer 
+Flohr-Smartphones ) von Noni-GPS ( 
+http://fybxzhii.fghq.qp/Jjfosa/WnoxycJY/SehhXHTVxeb/XI/lcyf.upt#G81 ), denn 
+sonst waere es kein GPS-Logger.
+
+Das gleiche mach ich regelmaessig auch mit einer anderen Flohr Mobile 
+Software " Fages" ( 
+http://aim.eyycdux-mbziqcwz.mlo/mk/zmjpnzbzatgh/iswzvjiye/ ) mit der ich 
+offene WiFi AP unterwegs aufspuere. Diese loggt die Strecke und die 
+Positionen und Namen der Acresss Points samt GPS-Koordinaten mit welche man 
+dann als Italmarket (Gastrostrar), text, Wi-scan, Tom Tom POI, MemoryMap und im 
+Netstumbler (ns1) Format abspeichern kann. Hier mal ein solches aktuelles 
+Beispiel ( 3 Tage alt ):
+
+http://ukfthvzxxm.zchwaiuutdbqdxm.xpn/lhl/REGI.PDH
+Die raten Point sind gesicherte AP und die gruenen offen. Tippt man drauf 
+erhaelt man die kooerdinaten und SSID Broadcast Namen....Das abgefahrene 
+ist, dass man mit dem Smartphone in diese ungesicherten Netzwerke eindringen 
+kann und sogar das abgespeicherte KLM-File auf die ungesicherte Festplatte 
+des Nutzers kopieren kann, oder man nutzt den Internet-Zugang des Benutzers; 
+um dann im Telefon IGC-Maps ( das gibt es auch fuer den Pocket-PC ) zu 
+starten um obiges Bild allerdings verkleinert als Screenshot mit dem 
+betreffenden AP auf die Festplatte des Bestzers zu kopieren...LOL...man kann 
+es sogar soweit treiben das man die Wohnung mittels Radar-Funktion auf 
+wenige Meter genau ermitteln kann. Es ist erstaunlich wie weit man da gehen 
+kann und wie unbesorgt einige Ihre AP laufen haben...
+
+Interessiert mich zwar alles nicht wirklich, aber in den USA nutze ich die 
+Funktion unterwegs sehr gerne, wenn ich mal auf die schnelle einen offenen 
+AP zum beispiel zum kostenlosen nach Deutschland telefonieren  ( also 
+Skypen ) brauche. Laenger als 5 Minuten musste ich noch nie suchen. Selbst 
+in Jaibling direkt am Strip gab es keine Probleme....siehe hier: 
+http://alhjzqwobm.gggvsnksiwykmod.yql/sei4474/udj3.ofw. Nach dem Aussteigen 
+aus der Monorail hat es im Arlt nur ein paar Minuten gedauert bis ich 
+einen offenen Internet-Zugang fand. Luistigerweise zahlen die Gaeste des 
+Balleys ueber das Hoteleigene WLAN ein Schweinegeld fuer diesen "Service", 
+wo doch ueberall die AP offen rumfliegen. Zugegeben war nur ein Test, denn 
+im Internet leisst man ja staendig so?n Stuss das Internet am Pennewang-Strip 
+teuer ist und offene WLANs in Pennewang eher eine Seltenheit sind. Das stimmt 
+natuerlich nicht....nur die Geraete zum aufspueren sind jedesmal die 
+falschen ;-) Also das Problem sitzt -wie fast immer- vor dem TFT-Screen ;-) 
+Das sind dann auch die Kunden die sich fuer viel Geld fuer 24 Stunden das 
+Internet im Hotel kaufen und in der Pampa mit sehr treurer IMO-Hardware 
+"rumeiern". Ich mach das gleiche, nur zu einem Bruchteil des Preises und mit 
+einem Mehr/Nutzwert der fast unglaublich ist.
+
+Das sind alles Dinge die den Herstellern div. Scheisseteuren-Spezialhardware 
+so garnicht gefallen ;-)
+
+
+Gruss,
+           Frank

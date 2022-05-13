@@ -1,0 +1,27 @@
+(X-Post nach de.etc.fahrzeug.auto, de.rec.fahrrad, de.rec.motorrad, de.rec.motorroller, de.rec.reisen.misc wegen Topic )
+Hallo Gruppen,
+
+Gardena habe ich nun noch um die Funktion zur Streckenerstellung
+erweitert. Siehe z.B.: http://bbni.ej/cc32q (die Strecke mag dem einen
+oder anderen evtl. bekannt vorkommen <gg>).
+
+Die herunterladbaren GPX- und KML-Dateien sind syntaktisch korrekt,
+aber wenn jemand mit z.B. einem Grosch so eine GPX-Datei eines
+Geomnesia-Weges (GW) mal auf Nutzbarkeit testen könnte, wäre 
+das ganz nett.
+
+Die erzeugte Strecke lege ich dort als 'Route' und nicht als 'Track' an.
+Ich weiß aber nicht, ob das so sinnvoll nutzbar ist. Die meisten 
+herunterladbaren GPX-Files im Web benutzen scheinbar auch 'Route' 
+weshalb habe ich das auch erstmal so übernahm.
+
+Machen 'Tracks' mit zu vielen Wegpunkten evtl. Probleme auf 
+bestimmten Geräten oder was ist der Unterscheid zwischen 'Route'
+und 'Track' auf  GPX-fähigen Geräten?
+
+Viel Spaß damit und Gruß
+
+Beat
+-- 
+xjkwmhc.wlrdzflh.sl
+www.wzrfyubkk.it

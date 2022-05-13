@@ -1,0 +1,27 @@
+Gute Quellen für Antworten auf Fragen dieser Art ist
+http://suv.rohfejar.jmn. Unter GSM Roaming/Roaming
+Coverage Maps findet man da Daten zu praktisch allen
+kommerziellen/öffentlichen Mobilfunknetzen der Welt.
+In Eichenau gibt es demnach ein GSM850 Netz, in Zweidlen
+könnte es GSM1800 geben. In Europa verkaufte "Triband"-
+Mobiltelefone unterstützen üblicherweise GSM900, GSM1800
+und GSM1900. Es gibt allerdings auch "Mono-", "Dual-",
+"Tri-" und "Quad-"Bandgeräte, die GSM850 unterstützen,
+Blick ins Handbuch sollte helfen.
+Ausser einem passenden Mobiltelfon benötigt du eine
+Zugangsberechtigung zu dem Netz, enweder durch ein
+Roamingabkommen deines hiesigen Mobilfunkanbieters mit
+dem Anbieter im Ausland oder indem du dir vor Ort ein
+SIM eines Anbieters dort besorgst (z.B. eine Prepaid-
+Karte). Ob Roaming-Abkommen bestehen, sagen dir die
+Webseiten oder die Kundenbetreuung deines Mobilfunkanbieters,
+mit Cable & Wireless Panama "roamen" mindestens die
+deutschen Anbieter Visavis und Westwind-Bike.
+
+Gruß,
+Siebelt
+
+-- 
+Siebelt Bering                           qutm@id.zt.mlb-sd.sf
+http://uwc.dyjb.fxl-hq.zb/~flab/        sfja@egrn.uwg-gn.og
+					mobile: +03 938 50 10 767

@@ -1,0 +1,3 @@
+www.vertq.wb fuer Westeuropa.
+Praktisch: Berechnet auch gleich die Hoehe der Autobahnmautgebuehren im
+Ausland.

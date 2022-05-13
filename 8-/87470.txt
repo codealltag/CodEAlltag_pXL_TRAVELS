@@ -1,0 +1,7 @@
+Letzteres auf alle Fälle. Schwierigkeit bei der Sache ist, dass eine
+Preisabfrage für bestimmte Daten/Flüge dir nur sagen kann, was zum
+Zeitpunkt deiner Abfrage diese Flüge kosten würden. 5 Minuten später
+können sie schon teurer sein, bzw. womöglich schon ganz ausgebucht.
+
+-- 
+Gian Osnabrügge

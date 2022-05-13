@@ -1,0 +1,3 @@
+mmh.- ich habe win2000 und netscape7.1 - als default browser allerdings 
+ie6. kann es sein, dass es deshalb nicht laeuft - weil eigentlich ist 
+doch bei netscape sun java dabei, oder?

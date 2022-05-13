@@ -1,0 +1,21 @@
+Ich sage da nur EMV. Jedes elekronische Gerät, insbesondere solche=20
+digitaler Bauart funktioniert als Sender (Wenn wo Strom fliesst gibt es=20
+auch elektromagnetische Felder) . Du hast vielleicht auch schon bemerkt,=20
+dass Gewisse Geräte den Fernsehempfang stören können( z.B. Computer, =
+
+Modems, Waschmaschinen, etc), genauso ist es auch im Flugzeug.=20
+Flugzeuginstrumente sind zwar nach sehr strengen Vorschriften entwickelt=20
+worden, aber trotzdem kann man nicht davon ausgehen, dass diese 100% gegen =
+
+solche Störungen gefeit sind. Es gibt zwar EMV Vorschriften für eigentl=
+ich=20
+alle elektrischen Geräte, aber nicht immer werden sie eingehalten. Um=20
+diese Elektromagnetischen Störungen zu verhindern, werden Geräte oft in=
+=20
+Metalgehäuse gepackt, welche man erdet. Bei billig CD Spielern, welche=20
+möglichst im leichten Plastikgehäuse stecken, sind diese Massnahmen abe=
+r=20
+meist ungenügend.=20
+
+Ich verzichte deshalb lieber auf meinen Diskman während des Fluges und=20
+komme damit ohne Absturz ans Ziel.

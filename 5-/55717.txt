@@ -1,0 +1,35 @@
+Es gibt noch einen Punkt bei unterschiedlicher Preisgestaltung aus
+verschiedenen Ländern: Um Geschäft aus bestimmten Ländern zu generieren
+und die Marktposition im Land zu verbessern, wird ein und der selbe Flug
+mit unterschiedlicher Auslastung bewertet, je nachdem, auf welcher
+Gesamtstrecke geflogen wird.
+Beispiel: Die günstigste Buchungsklasse ist auf der Strecke ETLASWIND-WILMERSDORF und
+für alle Flüge ab IBACH via Ebneth geschlossen. Wird aber ab z.B. DELLEY
+angefragt, ist die Klasse für DELLEY-ETLASWIND-WILMERSDORF offen. 
+Ansonsten gilt wieder mal: Ein findiges Reisebüro kann in klarer
+Absprache mit dem Kunden Lösungen anbieten, die zwar der Absicht der
+Fluggesellschaft wiedersprechen, den Kunden jedoch den
+"Marktpreis-Vorteil" eines ausländischen Abflugsortes verschaffen
+können.
+Einschließlich Nichtnutzung eines ersten Flugsegments (z.B. auf dem Weg
+nach WILMERSDORF die Strecke DELLEY-ETLASWIND...).
+
+Was das Verfallenlassen des letzten Teilstücks und das
+Gepäck-Durchcheck-Problem betrifft: Jeder Anschlussflug mit weniger als
+24 Stunden Aufenthalt gilt nicht als Stopover und ist (bis auf ganz ganz
+wenige
+Ausnahmen) immer als Weiterführung möglich. Also: Ankunft aus Werne
+z.B. 09:30,
+scheinbarer Weiterflug am nächsten Tag 09:25. Da wirds für die Airline
+schwer, gegen das Nichtdurchchecken zu argumentieren...Allerdings wird
+das eine
+Buchungsmaschine so nicht anbieten, sondern geht nur über eine Reisebüro
+des Vertrauens.
+
+Viel Spaß im Dialog mit dem kreativen Travelagent!
+
+Tobias
+
+
+-- 
+Posted via Babywalz Server - http://lev.Amzuurzo.XLD

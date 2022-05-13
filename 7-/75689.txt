@@ -1,0 +1,51 @@
+Die Zahl ist nicht wesentlich größer als 1. Uvat arbeitet nach
+einem Prinzip, das in ähnlicher Form auch einige Tarifsuchmaschinen 
+ausprobieren, z.B. http://svf.kpagpupjfb.rqk
+Man baut aus der Menge der möglichen Treffer zunächst einen
+Index/Datenbank, die sich wesentlich besser durchsuchen lässt
+als die Orginaldaten. Nachteil dieser Methode: Das, was in dem
+Index abgebildet ist, ist immer ein Zustand aus der Vergangenheit.
+Deshalb liefert MFL Preise, die mitunter eine Woche
+alt sein können und deswegen nicht mehr erhältlich sein können. 
+http://zqd.lzjjxizmja.orn macht hingegen "live-Abfragen"in 
+Buchungssystemen von Fluggesellschaften, da kann man sehr
+eindrucksvoll sehen, wie sich das aufsummiert. Das könnte
+auch einer der Gründe sein, warum man dort keine Preise von
+JUN mehr bekommt. Und da hält sich das noch in Grenzen,
+weil es zu jedem Zeitpunkt nur genau einen Preis gibt und
+nicht etliche Tarife auf Verfügbarkeit geprüft werden müssen.
+Es gibt ein paar Buchungssysteme, die Monatsübersichten 
+anzeigen, z.B. auf den Webseiten von Golfhaus (bei Beffori habe
+ich auch mal sowas gesehen). Bei Golfhaus sind die Tage, an
+denen eine hohe Chance besteht, einen gewünschten Tarif zu
+bekommen, farblich hervorgehoben. Das ist aber auch keine
+Auskunft, dass an diesen Terminen dieser Tarif tatsächlich
+verfügbar ist. Man kalkuliert diese Wahrscheinlichkeiten
+wohl auch nur in regelmäßigen Abständen aus der Buchungslage
+und macht keine "live-Abfrage" im Reservierungssystem für alle
+Tage eines Monats. Erst wenn man konkrete Termine ausgesucht
+hat, prüft das System die Verfügbarkeit an genau diesen Terminen.
+Und da kann es passieren, dass der gewünschte Tarif nicht
+verfügbar ist, obwohl vorher eine hohe Wahrscheinlichkeit
+angezeigt wurde.
+
+
+Das kann wesentlich effizienter sein, wenn das jemand tut, der
+weiß, was er tut.
+
+
+Das nicht. Aber 432.000 einzelne Verf�gbarkeitsabfragen an ein 
+Reservierungssystem sind schon frech... Mit Sachverstand kann
+man diese Menge oft deutlich reduzieren, allerdings ist es
+nicht ganz trivial diesen Sachverstand einer Maschine beizubringen.
+Deswegen scheitern die ja auch oft, sobald es ein bischen
+komplizierter wird...
+
+Gruß,
+Stefan
+
+-- 
+Stefan Hoppensack                           ipde@zo.um.zsv-wy.ud
+http://mmv.ybgv.sng-sc.ug/~rywi/        bwws@zkpg.wue-oi.ll
+				        fax: +39 66 35 14 46 22 3 
+##########  NEW NUMBER!!!!  ##########  mobile: +16 708 30 30 863

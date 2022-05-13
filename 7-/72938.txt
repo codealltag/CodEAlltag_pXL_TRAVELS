@@ -1,0 +1,2 @@
+Es gibt dafuer extra Testgruppen, man muss keine normalen Groups damit
+zumuellen.

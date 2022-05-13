@@ -1,0 +1,15 @@
+von Fabio konnten wir vernehmen:
+
+[snip]
+Wie kann ich einen eigenen Beitrag vom News-Server löschen (canceln)?
+--------------------------------------------------------------------------------
+ Wähle den Beitrag aus, klick ihn mit der rechten Maustaste an und wähle
+"Nachricht löschen".
+
+OE erzeugt daraufhin ein Posting, daß regulär gesendet werden muß.
+
+Wichtig: Keinen weiteren Text in diese Nachricht eingeben!
+
+fup2p
+
+Simon

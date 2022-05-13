@@ -1,0 +1,14 @@
+Mr = Mann
+Mrs= Frau
+
+Merkwürdig ist nur, daß auf der rechten Seite des Tickets etwas
+anderes stehen soll als auf dem eigentlichen Flugcoupon.
+Beide Abschnitte werden nämlich *automatisch* beim
+Ticketing  aus der Reservierung übernommen, wo der Name 
+nur einmal drinsteht, so daß dort
+eigentlich gar nichts unterschiedliches stehen *kann*
+
+
+Wende Dich an Dein Reisebuero.
+
+Gruesse, Erhard

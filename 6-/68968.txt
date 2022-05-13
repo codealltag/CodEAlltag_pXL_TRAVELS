@@ -1,0 +1,19 @@
+Hi liebe Leute, speziell an unseren lieben Ludger Parlow.
+
+Dank für die neuen Tools an Ludger Parlow.
+
+1.Bei der Windowsanwendung muss man ja generell die Buchungsklasse 
+angeben.
+Hab mal folgendes gefunden und würd gerne wissen ob das so richtig 
+is?
+die Standardzuordnung ist folgendermaßen:
+
+<eco>YSKQMVLWGHTBENOUX</eco>
+<business>CDIZJ</business>
+<first>FPAR</first)
+
+2. Bei dem Java-Teil werden bei mir nur 5 Dateien entpackt, wie 
+bekomm ich das zum laufen????
+
+
+Danke und Gruss Laurent

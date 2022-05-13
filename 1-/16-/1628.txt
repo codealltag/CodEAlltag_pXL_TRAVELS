@@ -1,0 +1,9 @@
+wxwx21.zn erlaubt die Einschränkung auf Morgens/Mittags/Abends. Es zeigt
+auch die Gesamtreisedauer samt Alternativen an, um wie viel und wie man
+Diese unter Einwurf von zusätzlichen xx Münzen verringern kann.
+Gleichzeitig zeigt es auch automatisch das allergünstigste Angebot
+innerhalb von +/- 14 Tagen an. Das macht wxwx21.zn IMO zur
+übersichtlichsten Flugbuchungsseite.
+
+-- 
+rs

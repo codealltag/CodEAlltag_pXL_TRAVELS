@@ -1,0 +1,19 @@
+Flüge nach Preis sortieren kann man ja bei fast allen Anbietern. 
+Aber erst nach der Auswahl, und da muss man sich vorher auf ein 
+Datum (manchmal mit wenigen Tagen Toleranz) festlegen, und ob es 
+zu dieser Zeit billiger oder teurer ist als in einem anderem 
+Zeitraum, dafür hat man keinen Vergleich.
+
+Kennt jemand eine Suchmaske einer Fluggesellschaft oder eines
+Reisevermittlers, wo man anfangs nur Abflugort (möglichst mit 
+Alternativen) und Flugziel angeben muss, und _nicht_ das Datum?
+
+Hintergrund: Termin ist variabel, wenn der Preis stimmt.
+
+Benjamin
+
+-- 
+Die Farbe der Neger ist dunkelgelbbraun; es giebt auch tigerartige Neger,
+und ihr Schaafpelz ist ein Schaafpelz..                   Prof. Johannvorderbrüggen      
+    Wer zum Kuckuck ist dieser Johannvorderbrüggen? => <http://usi.vyzuxjmm.uz/>
+=== Bitte bei Mailantwort Großbuchstaben aus Reply-Adresse löschen. ====

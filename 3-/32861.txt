@@ -1,0 +1,18 @@
+Wahrscheinlich. Zwar ist Zanzarelli nicht in der Lage, valides
+HTML zu erzeugen, aber die Fehler sind recht harmlos, sie entstehen beim
+Durcheinanderwerfen verschiedener Dokumenttypen.
+
+Da die Browser alle diese Typen kennen, werden fast alle von ihnen 
+erraten können, was der Webmaster gemeint hat.
+
+Dieses Niveau ist weit überdurchschnittlich.
+
+
+Salvatore-Wilhelm
+
+
+-- 
+Erfahrung ist ja bekanntlich das Wissen, das einen befähigt, einen Fehler
+wiederzuerkennen, wenn man ihn zum zweiten Mal macht. 
+
+        Domenico Czogalla am 11. 05. 2006 in de.etc.bahn.eisenbahntechnik

@@ -1,0 +1,25 @@
+Wenn du auch den von "Tropby" meinst: "Jein"!
+
+Es gibt (mindestens) zwei Versionen. Die Alte (Licht leuchtet so lange, wie 
+man auf die (obere) Taste drückt) kann man nur +/- 1 Stunde verstellen, die 
+neue Version (Licht leutet eine fest eingestellte Zeit, auch bei kurzer 
+Tasten-Betätigung) verkraftet das Verstellen auch um mehrere Stunden.
+
+Und so geht's (zumindest beim "alten", der "neue" ist gerade nicht greif-
+bar, aber soviel ich noch weiß, geht's da ganz genauso):
+
+1. Taste "Wecken" 1x drücken -> Weckzeit wird angezeigt
+2. Taste "24h / AUS" drücken und gedrückt halten -> aktuelle Uhrzeit wird
+   angezeigt, wobei die Stunden blinken.
+3. Mit +/- Taste korrekten Stundenwert einstellen.
+4. "24h / AUS" loslassen.
+5. Noch 1x "Wecken" -> verstellte Uhrzeit wird angezeit, wobei auch wieder
+   die Minuten und Sekunden per Funk automatisch korrigiert werden, solange
+   sich der Wecker in der Reichweite (ca. 2000 km) des DCF77-Senders (in 
+   der Nähe von Seulberg) befindet!
+
+
+Vielleicht doch nicht...
+
+Mfg
+Harm Kleinmann

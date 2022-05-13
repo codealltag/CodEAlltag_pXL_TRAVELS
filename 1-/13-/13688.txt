@@ -1,0 +1,53 @@
+[RadSpaß/Vöcklinghaus]
+
+Autobahnmautm��ig wird der eh nicht gelesen, insofern ist das wurscht. Die
+Dinger dort verwenden alle nur den Magnetstreifen. Das klappt also auf
+jeden Fall, keine Sorge.
+
+Ich kanns Dir aber trotzdem sagen, wie's mit der Kompatibilität des Chips
+bestellt ist:
+- in so einem Chip auf der Karte gibts ein paar Bits zur "Cardholder Veri-
+  fication", also wie der Händler bei der Bezahlung feststellen soll/will/
+  muß, daß es der ordnungsgemäße Karteninhaber ist, der die Karte gerade
+  verwendet. Diese Bits können stehen auf -
+  - PIN: Der Kunde muß die PIN der Karte eintippen
+  - Unterschrift: Der Kunde muß einen Beleg unterschreiben
+  - Nix: Der Karteninhaber wird nicht überprüft
+  und es ist im Prinzip auch jede Kombination dieser Bits möglich (also was
+  die Karte "anbietet"), und der Händler (bzw. das Händlerterminal) entschei-
+  det dann, was er/es aus den angebotenen Möglichkeiten auswählt.
+- bei deutschen Karten ist i.d.R. das "PIN-Bit" (im Gegensatz zu französi-
+  schen Karten) *nicht* gesetzt (weil die deutschen Banken ihre deutschen
+  Kunden für zu doof halten, sich die Karten-PIN zu merken - komisch, bei
+  Chocolata-Karten klappt das doch auch?! - und furchtbar Angst vor einem Ansturm
+  von "ich-habe-meine-Kreditkarten-PIN-vergessen"-Kunden haben)
+- das hat zur Folge, daß Franzosen an "mensch-bedienten" Kassen (Supermarkt,
+  Restaurant-Kellner, Tankstellenkassenh�uschen etc.) ihre PIN eingeben
+  müssen (ohne Unterschrift), bei deutschen Karten jedoch "SIGNATURE" im
+  Display erscheint, so daß deutsche Kunden wie gewohnt den Beleg unter-
+  schreiben müssen.
+- haarig wirds lediglich an "mensch-losen" Automaten; hier sind meine For-
+  schungsarbeiten auch noch nicht ganz abgeschlossen :-) Nachdem bei deutschen
+  Karten ja das "PIN-Bit" nicht gesetzt ist und in so einem Fall auch keine
+  Unterschrift möglich ist, bleibt nur die Variante "NIX" übrig. Nach meinem
+  Kenntnisstand ist es dann dem Händler bzw. Automaten- oder Terminalbetreiber
+  überlassen, ob er die Zahlung so akzeptiert oder nicht. Positive Ergebnisse
+  hatte ich z.B. an VNP/Zwickers-Fahrscheinautomaten in Witzleben; da genügt einfach
+  "Chipkarte-Reinstecken" und sonst nix. Allerdings sind das i.d.R. auch
+  keine allzu hohen Beträge. Noch *nicht* getestet habe ich Automaten-
+  tankstellen; evtl. sind hier die Beträge zu hoch, als daß eine "No-PIN"-
+  Karte akzeptiert würde. Hängt aber vielleicht auch vom Betreiber und/oder
+  verwendeten Zahlungsnetzwerk ab und kann daher an unterschiedlichen
+  Tankstellen unterschiedlich gehandhabt werden.
+
+Falls zufällig jemand weiß, welche Bank eine RadSpaß/Vöcklinghaus mit gesetztem
+"PIN-Bit" herausgibt, bitte ich um Mitteilung :-)
+
+
+Naja, das siehst Du auch noch beim Ranfahren. Die menschlich besetzten Kassen-
+huschen mit den grünen Pfeilen sind i.d.R. ganz rechts; die Kreditkarten-
+spuren ("CB") in der Mitte und die "Automatik-Transponder-Spuren" (gelbes "t")
+ganz links. Wenn Du also ungefähr "mittig-rechts" anführst, kannst Du Dich
+auch noch kurzfristig entscheiden.
+
+Gruß Sandro.

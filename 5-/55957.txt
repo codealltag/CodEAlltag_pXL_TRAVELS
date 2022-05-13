@@ -1,0 +1,23 @@
+Im Reservierungssystem sind in der Regel pro Reservierungsklasse maximal 
+9 Plätze angegeben. Ein Reisebüro was etwas plietsch ist, kann häufig 
+antesten wieviel Plätze hinter der Zahl neun wirklich stecken.
+
+Das Problem ist dann eher, daß es in den Bedingungen zu diesem Tarif 
+heißt: "nicht gruppenfähig". Dann müssen die 20-25 Personen diskret auf 
+mehrere Reservierungen, möglichst bei mehreren Büros, verteilt werden.
+
+Das größere Problem wird es sein, 20-25 Personen unter einen Hut zu 
+bekommen. Es gibt die Wankelmütigen, die Zögerer und Zauderer usw. usw. 
+Da ist das blocken von 25 Plätzen bei einer Fluggesellschaft doch die 
+bessere Methode. Wenn es im Endeffekt dann doch nur 17 Personen werden, 
+dann ist die Fluggesellschaft auch nicht böse ... Außerdem gibt es ab 16 
+Passagieren in der Regel einen halben Freiplatz :)
+
+Gruß Patrik
+
+
+-- 
+http://gvbkwejxcr.an.ki - neutrale Fluginformationen (Tuma u. a.)
+http://clr.dbdhtoliou.mgw - Suchmaschine für Billigflüge in Europa
+http://mop.ejcqggedkw-hypgs.fo - deutsche Variante (nur Abufas)
+http://yqb.efeqsgzuxxik.sy - eigene Homepage (kommerziell)

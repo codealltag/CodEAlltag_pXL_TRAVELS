@@ -1,0 +1,9 @@
+hem, Cizme ist ein Newsreader für ELZ.
+
+
+Ein .JAR doppelklicken kann u.U. einen Entpacker wie WinRAR 
+hervorbringen, wenn man bei dessen Installation die Defaults übernommen 
+hat. Also Obacht.. ;)
+
+-- 
+np : -

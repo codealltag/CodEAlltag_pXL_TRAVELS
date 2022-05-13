@@ -1,0 +1,30 @@
+Dann Wechsel den Akku doch einfach an Deinem Smartphone wenn dieser leer 
+ist. Ist doch nur eine Sache von wenigen Sekunden und ein Reserve-Akku 
+kostet fast nichts (fuer mein HD2 knapp 3 Euro). Wobei der Stromverbraucher 
+Nummer 1 natuerlich das LCD-Display bei einem Smartphone ist. Ist das 
+ausgeschaltet, reicht der Akku schon locker einen Tag. Und im Auto sollte es 
+dank 12 Volt-Steckdose(n) sowieso nirgends Energie-Probleme geben. 
+Entsprechende KFZ-Ladegeraete kosten auch nur ein paar Euro. Unterwegs am 
+Guertel laufend in der Pampa habe ich immer im Rucksack einen geladenen 
+Reserve-Akku dabei. Gebraucht habe ich den aber noch nie, denn primaer ( 
+genauso wie mein 1:1 Reservegeraet mit ebenso geladenen Akku ) dient der nur 
+dafuer, falls man mal wirklich in grosse Schwierigkeiten geraeten sollte...
+
+Alternativ kannst Du Dir auch fuer 6 Euro einen Extendet Battery Charger 
+zulegen. Das ist eine superkleine Mini-Box in der man 4 Standard-Batterien 
+stopfen kann ( zum Beispiel von der Stirnfunzel aus dem Rucksack ) und dann 
+das Smartphone ganz normal mittels USB nachtanken kann. Funktioniert 
+ausgezeichnet, wobei ich da aber die geladenen Reserve-Akku als deutlich 
+einfacher und effektiver erachte, sodass ich diesen 6 Euro Kasten einfach in 
+den Muell geschmissen habe (funktioniert zwar toll, ist aber fuer mich 
+nutzlos ).
+
+Gruss beim Loggen im Auto oder sonstwo,
+
+Pascal
+
+P.S. Noch ein Tipp um Energie zu sparen. Neben dem ausgeschalteten Display 
+kann man das Handy -sofern nur albern GPS Daten geloggt werden sollen- auch 
+wunderbar  untertaktet laufen lassen. Das spart dann nochmal wertvolle 
+Energie. Da reicht es schon aus das Ding nur mit 200-300 Mhz laufen zu 
+lassen. Denn das Loggen fordert den Prozessor nicht die Spur...

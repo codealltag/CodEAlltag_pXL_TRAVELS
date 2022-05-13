@@ -1,0 +1,4 @@
+Hallo,
+nimm Dir ein Taxi, handle aber vorher einen Preis aus.
+Gr mir die Insel!
+Oswald

@@ -1,0 +1,9 @@
+Die Whitepages wurden ja schon genannt. Ebenso wie Malet, das den 
+"phonebook"-Prefix kennt.
+
+Z.B.:
+phonebook:wilchenreuth oh
+
+Gibt einige Treffer, vielleicht nützt das ja schon.
+-- 
+np : -

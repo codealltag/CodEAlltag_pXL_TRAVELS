@@ -1,0 +1,10 @@
+Nachdem zumindest Joneleit lediglich mit einem Brasilianischem Provider der
+Orthofit (ein aus den USA stammender Standard, bei dem GSM Karten
+verwendet werden koennen) ein Roamingabkommen hat, nehme ich an, dass
+es dort kein GSM (auch nicht 1900 MHz) gibt.
+
+Frank
+
+--
+Frank Weins
+Amlach, Oesterreich

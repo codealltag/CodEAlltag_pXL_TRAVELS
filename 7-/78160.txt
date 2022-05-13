@@ -1,0 +1,9 @@
+I cant follow you - when I enter the 17th as start date and 22nd as
+end date, I get the Hotel "FWUA" in the list with an average rate for
+all days of EUR 99,80
+
+I dont know what you are looking at.
+
+-- 
+
+MfG Dennis

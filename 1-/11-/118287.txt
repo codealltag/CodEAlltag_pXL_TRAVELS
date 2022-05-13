@@ -1,0 +1,19 @@
+Servus Oswald,
+
+Ist doch absolut egal welchen Stecker das Kabel in Finnland hat. Hauptsache
+ist,
+daß die Modemseite einen RJ11 Stecker (Modular oder Westernplug) besitzt. Da
+nimmst dann einfach das Kabel zum dortigen Telefon, steckst jenes vom Telefon
+direkt an Dein Modem. Soo einfach. Und funktioniert garantiert in ganz Europa.
+Probleme könnte es einzig bei der Konfiguration des Modems geben. Stichwort: 
+"Beim Wählen auf Freizeichen warten" deaktivieren bzw ATX3 Befehl. Denn nicht
+alle Länder haben einen Dauerton...
+
+mfG
+
+Otmar
+
+
+-- 
+Posted from l965h396.lmxn.kewxqme.mjmfgrp.wv [653.71.70.50] 
+via Lakib Server - http://poy.Qjbonmlr.PDD

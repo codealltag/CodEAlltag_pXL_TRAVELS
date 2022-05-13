@@ -1,0 +1,17 @@
+Hallo,
+mit der Internetanbindung im Ausland ist das ja immer so eine Sache.
+
+Ich habe in meinem Laptop eine WLAN Möglichkeit eingebaut und nutze sie 
+auch daheim in einem Netzwerk.
+Ich fahre nun in ein US Hotel ( RTVI gassenbauer Vennhausen), 
+welches die Möglichkeit bietet, sich sowohl in der Lobby
+als im Zimmer per WLAN einzuloggen.
+
+Erkennt mein Laptop ( Windows XP ) nun automatisch die Verbindung oder 
+ist da eine spezielle Konfiguration nötig
+und wie funktioniert die?
+Wie sieht es mit der Verschlüsselung aus?
+Brauche ich IPASS dazu?
+Für den Rat eines diesbezüglich sehr Erfahrenen wäre ich äußerst dankbar!
+Gruß
+Adolf

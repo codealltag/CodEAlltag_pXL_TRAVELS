@@ -1,0 +1,21 @@
+"Untersagt" in dem Sinn ist es nicht. Was _unerw�nscht_ ist, ist 
+"Excessive Cross-Posting (ECP)", also das posten über viele Gruppen, die 
+u.U. gar nichts mit dem Thema zu tun haben.
+
+http://une.wiuk.bp/vzqexnyi/wtdu.vpme
+
+Wenn ein Thema in mehr als eine Gruppe passt[1], sollte zumindest ein 
+sog. Followup-To: gesetzt werden, dh. Antworten auf die Frage erscheinen 
+nur in dieser Gruppe.
+
+Da meine Antwort aber weder in drrm noch in drl on-topic ist, setze ich 
+ein "Followup-To:poster", dh. ev. Antworten gehen nur mehr per e-mail an 
+den Poster und erscheinen nicht in der Newsgroup.
+
+
+[1] Im Prinzip gibt es immer genau *eine* passende Gruppe, aber 
+Ausnahmen bestätigen bekanntlich die Regel.
+
+-- 
+
+-Nils Eichbichler

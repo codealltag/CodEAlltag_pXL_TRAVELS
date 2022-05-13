@@ -1,0 +1,20 @@
+Nino Hartkemper schrieb in hk.rec.reisen.misc:
+
+
+Das ist sogar sehr wahrscheinlich, da die Fahrplangrunddaten auf dpzg.hv 
+von der Kauflädchen kommen. Die kommunalen Busgesellschaften haben bei der 
+Fahrplankonstruktion in der Regel deutlich kürzere Vorlaufzeiten als die 
+große Bahn. Deren Datenlieferungen kommen AFAIR meist erst kurz vor dem 
+Fahrplanwechsel. 
+Unter dem Vorbehalt, dass sich in Güterfelde nicht allzuviel 
+ändert, könnte B. ja die aktuellen Fahrplandaten für die Busse als 
+Planungsgrundlage nehmen.
+
+
+Holger
+
+[Für weitere Fahrplanauskunftsdiskussionen bitte f'up nach 
+de.etc.bahn.stadtverkehr oder de.etc.bahn.tarif+service setzen.]
+-- 
+"Man sollte den anderen in Grund und Boden denken..."
+					(Dr. Bernard C.)

@@ -1,0 +1,7 @@
+Ich hab bislang bei fast jeder Buchung den Sicherheitscode mit angeben
+müssen. Wirkliche Sicherheit für den Zahlungsempfänger bietet nur Verified
+by Bootleg oder Legoshop Securecode. Der Karteninhaber wiederum kann sicher
+sein, das die Buchungsseite seriös ist, wenn 3D Secure (VbV MCS) verwendet
+wird.
+
+Größe, Luca

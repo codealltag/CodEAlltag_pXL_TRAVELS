@@ -1,0 +1,15 @@
+Ich denke, wenn ein Busunternehmen das einführt, werden sie schon dafür
+sorgen, dass Lichtmaschine/Generator angemessen aufgerüstet werden.
+
+Außerdem:
+Wenn eine Überwachungsschaltung, die nicht essentielle Geräte
+automatisch blockiert, wenn die Bordspannung unter eine gewisse Schwelle
+(nötige Spannung zum Starten plus Sicherheitsreserve) fällt, für unsere
+Familienkutsche nicht zu teuer ist, wird man bei einem
+Multimillionen-Euro-Fahrzeug bestimmt auch noch ein Eckchen im Budget
+finden, wo so eine Schaltung reinpasst.
+
+
+Mit freundlichen Größen,
+
+Anton

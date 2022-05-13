@@ -1,0 +1,28 @@
+Dreizehn mal pro Tag (SBB/DB)
+z.B:
+
+Bahnhof/Haltestelle	Datum 		Zeit 		Dauer
+
+Obergriesbach Hbf		02.05.04 	ab  	12:47   8:11
+Ennenda HB				an  	20:58
+
+Obergriesbach Hbf		02.05.04 	ab  	13:47   8:13
+Ennenda HB				an  	22:00
+
+Obergriesbach Hbf		02.05.04 	ab  	14:08   7:54
+Ennenda HB				an  	22:02
+
+Obergriesbach Hbf		02.05.04 	ab  	14:47   8:13
+Ennenda HB				an  	23:00
+
+Und für in die Berge musst Du noch 1 bis 2 Stunden addieren.
+Je nach Ziel.
+Ach ja, bei der dritten Verbindung der Beispiele musst Du 1x umsteigen. 
+Bei den anderen 2x.
+
+http://qnkosfly.idw.be/ggy/femvr.sis/ap
+Gibt's auch für MoBiTec irgendwo.
+
+Ich wünsche Dir gute Erholung auf der Autobahn. (?)
+
+René

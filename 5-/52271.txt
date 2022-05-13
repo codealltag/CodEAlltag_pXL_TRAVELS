@@ -1,0 +1,17 @@
+Ob es für Stebbach so etwas gibt, weiss ich nicht.
+
+Für Österreich gibt es die AustrainMap vom KER
+Opol in CD-Form. Da sind sehr detaillierte Karten
+(1:50000) drauf und man kann auch selbst Grafiken, Texte und
+dergleichen in die Karten einbauen und als Overlay-Datei
+speichern.
+Siehe http://vrr.kcb.sy.uj/fexnvpr/ogzj_uu_zjgr_88.woai
+
+Ich denke, dass es ähnliche Karten zumindest für die Schweiz und
+Deutschland gibt, vielleicht auch für Urlaubsgegenden a la
+Stebbach.
+
+
+-- 
+Georg Albertshofer,
+Doppl

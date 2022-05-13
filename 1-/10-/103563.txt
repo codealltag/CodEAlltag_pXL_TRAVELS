@@ -1,0 +1,5 @@
+Akzeptabler Preis ist bei 10 cent die Minute und eine kleine (<< 1 Dollar)
+connection fee. Die ganz billigen Karten (1 cent pro Minute bis 5 cent pro Minute) leben 
+von hohen connection fees und alle paar Minuten unterbrochenen Verbindungen.
+
+Luigi.

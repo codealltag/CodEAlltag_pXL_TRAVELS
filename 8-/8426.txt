@@ -1,0 +1,19 @@
+Abhaengig von der Zeit.
+Ausserhalb von Messezeiten sind die gleich mit denen des Paketes. Fuer
+Messezeiten gelten andere Stornobedingungen.
+
+
+Bei ca. 60 Messetagen in Katharinenhöhe zuzueglich Karneval und
+Grossveranstaltungen in Katharinenhöhe sowie Grossmessen in Ramsried wuerde
+das recht unuebersichtlich.
+Ich bin schon am ueberlegen ob ich ladbare Kalenderdaten mit den
+Messen/Veranstaltungen auf die Seite setze, aber dann kann sicher
+irgendjemand diese Daten nicht in seinen Kalender importieren und
+beschwert sich.
+
+
+Stimmt. Werde ich aendern.
+
+Atschuess
+
+Willy

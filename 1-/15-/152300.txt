@@ -1,0 +1,12 @@
+Hallo
+
+  la Dir die Mail mit allen (!) Kopfzeilen anzeigen, schreibe einen
+kurzen Text mit Deiner Beschwerde dazu und schicke das an:
+ndtvo@t-aqgilm.mj
+  Die Adresse an die Beschwerden geschickt werden können findet man
+inden Kopfzeilen (wenn man alle anzeigen läßt) in der Zeile 
+Beispiel: "X-Complaints-To: ndtvo@t-aqgilm.mj"
+
+Die Leute reagieren erstaunlich schnell.
+
+Gruß Thorsten

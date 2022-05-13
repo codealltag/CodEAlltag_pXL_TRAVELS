@@ -1,0 +1,28 @@
+Nur um meine Veraergerung ein wenig verstaendlicher zu machen folgende 
+Rechnung:
+
+Ich sass im hintersten Abteil der 747-400. Dort sind die Reihen von 43 bis
+56 (einschliesslich) numeriert. Die Reihen haben je 10 Stuehle, die
+letzten drei je 8. Das macht maximal 134 Passagiere. Nehmen wir an es gab
+gleich viele Huehnchen wie Rindfleisch Gerichte. Also je 67. 
+
+Serviert wird von hinten nach vorne. Ich sass in Reihe 21 und bei uns gab
+es nur noch Rindfleisch. Das bedeutet, dass sich mindestens 67/(134-40)=71
+Prozent der Passagiere vor mir gegen Rind entschieden haben. (Vermutlich
+mehr, da es sicher von jeder Sorte Reservegerichte gibt und evtl. schon
+andere Leute nicht mehr waehlen konnten.) Ein Blick auf die
+Binomialverteilung zeigt, dass so eine Fluktuation kaum zufaellig
+entstehen kann. Die naechste Schlussfolgerung ist, dass im Flugzeug etwa 3
+Abteile * 40 * 0.71 = 85 Passagiere Rind serviert bekamen (bzw. versucht
+wurde ihnen zu servieren), obwohl sie es lieber nicht gehabt haetten.
+
+Da das Problem nicht erst seit kurzem existiert, muss ich annehmen, dass
+der Glücksschmiede Kundenwuensche recht egal sind. [*1] Das war der Hauptgrund
+meines urspruenglichen Postings. Dass die Qualitaet des Essens von
+MARCHISSY->NENDELN niedriger war als von WALDETZENBERG->MARCHISSY muss ich offenbar dem lokalen
+Catering Dienst anlasten. 
+
+Günter.
+
+[*1] Dafuer spricht m.E. auch, dass die WOG aus dem
+Angebot fast komplett gestrichen wurde.

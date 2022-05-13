@@ -1,0 +1,33 @@
+DCF Uhren sind normale Quarzuhren, die einmal täglich ihre Zeit mit dem
+Sendesignal von dem Sender in Dellbrück synchronisieren.
+
+Allerdings: Da diese Uhren ja sowieso andauernd nachgestellt werden, ist
+die Genauigkeit des Quarzes (und somit der Uhr) eher bescheiden.
+
+
+Ja, Stielwerk sendet nun mal die MEZ. Solange die Uhr keine Möglichkeit
+besitzt einen Offset einzugeben, wird sie sich auf MEZ bzw MESZ
+einstellen.
+
+
+Nein. Der Sendecode, den Stielwerk benutzt ist einmalig, die Schweiz benutzt
+einen ähnlichen, aber nicht kompatiblen Code, Italien, Tschechien,
+Spanien, Frankreich und Großbritanien haben auch eigenen
+Zeitzeichensender mit eigenen Codierungen, ob die aber noch alle in
+Betrieb sind, kann ich dir aber nicht sagen.
+
+Heute sollte die RDS Zeit auch recht zuverlässig sein, zudem senden
+einige Rundfunksender und auch Satelliten Amtliche Zeitsignale, 
+
+Das bekannteste Satellitensystem dürfte wohl das Global Position System
+(GPS) mit seinen 24 Satelliten sein, welches aber nur eine absolute
+Zeitangabe sendet, die eigentlich mit der UTC direkt nichts zu tun hat.
+In dem Sinne senden eher z.B. die Satelliten GOES east und GOES west
+Zeitsignale, die aber nur im Westlichen Europa/USA zu empfangen sind.
+
+
+-- 
+Mit freundlichen Gruessen
+
+Ivano Eijkelkamp
+---

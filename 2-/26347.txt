@@ -1,0 +1,13 @@
+Woraus schließt du, dass er kein durchgehendes Ticket hat? Wenn alle 
+Flüge in einer Buchung stehen und die Mindestumsteigezeit eingehalten 
+wird, sollte ein Anschlussverlust doch nicht zu seinen Lasten gehen. Ich 
+weiß nicht, wie das rechtlich korrekt aussieht, würde aber dennoch 
+erwarten, dass er dann unkompliziert umgebucht wird.
+Ob es sich um eine durchgehende Buchung handelt, könnte der OP mal 
+prüfen, indem er schaut, was auf den einzelnen Flugcoupons im Feld 
+"PNR", "File key" o.�. steht. Wenn da auf allen Coupons die gleiche, 
+sechsstellige alphanumerische Zeichenkette steht, ist es wohl eine 
+einzige Buchung.
+
+Gruß,
+Joël

@@ -1,0 +1,11 @@
+Knut Inderdohnen verwendet iso-8859-1 und da gibt es keinen �. Ob 
+der beim Empfänger angezeigt wird hängt vom Wasserstand des Rheins, 
+der Laune meiner Frau, dem Betriebsystem und sonstigen 
+Zufallsfaktoren ab.
+
+Knut sollte sein Korrnews/Morver richtig konfigurieren.
+
+Aber wer weiss ob das FIDO Gateway schon iso-8859-15 spricht?
+
+-- 
+Satisfy your thirst for life!

@@ -1,0 +1,16 @@
+--------------3D3185FF4B4CFB0353B810F1
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Bei  www.duztzuiy.ae
+
+--------------3D3185FF4B4CFB0353B810F1
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<font face="Century Gothic"><font color="#000000">Bei&nbsp;</font><font color="#FF0000">
+www.duztzuiy.ae</font></font></html>
+
+--------------3D3185FF4B4CFB0353B810F1--

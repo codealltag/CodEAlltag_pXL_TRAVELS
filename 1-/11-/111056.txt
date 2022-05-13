@@ -1,0 +1,9 @@
+In article <9R8H6818.M17T1660@hbr.uk>,
+
+Könnte es daran liegen, daß folgendes in euren Headern drinsteht:
+Content-Type: text/plain; charset=iso-8859-1
+
+Und soweit ich weiß, ist iso-8859-1 noch ohne Euro-Zeichen, den hat doch
+erst iso-8859-15, oder?
+
+schweigi

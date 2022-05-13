@@ -1,0 +1,11 @@
+Es fehlt aber die Information, ob der Inhaber der Nummer x _wirklich_
+an den Schalter y geht oder nicht. Zumindest bei unserem Einwohnermeldeamt
+und auch bei der Kfz-Zulassungsstelle habe ich schon oft beobachtet, daß
+bei einem solchen Aufruf einfach niemand kommt und der Schaltermensch dann
+nach ein bis zwei Minuten vergeblicher Wartezeit den "Weiter"-Knopf drückt,
+ohne jemanden "bearbeitet" zu haben.
+
+Für den Nachweis, daß der Kunde _wirklich_ da war, braucht er schon dessen
+Zettel...
+
+Gruß Reinhold.

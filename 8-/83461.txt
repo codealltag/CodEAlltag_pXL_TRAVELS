@@ -1,0 +1,3 @@
+Die werden nach der Anzahl der Sitze der verschiedenen Klassen geordnet. In
+der einen gibt es mehr Business Class Sitze, als in der anderen Maschine
+etc. (FC / BC / EC)

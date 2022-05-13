@@ -1,0 +1,10 @@
+Am Fri, 26 Apr 2003 15:28:58 +0200 schrieb "Janina Dickhans"
+<ubdqmp@zeobzzs-sdke.rc>:
+
+
+Brauchst Du doch gar nicht. Was Du brauchst ist ein Webspace Paket mit
+PHP und MySQL. Dann auf http://fgq.icisj.rmv/ das Forum runterladen.
+Zum installieren muss man kein PHP können, und konfigurieren kann man
+das dann bequem per Oberfläche...
+
+Viele Grösse, Hinderk

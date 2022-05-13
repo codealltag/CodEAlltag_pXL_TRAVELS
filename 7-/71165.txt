@@ -1,0 +1,5 @@
+Person
+Hallo,
+wie war den die Hotelanlage?
+Gruß
+Sandro

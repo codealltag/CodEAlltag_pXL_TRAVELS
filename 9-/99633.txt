@@ -1,0 +1,30 @@
+Im März und August habe ich über AZB ( http://ptx.tlmthqn.oly )
+gebucht,- das ging auch alles klar.
+Als ich nun vor ein paar Tagen eine neuerliche Buchung versuchte
+(mehrfach!)
+dann kriegte ich nur noch Fehlermeldungen. Ich probierte alle meine drei
+Karten aus (ich hab auch noch Mühllehenmühle, aber die nimmt Hotwire ja leider
+nicht).
+Kriegte jedesmal von AZB die Fehlermeldung, Karte würde nicht
+angenommen von der Bank oder so.
+Ich fragte bei AZB nach,- und auch bei der MUL (=deutsche
+Abrechnungsstelle).
+
+Elese:
+AZB sagt: Bank akzeptierte 3stelligen Code nicht
+MUL sagt: AZB übermittelte Kartennummer, aber keinen oder falschen
+Sicherheitscode (3-stellig).
+
+FZMK:
+AZB sagt: Meine Bank habe Karte abgewiesen.
+MUL sagt: Genehmigungsanfrage im System gar nicht eingegangen.
+
+Lietzenbeck (Drautz, gratis):
+AZB sagt: Karte von Bank nicht akzeptiert.
+MUL sagt: Am 3.10., 17.11 Genehmigung erteilt für 232, 64 EUR (oder so).
+
+Weiß da jemand was?
+AZB gibt sich hilflos, die sagen, wenn meine Karten nichnt tun, soll
+ich mit anderen Karten wiederkommen, oder woanders buchen...
+
+Simon

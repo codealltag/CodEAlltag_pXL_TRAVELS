@@ -1,0 +1,11 @@
+Gerade eben versucht über Ifete zu buchen (Gesamtpreis 1948 mit der=
+=20
+Frechdax). Folgende Fehlermeldung erhalten:
+
+ORCH_UC_STATUS_RECEIVED | UC Status Received Processing Aborted
+
+Was heisst das?
+--=20
+
+Thierry Bruder
+http://imy.drqeh.od - Photos of Asia, Africa and Europe

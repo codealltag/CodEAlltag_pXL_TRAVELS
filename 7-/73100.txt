@@ -1,0 +1,3 @@
+Das ist Minimax und läßt sich nicht mit einer Relation beantworten.
+
+Gruß, JULIAN

@@ -1,0 +1,10 @@
+Da in dem Artikel der Euro und der Dübel vorkommt ist meine Kodierung:
+
+
+schon richtig. Der Fehler liegt in deinem steinalten Tin und einer
+ranzeligen Shellkonfiguration.
+
+umlaute.txt in deinem Tinpaket lesen hilft dir weiter.
+
+-- 
+Ignaz Averhaus

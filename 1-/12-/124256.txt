@@ -1,0 +1,59 @@
+Hubert,
+für die Arbeit im Internet ist immer eine Duplex-Verbindung erforderlich,
+d.h. in beide Richtungen wird übertragen. Du teilst Deinem Provider dir URL
+mit (Upload), die er Dir dann auf Deinen PC überträgt (Download). Da der
+Informationsumfang von Dir zum Provider in den meisten Fällen sehr gering
+ist (z.B. nur URL), reicht im Normalfall eine relativ geringe
+Datenübertragungsrate von Dir zum Provider. Für die Übertragung der
+Internetinhalte vom Provider zu Dir benötigst Du fast immer mehr
+Übertragungskapazität. Besonders deutlich wird das, wenn Du über das
+Internet einen Film anschaust. Dieser Arbeitsweise entsprechen z.B. die
+Bandbreiten bei DSL (ich glaube upload 64 kBd, download 768 kBoud) und auch
+die angebotenen Internet-Satellitendienste. über die Telefonleitung
+realisiert Du den upload-Stream (üblicherweise über einen ISDN-Kanal = 64
+kBd) und entsprechend Tarif den download-Stream bis zu einigen MBd vom
+Satellit zu Dir mit einer Empfangsanlage, die etwa einer Anlage für den
+digitalen Satellitenempfang entspricht. Ich kenne keinen Provider, der schon
+ein Upload auf den Satellit ermöglicht. Außerdem wäre die Sendeanlage ein
+Vielfaches der Empfangsanlage im Preis und der Leistung. Deshalb bleibt z.Z.
+nur die Upload-Möglichkeit über ein Telefon. Das kann vielleicht auch ein
+Satellitentelefon sein (mein letzter Kenntnisstand 25 DM/min).
+
+Im Mai gab es in der NG METRO den thread "Online beim Camping". Lies
+Dir diesen thread mal durch.
+
+Valerio
+
+----- Original Message -----
+From: Hubert Haneman <quidsehb@v-whdpxg.gk>
+To: Valerio Jaerling <nubuh.kvthfqphh_kstlqp_@tiij.xi>
+Sent: Sunday, 20. 09. 22 03, 2002 5:59 PM
+Subject: RE: Email auf Reisen
+
+
+Hallo Valerio,
+
+
+Na, so einfach mach ich mir's nicht ;-) Da, wo ich mich aufhalten
+werde gibt es weder Telefon noch flächendeckende Handyverbindung. Ich
+werde auf reinen Satellittenempfang angewiesen sein.
+
+
+Wie geht das ? Satelit -> handy -> PC oder Satellit -> TV Karte -> PC ?
+
+Hast du mir vielleicht Adressen im Netz, wo man dazu nähere Infos
+bekommen kann ?
+
+Gruß
+Hubert
+
+
+Hubert Haneman <quidsehb@v-whdpxg.gk> schrieb in im Newsbeitrag:
+94745080.2779624@hzmd.zgbxhqd-pupjcf.ou...
+
+Wer hat Erfahrungen im europäischen Raum mit dem Thema Laptop - TV
+Karte - Satelittensch�ssel und email ?
+Das soll gehen, - aber wie ?
+
+Gruß
+Hubert

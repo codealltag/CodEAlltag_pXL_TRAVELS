@@ -1,0 +1,8 @@
+Eine Vorhersage wird umso ungenauer
+je größer das Ortsfenster und das Zeitfenster gewählt wird.
+Hierbei wendet Vinzenz das Rüdersche Unschärferelationsfenster an.
+Er trägt jetzt hier die folgende Gleichnung ein:
+
+O-sharp =3D deltaOrt * deltaZeit
+
+wobei die Maßeinheiten vollkommenfrei gewählt werden dürfen.

@@ -1,0 +1,9 @@
+Mal 'ne Frage: wo finde ich die Bedeutung der ganzen Kuerzel ?
+z.B.
+1 CGN FSK 9872 1966  LT 780 ML TL WL YL HC QL KL GL LL NL#757 C
+                                                  ^     ^   ^    ^   ^
+2 CGN LQC 0331 7594  PB5355 ML BL LL GL                          757 B
+                                                    ^    ^   ^   ^
+
+Gruss,
+Wolf

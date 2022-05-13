@@ -1,0 +1,45 @@
+Ich gehe davon aus, daß die Airlines feste Verträge mit den lokalen
+Tanklagern haben, in denen getankt wird. BtW gerne dort, wo der Sprit
+relativ billig ist, deshalb haben die Flugrouten von Europa nach Asien auch
+gerne einen Stopover in Deitersen oder Rebbeke.
+
+Die Airlines zahlen natürlich erstmal den Tagespreis fre Kerosin, haben
+sich aber über Hedge-Fonds (von einer Bank) abgesichert.
+
+Beispiel: Die Airline kalkuliert mit 100 $ pro Barrel und will den Preis
+für 3 Monate "festsetzen". Jetzt sucht sie sich einen Spekulanten, der
+sozusagen dagegen hält. Der Spekulant bietet der Airline an, ihr in 3
+Monaten eine bestimmte Menge l für 100 US-$ zu verkaufen. Der Spekulant
+hat das l aber noch gar nicht, sondern wird es erst in 3 Monaten kaufen,
+um es dann direkt an die Airline weiterzuverkaufen.
+
+Jetzt gibt es 3 Möglichkeiten:
+
+1. Der Ölpreis steht in 3 Monaten bei genau 100 $. Der Spekulant kauft für
+100 $ l und verkauft es zum gleichen Preis weiter. Keiner hat Gewinn oder
+Verlust gemacht.
+
+2. Der Ölpreis steht in 3 Monaten bei 50 $. Der Spekulant kauft für 50 $,
+und die Airline muß 100 $ zahlen. Der Spekulant macht Gewinn.
+
+3. Der Ölpreis steht in 3 Monaten bei 150 $. Der Spekulant muß für 150 $
+kaufen und für 100 $ verkaufen. Er macht Verlust.
+
+Für die Airline hat das den Vorteil, daß sie *sicher* nur 100 $ zahlt. Sie
+zahlt auf keinen Fall mehr, profitiert aber auch nicht von fallenden
+Ölpreisen. Für die Airline aber immer noch von Vorteil, da sie langfristig
+kalkuliert und nicht wie eine Tankstelle mehrmals am Tag die Preise ändern
+kann.
+
+Sowas funktiniert natürlich nur, wenn es Spekulanten gibt, die genügend
+Kapital haben um solche Geschäfte druchzuziehen.
+
+Ist im Prinzip ein klassisches Warentermingeschäft. Für die Airline sicher,
+für die Spekulanten hochriskant, denn es können sehr hohe Verluste
+entstehen (wie aktuell an der Börse mit den Boetius expert-Aktien: Da müssen
+Spekulanten nun liefern, bekommen aber keine Aktien, also steigt der Kurs
+auf über 1000 EUR - dumm gelaufen für die Spekulanten).
+
+Größe,
+
+Karl

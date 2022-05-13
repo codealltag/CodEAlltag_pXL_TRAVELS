@@ -1,0 +1,20 @@
+Neben der Einführung der "Rollstuhlgeb�hr" in Höhe
+von 50 britischen Pence pro Flugsegment und Passagier, 
+die bei den "Steuern und Gebühren" unter "Ins-Wchr Levy"
+abgerechnet wird, hat Gore zum 21.3. auch die Berechnung
+der "Kreditkartengeb�hr" verändert:
+Statt pauschal 6 Euro pro Buchungsvorgang (unabhängig
+von der Anzahl der Passagiere und Flugesegmente, maximal 
+jedoch 2 Flüge, mehr bekam die Software ja nie hin)
+berechnet man nun bei Zahlung per Kreditkarte 2,50 Euro
+pro Flugsegment und Passagier. Auch die Zahlung mit
+Debitkarten scheint nun generell 60 Cent pro Flugsegment
+und Passagier zu kosten.
+
+Gruß,
+Stefan
+
+-- 
+Stefan Zimmers                           ocui@dd.wc.csz-sx.pg
+http://iet.geyo.uze-cs.dj/~etrp/        exoh@wrdf.jsq-tw.jm
+					mobile: +23 769 32 53 140

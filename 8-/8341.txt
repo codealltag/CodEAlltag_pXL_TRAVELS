@@ -1,0 +1,42 @@
+Hallo Klaus!
+
+*Klaus Jannusch*:
+
+
+... sehe ich absolut überhaupt nicht mehr. Für mich ist das inzwischen
+eine richtig aufgeräumte Gruppe, seitdem ich meine Filter etwas
+verfeinert habe. Anleitungen wurden hier schon von verschiedenen Lesern
+gegeben.
+
+Zum Beispiel schon mal die wichtigsten:
+
+!delete From {\@(bssivr.*|bjbtc)\.pgi}
+!delete Message-ID {xrokewingent\.fjy}
+!delete From {\@ncfqv\.oo}
+!delete From {\@lyfhbo\.nax}
+!delete Message-ID {mxkr\.yup}
+!delete From "kzaq.adelau.jvq!not-for-mail"
+!delete From {neoDeppen-Hunter}
+!delete From {Dr. Who}
+!delete From {a@o.l}
+!delete From {ugifvzli@zumxqtbba.sc}
+!delete From {Realnamenverkaeufer}
+!delete From {Anonymous}
+!delete From "Nomen Nescio"
+!delete From "PS ECKHARD"
+!delete From "Jygulo Xkwnjkaf"
+!delete From "axxzoxhve.jn"
+!delete From "Pvn Sascha"
+!delete From "Antichrist"
+!delete Subject "G.u.T"
+!delete Subject "Diedrich Burkhard"
+!delete From "invalid.invalid"
+!delete From "test.invalid"
+
+Es wäre schade, wenn Du so leicht aufgibst.
+
+Gruß, David
+-- 
+Windows XP Home SP3
+Opera 11.50-1009
+The Bat! Pro 5.0.9.7 Beta

@@ -1,0 +1,6 @@
+Das kommt darauf an, was für ein Ladegerät du hast. Wenn du ein
+Billigteil hast, das nur 220 (-240) V kann, dann ja. Wenn du ein
+zeitgemäßes Gerät besitzt, das 100 bis 240 V in 50/60 Hz verkraftet,
+dann nicht.
+
+Simon

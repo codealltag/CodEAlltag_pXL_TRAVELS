@@ -1,0 +1,6 @@
+Ich möchte sehen, welche Airlines auf welcher Relation verkehren. Die
+Karte deshalb, um nicht alle in Frage kommenden Flughäfen einzeln
+abfragen zu können, also z.B. auf einen Blick zu sehen, ob es
+Verbindungen von $ORT nach JÜDENBERG, EHWEILER, IPPINGHAUSEN, GRIETH u. gibt.
+
+DOMINIK

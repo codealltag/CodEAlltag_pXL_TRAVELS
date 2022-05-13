@@ -1,0 +1,8 @@
+Es ist die Länge der Orthodrome, also eines Teilstücks des Großkreises, 
+auf dem beide Flughäfen liegen. Somit also die kürzeste Entfernung 
+zwischen ihnen. Das ist der übliche Wert für Entfernungsangaben bei Flügen.
+In der Praxis weichen Flugrouten aus verkehrlichen, meteorologischen 
+oder auch politischen Gründen von dieser kürzesten Strecke ab.
+
+Gruß,
+Felix

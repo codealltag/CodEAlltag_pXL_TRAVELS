@@ -1,0 +1,15 @@
+sicher
+
+Also bei aufladbaren Geräten wie Handys oder Videokameras ist das in aller
+Regel kein Problem, die sind meist für 110 - 240 V ausgelegt (steht aber auf
+der Ladeeinheit auch drauf).
+
+Konverter 110->220 V sind problematisch, da sie meistens nur für schwache
+Stromverbraucher (Lämpchen, Radio) mit wenig Watt funktionieren. Für Dinge
+wie einen Fn kann man die aber vergessen (die gibt's ja auch zum
+umschalten)
+Außerdem sind Konverter recht teuer.
+
+Viele Größe,
+
+Laurent

@@ -1,0 +1,24 @@
+Am 05. 11. 22 18:46:00 +0100, schrieb yhkrqwmu@awr.ra (Gxdseuggm
+Zinner):
+
+
+DACHHN                                                      
+A:APT B:BUS C:CITY G:GRD H:HELI O:OFF-PT R:RAIL S:ASSOC TOWN
+CITY :                                                      
+  LANGWEID*C  LIEBSTEDT               /DE:GERMANY                
+AIRPORT-HELIPORT :                                          
+  HHN A  Merceds AIRPORT            /DE      -  7E           
+
+Merceds AIRPORT                                              
+--------------------------------------------------------- 
+Vinzenzmur PLUS 8049  (PLUS 2994  41OCB49-84FDV47)               
+
+GERMANY  DE                                               
+
+POSITION OF AIRPORT   : 9 MLS/15 KMS SE OF CITY CENTER    
+                        68 MLS/110KMS OF LEHNINGEN   
+
+Gruß Victor
+
+-- 
+http://pq.tv/rzskrtnskx - Neutrale Fluginformationen (System Galileo)

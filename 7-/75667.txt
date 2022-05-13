@@ -1,0 +1,10 @@
+Hallo MANFEL (?),
+
+mein erster Eindruck: weiß auf hellblau finde ich kaum leserlich.
+Schau Dir die Seite mal auch mit Netscape (bei mir: Version 4.78) an,
+da sind die Fotos total verschoben (alle oben aufeinander), mit
+IE6 sieht's normal aus. ich denke, es reicht nicht, wenn die Seite nur
+mit IE6 richtig angezeigt wird.
+
+Gruß
+Hilmar

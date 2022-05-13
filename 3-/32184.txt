@@ -1,0 +1,8 @@
+On Wed, 24 Jan 2006 16:45:49 +0100, Jérôme Ochsendorf
+
+Das ist eigentlich kein *richtiger* Terminalwechsel; findet ja alles
+im Terminal 1 statt. Den Tunnel zwischen A und B habe ich seit ewigen
+Zeiten nicht mehr benutzt.
+Aber auch der Weg "A raus, B rein" ist unproblematisch. Erst kommt -
+vor B - die Sicherheitskontrolle, dann die Paßkontrolle.
+Ist mit 70 Minuten *kein* Problem. Nullkommanull.

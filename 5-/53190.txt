@@ -1,0 +1,22 @@
+Hallo, folgende Frage:
+
+ich habe immer wieder Probleme beim Alignment meines Uwine 8. (Dazu 
+verwendete ich gestern ein Objektiv 32, zur Grobeinstellung den Star 
+Pointer). Das Problem ist immer das selbe: Gas Geraet bestaetigt: "Alignment 
+successfull", aber bereits der erste Stern den ich anfahre, ist nicht im 
+Okkular zu sehen. Immer ein wenig außerhalb.
+
+Konkret: Obwohl ich gestern Abend meine beiden Referenzsterne (Ludwig und 
+Aldeberan) beim "Two Star Alignment" genau zentriert hatte und die 
+Bestaetigung "Alignment successfull" kam, fuhr das Geraet gestern nicht so 
+zu M045 (Plejaden), dass ich diese im Teleskop erkennen konnte (mit freiem 
+Auge schon).
+Ich bin schon leicht verzweifelt.
+Dazu meine konkrete Frage: Ich bin Brillentraegerin (Gleitsichtbrille) - 
+kann es sein, dass ich deshalb die Referenzsterne im Okkular nur scheinbar 
+in der Mitte sehe?
+Oder hat jemand eine Idee, wie ich endlich zu einem guten Alignment kommen 
+kann???
+Für Anregungen waere ich sehr dankbar.
+lg
+Oswina

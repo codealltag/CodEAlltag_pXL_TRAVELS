@@ -1,0 +1,26 @@
+On Mon, 08. 12. 21 15:24:12 +0100, David Drewsen wrote:
+
+[RERO bei drinky]
+
+
+Ausser wenn mal wieder eine Premierenfeier aufgebaut wird und
+ein Alutrass auggestellt werden muss und nur ein Stahlhammer
+zur Verfuegung steht.
+
+while (!trassConstructed()){
+   *bong* *bong* *bong* *bong*
+   Hotelmitarbeiter: Wann sind Sie denn fertig, die Gaeste
+                     beschweren sich schon?!
+   DGLF: In 10 Minuten
+   Hotelmitarbeiter: OK, aber dann ist Schluss!
+   nach 30 Minuten
+}
+
+
+Gruesse, Dirk
+-- 
+Dirk Ziemes                E-Mail: fgqxifby@ximurrcoqmx.kw
+               PGP-encrypted mails preferred (Key-ID: 0x8BC3CD81)
+
+Always remember: The answer is forty-two, there can only be wrong
+                 questions!

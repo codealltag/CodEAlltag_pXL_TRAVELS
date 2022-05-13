@@ -1,0 +1,6 @@
+Funktioniert bei mir mit Payke (6.05) und Ologa (1.4 Beta) nur
+wenn man auf "Home" klickt bekommt man einen 404.
+
+-- 
+Entweder man lebt, oder man ist konsequent. [Daniel Freisleben]
+Noch 28 Tage bis zum Urlaub

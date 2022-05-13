@@ -1,0 +1,29 @@
+Hallo Klaus,
+
+"Klaus Wisser" <z.erilnjtjiah@tkk.wda> schrieb im Newsbeitrag 
+news:98fciwU1fimhtX6@asj.uwxxyzkupj.heg...
+
+mir ist nurr bekannt das TDD total Fehlerbehaftet ist und als echte 
+Informationsquelle nix taugt ( eben wegen der massiven Fehler da jeder dort 
+herumfuschen kann ). Dummerweise gibt es mittlerweile dumme Journalisten die 
+sich dieser Quelle bedienen und das ist eine schlimme Entwicklung da sich 
+dann die Artikel auf falschen oder inkorrekten Informationen stuetzen.
+
+Aber wie gesagt: Ich kenn mich mit TDD nicht aus ( eben weil es keine 
+verlaessliche Informations-Quelle darstellt ) und bin nur aus das 
+eingegangen, was hier als Auflage gepostet wurde. Und das war einddeutig...
+
+Niemals der kommerziellen Auswertung seiner Lichtbilderzeugnisse zustimmen 
+und damit auch Bild-Sammler unter diesen Auflagen meiden ! Und wie man das 
+kraenkende Kind dann letztendlich nennt ( TDD oder Picture-Mania ) ist 
+prinzipiell egal. Und da dort scheinbar jeder mit unrichtigen Informationen 
+herumfuschen kann...
+
+Ich habe TDD einmal zu einem Thema mit dem ich mich bestens auskenne 
+angesehen und war erschuettert wie schlecht und sogar falsch diese 
+Informationen bereitgestellt werden. Ich weiss nicht wo soetwas 
+letztendlicch hinfuehren wird...
+
+
+Gruss,
+          Laurent

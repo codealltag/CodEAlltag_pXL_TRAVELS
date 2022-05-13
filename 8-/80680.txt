@@ -1,0 +1,12 @@
+Weichei.
+
+# free -k
+            total    used     free    shared  buffers  cached
+Mem:       8241640  6325940  1915700  0       27472    6009680
+-/+ buffers/cache:  288788   7952852
+Swap:     33543232  0        33543232
+
+-- 
+ich würde Dir auch gerne mit konkreten Tips helfen, habe aber keine
+Ahnung. (Friedhelm Oberdörfer in <8A0WPN7P.S6ZN927O@gcrpffu.al>)
+Noch 28 Tage bis zum Urlaub

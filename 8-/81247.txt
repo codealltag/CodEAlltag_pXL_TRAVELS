@@ -1,0 +1,8 @@
+Postings werden nicht ewig am Newsserver gespeichert, sondern nach
+einer gewissen Zeit gelöscht. Wenn Du alles neu aufgesetzt hast,
+kannst du sie aus diesem Grund nicht nocheinmal runterladen.
+Davor waren die alten Postings vermutlich noch lokal bei Dir
+gespeichert.
+
+Bis dann ...
+Edwin

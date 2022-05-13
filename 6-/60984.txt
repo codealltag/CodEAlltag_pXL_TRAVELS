@@ -1,0 +1,18 @@
+Hallo
+  Als Newbie weit Du das vielleicht noch nicht, aber eine Signatur muss 
+weder mit dem Thema der NG etwas zu tun haben, noch gibt es für sie 
+Einschränkungen was den Inhalt angeht. In einer Signatur könnte man 
+sogar kommerziell werben (was ich auf keinen Fall mache) und niemand 
+könnte etwas dadegen sagen. Wer einen vernünftigen Newreader benutzt, 
+kann sie völlig ausblenden. Beim Zitieren eines Postings sollte man 
+darauf achten, dass man die Signatur nicht mitquotet. (Du hast dies ja 
+getan - dafür kann ich nichts!). Lese mal bei http://gxtiwmo.get/kqld/
+nach, da wirst Du das sicher auch erklärt finden, falls Du mir nicht 
+glaubst.
+
+Formatbedingungen für eine Signatur:
+Eine Signatur MUSS mit der Zeichenfolge "-- "[return] abgetrennt werden.
+Sie darf nicht länger sein als 4 Zeilen � 72 Zeichen
+Sie darf nur TEXT-PLAIN sein, kein HTML oder anderes
+
+Gruß Niko

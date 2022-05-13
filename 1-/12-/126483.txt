@@ -1,0 +1,15 @@
+Thierry Berend <pjwovgxhz@axt.wu> schrieb:
+
+[...]
+
+Leider sind diese Informationen nicht immer zutreffend. Ich würde
+bei Entwicklungsländern immer mit beiden Extremfällen rechnen:
+gute Verfügbarkeit von ATMs und Banken, die Kreditkarten
+akzeptieren bzw. kaum funktionierende ATMs und sich bürokratisch
+gebärdende Bankfunktionäre, die so tun, als hätten sie so ein
+Plastikding noch nie gesehen. 
+
+-- 
+MfG Maiks Schreinemacher 
+PGP RSA 2048 key ID: 0xF5A96559, created 2000/04/11
+Fingerprint: FBF7 7413 93C6 D80F  0D0A 4D43 D7EE 4B60

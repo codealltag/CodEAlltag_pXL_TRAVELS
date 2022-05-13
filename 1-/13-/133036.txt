@@ -1,0 +1,24 @@
+Yo,
+
+
+Ad 1) Du brauchst wahrscheins einen Adapter. Falls Du unter "Western"
+      einen RJ11 verstehst (wie RJ45, mit 4 Kontakten), der ist bei
+      den meisten Elektronikabteilungen von Kaufhäusern greifbar. Das
+      Schweizer Telefonsystem benutzt z.T. auch RJ11, nutzt aber nix, da
+      a/b auf die Pins 1/2 gelegt ist anstatt auf 2/3 wie sonst üblich.
+      Daher verwenden viele Schweizer auch einen Adapter.
+
+
+Ad 2) Benutz einen Gratis-Provider. Z.B. LPZG: Einwahl in der ganzen
+      Schweiz unter 716 3586 (Lokaltarif), anmelden mit.
+
+	Login:		flzx
+	Passwort:	yooq
+
+      Kost nix ausser die lokale Telefongebühr.
+
+Ad 3) Nope.
+
+Yo
+
+Selina

@@ -1,0 +1,10 @@
+900MHz : D1/D2, 1800MhZ : E1/E2, in USA : 1850MHZ (glaube ich)
+
+
+Es gibt mitlerweile bei uns in Europa/Deutschland sogenannte Tri-Band
+Handy's, die mit allen Frequenzen funktionieren, sind aber ziemlich
+teuer. Da würde ich mal wegen der Kosten und der Karte bei deinem
+Provider nachfragen, das ist nähmlich je nach Netz sehr unterschiedlich.
+
+Gruss
+Theo

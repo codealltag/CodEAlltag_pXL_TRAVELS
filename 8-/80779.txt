@@ -1,0 +1,15 @@
+Was mir nicht klar ist:
+
+Wofuer soll denn bitte int-ps stehen? Das wird nirgendwo erklaert und ist
+somit auch wenig einpraegsam.
+
+Zum Rest: Haben die Vor-schreiber schon alles erwaehnt
+
+Viele Gruesse
+
+Cornelius
+
+--
+Cornelius Anlauff
+mathcn.ulcsx@zcz-opsng.qn
+--

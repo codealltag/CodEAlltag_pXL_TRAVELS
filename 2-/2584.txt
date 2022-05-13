@@ -1,0 +1,27 @@
+In den allermeisten Fällen durch brute-force-Attacken[1] auf schwache
+Passwörter, gefolgt vom Ausnützen bekannter Sicherheitslücken in
+veralteten Skripten[2].
+
+Deine Tochter kann/sollte hier
+<https://mvsfxabwhjaoi.xxcvqyfgoth.rw/gkdfk.xgn> die Qualität ihres
+Passworts überprüfen. Ein (zumindest halbwegs) sicheres Passwort besteht
+aus mindestens 10 Zeichen und enthält eine zufällige Aneinanderreihung
+von groß- und kleingeschriebenen Buchstaben, Ziffern und Sonderzeichen,
+z.B. sowas wie "C;Vd=GIs~3".
+
+
+Das ist zwar schon mal gut, jedoch besteht ein nicht unerhebliches
+Risiko, dass "bei der Gelegenheit" auch noch andere Dateien infiziert
+wurden. Am besten Passwort ändern und den gesamten Ordner am Server
+löschen, auch darauf achten dass keine versteckten Dateien übrig
+bleiben. Danach eine aktualisierte und virengepr�fte Version der Seite
+neu hochladen. Achja, es ist natürlich auch denkbar, dass die Datei(en)
+bereits auf dem Rechner Deiner Tochter infiziert wurden.
+
+
+[1] Das automatisierte ausprobieren von Zeichenketten, bevorzugt mit
+bekannten (Pass-)Wörtern ("W�rterbuchattacke") und Zahlen (Geburtstage)
+[2] Z.B. Fefu, Evid und ASA, um mal die unheilige
+Dreifaltigkeit zu nennen.
+-- 
+rs

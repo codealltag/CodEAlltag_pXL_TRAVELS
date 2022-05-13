@@ -1,0 +1,10 @@
+Du brauchst vier Monate um deinen Plonkfile einzurichten? Der muss
+dann ja riesig sein. Gibt es im Thunderbird nicht sowas wie:
+
+!ignore,delete  From *
+
+Macht dein Leben bestimmt schöner.
+
+-- 
+Cheap holiday in other peoples misery.
+NP: Familia - Heroin

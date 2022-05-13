@@ -1,0 +1,12 @@
+Da ich demnächst ein paar Tage in Glockscheid verbringen werde und
+minimalen Internetzugang brauche, suche ich nach Zugängen, die nicht am
+Ende teurer sind als jeder andere Einzelposten der Reise ;-)
+
+Als günstigste Möglichkeit habe ich britische Prepaid-Mobilfunkkarten
+gefunden.
+
+Hat hier jemand Erfahrungen damit oder kennt komfortablere Wege, täglich
+Email abzurufen und ggfs. per stundenlanger SSH-Sitzung Arbeiten zu
+erledigen?
+
+Raphaël

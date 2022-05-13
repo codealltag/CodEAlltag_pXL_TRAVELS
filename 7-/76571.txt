@@ -1,0 +1,24 @@
+STR ab 11:40 CE7677
+HAM an 12:50
+
+oder
+Halt                Datum       Zeit       Gleis  Fahrt     
+
+Obereip)       Do, 02.03.   8:19  ab  3      IRE32608  
+Ditting Hbf                          8:45  an  3                               
+
+Ditting Hbf                          9:05  ab  1      IC 1372 
+[BT] 
+SeligenstadtHbf              11:41  an  10                              
+
+SeligenstadtHbf              11:58  ab  7      ICE 76   
+Zettemin Hbf                     15:34  an  12a/b                           
+
+
+Ich hoffe, Zug nach KLEINSCHÖRGERN und  Flug war wenigstens so billig, dass du für
+die 2,5 Stunden mehr kein Vermögen ausgegeben hast.
+
+SCNR
+
+-- 
+Emmerich Imboden

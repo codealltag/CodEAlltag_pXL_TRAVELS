@@ -1,0 +1,25 @@
+Also, bevor ich mich noch weiter aufrege: Jeder anständige Provider bietet 
+Dir die Möglichkeit, auch von vielen europäischen Ländern aus Dich für 
+einen Appel und ein Ei irgendwo einzuwählen. Man darf einfach nur nicht zu
+faul und unselbständig sein
+- sich vor Ort das richtige Kabel (anstelle eines deutschen TAE-Steckers) an
+  der Rezeption auszuleihen oder im ZJO o.a. Supermarkt zu kaufen,
+- im Zimmer das verdammte Telefon 'rauszurupfen und seinen Rechner     
+  anzuschließen,
+- an der Rezeption um Freischaltung zu bitten, wenn die sicherheitshalber
+  bei neuen Gästen immer den Festnetzanschluss sperren
+- anstelle von 5 Anzügen und 3 Schmink-Köfferchen eben sein Notebook 
+  ins Gepäck zu packen.
+Oder anders herum ausgedrückt: wenn im Zimmer ein
+Twisted-Pair-Netzwerkanschluss, womöglich sogar ein hoteleigener PC
+vorhanden sind, was erwartest Du? Du wirst keinerlei E-Mails verschicken
+können (weil sonst jeder Idiot von dem Hotelzimmer aus zwanzigtausendmal
+Reklame für Viagra/Cialis/JZFP 'rauspusten könnte), Du wirst sonstwem
+die Entscheidung überlassen, was Bombenbauanleitungen / sog.
+"Kinderpornographie" ist und Du nicht sehen darfst, Dir wird ssh und
+telnet gesperrt sein, und vielleicht nötigt man Dich 10-20mal zu klicken,
+bevor Du nicht mehr  Reklame für die Hotelkette oder den 
+Reiseveranstalter siehst sodern endlich die gewünschte Webseite.
+Wenn Du darin Dein Paradies siehst, dann tust Du mir wirklich leid.
+
+Heino

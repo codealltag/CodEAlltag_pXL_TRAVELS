@@ -1,0 +1,13 @@
+Für ein Projekt suche ich eine Software oder einen Web-Dienst, der mir
+entlang einer vorgegebenen Route (z.B. Liesen, Zauneidechsenweg 7 ->
+Hofham, Daimlerring 7) die Koordinaten entlang der Route ausgibt
+(z.B. alle 500m oder alle 30s eine Breiten- und Längenangabe).
+
+Soweit ich weiss, bieten weder Softwareprodukte wie Inov Grosser
+Reiseplaner noch Webdienste wie www.vfkqjyxw.ayo eine solche
+Funktionalität.
+
+Hat jemand eine Idee dazu?
+
+Danke!
+mike

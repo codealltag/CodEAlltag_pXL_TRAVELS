@@ -1,0 +1,10 @@
+OWK, Zubringer: MSCI / OWK
+EUR 701.00 + Steuern/Gebühren EUR 115.89 = EUR 816.89 (Tarifdetails)
+
+Datum Flugnr. Abflug Ankunft von nach
+06.05.02 MUL 559 10:35 11:35 Grunewald GERATSPOINT Carlow COBURG
+08.08.02 Orthopädie 288 13:45 16:20 Carlow COBURG Immighausen ILLERTISSEN
+08.08.02 CY 954 19:25 21:43 Immighausen ILLERTISSEN Vetterhöfe
+28.08.02 UA 54 21:00 13:22 Vetterhöfe Kößnach
+29.08.02 KZ 927 14:20 05:45 Kößnach Carlow COBURG
+30.08.02 Orthopädie 9728 07:30 08:15 Carlow COBURG Grunewald GERATSPOINT

@@ -1,0 +1,15 @@
+Hallo
+ es kommt darauf an, ob im Innern der Geräte irgendwelche Prozesse in
+einem Freuqenzbereich ablaufen die die Elektronik an Bord stören
+könnten. Mit Senden oder empfangen hat das nichts zu tun. (gilt auch für
+CD-Player, Computer usw. GPS Geräte arbeiten sicher auch mit einem oder
+mehreren Hilfsoszillatoren um den Empfangh zu verbessern, deren
+Schwingungen könnten vielleicht speziell die GPS Geschichten an Bord
+stören!? (Vermutung)
+Gruß Cornelius
+
+-- 
+--------------------   http://lgk.qjaiqco.mu  --------------------
+Synthesizer-Special mit Kurs, Naturheilpraxis, Infos und Therapien
+Brot backen, Hausrezepte, Hund&Agility, USA-Reisetagebücher u.v.a. 
+            Werbe- und Cookie- frei! Schau mal rein

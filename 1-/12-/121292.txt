@@ -1,0 +1,25 @@
+Hallo David, 
+
+entschuldige, daß ich jetzt mal blöd fragen muß, aber bei Deinen Angaben 
+verstehe ich einiges nicht ganz. Aus Neugier daher folgende Fragen ...
+
+- Was hat die Auflösung bei der Filmbelichtung mit der der Druckmaschine 
+zu tun? 
+
+- Wieso ist die Auflösung des Bildes 300 dpi? Die Größe des Bildes ist 
+doch unbekannt und wenn ich eine Bilddatei vergere, nimmt doch die 
+Auflösung entsprechend ab, oder ist das falsch ...?
+
+- Wieso hat die Dateigröße mit CMYK oder RGB zu tun? Hängt es nicht 
+eher von der Farbtiefe und dem Dateiformat ab? 
+
+- Woher weit Du, daß die Datei 1596 MB groß sein muß, wenn das 
+Dateiformat und die Anzahl der Farben gar nicht bekannt sind?  Oder der 
+Komprimierungsfaktor, falls es sich um JPG handelt? 
+
+
+Ich bin relativ ahnungslos (aber neugierig), was Bildbearbeitung angeht. 
+Vielleicht kannst Du (oder jemand anderes) mir auf die Sprünge helfen ...
+
+Danke!
+Ulf

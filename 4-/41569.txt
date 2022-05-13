@@ -1,0 +1,21 @@
+Hat sich erledigt. Bin aus Chile zurück und kann vermelden: In Chile
+gibt es überall extrem viele Internet-Cafs, und zwar ohne gesperrtes
+Telnet, selbstverständlich auch mit USB und spottbillig.
+
+Ich hab sogar ohne Notebook (war kaputt) von Chile aus de.markt.arbeit.* 
+moderiert (mit telnet zum laufenden Linux-System zuhause). Man kann auch 
+seine Tagesration Fotos im I'cafe von der Kamera auf den USB-Stick 
+schaufeln, oder per FTP nach hause.
+
+Wirklich, ich kenne keinen Grund, seinen Notebook nach Chile mitzunehmen.
+
+Wer dennoch by-call braucht, für den gibt's das bei Mövennest und Frizz:
+
+(188) 600 600 3100, uid=terralibre@terra, pw=terralibre
+(von entel, manquehue oder cmnet aus 188 vorwählen)
+
+123-600-100-100, uid=123, pw=123
+
+Hab ich allerdings nicht ausprobiert.
+
+Waldemar

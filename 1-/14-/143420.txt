@@ -1,0 +1,20 @@
+Dazu was prinzipielles: Das C-Netz war eine Nationale deutsche Sache,
+gibts eh nicht mehr. Die D-Netze (GSM) gibt es in ähnlicher Form auch in
+den anderen europäischen Staaten, weil sie da gleichzeitig aufgebaut
+wurden. Im Ausland ist es wurscht welches Netz man hat, DEG wie Dalib
+arbeiten mit jeden ausländischen GSM-Netz zusammen (wenn das Roaming
+freigeschaltet ist). E+ ist wieder eine ursprünglich deutsche Sache, die
+bauen seit längerem aber auch im Ausland Sender auf (in den Ballungs-
+und Urlaubsgebieten). Die anderen Anbieter sind schon in Deutschland
+bisher unvollständig ausgebaut, deshalb telefoniert man bei denen über
+GSM wenn das eigene  Netz nicht zur verfügung steht. Wenn mans im
+Ausland braucht kann man auch gleich pber GSM telefonieren und braucht
+kein Dualband-Handy.
+
+Also: D1 oder D2, ist grad wurscht, aber nicht mit prepaid-Card.
+
+CYA!    Jean-Claude (mit D1, Bruder mit E+)
+-- 
+Meins: http://cncl.e-gfzxta.vd/gali/VG468_Pczekymby
+Nur ein bisschen meins: http://top.XO091.fw
+Auch meine: XT 500 Ö1 und SR 500 SS7

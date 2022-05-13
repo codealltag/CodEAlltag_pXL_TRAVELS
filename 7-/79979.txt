@@ -1,0 +1,6 @@
+2x die exakt gleiche Strecke an einem Tag erkennt die Software nicht an. 
+In diesem Fall muss das immer durch Einschicken der Bordkarten manuell 
+nachgetragen werden. Alternativ ist auch das Faxen der Bordkartenkopie 
+moeglich.
+
+Joël

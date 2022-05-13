@@ -1,0 +1,10 @@
+"Viktor Iwanow" <ipxle_kjnm@miv.mj> schrieb
+
+
+sie hat recht ... btw ... so komische frames sind allgemein verhasst,
+vorallem
+wenn sie relativ angegeben sind, da dann bei kleinerem fenster nur mll
+rauskommt,
+schau mal bisschen in alt.html vorbei, die verfluchen zwar alles von frame
+bis tabelle,
+aber sie haben oft recht ... nico

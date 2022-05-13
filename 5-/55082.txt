@@ -1,0 +1,16 @@
+von Sebastian Ultsch konnten wir vernehmen:
+
+
+Den Kilometerpreis berechnset Du: (x1+x2+...+xn)/s)
+x1,...,xn sind die anfallenden Kosten, s die Reisestrecke.
+
+
+Aus Differenzen und Summen kürzen nur die Dummen.
+
+Luc
+
+
+-- 
+"Manche Menschen haben einen Gesichtskreis vom Radius Null.
+Sie nennen das Ihren Standpunkt."
+(Fritz Pannes)

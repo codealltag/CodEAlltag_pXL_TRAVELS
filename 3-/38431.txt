@@ -1,0 +1,15 @@
+Normalerweise sind ja die viel beworbenen/berühmten Europafl�ge der Billigflieger für
+z.B. 19,00 oder 29,00 Euro so gut wie immer ausgebucht.
+
+Wann immer ich einen Termin eingebe ist die Buchungskategorie nicht mehr verfügbar.
+
+Ich könnte mir aber vorstellen, dass es ein Flugbuchungsportal gibt dass Termine
+mit verfügbaren (!) Plätze in der Billigkategorie auflistet.
+
+Hier ist also nicht zuerst der Termin einzugeben und dann wird nach dem Preis gesucht
+sondern umgekehrt: Zuerst wird der (Maximal)Preis eingegeben dann werden die Termine genannt
+(für ein bestimmtes Flugziel).
+
+Gibt es so etwas (für EUROKINISIS/Hörskens,...) ?
+
+Traude

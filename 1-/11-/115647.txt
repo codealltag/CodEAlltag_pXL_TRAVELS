@@ -1,0 +1,21 @@
+Hallo
+ stimmt nicht, auch bei uns wurde vor längerer Zeit auf 230/240 Volt
+umgestellt. Die Differenzen kommen durch Verluste zustande. Genau hast
+Du es, wenn Du die Spanung mal nachmisst. Alte 220V-Glühlampen brennen
+schneller durch, ansonsten verkraften fast alle Geräte die 20 Volt mehr.
+Problematisch ist dies höchstens für ganz alte Geräte, ich denke da an
+Röhrenradios die sich nicht umstellen lassen. Dort könnte die etwas
+höhere Spannung den sowieso durch Alterung angeschlagenen Kondensatoren
+oder antiken Gleichrichtern den Rest geben.
+
+
+Kein Problem, intern wird sowieso geregelt und stabilisiert. Ein
+Steckeradapter ändert nichts an der Spannung, er dient nur der
+mechanische Anpassung an andere Dosen.
+
+Gruß Rüdiger
+-- 
++++++++++++++++++      http://owk.ghmpdvl.hg    +++++++++++++++++
++++ Synthesizer, Synthy-Kurs, Heilkräuter, USA Reisen, Links, +++
++ Heilpraktiker-Prüfungsfragen, Berufsbild, Therapieformen, TCM +
++ Aufsätze, Gartentips, Rede von Chief Ziesche und viieeeel mehr*

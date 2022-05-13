@@ -1,0 +1,17 @@
+Da sollte man versuchsweise einfach mal ausprobieren, wie viele Störungen
+im HF Bereich so ein Ding abstrahlt. Ist vielleicht denkbar, daß es beim
+Schreiben stärker stört, weil das Gerät beim Schreiben mehr Strom
+verbraucht als beim Lesen und da auch mehr stört?! Da Laptops den Funk
+stören können ist nicht neu, kann man selbst ausprobieren, wenn man einen
+guten Kurzwellenempfänger oder Scanner neben das Gerät stellt. Speziell die
+Netzteile sind oftmals nur sehr unzureichend abgeschirmt. Auch Bildschirme
+können störend strahlen.
+
+Und da in so einem Flieger doch recht viel per Funk abläuft (nicht nur
+Sprechfunk, sondern auch Datenfunk), ist es natürlich denkbar, daß so ein
+Laptop den Funkverkehr stört, wenn der Passagier vielleicht noch ungüstig
+nah an der Antenne sitzt.
+
+Größe,
+
+Victor

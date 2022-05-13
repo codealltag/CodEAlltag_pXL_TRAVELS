@@ -1,0 +1,32 @@
+Den Tacho hab ich irgendwann mal mit Stoppuhr und einem Freund auf der 
+Autobahn getestet. Damals lagen die Abweichungen bei 170 km/h Tacho bei 
+etwa 5% selbiges Ergebnis kriegt man in etwa an den Anzeigetafeln, die 
+hin und wieder an der Straße stehen und dort die tatsächlich gefahrene 
+Geschwindigkeit anzeigen.
+
+Nebenbei fahren eigentlich fast alle Autos schneller als die max. 
+Höchstgeschwindigkeit angibt.
+Mein SJ 700 hat auch 130 km/h eingetragen, führt aber mit den 205 er 
+Reifen und genügend Anlauf auch mal 150 km/h, so dass der Tacho schon 
+nicht mehr mit der Beschriftung ausreicht (geht nur bis 140 km/h).
+
+Eigentlich jedes Auto führt schneller als in den Papieren angegeben.
+Die meisten Fahrer trauen sich mit ihrem Wagen aber nicht in 
+Drehzahlbereiche jenseits der 5000 1/min vor.
+
+
+Der Drehzahlbegrenzer setzt auch nur Bergab ein : ).
+Und nebenbei hat der einen Drehzahlbegrenzer, den hat eigentlich fast 
+jedes Fahrzeug mit elektronische gesteuerter Einspritzanlage. In dem 
+Fall übernimmt wohl das Steuergerät die Funktion des Drehzahlbegrenzers, 
+indem die Einspritzung/Zündung abgeschaltet wird wenn die Drehzahl den 
+zulässigen Bereich überschreitet. Man nennt das auch Schubabschaltung, 
+die setzt normalerweise ein wenn man z.B. Bergab führt und kein Gas 
+gibt, damit man Sprit spart.
+Bei max Drehzahl macht sich das dadurch bemerkbar, dass der Wagen bei 
+max Drehzahl pulsierend Gas gibt. Also 2s Gas, 1s kein Gas, 2s Gas, 1 s 
+kein Gas usw.
+Sollte man aber nicht lange machen, da man so den Motor schrotten kann, 
+wenn man trotzdem noch weiter beschleunigen würde (Bergab eben).
+
+A

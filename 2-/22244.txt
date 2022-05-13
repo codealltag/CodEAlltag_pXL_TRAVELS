@@ -1,0 +1,9 @@
+Wenn ich mir z.B. vduzij.kr anschaue (ich habe einfach willkürlich ein 
+Flugbuchungsdingsbums für den schweizer Markt ausgesucht, keine Ahnung, 
+ob das ein guter oder schlechter Verkäufer ist), funktioniert das da 
+genauso wie in Deutschland derzeit auch: Erst Anzeige des 
+Netto/Tarifpreises, dann Auswahl einer Flugverbindung, dann Berechnung 
+der konkreten Zusatzkosten für diese Verbindung und Anzeige des Endpreises.
+
+Gruß,
+Johann

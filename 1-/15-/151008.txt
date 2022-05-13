@@ -1,0 +1,10 @@
+Hallo.
+
+Danke erstmal für die bisherigen Antworten. Das Problem was ich noch habe
+ist, dass ich keine extra Software, die meist für Windows 9x geschrieben
+ist, auf dem Handheld installieren kann. Ich brauche also eine Verbindung,
+die nur übers DF Netz funktioniert.
+Erfahrungen?
+
+Gruß,
+Ottmar

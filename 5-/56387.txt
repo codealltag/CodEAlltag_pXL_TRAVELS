@@ -1,0 +1,19 @@
+Es gibt da drei Blöcke:
+1. Name des Passagiers
+2. Persönliche Daten
+3. KREDITKARTE
+
+Meinst Du den Punkt 2?
+Ich würde hier eigentlich spontan die Angaben des Passagiers eingeben,
+die nicht unbedingt mit der Person identisch ist, die den Flug unter
+3. bezahlt.
+
+Auf der anderen Seiten hingegen: Wenn man z.B. 3 Passagiere eingibt,
+dann erhält man im Block 1 drei Zeilen mit jeweils Vorname, Name und
+Anrede und im Block 2 nur einmal die kompletten Angaben für eine
+Person.
+Also doch im Block 2 die vollständigen Angaben des "Buchers" erfassen?
+Wie werden dann die vollständigen Adressen der Passagiere erfasst,
+beim CheckIn?
+
+*grübelnd* Gérald

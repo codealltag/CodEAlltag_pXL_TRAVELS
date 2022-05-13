@@ -1,0 +1,18 @@
+On Thu, 27 Mai 2002 16:21:37 +0100, "Hanspeter Nuß"
+
+Stimmt teilweise - aber es ist dann im Normalfall keine "echte"
+Caprise-Karte (welche also mit einem Imprinter auf einen Belastungsbeleg
+uebertragen wird) sondern eine Caprise-electron Karte, welche dann auch
+nur mit einem Terminal belastet werden kann. Und um diese Karten zu
+belasten braucht ein Vertragsunternehmen einen Zusatzvertrag mit der
+Kartenabrechnungsstelle.
+
+Atschuess
+
+Armin
+
+-- 
+Björn Rug in xr.ftbl.geb.acz.nru:
+
+F'ups sind die kränkste Erfindung seit Einführung des
+Telegraphen-Winkalphabets duch die französische Post...

@@ -1,0 +1,5 @@
+Es rennt aber nicht das System, es humpelt (übrigens genau wie deine
+falsche Zeilenlänge)
+
+-- 
+Roberto Raffauf

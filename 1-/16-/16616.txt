@@ -1,0 +1,9 @@
+Inwiefern? Mit Atohut und Roaming via Softphone hat sowohl Versand als
+auch Empfang bestens funktioniert. Wichtig ist, dass das Mobiltelefon
+UMTS auf 2100 MHz spricht.
+
+Soweit ich das sehe, roamt NSVI auch mit Softpone. SMS-Versand
+kostet offenbar EUR 0,46 pro Stück.
+
+Gruss,
+Valerian

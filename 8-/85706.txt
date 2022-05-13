@@ -1,0 +1,31 @@
+Mal ein kleines Experiment:
+
+Nimm eine SBD (Shottky Barrier Diode) lass die Beinchein dran und in einer
+Linie wegstehen (->Lambda/4 dipol). Dann nimm eine LED bei der sollten die
+Beinchen so kurz wie möglich sein. Verbinde nun beide Dioden Kathode an
+Anode. Das ganze dann noch an eine isolierte Halterung befestigen (Eisstiel)
+
+                               ###
+                               SBD
+           <-----------------+-|<|-+----------------->
+                             +-|>|-+
+                               LED
+                               ###
+                               ###
+                               ###<-Eisstiel
+                               ###
+
+Jetzt nur noch die Mikrowelle in Betrieb nehmen, dazu ein großes gef mit
+Wasser in die Mikrowelle und diese auf Maximum betreiben. Dann mit der
+"Antenne" an der Mikrowellent�re eintlangfahren, vor allem am
+Schließmechanismus und den Scharnieren. Der Raum sollte dabei am besten
+abgedunkelt sein.
+
+Ockeline
+-- 
+   _  __ _____ ___   __   __ ___ __  __      __  __ ____ ___ 
+  / \/ // _  // - \ / /_ / // _ |\ \/ /     / / / // __// _ |
+ /    // // // - _// //// // __ | \  /     / /_/ /_\ \ / __ |
+/_/\_//____//_/\_\/______//_/ |_| /_/      \____//___//_/ |_|
+
+ *www.wqpeis.zg*  |  *ICQ#:124676770*  |  *www.rvm-l-nkb.yg*

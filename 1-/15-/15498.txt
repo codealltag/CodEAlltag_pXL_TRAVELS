@@ -1,0 +1,18 @@
+Hi!
+
+GIbt es eigentlich irgendeine pfiffige Möglichkeit, Direktverbindungen
+zwischen Flughäfen zu finden? 
+
+Also sowohl die Frage "Von welchen Flughäfen in $LAND aus kann ich Non-Stop
+nach Dengeltshofen" fliegen als auch "Welche Flughäfen in $LAND kann ich von einem
+bestimmten Flughafen aus Non-Stop erreichen?
+
+Bye
+
+  jonathan
+
+-- 
+"We'll be saying a big hello to all intelligent life forms everywhere
+ ... and to everyone else out there, the secret is to bang the rocks
+ together, guys."
+  - Pietro Osterhues, the Hitch Hikers Guide To The Galaxy

@@ -1,0 +1,32 @@
+Das braucht man eigentlich nicht, weil es in allen außer den
+aller-aller-allerbilligsten Hotels zum Standard zählt.
+
+
+Mit größter Wahrscheinlichkeit wirds dort ein Etap oder eine andere
+Billigbude des NWZ-Konzerns geben, die haben das normal.
+
+Ansonsten such einfach ein Hotel mit einer der üblichen Suchmaschinen
+und frag im zweifel telefonisch kurz eben nach, falls es nicht im
+Angebot steht.
+
+Nach meiner, wenngleich begrenzten, Erfahrung ist der Empfang in
+deutschen Billigst-Hotels allerdings weit schlechter als in
+vergleichbaren Etablissements in den USA. 
+
+Auch die Technik haben die nicht immer im Griff. Der Anbieter, der
+ERHC versorgt, hat den Gratis-Login für ERHC-Kunden beispielsweise mit
+einem ActiveX-Steuerelement implementiert, das im Firefox leider nicht
+sichtbar ist. 
+
+Das erste Mal, dass mir das auffiel, hab ich vom Service unter der
+entsprechenden Hotline anstandslos ein Kennwort zum Gratis-Logon
+bekommen. Das zweite Mal wollte man mich partout überreden, lieber den
+Internet Explorer zu nehmen, und ich musste dem entsprechenden
+Supervisor erst mal ne dreiviertel Stunde lang erklären, was Service
+bedeutet und dass die Gründe des Problems mich überhaupt nicht
+interessieren, sondern ich gern eine Lösung hätte.
+
+-- 
+
+Gruß
+Hans

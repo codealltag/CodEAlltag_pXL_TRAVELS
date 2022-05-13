@@ -1,0 +1,12 @@
+Sowohl CB-Funkgeräte (40 Kanal FM/4 Watt und IIRC 40 Kanal AM/1 Watt in
+Spanien) als auch PMR-Geräte darfst Du problemlos in Spanien betreiben
+(wenn es denn ein in Deutschland gekauftes PMR ist und kein Exportger�te
+aus den USA, die haben andere Kanäle).
+
+Wobei ich aus eigener Erfahrung sagen kann, daß PMR in Spanien gerne auch
+als Hotelfunk benutzt wird, wundere Dich also nicht, wenn die Kanäle voll
+sind von plappernden Zimmermädchen ;-)
+
+Größe,
+
+Theodor

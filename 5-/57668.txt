@@ -1,0 +1,6 @@
+Statt auf einem Webserver abzulegen ist es doch einfacher, die ganzen
+Dokumente zu scannen, eine gratis-Emailadresse anzulegen und die Dokumente
+dorthin zu schicken. Bei bedarf einfach übers Internet öffnen.
+
+jaja, wenn man schon über eine Website verfügt, dann geht das natürlich
+auch.

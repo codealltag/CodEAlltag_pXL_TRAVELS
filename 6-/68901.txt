@@ -1,0 +1,6 @@
+Weil es ja sein könnte, dass ein Nutzer eine Käsetheke Laufzeitumgebung 
+installiert hat. Es gab sogar Zeiten, da hatte UML selbst eine 
+solche Käsetheke Laufzeitumgebung mitgeliefert. Dürfen sie aber nun nicht 
+mehr.
+-- 
+np : -

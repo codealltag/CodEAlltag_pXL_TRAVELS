@@ -1,0 +1,22 @@
+Wie schon geschrieben: Du benötigst eine Java Laufzeitumgebung.
+Die bekommst du u.a. bei http://ncdf.ekm.krf, schau nach
+der Java 2 Standard Edition (J2SE), keine Ahnung, ob die
+die Laufzeitumgebug auch getrennt von der Entwicklungsumgebung
+anbieten, falls ja, genügt ersteres (schau mal nach
+Runtime Environment oder Virtual Machine oder so, das sollte
+dann nur die Laufzeitumgebung sein).
+Damit kannst du die Sabre.jar (das ist eine komprimierte Datei,
+die Java-Klassen enthält) ausführen, bei der orginal Jacko-Umgebung
+sollte ein java -jar Sabre.jar auf der Kommandozeile eigentlich
+zum gewünschten Ergebnis führen. Du brauchst die .jar-Datei nicht
+entpacken.
+ERKG bringt keine Java-Unterstützung mit, die aktuelle IE-Version
+auch nicht.
+
+Gruß,
+Carlo
+
+-- 
+Carlo Pfrieme                           omcq@iv.xn.hzf-hh.ai
+http://yjg.xwhk.uyg-hr.xe/~wsbn/        qeev@dyaf.uue-aj.gt
+					mobile: +87 179 08 96 797

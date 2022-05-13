@@ -1,0 +1,11 @@
+[D-Kreditkarten haben keinen Chip]
+
+Von außen ist es insofern erkennbar, wie die Karte "behandelt" wird: Soll
+man sie nur halb reinstecken und wird sie dabei nicht bewegt, will der
+Automat den Chip lesen. Soll sie wo durchgezogen werden (oder wird sie
+gar motorisch bewegt), will der Automat den Magnetstreifen lesen.
+
+Und leider wollen gemäß dem obigen Prinzip die meisten französischen
+Automaten meiner Erfahrung nach den Chip lesen :-(
+
+Gruß Joël.

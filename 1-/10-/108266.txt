@@ -1,0 +1,10 @@
+Auf der Seite www.clf.mtm gibt es die Möglichkeit den Flight Status
+abzufragen.
+---schnipp
+Namenlos  6048   5411-E 17MAR NONE DC10-30
+DTW  1920   1147 E 17MAR A46DTW 
+
+DELAYED DUE TO REQUIRED CREW REST 
+---schnapp
+
+Gruß Henry

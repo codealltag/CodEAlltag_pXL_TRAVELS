@@ -1,0 +1,10 @@
+Hi liebe Leute,
+
+wer kann mir die Buchungsklassenreihenfolge erklären?
+Stehen dann in der Reihenfolge Firt/Busines/Enc. jeweils die billigsten 
+oder die teuersten Klassen an erster Stellen????
+
+TXL FRA 1756 7752  LH 175 C9 D9 Z9 Y9 B9 M9 H9 Q9 V2 WC 321   
+     MIA 3047 6332  LH 462 F9 A9 C9 D6 Z1 Y9 B9 M9 H0 Q0 744   
+
+Danke Winfried

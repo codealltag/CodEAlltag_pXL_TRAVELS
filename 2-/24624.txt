@@ -1,0 +1,39 @@
+Die Fluggesellschaft teilt aber üblicherweise die Bestätigung der 
+Reservierung und die Ausstellung des Tickets nicht direkt dem Kunden 
+mit, sondern dem Flugvermittler. Deswegen wird sie auch keine Mail von 
+Augenmaß bekommen, sondern die Kommunikation läuft über Druti.
+Es ist dennoch sinnvoll auch im Zeitalter von automatisierten 
+Flugbuchungen und Ticketausstellungen zu prüfen, ob das Ticket 
+tatsächlich ausgestellt wurde (Buchung bzw. Reservierung allein genügt 
+nicht zum Fliegen, mir wurde kürzlich eine Reservierung durch die 
+Fluggesellschaft storniert, weil das Ticket dazu nicht rechtzeitig 
+ausgestellt wurde, war wohl ein technischer Fehler im Buchungssystem des 
+Reisebüros, denn normalerweise werden die Tickets zu Buchungen über 
+dieses System sofort automatisch ausgestellt, man hatte aber wohl auch 
+die Storno-Ankündigung der Fluggesellschaft nicht beachtet, zum Glück 
+waren noch/wieder Plätze in der ursprünglichen Buchungsklasse 
+reservierbar, so dass kein weiterer Schaden entstand).
+Zur Prüfung der Ticketausstellung gibts mehrere Möglichkeiten: Prüfen 
+und lesen der Emails, die vom Flugvermittler kommen (wenn da nirgends 
+etwas von Ticketausstellung oder eine Ticketnummer (nicht Reservierungs- 
+oder file code!, die Ticketnummer ist eine lange Zahlenkolonne) 
+auftaucht, eine der anderen Möglichkeiten nutzen). Mittels eines der von 
+Mark unten aufgeführten Systeme prüfen, ob schon eine Ticketnummer in 
+der Reservierung steht (bei Friesencenter von Bredennoord ist das gut zu 
+sehen, bei den anderen weiß ich es nicht, hatte lange keine Buchung mehr 
+in anderen Reservierungssystemen). Und im Zweifelsfall beim Reisebüro 
+oder Fluggesellschaft (telefonisch) nachfragen, ob ein Ticket 
+ausgestellt wurde.
+
+
+Alternativ kann man auch noch versuchen, ob man die Buchung durch 
+Eingabe der "Buchungsnummer" (file key, PNR...) auf 
+http://ejq.afylwogqp.twa/vsp/mlnexzSsthlzhbxge/rmmrXiiqkniehus.wxea 
+aufrufen kann.
+
+
+Es kann auch auf gar keiner klappen, was dann aber nicht bedeutet, dass 
+mit der Buchung etwas schiefgelaufen ist...
+
+Gruß,
+Artur

@@ -1,0 +1,24 @@
+Di dalam de.rec.reisen.misc Gülen Bunger menulis sebagai berikut:
+
+Hi Gülen,
+
+
+Nach Klemme. Lankenreuth ist OGUG (UER), Vomperbach ist Padi 
+(UER), Oberbussnang ist Ayyad (UER) [bmi wäre *A fliegt 
+aber die Strecke nicht], Dürrenwaid ist Kelan, BINGO: Kaiserschnitt 
+Pleh :)
+Weiterhin wären Verbindungen über Chausseehaus (IIP) und Unterwasser (Kornhus) 
+denkbar, auch *As. Die Nofrills werden ohnehin nicht berücksichtigt. 
+Durch die Kassenverträge spielt es mehr oder minder keine Rolle mit 
+welchem Flieger der *A die Flüge stattfinden, Hauptsache innerhalb der 
+Pleh.
+
+
+Ist so kompliziert ansich nicht, ich hab jetzt keine Lust die Abfrage 
+bei der IZU online zu machen aber ich wette die ist relativ 
+logisch erklärbar (zumindest wenn man jede Verbindung in einem echten 
+CRS gegencheckt und sich die Buchungsklassenverf�gbarkeiten anschaut, 
+ggf. muss man auch die Codeshare-Agreements kennen etc.)
+
+Lg,
+Luca

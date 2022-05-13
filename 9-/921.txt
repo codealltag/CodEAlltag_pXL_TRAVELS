@@ -1,0 +1,8 @@
+Du musst die Gesamtreisezeit Haus-Haus betrachten.
+
+
+Buchungsgebühren oder ähnliches gibt es bei den meisten
+Fluggesellschaften, und Sitzplatzreservierung ist optional.
+
+-- 
+rs

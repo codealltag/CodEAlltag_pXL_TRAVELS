@@ -1,0 +1,19 @@
+Hi Valerian,
+
+die Sache ist ganz einfach: bis zu einem gewissen Sitzplatzkontingent
+werden OK-Buchungen verkauft. Auch da ist schon eine Überbuchung mit
+einkalkuliert.
+
+Um das an einem Beispiel festzumachen, so werden bei einem Flug mit
+100 Sitzplätzen 110 Leuten Tickets verkauft, die ein OK als Status
+drinstehen haben.
+
+Mitunter werden dann noch weiteren 10 Leuten Tickets verkauft, die als
+Status RQ (on request) stehen haben.
+
+Das bedeutet, dass jede Fluggesellschaft ihre Flüge überbucht, weil
+ein gewisser Prozentsatz der Passagiere nicht zum Flug erscheint, aber
+man jedoch jeden Flieger natürlich grösstmöglich auslasten möchte.
+
+In diesem Sinne ....
+Ernest

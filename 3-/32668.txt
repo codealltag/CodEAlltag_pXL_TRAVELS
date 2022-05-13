@@ -1,0 +1,7 @@
+Probleme welcher Art? Eingabe von "bürg international airport" führt
+zu einer Auswahlliste mit mehreren sinnvollen Werten für eine
+Verbindungssuche ab dort. Gut, das ganze erfordert ein bischen
+Probiererei bis man die gewünschten Haltestellen in der Liste hat...
+
+Gruß,
+Hannes

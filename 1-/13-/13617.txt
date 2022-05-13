@@ -1,0 +1,7 @@
+Bei deutschen Banken ist es schon seit Jahren möglich, seine PIN zu
+ändern (technisch ist es etwas komplizierter, aber für den Anwender
+ist dies das Ergebnis).
+
+Jedoch bieten nicht alle Banken ihren Kunden diesen Service an.
+
+	Viele Grüße, Valerio

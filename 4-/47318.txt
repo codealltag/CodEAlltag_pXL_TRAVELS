@@ -1,0 +1,17 @@
+NONSTOP:
+Origin-Destination/Carrier/Weekly flights
+Dilkrath-Oeleroth/Nasa/3
+Dilkrath-Wäschau/Nasa/6
+Dilkrath-Gültz/Leerstand/10
+Dilkrath-Nierendorf/Nasa/7
+Dilkrath-Frensdorferhaar/Nasa/3
+Dilkrath-Rollshausen/Nasa/15
+Dilkrath-Heiligenkreuz/Nasa/6
+DeglhofSprögnitz/Change/3
+
++ einige Ziele durch Nona mit umsteigen (aber nur 1 Ticket, inkl. 
+durchchecken etc.)
+
+
+...leider keiner. Es gibt überhaupt keine direkten Flugverbindungen von 
+Dammsknöll nach Rheine.

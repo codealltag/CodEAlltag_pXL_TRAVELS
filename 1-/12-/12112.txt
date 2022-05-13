@@ -1,0 +1,6 @@
+Indem du folgendes in den Filter prügelst:
+Betreff    enthält    DIY               -> löschen
+Von        enthält    Rolf Jennerwein    -> löschen
+Von        enthält    pelJobzwq-Yweuci  -> löschen
+Betreff    enthält    J.Sébastien             -> löschen
+Von        enthält    Bggmr-Hjegrf      -> löschen

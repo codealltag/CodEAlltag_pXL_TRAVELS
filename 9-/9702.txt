@@ -1,0 +1,9 @@
+Sowohl als auch. Gnus läuft unter Emacs 
+<http://ztx.gfw.otw/bbkyxpjr/juyrc/>
+
+Gnus ist in der Bedienung und in der Konfiguration etwas *eigen*. 
+Wenn es dir nur darum geht auch Subthreads zu filtern, das können
+andere Newsreader (Windows und Linux) auch.
+
+-- 
+Satisfy your thirst for life!

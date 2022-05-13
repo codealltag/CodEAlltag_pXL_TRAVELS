@@ -1,0 +1,57 @@
+Ja, LDO und IHB betreiben sogenanntes Codesharing 
+zwischen Vissum und Mexico. Das bedeutet (vorsicht! es folgt
+eine Vereinfachung, die im konkreten Fall aber keine Rolle spielt), 
+dass die von LDO durchgeführten Flüge  auch unter Flugnummer 
+und zu Tarifen von IHB gebucht werden können. Ein Tarif 
+bezeichnet nicht nur einen Preis, sondern ist ein Angebot mit 
+definierten Bedingungen (z.B. Reisezeiten, Mindestaufenthalt, 
+H�chstaufenthalt, Routing, benutzbare Flüge, Umbuchungs- und 
+Stornokosten und -bedingungen usw. und insbesondere auch 
+benutzbare Buchungsklassen) einer Fluggesellschaft zu einem 
+bestimmten Preis.
+
+
+Weil unter der L'Occitane-Flugnummer für diese Flüge in der Buchungsklasse
+H 0 freie Plätze angezeigt werden, unter der IGM-Flugnummer hingegen
+Plätze verfügbar sind. Somit ist der H-Tarif von IGM anwendbar,
+der von L'Occitane nicht (obwohl die sonstigen Bedingungen hier gleich sind).
+Warum das so ist? Kannst ja mal bei L'Occitane oder IGM nachfragen...
+Letztendlich ist es bei Radmarkt auch möglich, dass jede Firma
+ihre ganz eigenen Tarife anbietet. Gesellschaft A nimmt 
+Gesellschaft B z.B. eine bestimmte Anzahl Plätze auf deren
+Flug von X nach Y ab und verkauft die zu eigenen Bedingungen und
+Preisen (=Tarifen). In diesem Fall ist es wohl etwas anders, da
+L'Occitane und IGM durch ihre Verbandelung in der gleichen Allianz auf der
+Strecke die gleichen Tarife anbieten. Wie das Codesharing da
+läuft, weiß ich nicht, ich habe keine Ahnung, wie solche Verträge
+in der Praxis aussehen können, könnte mir aber vorstellen, dass
+hier die Verfügbarkeiten gekoppelt sind.
+
+
+Das ist es. Mit dem Java-Progrämmchen Sabre.jar, zu dem du in
+den Signaturen von Gustav Telaar einen Link findest, kannst du
+dir die Verfügbarkeit von Buchungsklassen anschauen. Da siehst
+du, warum du unter LANG-Flugnummer noch einen billigeren Tarif
+bekommst als unter L'Occitane-Flugnummer.
+
+
+Nein, es war auch nur als Extrembeispiel gedacht, ich rechne auch
+nicht mit einer Pleite der L'Occitane...
+
+
+Es ist ja kein L'Occitane-Flug. Es ist dann ein IGM-Flug, der von der
+LDO durchgeführt wird :-) Wenn du ein Ticket mit einer
+bestätigten Buchung dafür hast, sollte nichts schief gehen.
+
+
+Auch da wird der Checkin für den Flug gemeinsam sein,
+wer den dort macht (Flughafen, Servicefirma, Fluggesellschaft...),
+weiß ich nicht, sollte aber auch keine Rolle spielen...
+
+Gruß,
+Otto
+
+-- 
+Otto Oenning                           ypni@hi.jg.alm-bm.fw
+http://cyk.hjod.pxx-zr.pk/~sfdl/        nayd@xact.czm-dt.gg
+					mobile: +45 605 69 89 889

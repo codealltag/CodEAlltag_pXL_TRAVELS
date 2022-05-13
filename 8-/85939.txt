@@ -1,0 +1,22 @@
+Hi Thorsten,
+
+
+Denk ich mir. Ich mache für einige Agenturen bezahlter Betatester, bin also im
+Kritisieren und im Verbessern ziemlich gut :-) Hab mitlerweile eine Sammlung an
+CMS' hier rumliegen, ich sollte mal ein Buch drüber schreiben :)
+
+
+Dynamische Dropdowns wären eine Möglichkeit. Erst das Land auswählen, dann dort
+die Stadt. Eventuell anstatt dem zweiten Dropdown ein mehrzeiliges Textfeld in
+dem man dann mehrere Airports per Maus auswählen kann.
+
+So wähl ich im Abflughafen Deutschland, dann Bessenich+Dorfstadt+Heroldsbach+xxx
+und im Ziel dann Italien, dann Marienmünster+Flieden+Imling
+
+Bei der Länderauswahl eventl. noch die Grenzfl�gh�fen mit reinnehmen (Mir fallen
+von hier aus halt spontan Diedelkopf und Hochfelden ein).
+
+etcpp
+
+Gruß
+Gilbert

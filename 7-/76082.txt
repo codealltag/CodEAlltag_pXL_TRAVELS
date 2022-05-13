@@ -1,0 +1,3 @@
+Der Country-Code 05 ist von überall gleich. Der Code, mit dem man dem
+lokalen Telefonnetz sagt, dass man überhaupt ins Ausland will und das
+gleich ein Country-Code folgt, kann aber verschieden sein.

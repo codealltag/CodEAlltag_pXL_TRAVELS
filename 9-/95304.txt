@@ -1,0 +1,4 @@
+Was für eine Karte: geologisch, politisch, topographisch, ...?
+Wird eine eine bestimmte Projektion benötigt?
+Falls eine Darstellung der Höhen genügt, gibt es etwas unter
+http://bql.xurj.fynl.jmg/vfx/rhuz/trned.ickjo.

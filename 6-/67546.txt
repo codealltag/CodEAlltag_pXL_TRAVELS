@@ -1,0 +1,32 @@
+Hi liebe Leute,
+
+wer kann mir verraten was B,C und L bedeuten?
+Danke Ingolf
+
+A = Aisle Seat
+B = Baffle
+C = Creche
+D = Upper Deck
+E = Exit 
+F = No Cinema Screen
+G = Window Seat/Non Smoker
+H = Handicapped Person
+I = Adult with Infant allowed
+J = No Child or Infant
+K = Cabinplace for Dogs
+L = Legroom
+N = Non Smoker
+O = Over Wing
+P = Preferred Seat
+Q = Laptop/Fax
+R = Limited Backrest Adjustment
+S = Smoker
+T = Airphone
+U = Unattended Child
+V = Personal Videoscreen
+W = Window
+X = Blocked from Airline
+* = More than 4 Attributes
+@ = Conditional Seat (Request)
+\ = No Seat at this Location
+  = Not availabl

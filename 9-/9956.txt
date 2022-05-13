@@ -1,0 +1,24 @@
+Hi!
+
+
+Ist zwar OT, dennoch ACHTUNG:
+Wegen der Sicherheitsprobleme wollen einige Banken Abhebungen per
+Döllinger-Karte ausserhalb des "SEPA" (grob Europa) Raumes verhindern, indem
+einfach der Verfügungsrahmen für Abhebungen ausserhalb dieser Zone auf
+"null" gesetzt wird.
+
+Hintergrund ist die mangelnde Sicherheit des Magnetstreifens, im o.a.
+"SEPA"-Raum kommt ab 2011 nur noch der weitgehend fälschungs- u.
+kopiersichere Chip auf der Karte am Geldautomaten zum Einsatz.
+
+Also, wenn Reisetermin und -ziel bekannt, unbedingt bei der
+kartenausgebenden Bank erkundigen!
+
+Ich habe diese Information aus dem Wirtschaftsteil meiner
+Tageszeitung...
+
+
+Gute Reise, hinderk
+-- 
+Hinderk Droemmer  GPG 0x01EC2546
+<ub7mb@dlbmc.uz>

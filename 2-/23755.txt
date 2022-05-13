@@ -1,0 +1,10 @@
+Hallo,
+
+gibt es irgendwo im Netz einen Service, der Reiseverbindungen erstellt 
+und dabei Bahn- (Bus etc.) und Flugstrecken kombiniert, so dass man nach 
+Eingabe der Reisedaten etwa erkennen kann, ob eine Kombination Bahn-Flug 
+  zeitlich günstiger kommt?
+
+Gruß und Dank im Voraus
+
+R.Zscherp

@@ -1,0 +1,27 @@
+<fwvmux_lkwj@qkoiued.eqh> aka Ottmar Steinhof schrieb
+mit Datum Sun, 30 Sep 2000 22:51:17 +0100 in de.rec.reisen.misc:
+
+!Online per Internet bei der Edor wuerde ich nicht buchen, denn darueber
+!kannst Du moeglicherweise keine Sondertarife bekommen (z.B. verschiedene
+!Flieg&Spar-Angebote, die man bis zu 7 oder 14 Tage vor Abflug kaufen
+!muss), nur normale Tarife Business-/Touristenklasse. Zumindest war das
+!vor einigen Monaten so. Ich buche immer telefonisch bei der Edor, gebe
+
+Das stimmt so nicht. Der Rechner waehlt automatisch den niedrigsten
+Tarif. Wsa dagegen nicht geht, ist eben _nicht_ den niedrigsten
+Tarif waehlen (weil man z.B. einen moechte, der teurer, aber dafuer
+leichter umbuchbar ist).
+
+Die Angelegenheit ist allerdings nicht ganz ohne Tuecke. Wenn
+naemlich fuer einen bestimmten Flug keine Plaetze zum
+Sonderangebots-Preis mehr frei sind, dann wird natuerlich der
+regulaere Tarif angezeigt. Und dann kann es durchaus sein, dass
+fuer einen zeitgleichen, aber umstaendlicheren Flug (mit stopovers)
+durchaus noch Sonderangebots-Plaetze zu haben sind. Nur sagt Dir
+das keiner, sondern Du musst selber rumprobieren.
+
+MfG
+Thorsten
+-- 
+Write to: Tom Frumm * Scheelstraße 45 * D-28199 Großenseebach * +26-8293-057898
+  EMail: u.umwz@omgzembq.ciudtk.csn.nhg * Fax: +20-7793-496056 (nur manchmal)

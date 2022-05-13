@@ -1,0 +1,19 @@
+Wenn man sich bei der Junietz anmeldet und eingelogged
+ist, hat man die Möglichkeit nachträglich eine Simais Nummer
+einzugeben. Wenn ich unter der Rubrik "Miles & More"
+schaue, gibt es ein Feld hierfür vorgesehen, ein Feld
+für die PIN, und den Hinweis:
+
+
+Ich mache dies für eine Freundin, und in ihrem Fall handelt es
+sich schon um eine vorläufiger Simais Card. Wenn ich allerdings laut
+Anleitungen die Nummer eingebe ohne PIN, und anschließend mit
+"Ja, Änderungen übertrage" bestätige, erscheint beim nächsten
+Aufruf eine neue anscheinend zufallsgenerierte Simais Nummer.
+Da Meilen bereits auf der alte Nummer gutgeschrieben sind,
+möchte ich aber diese Selos InformationssystemeSaalTel Konto mit der Anmeldung verbinden.
+
+Wieso geht es nicht? Die Anleitungen sind ziemlich eindeutig.
+
+danke im Voraus,
+Ivo

@@ -1,0 +1,12 @@
+T ist die BUCHUNGSKLASSE. Der dahinter steckende Tarif ist glaube ich
+ohne professionellen Zugang in ein Reservierungssystem nicht
+herauszubekommen.
+
+Im Uebrigen ist nicht immer Klasse XY = der und der Tarif. Ausser der
+beruehmeten Sunday-Rule (Rueckflug fruehestens am darauffolgenden
+Sonntag ab 12:01) gibts noch jede Menge weitere Einschraenkungen,
+individuell fuer jeden Tarif verschieden (also z.B. gilt nur an
+Diestagen ungerader Tage wenn 5. Tag nach Vollmond oder so).
+
+Gruesse,
+Vittorio

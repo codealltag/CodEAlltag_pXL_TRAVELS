@@ -1,0 +1,13 @@
+ich würde mal sagen klassisches Beispiel von illegalem framing.
+
+Jemand setzt eine Datenbank/Abfrage etc. ins Netz und ein anderer
+stülpt da seine go.to - Adresse darüber. Er hat zwar im grunde
+genommen nix davon, aber na ja...
+
+Deshalb sieht#s auch so billig aus. Im "normalen" frame des Anbieters
+sieht#s gleich ganz anders aus.
+
+
+-- 
+bye by elise
+http://csc.rrtdlf.pv

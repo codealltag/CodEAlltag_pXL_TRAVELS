@@ -1,0 +1,21 @@
+Schon klar, aber die Updates, also neue Preise von Unterkünften oder 
+andere Abfahrtzeiten von Bussen, könnten ja über eine Website inkl. 
+Datenbank ablaufen. Diese Daten werden dann für das nächste Buch 
+verwendet.
+
+
+Ja, DAS kommt meiner Idee schon sehr nahe.
+Weshalb ich gepostet habe: Meine Überlegung war, so was auf deutsch zu 
+machen. Deshalb fragte ich, ob es sowas schon gibt.
+Ich würde es ev. etwas standartisierter machen, so dass nicht so viel 
+frei formuliert werden muß und schneller einzugeben ist.
+Ich komme gerade aus Laos und Thailand und die Internetcaf�s sind 
+voll. Sicher gibt es den einen und die andere, die Lust hätten, ihre 
+tolle Unterkunft schnell einzuhacken. Ein Jahr später hätte man 
+eventuell schon einen relativ umfangreichen Datenbestand.
+Mit dem könnte man dolle Sachen machen, was, verrate ich hier noch 
+nicht ;-)
+
+Frage ist, ob überhaupt Intersesse an sowas besteht.
+
+Thierry

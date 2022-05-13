@@ -1,0 +1,21 @@
+Emanuel,
+
+
+Economy ist die Sitzklasse.
+Buchungsklassen sind die, die z.B. B,C,Q,N,V,X oder ähnliches heißen,-
+sie stehen für die verschiedensten Tarife und Tarifbestimungen,- und 
+damit die Kontingente und Preise.
+So kann man auch nur die Preise der selben Buchungsklasse vergleichen 
+(und das auch nur bei jeweils der selben Airline, mit Glück des selben 
+Airlinezusammenschlusses.
+
+Denn natürlich liegen preislich Welten zwischen einem Vollzahlerticket 
+ohne Restriktionen, eines Mannes, der ne Viertelstunde vorm Abflug zum 
+Flughafen kommt, sein Ticket kauft, weil daheim seine Frau unter der 
+Gurkenmaske liegt und er schnell seine Geliebte besuchen möchte und 
+einem Consolidatorticket,- das monatelang so vorhergebucht und so 
+geflogen werden muß, wie es auf dem Ticket steht, widrigenfalls 
+verfällt. Auch wenn die Besitzer der beiden Tickes im Flieger nachher 
+beieinander in der Holzklasse sitzen.
+
+Karl

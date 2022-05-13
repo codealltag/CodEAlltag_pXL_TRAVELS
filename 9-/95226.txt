@@ -1,0 +1,20 @@
+snip
+
+Hallo
+ Mensch Berthold, Du bist doch kein Neuling mehr und solltest die Spielregeln
+besser kennen. (obwohl das TOFU Posting anderes befürchten lässt). Du
+weit doch sicher eine Menge zu verschieden Themen und kannst bestimmt
+oft Tips geben. Mache das doch einfach und beteilige Dich an
+Diskussionen. Für Deine Homepage oder für was auch immer kannst Du dann
+in der Signatur werben. Das ist völlig in Ordnung solange es nichts
+ungesetzliches ist. Mit einem Texteditor bastelst Du Dir eine Signatur
+zusammen: Maximal 4 Zeilen und am besten nicht mehr als 60 Zeichen
+(maximal 72) pro Zeile. 
+  Signaturen müssen, das ist Pflicht, vom Posting mit einem Trenn-String
+getrennt sein: (-- ) also 2 Minuszeichen, ein Leerzeichen, dann ein
+Zeilenumbruch (return). Dann folgt die erwähnte Signatur.
+Diese Trennzeichen machen die Newsreader in der Regel automatisch.
+
+Also, versuchs einfach mal auf die Art, Postings die ausschließlich der
+Werbung dienen, machen immer Ärger.
+ Gruß Arne

@@ -1,0 +1,50 @@
+Wie organisiert Ihr eigentlich eure Netzteilsammlung die ?moderne?
+Technonomaden so auf der Reise mitzuschleppen haben?
+
+Beim gedanklichen durchzaehlen komme ich ohne Notebook fuer uns beide
+hier
+auf PDAs, Handys, AA-Akkuladegeraet, X-Drive, elektron. Woerterbuch
+(Sprachausgabe etc.) und LiIo-Akku Lader auf schlappe 8 Netzteile. :-(
+Von Blitz und aehnlichem Kleinkram sei ersteinmal keine Rede.
+
+Da ich dazu nicht wirklich Lust habe, benutze ich ein besseres
+Universalschaltnetzteil von TCHIBO, aehnlich denen von Penderak oder
+aus dem
+Fingerspitzengefühl Shop mit 110-240V 50/60Hz Eingang und 3;4,5;5;6;9;12V Ausgang
+bei
+max 1A bei 12V Ausgangsleistung.
+Mittels Steckadapter laesst sich das zwar noch etwas klobig (da es
+keine
+kleinen passenden Steckadapter direkt dafuer gibt), aber trotzdem fast
+ueberall einsetzen. Einige universelle Stecker hin zu den Verbrauchern
+liegen bei und passen genau bis etwas wackeling, andere stammen von
+alternativen Anschluessen wie einem USB Ladekabel fuers Handy.
+
+In der Summe schon recht brauchbar fuer alles bis auf den
+LiIo-Akkulader,
+weil der ein eigenes Netzteil in der Ladeschale selbst hat, weshalb es
+da
+wohl kaum eine Moeglichkeit gibt (BC-600) und dem Digispeed4
+Ladegeraet von
+Penderak, welches bei 12V 1,8A haben will. Das beim Digispeed
+beiliegende
+Netzteil ist zwar schon schoen klein, kommt aber nur mit 220-240V klar
+und
+liefert 15V bei 1200mA. Laut Aufdruck auf dem Ladegeraet: Input:
+12-18VDC
+(min. 18W), was wohl 1,5A bei 12V oder 1,2A bei 15V entspricht.
+Letzteres
+entspricht dem mitgelieferten Netzteil. Das Digispeed4 ist uebrigends
+subjektiv ein hervoragendes Schnelladegeraet.
+
+Gesucht wird:
+- Bezugsquelle fuer ein vernueftiges universelles Steckernetzteil mit
+110-240V Eingang und min. 4,5;5;7;12 bei 12V/1,5A Ausgang bzw.
+alternativ ...,12,15V bei 15V/1,2A
+- neue Ideen ;-)
+
+-- 
+MfG
+Klaas'
+un-mzyg CL ejdl DOT de (obige Adresse geht direkt in den Muelleimer)
+--nsnjfttzex.bd.tw--

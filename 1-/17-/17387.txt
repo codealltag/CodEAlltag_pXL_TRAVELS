@@ -1,0 +1,11 @@
+xmffbq.njizkfokzdb.pcv bietet eine Umkreissuche über bis zu 300 Meilen
+um den eingegebenen  Start- und Zielflughafen. 
+
+Allerdings nicht im month-long search, so dass man dieses Feature
+jeweils nur über einen Zeitraum von 48 Stunden nutzen kann.
+
+
+-- 
+
+Gruß
+Nino

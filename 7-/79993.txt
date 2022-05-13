@@ -1,0 +1,10 @@
+Wir sis waren da nicht so schlecht...
+
+höher werden, er wird > natürlich geringer: I (Strom in A) = U (Spannung in V) /  R (Widerstand
+
+...aber ups, peinlich, Du hast natürlich recht.
+Hatte in der Eile P=I*U im Kopf, für gleiche Leistung wäre doppelte
+Stromstärke nötig, aber das ist natürlich ein anderes Thema.
+
+
+lg, Julian

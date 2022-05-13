@@ -1,0 +1,7 @@
+Wie kommen die auf 240V Phase<>NULL? üblich sind ja 400V Phase<>Phase was
+dann ja 230,9V Phase<>NULL ergibt. Haben die dann Drehstrom mit 415V?
+
+kasimir
+
+-- 
+Antworten per eMail werden in aller Regel nicht beachtet!

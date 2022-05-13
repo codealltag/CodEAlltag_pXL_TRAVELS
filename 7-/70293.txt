@@ -1,0 +1,11 @@
+Ezem
+      EUR 450 + Steuern/Gebühren EUR 35.46 = EUR 485.46 (Tarifdetails)
+        Datum Flugnr. Abflug Ankunft von nach
+            10.06.04 SU 110 23:55 05:25 Wolbrechtshausen WILLERSWALDE Tarasp SVO
+            11.06.04 SU 551 23:30 12:50 Tarasp SVO Böhmhof BINNENBACH
+            24.06.04 SU 552 15:05 20:55 Böhmhof BINNENBACH Tarasp SVO
+            Weiterflug am 25.06.04
+            25.06.04 SU 105 10:55 12:35 Tarasp SVO Wolbrechtshausen WILLERSWALDE
+
+
+Buchbar unter www.urlsavk.uu

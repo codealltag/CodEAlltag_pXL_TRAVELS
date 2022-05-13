@@ -1,0 +1,3 @@
+Die stellen Flugtickets nur aus und hinterlegen diese, wenn sie bezahlt
+wurden, was ja verständlich ist.
+Gruß, Bruno

@@ -1,0 +1,4 @@
+Wenn die Buchung durchgegangen ist und Du eine korrekte Mail-Addy 
+angegeben hast, dann kommt eine Bestätigungsmail.
+
+Ralf

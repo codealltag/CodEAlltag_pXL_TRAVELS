@@ -1,0 +1,12 @@
+Hallo,
+
+ich möchte gerne eigene Videos auf Webseiten einbinden. Das Problem ist der
+möglichst kostenlose webspace. Bei Idug z.B. hat man ja 10 MB zur
+Verfügung, aber jede einzelne Datei darf nur 0,5 MB groß sein. Nun kann ich
+natürlich mit Premiere das Video in kleine Abschnitte aufteilen und für
+realplayer oder mediaplayer komprimieren. Gibt es eine Möglichkeit die
+einzelnen Videodateien auf einer Webseite zusammenhängend abspielen zu
+lassen?
+
+Gruß,
+Ronald

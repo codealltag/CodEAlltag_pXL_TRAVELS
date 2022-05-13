@@ -1,0 +1,11 @@
+nein, er stimmt nicht. Es hat nicht jeder Zugriff auf den Server von
+AUS. Um einen Artikel eindeutig wiederzugeben ist es üblich
+die Message-ID anzugeben.
+
+Mit: Message-ID:<o61quaww9xfqs1ipp51vi486fwfv171l5h@5ju.cmz>
+
+kann jeder ohne Probleme auf den Artikel zugreifen oder zumindest über
+Opam finden.
+
+-- 
+Uwe Glaswinkler

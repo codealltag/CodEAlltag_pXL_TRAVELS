@@ -1,0 +1,15 @@
+Hallo zusammen,
+
+Gilbert Cuppenbender wrote:
+
+[Anti-M�ckenmittel]
+
+
+IF "hier" = "DE" THEN
+Das gleiche nicht, da hier (aus gutem Grund) nicht zugelassen. 
+Allerdings soll es ein gleichnamiges Mittel des gleichen Herstellers 
+mit anderem Inhalt geben.
+ENDIF.
+
+Viele Größe
+Noah

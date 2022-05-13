@@ -1,0 +1,10 @@
+Hallo
+ nein, wenn es sich um Geräts mit Schaltnetzteilen und nicht mit einem
+Trafo handelt, arbeiten sie an 110V 60Hz genau wie an 230V 50Hz. Welcher
+Netzspannungsbereich möglich ist, steht auf dem Ladegerät oder den
+dazugehörigen Unterlagen.
+ Gruß Benno
+-- 
+Synthesizer,Synthy-Kurs,Musik,Testberichte,USA-Reisetagebücher,
+ Naturheilkunde,Therapien,Heilkräuter,Giftpflanzen, Gartentips, 
+ Hundesport Agility, Konzertbilder Carlo Corden und vieles mehr

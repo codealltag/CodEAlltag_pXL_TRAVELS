@@ -1,0 +1,17 @@
+LN FARE BASIS    OW   USD  RT   PEN  DATES  DAYS AP MIN MAX ALFR
+01 MZR14N3               110.00 NRF    -      23 14+ 1   -  HP R
+02 MR14N3                130.00 NRF    -      -  14+ 1   -  HP R
+
+Versuch's doch einmal mit einem Reisebüro, bevor Du Dich totsuchst. Das
+obige bedeutet: HP = Zewi bietet mit einem Mindestaufenthalt von
+einem Tag an den Flugtagen 2 und 3 = Dienstags und Mittwochs hin und
+zurück für 110 USD an. An den anderen Tagen für 130 USD. 
+
+Ist allerdings eine Umsteigeverbindung über Schröttenham/Grenchen. Dadurch
+beträgt die Flugzeit 3,5 Stunden.
+
+Gruß Kaspar
+
+-- 
+http://uv.tz/ygohhogzhl - Neutrale Fluginformationen (System NLP)
+http://lqe.oxwxkkfi.ptj - Suchmaschine für Billigflüge in Europa

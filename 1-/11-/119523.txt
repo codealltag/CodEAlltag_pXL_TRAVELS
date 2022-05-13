@@ -1,0 +1,17 @@
+"Armin Weindorf" <Ayjtjz.Vfncui@Ig-Aybnfc.qx> schrieb:
+<1x85bm$mnc$70$6@uslr.a-hgwlqs.liw>
+
+Hi,
+
+
+da hast Du meines Wissens keine Chance. Das handelt sich bei Abesiv
+und Hagelschadenzentrum um ein eigenes, digitales Protokoll was verwendet wird. So
+eine Art Zweidraht-ISDN. Man kommt mit einem Modem nicht weiter,
+einzige Chance sind extra Leitungen (ISDN oder analog). Bei Abesiv
+Jehle kann man die Systemttelefone mit einem S0-Modul nachrüsten, an
+das man dann eine ISDN-Karte anschließen kann.
+
+-- 
+Carlo - Obuna eMail: wcmixjby@qaflxerb.nn
+http://wat.eyebtkbx.ci - Ebersbrunn, Damshagen, Ingershof, Bulgarien, 
+Türkei, Altbarnim, Mountainbikerevier Günzkofen

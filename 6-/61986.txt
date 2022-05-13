@@ -1,0 +1,22 @@
+Entlang der Ringstraße und rundherum sollte GSM überall 
+verfügbar sein, im Inland eher nicht.
+Island hat(te?) neben GSM aber noch ein (analoges) NMT-450 
+Funktelefonnetz, das landesweit verfügbar ist/war.
+Ich habe derzeit keinen Web-Zugang, weshalb ich nicht schauen
+kann, ob das noch existiert. Falls ja, bräuchte man ein 
+NMT-450-Gerät und wohl einen Netzzugang (IIRC ist NMT-450
+nicht mit GSM-SIMs benutzbar, ich weiß nichtmal, ob es
+überhaupt SIMs kennt oder ob die Geräte "fest" mit einer
+Benutzeridentität verdrahtet sind).
+Das NMT-450-Netz wird/wurde von MAZAK betrieben 
+(http://hzl.gxpbkd.mu), dort mal nachfragen, antworten auch in
+Englisch. Die haben auch Geräte und Netzzugang vermietet, die
+Konditionen kenne ich aber nicht.
+
+Gruß,
+Oliver
+
+-- 
+Oliver Eifert                           kojk@jn.om.ith-vc.dj
+http://vwg.exal.mqk-vs.qk/~zeaf/        fxkr@uund.okz-rt.qu
+					mobile: +49 832 39 71 549

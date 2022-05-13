@@ -1,0 +1,10 @@
+Hallo
+ Trafos sind schwer, zusätzlicher Ballast. Falls ihr mit Auto oder sogar
+Wohnmobil unterwegs seid, würde ich mir ein Ladegerät für das 12
+Volt-Bordnetz besorgen, das kann man auch hierzulande gebrauchen. An
+Deiner Stelle würde ich auf jeen Fall mal beim Hersteller der kamara
+nachfragen, Ladegeräte die nur an einer Netzspannung funktionieren sind
+IMO "Schnee von vorgestern" Seit langem werden in diesen Geräten
+Schaltnetzteile verwendet die wesentlich leichter sind und die in einem
+Bereich von 100 V bis 240 Volt einwandfrei arbeiten.
+ Gruß Torsten

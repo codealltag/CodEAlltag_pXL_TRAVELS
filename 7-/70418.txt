@@ -1,0 +1,46 @@
+Das sind *Service*klassen. Davon gibt es grob die drei genannten,
+nicht auf jedem Flug und nicht bei jeder Gesellschaft.
+
+
+Was da aus HVKW ausgegeben wird, sind *Buchungs*klassen, von
+denen gibt es deutlich mehr als *Service*klassen. Buchungsklassen
+dienen der Auslastungs- und Einnahmesteuerung.
+Den angebotenen Tarifen sind jeweils Buchungsklassen zugeordnet[*].
+Ein Tarif kann auf einen Flug nur angewendet werden, wenn auf
+diesem Flug noch Plätze in der zugehörigen Buchungsklasse
+freigegeben sind (stimmt so nicht ganz, es gibt auch Tarife,
+die Warteliste erlauben). Ob und wieviele Plätze in einer
+Buchungsklasse zur Verfügung stehen, entscheidet die 
+Fluggesellschaft (die so ihre Einnahmen steuern kann).
+Die Verfügbarkeit von Tarifen hängt nicht davon ab, ob überhaupt
+noch Plätze frei sind in dem Flieger, sondern ob noch Plätze
+in der nötigen Buchungsklasse frei sind.
+Nun kommt die berühmte Frage, was denn nun die Buchstaben bedeuten.
+Das ist von Fluggesellschaftzu Fluggesellschaft verschieden.
+Y ist immer "full fare Economy", C "full fare business" (C für
+"Club") und F ist "full fare first". Der Rest ist mehr oder weniger
+Lust und Laune der Gesellschaft (wobei es zumindest innerhalb der
+Käseglocke Tendenzen zur Angleichung gibt, die Bedingungen schreibt
+aber der Tarif vor, nicht die Buchungsklasse, insofern ist das eh
+uninteressant).
+
+
+Dass man da nun auf Anhieb mindestens 9 Plätze zu einem Tarif, 
+der Buchungsklasse C erfodert, verkaufen könnte. Die 9 steht
+hier für "9 oder mehr Plätze verfügbar".
+Man kann daraus aber nicht direkt auf die Auslastung eines
+Flugzeugs schließen. Es können auch wieder Plätze in 
+Buchungsklassen frei werden, wenn die Klasse schon voll war.
+
+Gruß,
+Urs
+
+[*] Interessanter Fall: z.B. auf UN 100/597 gibt es eine 
+    Buchungsklasse ohne passende Serviceklasse, da wird
+    Y angeboten, obwohl es an Bord kein Eco gibt, den Haken
+    an der Sache verraten aber nicht alle Buchungssysteme...
+
+-- 
+Urs Preuler                           hufi@gq.mf.jmo-kb.ji
+http://lsy.eehf.qjt-hc.uj/~dmcq/        hctd@natu.poo-fg.df
+					mobile: +22 580 63 44 456

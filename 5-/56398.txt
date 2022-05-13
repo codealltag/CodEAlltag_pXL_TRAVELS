@@ -1,0 +1,4 @@
+Suche ein Online-Reisebüro, das es ermöglicht, eine flexible Suche zu
+starten. Zum Beispiel sollte es bei der Verfügbarkeit 1-2 Tage vor und
+nach dem eingegebenen Termin miterfassen. Hat jemand einen guten Tip?
+Danke, Remo

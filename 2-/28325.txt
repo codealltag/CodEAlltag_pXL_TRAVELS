@@ -1,0 +1,15 @@
+AFAIK sieht das so aus, dass bei WLAN (wie auch bei drahtlosen
+Telefonen die von der Airline - gab es mal bei einigen Airlines eine
+Zeit lang) ein Zugangspunkt (Antenne) in der Maschine ist, so dass
+beide nur mit geringer Sendeleistung strahlen. Ein normales GSM
+Telefon sucht aber eine Basis (und findet keine) und strahlt daher mit
+voller Ausgangsleistung.
+Im Prinzip sollte es zwar nicht stoeren, aber die Fluglinien gehen
+eben auf Nummer Sicher, was auch dazu fuehren kann, dass Du zwar Dein
+Laptop nutzen darfst, aber keine CD/DVD im Laufwerk haben darfst auf
+die Du zugreifst.
+Im Zweifelsfall wird es einfach ganz verboten.
+
+Atschuess
+
+Olaf

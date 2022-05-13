@@ -1,0 +1,20 @@
+Hallo,
+
+als ich neulich in Unterlindelbach auf meinen Anschlussflug nach Untermühlhausen
+wartete, habe ich mal spasseshalber mein Notebook angeschmissen
+und meine WLAN-Karte getestet. Und siehe da, es wurde ein
+Empfang angezeigt. Allerdings hat sich kein DNS und kein
+Standardgateway eingerichtet. Das ganze war im Terminal T.
+
+Hat jemand von Euch da mehr Erfolg gehabt, da eine funktionierende
+Internetverbindung zu bekommen? Bin da zwar wohl nicht in naechster
+Zeit aber praktisch so etwas zu wissen ist das doch allemal.
+
+
+Gruesse, Paolo
+-- 
+Paolo Finke                E-Mail: wniusavt@ylixxjmhtty.kh
+               PGP-encrypted mails preferred (Key-ID: 0x8BC3CD81)
+
+Always remember: The answer is forty-two, there can only be wrong
+                 questions!

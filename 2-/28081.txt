@@ -1,0 +1,24 @@
+Di dalam de.rec.reisen.misc acid menulis sebagai berikut:
+                            ^^^^ ätzender Name...
+
+
+[Wie hoch sind die Stornokosten]
+
+Na das ist doch recht einfach zu Lösen nach deinem Beispiel:
+EUR  1 (100% von 1 EUR Stornokosten)
+EUR 28 (Bearbeitungsgebühr für den Taxrefund)
+---------------------------------------------
+EUR  0 (Gesamterstattung)
+
+Natürlich besteht ein Anspruch auf Erstattung dessen was unter "Steuern 
+und Gebühren" fällt (dazu Zählen auch Kerosinzuschl�ge, allerdings nicht 
+die Buchungsgebühr), aber es steht nirgendwo, dass man das kostenlos 
+machen muss.
+Tax Refunds sind lästig und machen Arbeit, da ist eine Gebühr (oft 
+liesst man EUR 50) durchaus gerechtfertigt.
+
+Man darf halt nicht billigfliegen, dann sind auch die Stornobedingungen 
+besser.
+
+Lg,
+Oskar

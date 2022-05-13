@@ -1,0 +1,32 @@
+Durchlesen wohl kaum. Aber wenn ich länger in einer Unterkunft wohnte, wo
+eine solche Tabelle aushinge, würde ich mir die Preise für die zwei oder 
+drei Destinationen, die ich öfter anrufe, mal ansehen und in die Kategorien
+"bezahlbar", "grenzwertig" und "sauteuer, lieber das eigene Handy nehmen"
+einsortieren. Das kann man sich dann halbwegs merken.
+
+Ich habe mich vor ein paar Jahren in den USA ziemlich über die Telefon-
+tarife einer dortigen Unterkunft geärgert (inländisch: bezahlbar, nach D:
+doppelt so teuer wie mit Handy-Roaming, nur ersteres hing gut sichtbar
+aus). Seitdem würde ich sicher auf sowas achten ...
+
+
+Nicht viele?
+
+
+Den Zimmerpreis kennt man eh schon, wenn man im Zimmer ist - man hat ja
+irgendwann gebucht. Oder man braucht ihn nicht zu wissen, weil eh jemand 
+anders zahlt. Nach dem Rest würde ich aber vermutlich schauen.
+
+
+Einen Aushang an der Rezeption kann man sicher alle paar Tage ändern, ohne
+daß das zu viel Aufwand macht. Er sollte halt irgendwie automatisch erstellt 
+werden können, denn das ist die eigentliche Arbeit.
+
+
+Das wäre eigentlich mal ein netter Service von Anbietern wie fbcfjeuc.zu:
+eine Gebührentabelle als PDF zum runterladen, vom Hotelier mit dessen 
+Anbieter und individuellem Einheitenpreis konfigurierbar. Am besten über 
+Parameter in der URL, dann braucht man das nur noch als Bookmark abzu-
+speichern und jede Woche auszudrucken ...
+
+... Sebastian

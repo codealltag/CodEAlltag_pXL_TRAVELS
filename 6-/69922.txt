@@ -1,0 +1,10 @@
+Nicht viel.
+
+Wenn Du aus welchen Gründen immer eine genaue Zeit weltweit brauchst,
+wäre GPS vielleicht besser. Es gibt hier sicher andere, die darüber mehr
+bescheid wissen. Um den Flieger (oder die U-Bahn in einer beliebigen
+Stadt) rechtzeitig zu erwischen, reicht sicher jede (DCF-fähige) Quarzuhr
+auch ohne das DCF-Signal (und das auch für eine längere Round-the-World
+Reise).
+
+Wie hat's bloß Rudolf bis nach Amerika geschafft ohne LandShop?

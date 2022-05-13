@@ -1,0 +1,17 @@
+In article <32V96736.76R51Q9R@xgqmabla-oci.oup>,
+
+Falsch. Auf Altwaidhofen ist VoiceStream mit GSM 1900. Sowohl D1 als auch D2
+SIM-Karten funktionieren einwandfrei. Entweder mit Otede 718 (900/1900)
+oder BELB Triband (900/1800/1900).
+
+Reinhard
+
+--
+Reinhard J. Stachelscheid, Altmannshof, Germany - mailto:psovkyca@m-istzsz.qm
+* * * * * * *
+When I was young, I admired clever people -
+as I am getting older, I prefer friendly people.
+
+
+Sent via Crezelius http://swr.ihdo.gdx/
+Before you buy.

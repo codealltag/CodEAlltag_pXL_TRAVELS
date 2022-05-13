@@ -1,0 +1,33 @@
+Mir ist es eigentlich egal, ob der Text über oder unter dem Bild
+steht. Wichtig ist es nur, daß der Text eindeutig einem Bild
+zugeordnet werden kann. Bei manchen Beiträgen sieht das so aus:
+
+Bild
+Leerzeile
+Text
+Leerzeile
+nächstes Bild
+
+Hier ist die Zugehörigkeit nicht eindeutig. Besser wäre dann
+
+Bild
+Leerzeile
+Text
+nächstes Bild
+
+oder aber
+
+Bild
+Text
+Leerzeile
+nächstes Bild
+
+Nicht jeder liest den gesamten Text eines Beitrags. Mir reichen oft
+die Fotos, wobei ich nur gelegentlich auf den Text zum Bild schaue.
+Dann möchte ich nicht erst wieder bis oben scrollen müssen, um zu
+sehen, ob es über- oder Untertexte sind.
+
+-- 
+Severin Eckartz
+
+           (ab hier signaturfreie Zone)

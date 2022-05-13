@@ -1,0 +1,9 @@
+Nein, Outlook kann nur auf Exchange-Newsserver zugreifen. Sobald du
+mit Outlook über nntp auf einen "richtigen" Newsserver zugreift
+startet Outlook dann Outlook Express. MS Schwachsinn.
+
+Das bedeutet natürlich auch, dass du die Konfiguratin in OE vornehmen
+musst.
+
+-- 
+Claudio Jädike

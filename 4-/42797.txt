@@ -1,0 +1,71 @@
+Hi,
+
+Nein, die haben ja nichtmal ein stabiles Stromnetz, Internet kennt man
+dort eigentlich kaum...
+
+Aber ernsthaft: Ja klar kann man. Ich war in den letzten 10 Jahren recht
+oft in den USA und dabei eigentlich immer ueberall irgendwie online -
+letztes mal sogar im Flugzeug :) Oh, und vor 5 Jahren auch schonmal,
+allerdings da noch ueber das Bordtelefon fuer einige $/Min mit 2400bps :)
+
+Wie Du in's Netz kommst haengt natuerlich ganz klar davon ab wo Du bist.
+Da Deine Frage mit "Netzabdeckung" jetzt erstmal nach GSM klingt:
+GSM ist in den USA laengst nicht ueberall verbreitet, eher kann man sagen
+es gruppiert sich in kleinen Inseln um einige Ballungszentren, einige Gegenden
+(z.B. um H. herum) haben durchaus auch eine flaechigere Abdeckung aber 
+"auf dem Land" gibt es riesige Flaechen ganz ohne GSM. Da musst Du also 
+konkret fuer die Gegenden in denen Du bist schauen ob und wenn ja von wem
+es da GSM gibt. Wenn es GSM gibt hast Du zwei Moeglichkeiten, Dich per CSD
+irgendwo einwaehlen (habe ich so um 2000 rum viel gemacht, da gabs kein
+GPRS dort) oder eben GPRS. Ersteres ist sauteuer, letzteres geht eigentlich
+wenn man keine grossen Volumen braucht. Was Du brauchst ist natuerlich ein
+GSM 1900-faehiges Telefon mit dem Dein Notebook ueber Kabel/IR/Bluetooth
+kommunizieren kann und das CSD-Daten oder GPRS supportet (bei neueren sicher
+kein Problem).
+
+Also UMTS wohl nicht. Ob die GPRS in GSM 1900 kann weiss ich jetzt nicht
+auswendig obwohl ich eine habe, habe zuletzt meinen Knüller 9500 verwendet,
+davor einen 9000 GSM 1900 :) Ich denke alle aktuellen BT-faehigen Triband-
+Telefone sollten es da fuer Dich tun...
+
+Aaaber: je nachdem was Du willst halte ich GSM fuer eher unbrauchbar
+weil entweder zu teuer und/oder da wo Du bist nicht vorhanden :) Ich habe
+GPRS jetzt nur in INNERHAFLING herumlaufend benutzt um den ganzen Tag im IRC zu
+sein und z.B. mit Mitarbeitern in Abrain mal schnell kommunizieren
+zu koennen und neue Mails direkt zu sehen. Im Hotel am Notebook zum
+auch mal was im Web recherchieren und so habe ich bisher immer
+Telefon+Modem und seit 2000 wo verfuegbar WLAN benutzt, letzteres sollte
+in einigermassen urbanen Gegenden auzutreiben sein, wenn nicht als
+Hotspot dann evtl. ein versehentlich offenes (aber nicht erwischen lassen,
+in INNERHAFLING gab es davon jedoch wirklich unzaehlige) :>
+
+Wenn irgendwo wirklich kein WLAN verfuegbar ist (aber das gibt es teilweise
+wirklich auch an Rastplaetzen irgendwo im nichts, aeh, Obertraubing) ist die
+klassische Alternative, die schon vor 10 Jahren ueberall geklappt hat eben
+Modem und Telefon. Prinzipiell zwei Moeglichkeiten, Provider in den USA
+anrufen (da musste halt vorher recerchieren, Dir evtl. auch nen account
+einrichten) oder wenn man eh hat einen deutschen anrufen. Letzteres ist mit
+einer 0800 Call-Through-Karte (ergibt dann halt nen bischen gefummel beim
+Wahlstring, 0800irgendwas,,,,pin,,,,zielnummer oder sowas) fuer wenige
+ct/minute zu haben, lokale Einwahl mit bis zu 56KBit natuerlich evtl.
+flotter. Was den Anschluss angeht: quasi alle Telefone in Hotelzimmern
+haben inzwischen einen "Data Port", also eine Westernbuchse zum Anschluss
+des Telefonkabels, klassischer 6p4c Modularstecker mit dem Signal auf 
+den innersten beiden Pins - und wenn nicht kann man das Telefon zumindestens
+am Telefon oder der Wand meistens abstecken, ein Hotelzimmer mit dem
+Schraubenzieher des Taschenmessers zerlegen musste ich dafuer zuletzt
+1996 IIRC :) An Telefonzellen gibt's auch oefters mal nen Data-Port.
+
+Wenn es unbedingt mobil sein muss und es kein GSM und kein WLAN gibt,
+dann bleibt Dir noch
+- mit Modem ueber ein analoges Funktelefon (die haben eine vieeeeel bessere
+Abdeckung als GSM). Gibt es vereinzelt als Festeinbau im Auto (nach
+Fax-Port fragen :), manche Modems (das gute ale tegut z.B.)
+haben dafuer sogar extra Cellular-Modes um bessere Verbindungen zu
+bekommen :)
+- Mit nkd-Datendienst bekommste bis zu 64kbit/sec, brauchst aber
+teure Hardware und auch ansonsten nen gut gefuellten Geldbeutel
+- Gibt's da auch was von Iridium?
+Von diesen Methoden habe ich bisher aber nur die erste ausprobiert :)
+
+(:wl8yi, l@d

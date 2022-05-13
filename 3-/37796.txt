@@ -1,0 +1,24 @@
+Hallo Karsten,
+
+ich hatte einen Transformator 110V -> 220V dabei, 
+das hat meist funktioniert. Bedenke auch, dass die 
+Frequenz 60Hz statt bei uns 50Hz betraegt!
+Allerdings gab es auf Grund der haeufigen Gewitter 
+nur manchmal Strom.
+
+Manche Geraete lassen sich umstellen auf 
+110V/60Hz, diese musst Du dann entsprechend 
+einstellen und VOR der ersten Benutzung zurueck in 
+Deutschland wieder zurueckstellen!!
+Manche haben ein Weitbereichsnetzteil drin mit 
+z.B. 90-270V/50-60Hz, das sollte dann mit einem 
+Adapter sofort funktionieren.
+
+Aber: doppelt so lange braucht das Laden in keinem 
+Fall. Die meisten Ladegeraete sind elektronisch 
+gesteuert und schon deshalb darauf angewiesen mit 
+einer der spezifizierten Spannungen versorgt zu 
+werden.
+
+Gruss
+Niklaus

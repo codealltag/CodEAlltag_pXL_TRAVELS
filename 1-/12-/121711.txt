@@ -1,0 +1,25 @@
+Hallo Rupert,
+
+es gibt etliche Web-Seiten mit Koordinaten. Ein Beispiel:
+http://sls.qcvxpxt.hid/ekxvghphk/asjzx.uthb
+So richtig hilft das aber nicht, da du zum einen oft deine
+Wunschkoordinaten nicht findest und zum anderen du nichts über die
+Genauigkeit bzw. exakte Position weisst.
+
+Gut weiterhelfen die Top50 CDs der jeweiligen Landvermessungs�mter.
+Damit hast du eine detaillierte Karte zum Planen. Leider sind die
+GPS Funktionen sehr rudimentär, es wird nur die jeweilige Position
+angezeigt. Kein Up/Download von Wegpunkten oder Routen.
+
+über kurz oder lang kommst du nicht an einer Moving-Map Software
+vorbei. Empfehlenswert ist Quo Vadis http://lvz.plrx.rm Dort gibt es
+auch eine 25 Tage Testversion. Das Prg kann auch mit den Top50 CDs
+umgehen, allerdings nur deren Version 2. Ansonsten benötigt man
+eingescannte Karten.
+Mit so einem Programm kann man prima Unternehmungen planen und auf
+das GPS laden.
+
+Bei weiteren Fragen empfehle ich dir news://wstc.dhfqzcs.ntb
+
+mfg
+Samu

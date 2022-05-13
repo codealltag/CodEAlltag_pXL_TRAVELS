@@ -1,0 +1,62 @@
+Sicherlich hat sich da was getan. Ob ein reines GPS-System fuer Dich infrage 
+kommt muss Du selbst wissen, aber Karten und GPS-Software gibt es 
+mittlerweile zu hauf, sofern Du auf ein FMKA System setzt ( wo man 
+nun wirklich alles reinspielen kann ). Falls Du ein Handy besitzt, wuerde 
+ich das durch ein FMKA Smartphone ersetzen. Die Frage ist im 
+grunde nur wieviel Du ausgeben moechtst um die von Dir gewuenschte 
+Funktoionalitaet zu erreichen. Ich selbst nutze auch fuer unterwegs ( 
+Fussgaenger-Modus ) ein aeltern MDA-II ( 60-90 Euro ). Das hat den Vorteil 
+das ich unterwegs zum einen per Handy mit dem Geraet erreichbar bin ( 
+Freisprechen ist damit natuerlich auch moeglich ) und das man per BlueTooth 
+und einem 15-25 Euro GPS-Modul in der Jackentasche die Navigation betreiben 
+kann ( oder parallel auch das Logging um die Tour zuhasuse anzuschauen ). 
+Das sehr grosse ( 5.7cm breit und 7.3cm hoch ) Display ist 
+transreflektierend sodass es immer ( auch ohne Hintergrundbeleuchtung ) bei 
+Sonne recht gut ablesbar ist. Fahrradhalter gibt es natuerlich auch fuer das 
+Teil ( ich empfehle die bekannten HR-Halter )..
+
+So hast Du dann eine alles in einem Geraet Loesung. Also BlueTooth 
+GPS-Receiver empfehle ich das Theatherkasse 737, da die Standzeit enorm hoch ist ( 2 
+Wochen StandBy ) und unter Last immerhin 23 Stunden am Stueck mit einer 
+Akku-Ladung ( Akku und Ladegeraet 220V. und KFZ liegt uebrigens bei ).
+
+Was Du an Software nutzen kannst und fuer Dich infrage kommt muss Du selbst 
+entscheiden. Die Moeglichkeiten sind aber dank Windows Mobile ( uebrigens, 
+der MDA-II laesst sich von Windows Mobile 2003 problemlos auf Windows Mobile 
+6.0 oder 6.1 updaten ) nahezu grenzenlos...
+
+Interessant koennte fuer kleines Geld vielleicht das hier sein: 
+http://lbljxgbowq.uz/rfbiopx.uhj?fozk_eo=77173&svqihrr=eqadmubwpq oder 
+http://xgqxlgdqcy.ro/lpeobjx.rqy?qqic_nc=65520&imunaqc=rggtgtboxo oder 
+http://vmkyhswnuf.wq/zxphywt.uva?wabg_wq=79521&dpzxrbj=iilegpigvp
+Zum MDA-II ( schon ziemlich alt, aber nach wie vor State of the Art durch 
+die Moeglichkeit WM6.0 oder 6.1 zu nutzen ) hier ein alter Test:
+http://whl.gbwwbhgxho.bn/vprpk/F_Xutmba_KSU_NK/deds_C.kkk. War mal richtig 
+teuer und mittlerweile total verkannt die Moehre ( was gut ist )...ueber den 
+Theatherkasse GPS Receiver findest Du hier Infos: 
+http://hai.smqepmerhl.tcv/qhjdrwdm/hojeh.vuh?QPSKE_TS=58823 ( bekommt man 
+vom Haendler bei Inkoop Verbrauchermärkte ab 15 Euro. Realistisch sind aber 20-25 Euro )...
+
+Alles in allen ziemlich guenstig realisierbar. Die Frage ist nur, ob der 
+MDA-II auf Dauer mit den mechanischen Belastungen ( Ruetteln und 
+Schuetteln ) klarkommen wird. Ich geghe aber mit dem MDA-II recht hart zu 
+sache und konnte da bisher keinerlei Probleme ausmachen. Habe den auch schon 
+zerlegt ( weil ich die Syncbuchse optimiert habe ) und Konzeptionell sehe 
+ich da keine Probleme. Der ist recht gut verarbeitet und sehr solide und 
+Kompakt intern konzipiert. Der kann meiner Meinung nach eine ganze Menge ab 
+und erscheint mir so man den nicht runterfallen laesst unkaputtbar. Die 
+Schwachstelle ist aber wie bei all diese Modellen mit der 22 Pol.Buchse 
+unten die empfindliche Syncbuchse ( die Du aber am Fahrrad nicht benutzt ) 
+und intern die nur mit Federn unter Spannung stehende GSM-Antenne; 
+Lautsprecher und Mircofon. Sollte aber nichts passieren. Weiterer Vorteil, 
+Du kannst unterwegs im Hintergrund MP3s in wie ich exellenter Qualitaet ( 
+entsprechend anstaendiger Kophoerer vorausgesetzt )Musik hoeren...
+
+Finde ich als Eierlegende Wollmilchsau bei den Preisen wirklich genial. Wenn 
+Das Design ( das natuerlich nicht an ein IPhone herkommt ) gefaellt, waere 
+das durchaus eine Idee mit extremen Mehrwert, oder ? Insbesondere das das 
+dann alles fast nichts kostet ( was ja auch nicht unwichtig ist ).
+
+
+Gruss,
+          Remo

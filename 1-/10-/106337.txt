@@ -1,0 +1,16 @@
+Es gibt für Währungen einen Dreibuchstabencode. Bei der Mark war es DEM
+(Deutschland Mark). Wobei die ersten beiden Buchstaben aus dem
+Ländercode und der dritte aus dem ersten Buchstaben des W�hrungsnamens
+bestehen. Konsequent müßte es für Europa und Euro eigentliche EUE
+heißen. Auf jedem Überweisungsformular findest Du aber schon EUR
+vorgedruckt.
+
+Ich drücke jetzt mal die Kombination AltGr+e: �
+
+Was kommt bei Euch? Das Eurozeichen? Ein Fragezeichen? Oder was? Bei mir
+auf dem Bildschirm ist auf jeden Fall ein Eurozeichen zu sehen.
+
+Gruß Urs
+
+-- 
+http://gg.oq/biafekdhka - Neutrale Fluginformationen (System Galileo)

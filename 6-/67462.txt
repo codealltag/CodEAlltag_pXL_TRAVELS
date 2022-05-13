@@ -1,0 +1,12 @@
+Hi lieb Leute,
+
+wer kann mir die 1 hinter CDG bitte erklären bei folgender Flugabfrage:
+
+ZRP5FVZ 6212 6676 @TN 174 J4 D4 Z4 Y4 M4 K4 H0 T0 V0 744 
+
+Andere Flügen fehlt diese 1 und sieht dann z.B. so aus:
+
+CDG LAX 16/1315 1550  AF  68 P7 F5 AC J9 C9 D9 I9 Z9 OC 744   
+    PPT 17/0015 0520  AF  70 P9 F9 A2 J9 C9 D9 IC Z9 OC 744  
+
+Vielen Danke Ulrich

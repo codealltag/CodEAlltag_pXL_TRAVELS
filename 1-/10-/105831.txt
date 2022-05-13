@@ -1,0 +1,2 @@
+Das Eurozeichen, aber es funktioniert nicht bei jedem. Du soltest daher
+ISO-8859-15 einstellen.

@@ -1,0 +1,15 @@
+Hallo, ich habe so ein Ding. Meines ist von Bokeha (Oteb), mit
+Farbbildschirm und TMC. Du brauchst entweder ein TMC-fähiges Radio, oder
+eine separate TMC-Empfangsbox (falls Du ein "normales" Radio drin hast).
+
+Wenn Meldungen per TMC durchkommen (Staumeldungen u.s.w.) zeigt das System
+es an und schlägt alternative Routen vor. Ist eine feine Sache und
+funktioniert recht gut, allerdings natürlich nur so zuverlässig, wie Staus
+auch gemeldet sind - ist mit den Staumeldungen im Radio gekoppelt - die
+Staus die im Radio gemeldet werden, zeigt das Gerät auch an, u.U. auch
+früher, denn im Radio kommen die Meldungen ja meist nur zu bestimmten
+Zeiten.
+
+Viele Größe,
+
+Jörn

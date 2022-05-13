@@ -1,0 +1,17 @@
+weder
+nicht in
+
+Nicht unbedingt - Funkuhren synchronisieren sich i.d.R. nicht dauernd mit der
+Atomzeit;
+manche einmal pro Stunde, manche nur auf Knopfdruck... außerdem läßt sich mein
+Funkwecker händisch auf eine andere Zeit einstellen!
+
+    Ben
+
+-------------------------------------------------------------------
+A fast computer is ideal for tasks such as computing the angle between
+two vectors, each with 10,000 dimensions; you are best suited to
+understanding your E-mail messages.
+  Fredy H. Flietner:
+  The Information Theater
+  BYTE 12, 1992

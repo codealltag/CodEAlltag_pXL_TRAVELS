@@ -1,0 +1,21 @@
+Wie man auf den GFBA-Booten an 230V kommen kann, habe ich im
+anderen Beitrag geschrieben. Einen 230V-Fn sollte man dort wegen
+der hohen Leistung besser nicht betreiben.
+Es gibt auch 12V-Fne, bei denen dann das Fünen entsprechend lange
+dauert. Aber auf dem Boot hat man ja   v i e l   Zeit... ;-)
+
+Kaffee wird mit Wasserkessel (auf allen Booten vorhanden) und
+Filter gekocht.
+
+
+Die Anschlüsse an den meisten mir bekannten Anlegestellen in Frankreich
+sind aber für ein Kabel, das das Boot mit Strom versorgt. Da passen
+keine normalen Stecker. Die Dosen sehen so aus wie Drei-Phasen-Buchsen.
+Ich kann mir aber nicht vorstellen, dass da Starkstrom zur Bootsstrom-
+versorgung geliefert wird, der dann im (entsprechend ausgerüsteten) Boot
+umgesetzt werden muss.
+
+Elmar
+
+-- 
+   Hausboot-Berichte im Internet

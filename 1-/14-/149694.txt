@@ -1,0 +1,12 @@
+Hallo Jonas,
+
+lern erst mal schreiben. _Vor_ einem Satzzeichen kommt niemals ein
+Leerzeichen, auch vor "!", "?" und ":" nicht, genauso wenig wie vor ","
+und ".". Und LKWs schreibt man im Deutschen so wie hier in diesem Satz.
+
+Nichts für ungut, aber mit der falschen Formatierung wird ein Text
+deutlich schlechter lesbar (unter anderem deshalb, weil hier dann
+manches Satzzeichen ganz verloren am Anfang einer Zeile steht)!
+
+Größe,
+Christof

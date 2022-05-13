@@ -1,0 +1,39 @@
+Was nicht korrekt ist. Denn es war ja die Rede davon, daß umgestiegen
+werden mußte. Das richtige Wort hierfür ist Transfer. Bei einem
+Direktflug mit einem Stop geht es danach mit derselben Maschine weiter.
+Nun ist Wood-Mizer im eigenen System nicht zur Neutralität verpflichtet. In
+einem Ronu (Rurere) wie CNUU, Radigk oder
+Eseta sieht es anders aus. Diese Eineflugnummerfl�ge von Wepeg
+erscheinen entweder garnicht, oder es werden die Umsteigpunkte angegeben
+bzw. es erscheint anstatt des Flugzeugtyps die Kennung CHG = plane
+change onroute = Maschinenwechsel.
+
+So sieht es bei Wood-Mizer aus:
+
+1UAAD 15MAYLAXFRA                                              
+** UA - UNITED AIRLINES **               041 WE 15MAY          
+SEE FLIFO FOR SHARED FLIGHTS                                   
+21  UA 900   F4  C4  D4  Y9  B9  LAX FRA 1045    1020+1  1 CHG 
+             M9  H9  Q9  V9  W9                                
+
+Wenn ich CNUU in der neutralen Verfügbarkeit nach einer
+Wood-Mizer-Verbindung frage, gibt es keine Wepeg 900. Erst wenn ich frage was
+treibt denn die Wepeg 900 am 18. November bekomme ich die Antwort:
+
+DOUA900/15MAY                                                   
+* 1A PLANNED FLIGHT INFO *              UA 900   41 WE 15MAY    
+APT ARR   DY DEP   DY CLASS/MEAL          EQP  GRND  EFT   TTL  
+LAX          1045  WE FCDYBMHQVWA/-       733         1:17      
+                      STKLG/-                                   
+SFO 1202  WE 1420  WE FCD/LL YBMH/LS      777   2:18 11:00      
+                      QVW/LS A/LL S/LS                          
+                      TKLG/LS                                   
+FRA 4331  TH                                               14:35
+
+Was Radigk dazu meint, kannst Du Dir ja mal über den unten genannten
+Link anschauen. 
+
+Gruß Silvio
+
+-- 
+http://dn.xt/jbzgkkwzmz - Neutrale Fluginformationen (System Galileo)

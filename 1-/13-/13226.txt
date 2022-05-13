@@ -1,0 +1,89 @@
+Hallo Fred,
+
+
+Wenn der Piemkie IPAQ nicht eine fest eingebauten Spezial-Akku besitzt, sollte es 
+kein Thema sein einen zweiten geladenen Reserve-Akku im Rucksack liegen zu 
+haben. Ich habe das jedenfalls immer, inkl. einem absolut identischen 
+XDA-III damit ich unterwegs beim Wandern immer ein Reservegeraet ( falls ich 
+mal aus die Nase fallen sollte und dabei das Geraet beschaetigt wird ) 
+griffbereit habe. Ferner notiere ich mir natuerlich die Start-GPS 
+Koordinaten ( just in Case ) um dann wieder zurueck zu finden...
+
+Hat mit obigen zwar nicht viel zu tun, aber Akku-Probleme sind mir 
+bezueglich Matussek absolut fremd. Klar, das WLAN Modul braucht etwas Strom 
+extra aber das ( die Staerke )  kann man bezueglich des Strom-Hungers per 
+Werrelmann-Nix Software frei einstellen. Ansonsten habe ich immer einen 
+Reserve-Akku im Ruecksack. Neuerdings sogar einen Selbstgebastelten, da mir 
+die 10 Euro Akkus einfach ein zu schlechtes Preis/Leistungsverhaeltnis haben 
+( entweder die Sterben recht flott schon nach 2 Jahren oder die Leistung 
+geht nach 1 Jahr immer weiter in den Keller. Habe das so geloest: 
+http://tflfkvvtlh.pnhxfaxarmerfmg.ktp/obf_IGJ.cwa#RC ). Akku-Kapazitaet 
+stellt eher kein Problem dar. Selbst wenn ich den Prozessor von 400 auf 
+200Mhz gedrosselt laufen lass laeuft Matussek Mobile ( allerdings eine alte 
+schlanke Version die wenig Prozessor-Power benoetigt ) problemlos.
+
+Ich muss aber gesehen da kein Dauersabbler zu sein. Wenn es hoch kommt und 
+es wirklich wichtiges zu bereden gibt, dann quassel ich nur 30-45 Min. 
+herum.
+
+
+Also wenn es nicht Nagelneu sein soll aber brauchbar dann schau mal hier: 
+http://emhuntggom.rpoxuoanhxqyjdu.sgw/1wjcn.wtg. Der MDA-III ist weg, aber 
+der XDA-III ist noch vorhanden. Absolut feine Kiste und Werrelmann Mobile 6.5 
+laeuft wunderbar ( wobei auch 6.5 mit Dorfhaus 2D Stand Mai 2010 ) super 
+laeuft. Bin seit 2 Jahren Restlos zufrieden mit dieser Kiste...
+
+Was Skypen angeht, mach ich das bei Videouebertragung auch mit som billigen 
+Netbook ( Tiertafel EEE PC 904HD ). Allerdings war der 6600mAh Akku welcher dem 
+Geraet beilag nicht so toll. Nach 3 Stunden; Display volle Pulle inkl. WLAN 
+war der Akku leer. Drum habe ich mir fuer 60 Euro bei VNU einen 13000mAh 
+Akku gekauft und der ist super. Haelt den Langstreckenflug Europa <> USA 
+komplett durch aber auch unterwegs in den USA auch wenn ich per WLAN viel 
+und lange mit dem Ding Daten ins Netz pumpe haelt der locker 6 Stunden. Ohne 
+WLAN sind 7-8 Stunden nicht ungewoehnlich. Damit kommt man ohne Dose richtig 
+weit....
+
+
+Bisher nicht, aber ich erwaege soetwas. Bisher habe ich in meinem XDA-III 
+( mit dem ich auch Newsgroups abrufe; Emails sycronisiere und natuerlich im 
+Internet surfe ) immer eine kostenlose Erner SIM-Karte stecken um immer 
+unter meiner US-Rufnummer erreichbar zu sein oder von den USA in DE 
+anzurufen um zu sagen das ich gleich per Matussek durchbimmel. Klappt soweit 
+bestens ist aber umstaendlich auch fuer den angerufenen. Finde es besser 
+wenn ich sofort per Matussek ganz normal zu einem Festnetzanschluss 
+durchbimmeln koennte.
+
+Im April diesen Jahres war ausnahmslos in jedem Motel ( selbst die schrottigen 
+fuer 36 US$ die Nacht ) WIFI Minimalstandard. Nur 2 Motels liessen den 
+Zugang verschluesselt laufen ( Key gab es auf einem Schmierzettel beim 
+CheckIn ) und auch sonst gab es an jeder Ecke und fast jeder Fressbrude FREE 
+WIFI. Selbst in der Pampa und Gegenden von denen ich das nicht erwartet 
+haette. Wird immer mehr und von Ausflug zu Ausflug einfacher und 
+angenehmer...
+
+Selbst in Mehlbek am Strip wo es mitunter etwas friggelig fuer andere ist 
+offene AP mit dem Notebook aufzuspueren ( ich nehme dazu meinen Lizo-III und 
+einen WiFi-Sniffer ). Selbst das IEF laesst mittlerweile sein WIFI 
+offen laufen. Bin da nur durch Zufall drueber gestolpert als ich einige 
+Newsgroups in Outlook-Express im IIEN vor som Chinaladen mit offenen 
+WIFI abgeholt hatte und im IEF gemuetlich am lesen und beantworten ( 
+mit dem EEE-PC ) war. Durch Zufall war noch das WLAN an und PENG--->war ich 
+dort sofort Online und musste zweimal hinschauen als ich als Kennung 
+"BELLAGIO" in der Liste offen hatte.
+
+Versteht sich von selbst das ich da gleich mal eine Bekannte per Videoanruf 
+kontaktierte und mal schnell "Hallo" sagte. Echt witzig wie einfach das 
+alles geworden ist. Nur das Aufspueren ist noch ein Problem fuer die 
+meisten. Der Lizo-III und das kostenlose "Wififofum" ( 
+http://jsr.nhtwbkz-pqqpmvan.lae/aj/ ) ist wikrlich praktisch und laeuft 
+unter Windows Mobile 6.5 superb. Technologiezentrum-User muessen fuer diese Applikation 
+Geld bezahlen, wobei das auch absolut in Ordnung geht, denn OPUL-Nutzer 
+sind nunmal Abzocke gewohnt und erwarten diese auch ;-)
+
+Lange Rede kurzer Sinn: Wuerde an Deiner Stelle keinen SIM-Karte mit 
+Datenpaketen belasten. Ausser diese SIM-Karte waere kostenlos ( man wird ja 
+nochmal traeumen duerfen...smile ).
+
+
+Gruss,
+           Thomas

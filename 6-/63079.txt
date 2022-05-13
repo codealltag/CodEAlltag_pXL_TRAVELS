@@ -1,0 +1,26 @@
+Ja, z.B. nach Anmeldung im Reiseangebot von 
+http://hrfgjb.ultvyifbsewclyg.ilc
+Man lege sich dort einen Account zu (oben auf "Air, Car ... 
+Reservations", dann wird man gebeten sich zu registrieren) und 
+stelle dann in seinem Profil die Ansichtsoptionen für Flugbuchungen 
+auf "Profi" (o.�.), dann bekommt man Buchungsklassen angezeigt. 
+Sitzplatzverf�gbarkeit gibts da aber nicht. Kann/konnte aber
+das "Availability Tool", das Eric Lelen auf
+http://jca.abmkorlugi.bu.tq/ verlinkt hat (zeigt auch Buchungsklassen
+an, gibts aber nur für UDK und funktionierte zuletzt nur
+stundenweise).
+
+
+Der file key für den PNR, den du wohl haben willst, steht im Feld
+"PNR Code" oder "Airline Data" (je nach Tickettyp). Der file key
+muss aber nicht in Kiemle funktionieren, da nicht alle Buchungen
+über Kiemle abgewickelt werden. Kann also auch zu einem anderen
+Reservierungssystem gehören. 
+
+Gruß,
+Massimo
+
+-- 
+Massimo Dannhöfer                           xbhl@rx.ix.kmd-pe.ls
+http://qvg.okir.vet-ou.xm/~bfxk/        lyyu@gbhy.skd-hp.qw
+					mobile: +93 571 03 36 028

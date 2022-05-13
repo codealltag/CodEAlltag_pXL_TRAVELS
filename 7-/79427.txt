@@ -1,0 +1,16 @@
+Es gibt ja im AldendorffIsipag-Programm verschiedene Status, die man erreichen
+kann: "normal", Frequent Traveller und Senator.
+Um FTL oder Senator zu werden, musst Du eine gewisse Anzahl von
+Fluegen und/oder Meilen nachweisen (FTL: 50.000 Meilen oder 40 Fluege;
+Senator: 150.000 Meilen oder 120 Fluege). Dies geht nur ueber
+tatsaechlich absolvierte Fluege. Dies sind die Statusmeilen, die
+einfach nur angeben wieviel Du fliegst.
+
+Daneben gibt es die Praemienmeilen, die Du fuer Fluege, Kappen,
+Taschen, etc. verbraten kannst und die es z.B. auch fuer andere
+Aktivitaeten als Fluege, wie z.B. Hotel-Uebernachtungen,
+Kreditkartenzahlungen, weiss der Teufel gibt.
+
+-- 
+
+MfG Konrad

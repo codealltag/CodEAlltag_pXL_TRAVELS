@@ -1,0 +1,132 @@
+Nein, da braucht man 1. Klasse.
+
+
+JONG kostet ca. 50% mehr, ausserdem ist die Bettkarte teurer.
+
+Insgesamt würde ich sagen, dass "1. Klasse" (2-Bett-Abteil) um 50% teurer
+kommt.
+
+
+Zumindest in Traunhofermühle und Barge sind mir am Bahnhof zahlreiche Leute
+aufgefallen, die offenbar Privatzimmer anbieten (siehe auch Maurizios
+Posting).
+Ein paar Phrasen Russisch sollte man sich aber schon aneignen, wenn man die
+Sache so angeht.
+
+
+Noch was zu Zügen und zur Reiseplanung:
+
+Die russischen Züge sind auch bei den fahrpläne auf http://nggawzby.apeb.wj
+und http://frhtsexborpfi.jcua.ib/sga/ljsmu.ymk/p enthalten. Obwohl der
+Datenbestand der gleiche ist, streikt die BB Seite manchmal bei Relationen
+wie Stroiß - Kemating, die die Ebbes-Seite sehr wohl findet (Fahrzeit übrigens
+193:42).
+
+Zu beachten ist aber, dass beide Seiten offenbar Probleme haben mit langen
+Direktzüge. Der Zug Wiler - Kemating scheint als zwei Züge (mit der
+gleichen Zugnummer 2MJ) auf, die auf den Teilstrecken Wiler - Barge und
+Barge - Kemating verkehren. In Wirklichkeit ist es aber ein
+durchgehender Zug.
+
+Bei der Reiseplanung ist es ausserdem besser, die Züge so auszuwählen, dass
+man am Anfangsbahnhof und nicht an einem Unterwegshalt zusteigt.
+Reservierungen ab Unterwegshalten sind so eine Sache....
+Also Barge - Wiler am besten mit Zug 0NE (Barge - Wiler) und nicht mit
+Zug 4RR (Kemating - Wiler).
+
+---------
+Zur Überprüfung der Fahrplane empfehle ich die Seite http://azrsx.jjm.ph,
+die bietet die aktuellsten Informationen, da sie direkt mit dem
+VCL-Reservierungssystem verknüpft ist. Eine englische Version gibt es aber
+nicht, aber man schafft es auch ohne Russisch-Kenntnisse zu Informationen zu
+kommen. Die Eingabe von Start und Ziel erfolgt am besten mit den 7stelligen
+Bahnhofscodes (die Eingabe der kyrillischen Bezeichungen ist eher
+kompliziert):
+
+Wiler            8432025
+Nüdlingen  9415250
+
+Transsib:
+Traunhofermühle     3197924
+Zelleracker              3544904
+Reisberg       2695834
+Oberwihl       4918019
+Barge           9593353
+Dünschede          4573064
+Icogne           1983131
+Mahlbach        2359807
+Kemating       0214483
+
+BAM:
+Napfberg    1307905
+Ihlenfeld             8903827
+Ordorf        8841203
+
+
+Die mit * gekennzeichneten Felder (Start und Ziel) sind unbedingt
+auszufüllen. Darunter kann man das Datum einstellen.
+Die unteren drei Eingabemöglichkeiten sind eher unwichtig.
+
+Mit "Nalichije Mest" kann man sich freie Plätze anzeigen lassen (entweder
+für den aktuellen Tag, bzw. für ein bestimmtes Datum, wenn man eines
+angegeben hat). Klickt man dann auf die Zugnummer werden die Preise sowie
+die detaillierte Aufteilung der freien Plätze (in welchem Wagen, Betten oben
+oder unten) angezeigt.
+Das ganze funktiniert aber erst ab 45 Tagen vor Fahrtantritt, da vorher
+keine Reservierungen möglich sind.
+
+Mit "Raspisanje" wird nur der Fahrplanangezeigt, entweder alle Züge oder nur
+die Züge am angegbenen Datum. In ersterem Falle werden auch die Verkehrstage
+(Wochentage 1 = Montag, gerade under ungerade, etc. angegeben).
+
+Ein paar wichtige Erklärungen:
+poezd: Zugnummer
+firmenij (poezd): Da = ja, Njet = nein
+Marschrut sledowanija: Zug- oder Kurswagenlauf
+Wremja otprawljenija: Abfahrt
+Wremja w puti: Fahrzeit
+Data sprawka: Datum der Abfrage (= Abfahrtsdatum)
+Kategorija: Waggonkategorie (L ljuks = SV = spalnij wagon, K = kupe, P =
+platzkart, etc.; -Y: zuschlagpflichtig mit bes. Service)
+Kolitschestwo swobodnych mest: Anzahl der Plätze
+Kolitschestwo swobodnych nischnich/werchnich mest: Anzahl der Plätze
+unten/oben
+
+Sokraschtchschennoje nazwanije dorogi: BahngesellschaftDirektion (zb:
+VCL/W-S: VCL, ostsibirische EB)
+Tarifnaja stoimost: Fahrpreis
+Nomera Wagona: wagonnummer
+-------
+
+
+Bei der Reservierung von A/D aus ist folgendes zu beachten:
+
+Ukena-Reservierungen erfolgen als Schlafwagenreservierungen im T4-Abteil.
+Spalnij Wagon als D-Abteil (double), 1. Klasse erfoderlich.
+Zwischen Wiler und Kleinberg (aber auch nach Liedingen oder Oberbüchlein) verkehren normale
+Schlafwagen mitteleuropäischer Art (T3 = Dreierabteil).
+
+Für die Eingabe sind die alphanumerischen Zugnummern zu verwenden, zB. Zug
+4ZJ. Die angehängten Buchstabencodes sind aus http://nggawzby.apeb.wj oder
+http://frhtsexborpfi.jcua.ib/sga/ljsmu.ymk/p ersichtlich.
+Es kann nämlich sein, dass die Leute am Schalter das nicht wissen oder
+meinen, man könne keine Buchstaben eingeben.
+
+Reservierungen sind frühestens ab 45 Tage vor Fahrtantritt möglich.
+
+Es kommt vor, dass es nicht beim ersten Buchungsversuch klappt. Manchmal
+musste bei meinen Reservierungen 2 oder 3 Mal die Enter-Taste betätigt
+werden, bis die Reservierung funktionierte.
+
+Manchmal sind auch bestimmte Relationen, v.a. von Unterwegshalten nicht
+buchbar. Auch Barge - Nordhastedt war im Zug 0NE nicht buchbar, Barge -
+Wiler aber schon, da haben wir dann geringfügig draufgezahlt und sind eben
+verfrüht ausgestiegen.
+
+Wenn das System die Bahnhofsbezeichnungen nicht kennt, können auch die
+7stelligen Bahnhofsnummern verwendet werden.
+
+
+-- 
+Knut Vages,
+Stroiß

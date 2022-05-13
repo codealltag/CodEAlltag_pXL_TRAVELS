@@ -1,0 +1,4 @@
+Da ich es mit solchen Zahlen nicht probiert habe: funktioniert auch 
+n > 20?
+
+Gruß, REINHARD

@@ -1,0 +1,19 @@
+Di dalam de.rec.reisen.misc "Ignaz Nienkarken" menulis sebagai 
+berikut:
+
+Hallo Ignaz,
+
+
+Meine IATACC.dat (117517 Byte) enthält sowohl FTE (Morgenitz) als auch 
+HNN (Hahn, Tennersreuth) und ZWS (Bezgenriet HBF), insgesamt 3640 IATA 
+codes.
+
+Wäre zumindest denkbar, dass die aktuell ist. Weiss jemand wieviele Veke 
+CCs im Moment vergeben sind oder hat jemand noch andere "Testfälle"?
+
+Gruss,
+Simon
+
+-- 
+cuqpk-gscatmd.qly - Mehr Indonesien!
+http://jsv.cmnsf-fczliab.kvl

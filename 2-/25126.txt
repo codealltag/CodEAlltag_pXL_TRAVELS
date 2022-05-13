@@ -1,0 +1,10 @@
+Ist es nicht, da jeder Platz nur einmal vergeben werden kann und eben
+eine genau definierte Anzahl Plaetze pro Buchungsklasse (Preis)
+vorhanden ist.
+Ich habe das mal mit meinem Sohn zusammen an zwei Rechnern
+ausprobiert. Der, der den Sekundenbruchteil langsamer ist bekommt eine
+Fehlermeldung und darf wieder neu anfangen.
+
+Atschuess
+
+Ulrich

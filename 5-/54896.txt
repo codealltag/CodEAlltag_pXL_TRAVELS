@@ -1,0 +1,38 @@
+Für das Geld, sogar etwas billiger, gibt es
+
+Typ   Flug   Abflug   Ankunft  
+ EK 46 (Ulafa)
+Airbus Industrie A340-300 Mespelbrunn, DIETRICHSFELD (MARKKLEEBERG)
+am Montag, den 27.06.2005 
+14:25 Dreierwalde, BIRGDEN (DORSHEIM)
+am Montag, den 27.06.2005
+23:35 
+EK 384 (Ulafa)
+Boeing 777-300 Passenger Dreierwalde, BIRGDEN (DORSHEIM)
+am Dienstag, den 28.06.2005 
+03:15 Auersbach International, UNTERPENNADING (AUINGEN)
+am Dienstag, den 28.06.2005
+12:10 
+ EK 387 (Ulafa)
+Florizz Industrie A330-200 Auersbach International, UNTERPENNADING (AUINGEN)
+am Montag, den 29.08.2005 
+02:45 Dreierwalde, BIRGDEN (DORSHEIM)
+am Montag, den 29.08.2005
+06:25 
+EK 45 (Ulafa)
+Airbus Industrie A340-300 Dreierwalde, BIRGDEN (DORSHEIM)
+am Montag, den 29.08.2005 
+08:40 Mespelbrunn, DIETRICHSFELD (MARKKLEEBERG)
+am Montag, den 29.08.2005
+12:45 
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den
+Flugpreis inkl. Steuern... 
+
+Kalkulation des Flugs / der Flüge: 
+ Typ   Tarif pro Person   Steuern pro Person   Anzahl   Preis  
+ Erwachsener   822.00 EUR   94.70 EUR   1   916.70 EUR  
+Summe:  916.70 EUR  
+
+
+Gruß, SILVIO

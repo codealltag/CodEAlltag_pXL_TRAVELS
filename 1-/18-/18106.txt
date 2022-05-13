@@ -1,0 +1,17 @@
+An sich wundert mich das bei dieser Konstruktion nicht mal so sehr.
+Die meisten (und AFAIK alle traditionellen) Hartschalenkoffer sind
+rundherum fest. Dieses Exemplar hat einen umlaufenden flexiblen
+Textilbereich mit Reissverschluss, der die Steifigkeit der
+Konstruktion massiv untergraebt, und Verschiebungen des Deckels
+gegenueber dem Unterteil erlaubt, und damit Verwindungen,
+Zugbelastungen etc. ermoeglicht. Ich wuerde den Schaden weniger auf
+einen einzelnen Einschlag (vom Werfen) als auf laengere Querbelastung
+schieben. Interessant finde ich, dass nicht der Reissverschluss, die
+Verbindung zwischen Textil und Hartschale, oder der Scharnierbereich,
+sondern das Material an sich nachgegeben hat (Materialfehler?).
+
+IMHO waere es besser, wenn man schon einen flexiblen Teil
+reinkonstruieren will, auch den Rest aus stabilen, aber flexiblem
+Material zu machen. Das wuerde Spannungen dieser Art verhindern.
+
+Willibald

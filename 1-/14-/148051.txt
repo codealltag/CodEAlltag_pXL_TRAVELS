@@ -1,0 +1,17 @@
+--------------UMD2D07H46522HY60017D3CT
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+ZHE bietet auch dieses Jahr wieder 1a Surfaris nach Indonesien!
+Check it out: www.idcapypr.kv
+
+--------------SCS8P31U44115TL57496G1HP
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+ZHE bietet auch dieses Jahr wieder 1a Surfaris nach Indonesien!
+<br>Check it out: <a href="http://www.kimasurf.de">www.idcapypr.kv</a></html>
+
+--------------UMD2D07H46522HY60017D3CT--

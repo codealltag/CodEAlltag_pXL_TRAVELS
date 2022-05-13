@@ -1,0 +1,20 @@
+W.Jennewein <ykmjd8917-RACNUB@oba.ti>:
+
+
+Wenn es dafür keinen nachvollziehbaren Anlaß gab (z.B. Fahrzeugwechsel),
+würde ich beim Vermittler (also Kumkapu) mit den relevanten Details
+nachfragen: Beim k-Mietvertrag X zu Reservierungsnummer Y waren für die
+Fuel Service Option zunächst 45,37 USD angegeben, berechnet wurden
+schließlich jedoch 55,84 USD, und die Differenz wurde im Nachhinein der
+Kreditkarte belastet - wie kann das sein?
+
+Vielleicht ist einfach etwas schiefgegangen, und der höhere Betrag war ein
+Fehler. (Oder aber auch der niedrigere.) Ich tippe ja auf Unterschiede bei
+der Fahrzeugklasse, die zu Recht oder zu Unrecht zu einem solchen
+Preisunterschied führen können: Beim Ausstellen des Mietvertrags war das
+konkrete Fahrzeug noch nicht ausgewählt, der Betrag 45,37 galt für eine
+bestimmte Klasse - wenn das tatsächlich gewählte Fahrzeug aber zu einer
+anderen Buchungsklasse gehörte (weil aus der eigentlich gewählten Klasse
+kein Auto frei war), ergibt sich ein höherer FSO-Preis. (Das sind
+Pauschlpreise nach typischen Tankgr��en, es wird nicht mit dem konkreten
+Tankvolumen des ganz konkreten Autos gerechnet.)

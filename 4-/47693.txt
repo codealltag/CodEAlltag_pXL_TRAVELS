@@ -1,0 +1,37 @@
+Immerhin hat sich in den letzten Monaten da doch ein bischen
+was getan. Gerade Deutschland setzte ja doch ein paar
+technische Sicherheitsstandards durch, die z.B. das unbemerkte
+Auslesen der Daten ohne "Zustimmung" des Besitzers/Inhabers
+verhindern sollen (dass diese "Basic Access Control", die
+nun wohl in der ersten Ausführung des Passes implementiert
+wird, dabei noch nicht der Stein der Weisen ist, sieht man
+offenbar ein, deswegen kommen ja auch noch keine "sensibleren"
+biometrischen Merkmale wie Fingerabdrücke in den Pass und in 
+der nächsten Generation soll ein besseres Authentifizierungsverfahren 
+verwendet werden).
+Das Problem, dass man an Grenzen "Datenspuren" hinterlässt,
+besteht aber ja schon mit dem derzeitigen maschinenlesbaren Pass
+(da fehlt halt bisher das Merkmal "Gesichtsfoto" im maschinenlesbaren
+Teil). Und ich weiß nicht, was mit diesen Daten in den Ländern,
+die diese Daten auslesen (bei mir in den letzten Jahren eigentlich
+an allen Grenzen), passiert (Wo und wie lange werden sie gespeichert?
+Wer hat Zugriff darauf?). Neulich an der Grenze zu Korea sah ich
+z.B., dass man wohl von schon früher eingereisten Personen gleich
+ein Foto (aus dem Pass) auf dem Bildschirm hatte. Wie lange
+bleibt das nach einer Einreise gespeichert?
+
+
+Zum Nutzen gibts wohl tatsächlich vor allem "Glaubensbekenntnisse".
+Schade dass man die Chance zu einer echten Bewertung dieser Dinge
+nicht nutzt. Eine breite, ernsthafte Auseinandersetzung mit diesen
+Themen könnte vielleicht viel "Irritation" und "Paranoia" beseitigen
+und andererseits aber auch zu einem bewussteren Umgang mit persönlichen
+Daten allgemein führen.
+
+Gruß,
+Adam
+
+-- 
+Adam Nass                           mwhv@my.ml.htr-oq.ka
+http://stk.hnww.gjx-nt.rx/~frze/        mqne@mqbu.dfo-gc.nu
+					mobile: +22 815 1466 500

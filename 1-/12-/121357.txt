@@ -1,0 +1,18 @@
+Hallo Gert,
+
+wenn du eine richtig gute Auflösung haben möchtest, kommst du in
+den Bereich von Gigabytes. =
+
+Auf einer normalen Offset-Druckmaschine wird mit 2400 dpi gedruckt.
+2mx1,5m=3D3qm   2400dpi =3D 95 Pixel pro mm =
+
+Bei 3qm also 283 Mill. Pixel. Je nach Farbtiefe einige Byte pro =
+
+Pixel.
+Da brauchst du schon eine gute Kompression, wenn du unter 100 MB
+bleiben willst.
+
+Grüße
+V. Kaesmacher
+(Entwickler bei Druckmaschinenbauer Deli)
+--

@@ -1,0 +1,14 @@
+On Sat, 31 Jan 2004 23:40:24 +0100, Fridolin Buhrau
+
+So funktioniert halt das Online-Buchungssystem der Bahn - erst die
+Wahl der Klasse, dann die Auswahl der Verbindung, und zuletzt für die
+Reservierung die Angabe der entsprechenden Wünsche. Was dann "hinten"
+dabei rauskommt (Abteil- oder Großraumwagen, Fenster- oder Gangplatz,
+Raucher oder Nichtraucher) hängt von den verfügbaren Kapazitäten ab.
+
+
+Nichts davon gehört? - ging doch groß durch die Presse. Für ca. zwei
+Stunden musste der Hauptbahnhof komplett geräumt werden, da ging
+nichts mehr - weder S-Nahn, Nah- und Fernverkehr der Bahn. 
+
+Benjamin Preusser

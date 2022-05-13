@@ -1,0 +1,46 @@
+zuerst mal ein Tip in Sachen Druck-Vorstufe (neudeutsch: Prepress):
+http://bhc.jvubfjchgm.azr/figelxjkgu/mzyvp_l.qzv?rhavaz/bhsivhb.dqa
+
+
+Der Arbeitsvorgang in der Druckvorstufe läuft etwa so ab (Carl möge m=
+ich =
+
+korrigieren, ich bin Entwickler aus der Mechanik-Konstruktion):
+Übliche Dateiformate in der Vorstufe sind PS und immer mehr PDF.
+Komprimierte verlustbehaftete Formate (z. B. JPG) sind nicht üblich,
+weil der Kunde *genau* das bekommt, was er beauftragt hat.
+Die Druckvorlage liefert der Kunde entweder als Datei oder auf Papier.
+Letzeres wir üblicherweise mit 300 dpi eingescannt.
+
+Jetzt werden die Farbauszüge in den verschiedenen Farben erstellt,
+meistens Cyan Magenta Yellow Key (=3Dschwarz). Dazu wird das Bild in
+Rasterpunkte einer Farbe ausgerechnet ("gerippt" RIP=3D Raster Image
+Prozessor). Diese Rasterpunkte sind wesentlich enger gesetzt als die
+Pixel des Ursprungsbildes, weil die Pixel erst im Zusammenspiel mehrerer
+Farben das ergeben, was vorher ein Farbpunkt war. (Schau dir mal mit der =
+
+Lupe einen Farbdruck an.) Daher die hohe Auflösung.
+
+Diese Pixel werden danach z.B. mit einem Laserbelichter auf eine =
+
+lichtempfindliche Druckplatte (Alu, ca. 1mm dick) übertragen. Die wird =
+
+dann in die Maschine eingespannt, später mit Feuchtwasser und Farbe =
+
+benetzt und letztlich erscheinen die Pixel der Platte dann auch auf
+dem Papier.
+
+Über das Thema gibt es dicke Bücher.
+
+Ein vorhandenes Bild einfach vergrößern und dann ausdrucken geht sehr=
+
+zu Lasten der Auflösung, weil die Bildinformation ja nicht mehr wird.
+Wenn man ein halbwegs vernünftiges Bild bekommen möchte, geht das als=
+o =
+
+nicht.
+
+Zu den anderen Fragen mögen sich andere äussern
+
+Grüße
+Hubert Westermeier

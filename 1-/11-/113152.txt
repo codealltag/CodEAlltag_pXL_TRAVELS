@@ -1,0 +1,7 @@
+Hallo
+ Eigenlob stinkt! ;) Das mit der Slideshow würde ich schon mal ganz
+lassen, die Ladezeiten sind extrem lang. Besser Du zeigst Thumbnails die
+man auf Klick vergrößern kann. Die Bilder sollten unbedingt stärker
+komprimiert werden, teilweise kann man bis zu 20% herunter ohne daß
+nennenswerte Verfälschungen auftreten.
+ Gruß Georg

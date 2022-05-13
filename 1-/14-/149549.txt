@@ -1,0 +1,43 @@
+Pointer zur Auskunfts- und Fahrplan FAQ
+
+Wer Auskunftsmöglichkeiten über und von örtlichen und regionalen
+Nahverkehrsanbietern im deutschsprachigen Raum sucht, ist hier
+genau richtig.
+
+Mit der neuen Version V2.30 wurde aus der Auskunfts- und Fahrplan FAQ
+der Nahverkehrswegweiser. Dieser Relaunch mit neuem Namen ist das Ergebnis
+der Anregung, die seit 1999 immer häufiger von Seiten der nicht Netzprofi�s
+geäussert wurde. (Vergangenes Jahr war ein sehr deutlich ein Quantitätssprung
+im Zugriff auf die FAQ spürbar).  Damit ist jetzt auch auf den ersten Blick
+der Inhalt der WWW-Präsenz ersichtlich. Der Qualitätsanspruch, den die
+Auskunfts- und Fahrplan FAQ hat(te), wird beibehalten, d.h. Korrekturen und
+Ergänzungen werden auch weiterhin schnellstmöglich eingearbeitet und
+veröffentlicht. Um die Wurzeln des Wegweisers auch weiterhin zu pflegen,
+gibt es den alten Namen noch im Untertitel. Der Nahverkehrswegweiser ist
+primär auf Datenqualität und schnellen Zugriff auf diese ausgerichtet.
+So gibt es neben der komfortablen Navigation auf Kartenbasis auch
+eine reine textbasierte Seite, die sich mit Käppeleswiesen (einem ASCII-Browser)
+betrachten lässt. Zusätzlich  wurde jetzt für modernere Browser eine
+Navigationsmöglichkeit mit Frames, die ausschliesslich auf Textseiten
+basiert, ergänzt.  Die Grösse der Daten auf einer Seite, sowie der beiden
+Downloadvarianten (DOS und GNU zip) für die offline-Nutzung wird jetzt
+dynamisch bestimmt.  So bekommt jeder Nutzer vorher ein genaues Bild über
+die Datenmenge.
+Freunde von Gästebüchern finden im Nahverkehrswegweiser die Möglichkeit
+sich über diesen zu äussern. Die Daten sind wie bisher im Netz unter
+	http://ggh.msatwwviyt.jf/aabethzf
+zu finden. Einen Redirektor gibt es unter dem Namen
+	http://jpv.dffmcxpxxgdvnzcawibf.lm
+
+An dieser Stelle möchte ich mich bei Allen, die das Projekt auch
+im 5. Jahr regelmässig oder sproradisch unterstützen, herzlich
+bedanken. Ich freue mich über jede Korrektur und Ergänzung.
+
+Zum Schluß noch ein Hinweis:
+Bitte Anfragen zu Verbindungen, Anschlüssen sowie Beschwerden
+über die Qualität von Nahverkehrsleistungen direkt an die Unternehmen
+senden (oder in die Newsgruppe posten), der Maintainer der FAQ kann
+diese leider nicht beantworten.
+
+
+Torsten.

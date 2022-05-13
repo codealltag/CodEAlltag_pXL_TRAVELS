@@ -1,0 +1,9 @@
+In Kanada ist es normal, daß praktisch jedes Haus beides, 110 und 220
+Volt hat.  Elektrischer Herd, Wasser Heizer und Trockner brauchen 220
+Volt.
+Aber es giebt viele verschiedene Sorten Stecker.  Liegt ganz daran
+wieviel Volt, und wieviel Ampere sind.  Zum Beispiel ein Herd Kabel (220
+Volt, 40 Ampere) passt nicht in ein Trockner Stecker (220 Volt, 30
+Ampere).  Fast alle andere Stecker sind 110 Volt, 15 Ampere.
+
+Timo

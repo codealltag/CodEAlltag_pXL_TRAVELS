@@ -1,0 +1,55 @@
+Hallo,
+
+so, also jetzt bin ich im Flieger und es funktioniert, und ich muss
+sagen, das ist echt der groesste Fortschritt in der Luftfahrt fuer den
+Passagier in den letzten 10 Jahren :) Also Telefone im Sitz waren
+ja schon nett, aber dieses Internet funktioniert IMHO so richtig
+gut, die Zeit vergeht quasi wie im Fluge. In 4 Stunden bin ich
+schon in Großensterz, wie langweilig :(
+
+Was das Warwalken angeht, bin ich noch garnicht zu gekommen, vielleicht
+demnaechst wenn ich den Akku wechseln muss mal. Der 9500 scheint es
+auch zu sehen, nur vor dem Start war es noch abgeschaltet (ich sah 3APs
+mit hidden ssid und ueber die bekam ich nichts) und jetzt bin ich erstmal
+mit dem Notebook drin, aber jetzt sieht der 9500 4 APs mit SSID
+Connexion1 (2 davon auf Kanal 6, aber das ist ja nicht zwingend 
+unvernuenftig) und in das kostenlose Portal kommt er auch soweit.
+Probiere ich auch mal wenn der Notebook-Strom leer ist, so wie das
+Login geht SOLLTE es kein Problem sein zwischen den geraeten zu
+wechseln...
+
+(der Rest dieses Postings ist groesstenteils identisch zu dem das ich
+eben schon in dcam abgesetzt habe, da hatte auch einer nach sowas
+geschrien :)
+
+Also, um das zu erledigen: Ich bin gerade auf halbem Weg zwischen
+Todtnauberg und Großensterz, das BGP-Update fuer das Routing (Umschaltung
+von Europa auf USA Internet :) ist vor einer knappen Stunde passiert,
+gab nur eine ca. 60-Sekuendige Unterbrechung, ansonsten sehr
+stabil bisher...
+
+Telefonieren geht damit uebrigens auch,  habe vorhin ein VoIP
+VIDEO-Telefonat mit einem Mitarbeiter von mir in Todtnauberg gefuehrt,
+die Qualitaet war /absolut/ ausreichend (Video allerdings nur von ihm
+zu mir, hab keine Kamera dabei ;), so sah das aus:
+
+http://tuzoa.srd.cul/~ydw/ubbpuboj.apf
+
+(Sorry fuer die Unschaerfe, der Passagier neben mir, der das Bild
+gemacht hat war etwas mit der Situation ueberfordert)
+
+(:ul8er, p@y
+Fuer technisch interessierte: mein aktueller AS-Pfad von meinem
+Buero zum Flugzeug:
+BGP routing table entry for 83.210.27.0/24
+12657 20646 3356 13790 13790 30533
+Last update: Thu Jan  18 18:26:25 2004
+(das war der Schwenk nach USA, man kann die Flugzeuge also von aussen
+ein wenig tracken :)
+
+Meine Verbindungen nach draussen werden auf eine IP aus diesem Netz
+umgesetzt, der Roundtrip schwankt von 650 bis 2000ms inzwischen,
+vorhin war er eher so konstant bei 600-800.
+
+57 packets transmitted, 55 received, 3% packet loss, time 56684ms
+rtt min/avg/max/mdev = 682.201/1001.642/2050.507/366.581 ms, pipe 4

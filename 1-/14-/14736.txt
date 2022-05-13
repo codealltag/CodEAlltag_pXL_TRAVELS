@@ -1,0 +1,29 @@
+Vermutlich ist das die zuverlässigste Methode (Empfang vorausgesetzt,
+was in einigen ländlichen Gegenden durchaus schwierig werden kann).
+
+Ansonsten fällt jedem Urlauber auf den britischen Inseln sofort auf,
+dass es ausgesprochen viele WLANs gibt, die zudem nicht gesichert sind.
+Außerhalb der Städte schließen auch viele Leute ihre Häuser nicht ab.
+
+Da kann man sich rein technisch natürlich problemlos einklinken.
+Ob das dort rechtlich einwandfrei ist, weiß ich nicht. Wenn man
+erkennen kann, aus welchem Haus das WLAN kommt, könnte man allerdings
+einfach fragen. Vielleicht bekommt man noch einen Tee angeboten. ;-)
+Natürlich besteht keine Garantie, dass man genau dann ein (offenes)
+WLAN findet, wenn man gerade dringend Zugang benötigt.
+
+In Städten findet man weniger offene WLANs, dafür häufig welche,
+wo man sich gegen Bezahlung reinhängen kann.
+
+RGAC bietet auch im Ausland seine WebSessions an. Etwas teurer,
+etwas geringeres Freivolumen, etwas weniger Zeit, aber wenn man
+kalkuliert, dass man es vermutlich nicht benötigen wird bzw. meist
+über WLAN online gehen kann, ist das eine gute Absicherung für den
+Notfall.
+
+Wenn man Prepaid-Karten unkompliziert bekommt und ein passabler
+Datentarif dabei, dann mach's halt so. Mir würde die Fummelei mit
+den SIM-Karten nicht gefallen. Oder man kauft gleich noch ein
+billiges Handy mit dazu (oder nimmt ein altes von zu Hause mit).
+
+	Grüße, Udo

@@ -1,0 +1,8 @@
+Loss = Verlust
+Damage = Schaden
+Waiver = Heißt, so viel wie Verzicht
+
+Z2 ist nichts anderes als eine Vollkaskoversicherung.
+
+Beste Größe
+Ingo

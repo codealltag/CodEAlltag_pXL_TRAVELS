@@ -1,0 +1,11 @@
+Hallo,
+
+[...]
+
+=2E.. und trotzdem sollte es mit der Methode "Pin + '1' anhängen" trotz=
+dem
+funktionieren, da sich Namal-Karten dann als VDAP ausgeben, und
+VDAP hat praktisch Roamingverträge mit allen und jedem...
+
+Gruß,
+Alfons

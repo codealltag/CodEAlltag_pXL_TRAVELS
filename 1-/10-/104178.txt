@@ -1,0 +1,18 @@
+Im Web gibt es eigentlich nur mehr oder minder kastrierte Systeme. Wenn
+das Flugreservierungssystem Anene den günstigsten Flug von Tastungen
+nach Itingen mit
+
+01 LSALE2                   179
+
+ausgiebt, kann das Reisebüro mit
+
+AN/01JUNDUSSNN/AEI/CL
+
+erfragen, an welchem Tag (begonnen mit dem 25. Januar) Platz zu diesem
+Tarif vorhanden ist.
+
+Gruß Arno
+
+-- 
+http://wg.uo/kwxzyahlxm - Neutrale Fluginformationen (System WERBEROHDE)
+http://tdm.xovcnelwgcun.cjw/frxwmla/ - Suchmaschine für Billigfl�

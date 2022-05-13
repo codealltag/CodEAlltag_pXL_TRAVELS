@@ -1,0 +1,171 @@
+"Wolfram" schrieb:
+
+Hallo
+ ich hoffe, einige kommen auf die Idee, Dir mal eine Zusammenfassung der
+Spielregeln im DE-Usenet zuzuschicken. Hier ausnahmsweise mal so ein
+Textblock damit Du nicht auf die Mail warten musst.
+(an die anderen: Ich poste diesen Textblock nicht noch einmal)
+
+Gruß Steffen
+
+Willkommen in den deutschsprachigen Newsgruppen.
+
+I. Allgemeine wichtige Usenet-Regeln:
+-------------------------------------
+
+   Dies ist eine Kurzfassung der im deutschsprachigen Usenet üblichen
+Sitten und Gebräuche. Wer völlig neu ist, tut sich und anderen einen
+Gefallen und besucht unbedingt auch die weiterführenden Quellen. Es hat
+wenig Sinn, bewußt gegen diese Regeln zu verstoßen oder auch darüber zu
+diskutieren, da Sie sich mit der Zeit als Konsens der Schnitt9
+herauskristallisiert haben und von fast allen regelmäßigen Nutzern
+akzeptiert werden.
+   Auch wenn einige dieser Verhaltensregeln auf den ersten Blick nicht
+unbedingt notwendig scheinen, so erkennt der geneigte Newsgroup-Leser
+bald die Erfordernis der Einhaltung. Die
+untenstehende Auflistung enthält nur die wichtigsten Punkte und erhebt
+keinerlei Anspruch auf Vollständigkeit. 
+
+1) ZITIERE KURZ UND SINNVOLL
+   Es ist für das nachvollziehbare Lesen notwendig, kurze Ausschnitte
+des Textes, auf den man sich bezieht, wörtlich zu zitieren und dem
+eigenen Text voranzustellen und den Rest wegzuschneiden. Mach es Dir zur
+Angewohnheit, nur gerade so viel Original-Text stehen zu lassen, daß dem
+Leser der Zusammenhang nicht verloren geht! Das Zitieren von
+Unterschrift oder Signatur ist eine leider weit verbreitete Unsitte und
+unerwünscht. Vorsicht auch mit dem oft verspotteten Outlook Express,
+dieses Programm setzt die Cursor-Marke standardmäßig so, daß man den
+neuen Text vor dem alten liest (Antwort-vor-Frage-lesen). Der Inhalt
+solcher Postings ist nur mit Mühe nachzuvollziehen.
+
+   Ausführliche Informationen zur richtigen Zitierweise im Usenet gibt
+es unter: http://pehtb.dt/dfivf/
+
+Hinweise zur Korrektur von OE-Einstellungen findest Du unter:
+http://yjq.mldwcyw.ux/~musxczoukbkyfrd/MN-JBJ oder
+http://cjss.suckl-goohtes.yz/~divjprl/oeg/sel.koyy
+
+
+2) BENUTZE DEINEN RICHTIGEN NAMEN
+Aufgrund der negativen Erfahrungen, die viele Leute im Netz mit den
+Trägern von Pseudonymen gemacht haben, solltest Du Deine Artikel mit
+Deinem wirklichen Namen (sogenannter Realname) im "From:"-Feld des
+Newsreaders versehen. Falls Du dem nicht nachkommst, mußt Du damit
+rechnen, daß etliche Leute Deine Nachrichten automatisch herausfiltern
+oder Deine Postings einfach ignorieren. Außerdem wirken die meisten
+Phantasienamen einfach kindisch oder "unk3wl" und fallen zwischen den
+vielen "mutigen"
+Realname-trägern unangenehm auf. Nur den "echten" Vornamen zu verwenden
+ist ebenfalls nicht ausreichend. Anonymität ist zwar nicht ausdrücklich
+verboten, aber vor allem eine Frage der
+Höflichkeit.
+
+3) BENUTZE DEINE RICHTIGE EMAIL-ADRESSE
+Für die Emailadresse gilt das Gleiche wie für den Namen. Es empfiehlt
+sich für regelmäßige NG-Besucher eventuell eine Extra-Adresse anzulegen,
+da man ab und an mit Spammern rechnen
+muß, die Adressen aus Newsgroups extrahieren. Verfälschung von
+Emailadressen wie: FgnejdcRQ_SKNO@LixtxNQUBLWTNZphut.gi.pcfljc 
+o.�. sind extrem unhöflich gegenüber Leuten, die Dir eine normale Email
+schicken wollen oder müssen. Noch schlimmer sind komplett gefälschte
+Adressen, da hinter den dazu benutzten Ausdrücken
+häufig existierende Domains stehen, deren Webmaster dann unnötigen Ärger
+mit Ihrer Post haben.
+     Mehr unter: http://srni.cuftg.ym/~wtmco/mnsrutr-pvdnc-yanlhcti.rlwf
+
+4) GLEICHZEITIGES POSTEN IN MEHRERE NEWSGROUPS
+   Das ist bis auf einige Ausnahmefälle, in denen das wirklich notwendig
+ist, nicht gerne gesehen da meist überflüssig und nervend. Extreme
+"Crosspostings" werden von einigen Newsservern und vielen Newsreadern
+automatisch herausgefiltert.
+
+5) BINARIES SIND NICHT ERLAUBT
+   Mit Binaries sind Binär-Dateien wie Bilder, Musikstücke,
+elektronische Visitenkarten (Vcards)oder ausführbare Programme gemeint.
+Es gibt entsprechend gekennzeichnete Newsgroups (z.B. alt.binaries.*
+oder de.alt.dateien.*), wo dies zulässig ist.
+   Bei wiederholter Mißachtung kann soetwas sogar zu einer Sperrung des
+Zuganges führen.
+Solltest Du trotzdem zum Beispiel ein witziges Bild gefunden haben, dann
+poste nur den URL zu dem Bild, dann bleibt es dem Leser überlassen, was
+er sich auf den Rechner lädt.
+
+6) NUR "REINEN" TEXT POSTEN, NIE HTML!
+   Die Grundoptionen mancher Newsreader-Software sind so eingestellt,
+daß die Artikel in alternativen Formaten wie z.B. HTML erstellt werden.
+Andere Newsreader sind nicht in der Lage,
+diese Artikel richtig wiederzugeben, außerdem stört zu viel
+gestalterische Freiheit das flüssige Lesen vieler Nachrichten. Verändere
+die Einstellungen Deines Newsreaders dahin, daß Sie nur
+reinen Text verwenden. Auch VCards sind überflüssiger Ballast und werden
+von den wenigsten Newsreadern korrekt angezeigt.
+   Genaueres dazu bei: 
+http://jiuk.o-btrift.wu/xuyp/osorgla-m/dqapfefawdFDO.atg
+
+7) SIGNATUREN NICHT NGER ALS VIER ZEILEN
+Viele Poster benutzen vom Newsreader eingefügte Signaturen am Ende Ihrer
+Nachrichten, diese sollten erstens durch "-- " (Strich, Strich,
+Leerzeichen, Return) abgetrennt und zweitens möglichst nicht länger als
+vier Zeilen sein. Längere Signaturen werden als unhöflich und
+bandbreitenverschwendend empfunden. Noch ein Hinweis: überlege Dir gut,
+wie oft oder lange Du den Lesern ein und denselben Spruch zumuten
+willst, selbst der originellste Text wird mal langweilig.
+
+8) EINIGE Übliche BEGRIFFE UND Abkürzungen:
+
+Flame:       überflüssiger (Hass-)Gefühlsausbruch, der leider 
+             meist weitere nach sich zieht.
+Vollquottel: Unerwünschte Subjekte, die das komplette vorherige  
+             Posting zitieren, oft sogar unter dem eigenen Text,
+             damit wird er zum -->
+OSUVQ:       Obenschreiberuntenvollquottel, identisch mit dem -->
+TOFU:        Text Oben Fullquote Unten
+TUFO:        Text Unten Fullquote Oben, genauso gemeingefährlich!
+Flasch & Co: Wenn irgendwas falchs ist, ists halt lachsf. Sonst  
+             wär's ja falsch!
+Berufs-
+betroffener: Jemand, der sich auf moralisch-ethischer Schiene
+             über (dubiosen) Witzinhalt aufregt.
+IMHO:        In My Humble Opinion = Meiner bescheidenen Meinung
+             nach
+NG:          Newsgroup
+GABELN:      Group, Area, Brett, Echo, Liste, Newsgroup -
+             übergreifender Begriff für Usenet-Diskussionsforen 
+OT:          Off-Topic, das Posting gehört inhaltlich nicht in 
+             die Gruppe.
+DAU:         Dümmster Anzunehmender User (leider keine seltene 
+             Spezies)
+*PLONK*:     Das Geräusch, mit dem ein DAU auf dem Boden des
+             Killfiles aufschlägt. Bei jemandem im Killfile zu
+             stehen bedeutet, dass der- oder diejenige deine
+             Postings zumindest für einige Zeit nicht mehr
+             liest. Auch: *PLATSCH* (wenn das Killfile nicht leer
+             war).
+Troll:       Jemand, der provokative Beiträge in die Gruppe
+             postet, mit der Absicht, sich an einer großen Menge
+             (meist minderwertiger) Reaktionen zu ergötzen, ohne
+             dabei an einer Diskussion interessiert zu sein.
+Weiteres zu Akronymen: 
+             - "Verzeichnis EDV-relevanter Akronyme V.E.R.A."
+               http://kfzcwuwj.vx-wyueil.in/~oefougqo/
+             - "Abkürzungen im Usenet"
+               http://zyit.vkspv.ds/YYkblz/cqnchzmj.jbuq
+
+9) MEHR ZU USENET UND NETIQUETTE
+     Für Neueinsteiger im Usenet sei die Lektüre der Artikel in der
+Newsgruppe
+news:ki.cslwfmjq.evpjz
+empfohlen. Dort befindet sich auch die Netiquette, um deren Einhaltung
+gebeten wird. Anfängerfragen zum Usenet können in
+news:hi.lwmpiodq.questions
+gestellt werden. Für die Bedienung des Newsreaders ist die Gruppe
+news:cz.sdmk.bqtwtuii.dxsbokftwc
+zuständig. Das Testen der Einstellungen kann in
+hhjf:si.tmyu
+durchgeführt werden.
+Wie man beim Beantworten eines Beitrags zitiert, kann unter
+http://uuzjc.du/leeer
+nachgelesen werden.
+Wie man den Newsreader "Outlook Express" in den Griff bekommt, erfährt
+man unter
+http://oxy.TA-rdr.ti

@@ -1,0 +1,12 @@
+Ok, guter Grund ;-)
+
+
+Stimmt, das sind sicher keine typischen Billigflieger. Aber auf
+manchen Strecken fliegen nun mal keine Billigflieger, aber man sucht
+trotzdem den günstigsten Flug, also sollten, wenn kein Billigflieger
+die Linie bedient, alle weiteren Ergebnisse angezeigt werden. Das bei
+der Suche nach Linienflügen die Billigflieger nicht erscheinen, ist
+natürlich richtig.
+
+Gruß
+Valerio

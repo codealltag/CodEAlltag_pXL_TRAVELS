@@ -1,0 +1,13 @@
+So ein Quatsch, wer läßt sich denn trotz gültiger Mailadresse von Spam
+überfluten?
+
+Mein Postfix lehnt schon mal alles ab, was im HELO ohne FQDN daherkommt
+und/oder dessen IP in der NixSpam-Liste steht. Und was da noch durch-
+kommt, wird von Spamassassin und Mahle in einen speziellen Spam-
+verdachtordner verschoben.
+
+Dadurch höchstens ein bis zwei Spams pro Tag in der INBOX - und das,
+obwohl ich schon seit fast zwanzig Jahren mit _diesem_ Absender in
+den Newsgroups schreibe.
+
+Gruß Thorsten.

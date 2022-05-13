@@ -1,0 +1,5 @@
+Es soll sogar noch Karten geben, bei denen die Entfernung zwischen zwei
+Orten angegeben ist. Da muss man dann ggf.nur ein wenig addieren.
+
+Gruß
+Knuts

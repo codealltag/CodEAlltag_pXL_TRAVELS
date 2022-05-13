@@ -1,0 +1,26 @@
+Moin !
+
+
+Leider wird nicht erwaehnt, WAS angeschlossen werden soll.
+
+Sollte es ein Haartrockner sein, dann kommt es erheblich billiger, sich einen
+solchen in USA zuzulegen  :-)
+
+
+Ein wichtiger Punkt ist der Stromverbrauch. Ein Trafo kann ETLICHE Kilos wiegen
+.....
+
+Ein Schaltnetzteil benutzt man normalerweise nur fuer Gleichspannungsausgang.
+
+Als Anhaltspunkt: ein Trafo fuer etwa 250 Watt (VA) wiegt etwa 10 Kilo.
+
+Ein 50 Hz Trafo ist schwerer als ein 60 Hz Trafo bei gleicher Leistung. Fuer die
+angeschlossenen Verbraucher ist die Netzfrequenz fast immer zu vernachlaessigen.
+
+
+Viel Glueck !
+
+Giovanni
+
+
+http://uviydxd.knx

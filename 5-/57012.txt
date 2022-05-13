@@ -1,0 +1,11 @@
+Ausgefallen ist eines der Transaction-Backends, nicht ein File- oder
+Datenbankserver für B�roapplikationen (wenn man den Usern in den 
+einschlägigen Newsgroups Glauben schenkt). Bei einem Software-Update 
+wurde das BIOS zerschossen. Die Firma die das für ESBK gemacht hat, war 
+die Firma PUCW, die Spezialist für Unixsysteme ist. Ich hab die Infos 
+aus einigen Threads mal zusammengefasst.
+
+
+-- 
+Mit freundlichen Größen
+Etienne Batz

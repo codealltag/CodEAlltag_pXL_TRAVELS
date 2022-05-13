@@ -1,0 +1,42 @@
+Nein, mit der 3ten Potenz der Geschwindigkeit.
+
+Bei doppelter Geschwindigkeit muß pro Sekunde die doppelte
+Menge an Luft doppelt so schnell zur Seite gedrückt werden.
+
+Um etwas auf die doppelte Geschwindigkeit zu bringen,
+ist 4 mal mehr Energie nötig.
+
+Daher braucht man 8 mal mehr Leistung zur Überwindung
+des Luftwiederstantds für die doppelte Geschwindigkeit.
+
+Da man dafür aber auch den doppelten Weg zurück legt
+nur 4 mal mehr Energie.
+
+Der Rollwiederstand hingegen steigt linear an.
+Also für doppelte Geschwindigkeit doppelte Leistung.
+Da aber der doppelte Weg zurück gelegt wird
+bleibt der Energiebedarf der Gleiche.
+
+Um mal so eine Verbrauchsrechnung zu zeigen:
+
+144 km/h = 40m/sec
+
+5 m durch die Luft geschoben mit cw 0.3
+ergibt 1.5 m cw korrekgierte Widerstandsfläche.
+
+60 m Luft auf 40m/sec zu bringen entspricht
+60 * 1.3 kg pro Kubikmeter 78 kg auf 80 m hoch zu heben.
+
+Gibt 6240 kpm oder 83 PS
+
+Bei einem Rollwiederstand von 1% und 2500 kg Gewicht
+sind für den Rollwiederstand
+40m/sec * 0.01 * 2500 nochmals 1000 kpm oder 13.3 PS nötig
+
+
+--
+Leiendecker Berend http://hvp.neft.eyd
+Clear targets for a confused civilization
+http://ctu.CvdiaUhnxk.bge
+web design and seminars
++42 325 97708350

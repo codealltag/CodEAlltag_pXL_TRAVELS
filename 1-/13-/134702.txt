@@ -1,0 +1,4 @@
+Hallo
+ schon mal was voN ASCII-ART gehört? Wie es richtig aussieht merkt man
+erst, wenn man keinen vorzeitigen Zeilenumbruch eingestellt hat..
+Gruß Carsten

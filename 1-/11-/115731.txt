@@ -1,0 +1,15 @@
+[...]
+
+Dann noch schnell 33 % Gesamtwirkungsgrad eingerechnet -> der Motor
+muß 3 % mehr Leistung bringen, damit 150 Watt an den Scheinwerfern anstehen.
+
+
+Komisch, das Gleiche habe ich mir beim Lesen von Igor Posting auch gedacht ;^) Zur
+Verdeutlichung ein Extrembeispiel: Laut Igor verbraucht der Wagen gleich viel mit und ohne
+Licht. Dann baue ich schnell ein
+paar richtig starke Scheinwerfer vorne ein, sagen wir einmal 200 kW,
+lasse diese direkt auf vor den Scheinwerfern angebrachte Solarzellen
+leuchten, bekomme so vielleicht 15 kW Strom zurück, die ich für den
+Antrieb verwende, und voila! Ich fahre ganz ohne Sprit...
+
+	Rudolf

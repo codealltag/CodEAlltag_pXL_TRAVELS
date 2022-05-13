@@ -1,0 +1,94 @@
+Exakt so sieht es leider aus. Mir waere es auch lieber -das geht schon beim 
+bezahlen mit der CC los- wenn die Deutschen Einzelhaendler zumindest hin und 
+wieder mal ein Alibi-Blick bezueglich der Unterschriften leisten. Denn nur 
+die Karte druchzuziehen und "Tschuess" kanns nicht sein, denn die 
+Unterschrift ist ein Sicherheitsmerkmal bei einer CC. In den USA sind die 
+konsequenter, da kommt es eher selten vor das man seine ID nicht zuecken 
+muss. Da wird die Name der Karteninhabers mit dem Pass fast schon pingelig 
+genau abgeglichen. Das bedeutet im Umkehrschluss das die Banditen die damals 
+mit einer elektronischen Kopie meiner Karte in Rockow am Start waren auch 
+eine zusaetzlich gefaelschte ID mit meinem Namen dabeigehabt haben mussten.
+
+
+s.o. das geschieht nichtmal wenn Du mit einer Deiner CC bezahlst. Ich bin da 
+auch jedesmal geschockt. Was SIM Karten angeht, davon habe ich auch mehrere 
+und eine ist Zertifiziert. Die anderen sind frei, aber damit kann man im 
+grunde auch alles anstellen ( inkl.Internet Unsinn). Die eine kostenlose 
+Hauptkarte von GFV brauche ich aber falls meine US-SIM ausfallen sollte. Denn 
+ohne Vertragskarte ist das in den USA ein bisschen bloede. Aber um 
+erreichbar zu sein ( im Falle das meine US-SIM Karte asufallen sollte ) ist 
+das noch gangbar. Laengere sabbelorgien fuehre ich in der Regel ohnehin nur 
+uebers Internet, also "Skpe Mobile". Funktionier von der Akustik sogar 
+deutlich besser als mit meinen beiden SIM.-Karten.
+
+
+Das kannst Du gerne machen, korrekt ! Aber es wird Dir nicht gelingen. Wenn 
+Du mich aber fragst, gebe ich Dir auch die Kennung. Alles kein Thema sofern 
+Du nicht irgendwelchen Scheiss mit meinem Anschluss fabrizierst.
+
+
+Absolut, drum bin ich ja auch ganz froh das die Anzahl der offenen AP in den 
+letzten 2 Jahren deutlich geschrumpft ist ( denn das war damals erschreckend 
+und das habe ich auch publiziert ). Die Gefahr ist weniger das andere ins 
+Internet einsteigen, sondern Idioten haben es in der Regel auf anderes 
+abgesehen. Persoenliche Daten und viele Heimnezwerke machen es dieser 
+Klientel wirklich sehr einfach. Meine Freundin zum Beispiel liess Ihr WLAN 
+mit WEB laufen und das Netzwerk mit mehreren Rechnern war auch komplett 
+offen wie die Hose.
+
+Das ist wohl auch der Grund warum viele schon froh sind das alles ueberhaupt 
+irgendwie funktoniert. Da blendet man dann die Gefahren aus und kann es im 
+grunde auch so nicht sensible Daten betroffen waeren. Also der Inhalt der 
+Systemfestplatten...
+
+
+Mein WLAN ist schon immer WPA-PSK Verschluesselt gelaufen und eine 
+MAC-Access List ( die aber albern ist da man MAC-Adressen rausfiltern kann 
+um diese dann im naechsten Schritt zu falschen also kopieren ) habe ich 
+zusaetzlich noch im Einsatz. Brutforce-Attacken ueber Tage hat es hier auch 
+schon gegeben ( nehme an das war der sportlicher Ehrgeiz eines etwas 
+unterbelichetetn Nachbarsjungen ). Ich finde das eher lustig wenn man 
+beobachten kann, ob es andere schaffen einzudringen. Und wenn diese 
+eingedrungen sind, was die dann ggf. fabrizieren. Wobei den Spass kann man 
+sich machen, wenn man sein LAN offen laufen laesst. Uebrigens: Einige 
+aendern nichtmal die SSID. Da wird dann netterweise auch gleich der 
+Routermodellname ins Netz geblasen und oft ist es sogar so, dass die die 
+Zugangsdaten zum Router nicht geaendert haben also man mitels ADMIN und 
+PASSWORT in den Router eindringen kann. Dort koennte man nun zum Beispiel 
+einen DNS-Service starten ( www.JloRTK.knz ) sodass die IP des Anwenders 
+automatisch dem Dummy-DynDNS Account mitgeteilt wird. Und natuerlich noch 
+das Remote Menagment aktivieren.
+
+Soll heissen: Selbst wenn derjenige sein Router mal WLAN Technisch 
+absichert, weiss man a.) immer wann der Online ist b.) mit welcher IP er 
+Online ist c.) kann mit der IP den Router von ueberall in der Welt anwaehlen 
+und einsteigen d.) kann man alles in seinem Sinne so veraendern das man 
+wieder von Aussen und WLAN System-Zugriff hat...
+
+Haarstraeubend was da so alles moeglich waere, denn man haette eine 
+Dauerhafte Kontrolle ueber das Zugangs-System ( den Router ) ohne das der 
+Nutzer davon auch nur etwas aehnen wuerde. Einzige Auffaellig waeren die 
+Eintraege im Remote Management uind natuerlich die Zugangsdaten zu DynDNS ). 
+Aber da klickt man in der Regel fast nie drauf...
+
+
+Niemand sollte leichtsinnig agieren. Viele tun es aber nach wie 
+vor...Natuerlich wird in 99,999% aller Faelle niemals etwas passieren. Aber 
+es gibt immer mal Typen die krimminelle Absichten haben und Hemmungslos 
+genug sind tief in ein System einzudringen. Ich dringe nirgends ein ( auch 
+wenn ich es wahrscheinlich oft koennte ), denn da kollidiert man mit dem 
+Gesetz. Ich baue nur eine Verbinung auf und zieh mir aus dem Internet meine 
+Emails und den ueblichen albernen Klimbim. Rein; Sachen erledigen; raus und 
+weiter gehts. Drum ist es mir auch so wichtig nicht zuviel Zeit mit der 
+Suche nach offenen AP zu verplempern. Das klappt mit dem Telefon als Sniffer 
+ausgezeichnet und ist zudem nett unauffaellig. Moralisch ist das aber 
+bestimmt falsch oder verwerflich. Aber anders gehts nunmal nicht, denn ich 
+habe nicht immer Lust von einem Hotel zu naechsten zu fahren oder Resturants 
+abzuklappern. Da wo ich bin sclage ich zu und oftmals werden einem auch die 
+AP geradezu um die Ohren gehauen. Selbst in ordinaeren Supermaerkten die nun 
+auch schon meinen FREE WLAN gehoere dort zum guten Ton ( bescheuert )...
+
+
+Jaja.....red Dich mal nicht raus ;-) Waschlappen drueber...
+
+Erich

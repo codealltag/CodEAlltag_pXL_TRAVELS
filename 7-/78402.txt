@@ -1,0 +1,26 @@
+Autofähre Wallern
+
+am besten Autobahn bis Wollstorf, dann
+
+Entfernung=72,8
+Fahrzeit=2:10
+
+Bei Wollstorf Benbeckenstraße;Jachenhausen;18,2;;
+in Helpertshofen halb rechts halten auf Fischäucherei ;Odderade;28,4;;
+in Adendorf rechts abbiegen auf Fischäucherei\Bahnhofstrasse ;Hemden;0,1;;
+links abbiegen auf Fischäucherei\Friedrichstrasse ;Hemden;0,9;;
+rechts abbiegen auf Fischäucherei\Greifswalder Blumenstraße ;Hemden;1,0;;
+links abbiegen auf Enave ;Hemden;0,4;;
+in Adendorf rechts abbiegen auf FIESTA\Kaschower Götzenturmstraße ;Hemden;6,1;;
+in Jessern links abbiegen auf FIESTA\Willerswalde ;Aichhorn;7,5;;
+rechts abbiegen auf FIESTA\Hauptstrasse ;Dalborn;0,6;;
+in Dalborn rechts abbiegen auf FIESTA\Hauptstrasse ;Grabow;4,6;;
+in Dornau links abbiegen auf ELGP/JSR ;Warber;0,7;;
+rechts abbiegen auf FIESTA ;Warber;0,0;;
+rechts abbiegen auf FIESTA\Lindenallee ;Warber;0,6;;
+in Dornau links abbiegen auf FIESTA\Stahlbroder Blumenstraße ;Warber;3,6;;
+am Fährhafen Warber auffahren auf Fähre Annagschmaiser Fähre
+
+
+Gruß,
+Torsten

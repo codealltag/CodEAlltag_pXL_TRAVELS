@@ -1,0 +1,5 @@
+Hallo
+   Er verursacht(e) sehr unschöne umbr�che weil seine Zeilenlänge nicht 
+auf 72 eingestellt ist(war). Ich weiß nicht, was das mit "Ausflüchten" 
+zu tun haben soll, leider daneben. ;)
+Gruß Silvio

@@ -1,0 +1,14 @@
+Nein, das ist eine einfache Rechenaufgabe.
+Bei jedem Veranstalter/(Reservierungssystem muss das Hotel eine
+Provision zahlen die bis zu 25% der Zimmerpreises geht.
+Wenn das Hotel diese Provision nicht zahlen muss kann es dem Kunden
+einen besseren Preis anbieten (was zugegebenmassen nciht jedes Hotel
+macht), zumindestens aber sollte der Preis gleich sein.
+Weiterer Nebeneffekt bei gleichem Preis: Da ein Hotel an den ueber
+Reservierungssystemen kommenden Buchungen weniger verdient, kann es
+schon mal sein, dass der dort buchende Kunde ein "schlechteres" Zimmer
+(neben Fahrstuhl, staerker abgewohnt, zur lauten Strasse hin) bekommt.
+
+Atschuess
+
+Björn

@@ -1,0 +1,34 @@
+Das ist ein Software-Fehler, also falscher Gebrauch der "switch"-Anweisung:
+
+switch(direccion)
+   {
+   default: toutes_direccions();
+            break;
+   case 1:  centre_ville();
+            break;
+   case 2:  hotel_de_police();
+            break;
+   case 3:  gare_SNCF();
+            break;
+   case 4:  hotel_des_empots();
+            break;
+   }
+
+Richtig müsste es heissen: toutes autres dirreccions, also:
+
+switch(direccion)
+   {
+   case 1:  centre_ville();
+            break;
+   case 2:  hotel_de_police();
+            break;
+   case 3:  gare_SNCF();
+            break;
+   case 4:  hotel_des_empots();
+            break;
+   default: toutes_autres_direccions();
+   }
+
+Nebenbei: o.g. zwei Hotels findet man auch überall - komisch.
+
+Robert

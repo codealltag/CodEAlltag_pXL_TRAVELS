@@ -1,0 +1,5 @@
+Ist ganz einfach. Jeder Zug hat 2 Wagen. In einem Wagen sitzen die
+Transitreisenden, im anderen die Normalos. Der eine Wagen öffnet die
+Türen nur zu einer Seite, der andere zur anderen Seite.
+
+Gruß Patrice

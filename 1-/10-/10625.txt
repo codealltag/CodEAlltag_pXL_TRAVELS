@@ -1,0 +1,11 @@
+In qy.smo.ydyvrn.eomg Oscar Zähe <VUAlmozzu@l-uiqimj.ml> wrote:
+
+[Fup Post4er ignoriert]
+
+
+Wenn Bots überhaupt noch E-Mail Adressen aus dem Usenet fischen,
+dann fischen die die From-Adresse die sie per XOver bekommen. ein
+Bot scannt nicht den Body, das wäre viel zu aufwändig.
+
+-- 
+Satisfy your thirst for life!

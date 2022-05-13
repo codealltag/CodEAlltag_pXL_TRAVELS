@@ -1,0 +1,66 @@
+Hallo Ella,
+
+
+Das haengt aber final mit der Rechenleistung/Geschwindigkeit des Prozessors 
+zusammen ( und evt. Unzulaenglichkeiten der Software ). Also bezueglich des 
+MDA-II kann ich Dir die Angst nehmen, der Prozessor laeuft mit 400Mhz ist 
+geht fuer meinen Geschmack schon sehr ansatendig zur Sache. Wenn ich hier 
+navigiere schiebe ich das Kartenmaterial auch wie wild hin/her und zoome 
+rein und wieder raus. Das flutscht recht gut. Was aber auch noch geht, ist 
+die Kiste dynamisch zu uebertakten. Also immer wenn der MDA-II bemerkt das 
+richtig gerechnet werden muss, schaltet der einen Gang hoch. ich selbst lass 
+XCPUScaler ( so nennt sich das Tool ) immer laufen um die Kiste bewusst zu 
+untertakten ( spart Energie und verlaengert die Standzeit ), aber mitunter 
+schaltet der auch mal rauf auf 475Mhz wenn es noetig werden sollte. Ferner 
+habe ich das gleiche Problem wie Du, denn ich komme vom Drave Delta 300GPS 
+und habe schlechte Augen und brauche ein halbwegs anstaendiges grosses TFT 
+das ich auch wenn die Sonne draufknallt noch problemlos erkennen kann. Der 
+MDA-II hat die gleiche Groesse ( groesser geht nicht ! ) aber den kleinen 
+Nachteil zum Yakumo-TFT das der nicht ganz so Kontrastreich strahlt. Aber 
+das stoert mich nicht, denn der Yakumo ist bei Tageslicht auch nur mittels 
+Transreflektion nutzbar.
+
+
+Dann schnapp Dir den Loetkolben und bastel Dir etwas feines ;-) Die Software 
+kannst Du Dir auch zusammenknallen. Spass beiseite: Windows 2003 ist schon 
+uebel, aber schnapp Dir mal ein Windows Mobile System 6.0 oder 6.1 ( beides 
+kannst Du dem MDA-II verpassen ) installiere ein paar Applikationen die Dich 
+interssieren und habe Spass. Ich bin davon total ueberzeugt, aus einem 
+einfachen Grund: Es funktioniert wunderbar und der Pool und Software ist 
+quasi unerscoepflich und bietet wirklich alles ! Das ist ja gerade das tolle 
+an einer Loesung mit ansatendigen Betriebssystem. Nebenbei laeuft Windows 
+Mobile 6.0 dauerhaft erstaunlich robust und stabil.
+
+
+Ist ja auch eine Preisfrage und auch was man fuer Optionen hat. Das tolle am 
+MDA-II ist zum einen das die Kiste wohl der meistverkaufte MDA war und 
+demnach nichts gibt was es nicht gibt. Damit ist alles moeglich, so man es 
+nur moechte. Ich lese diese Newsgroup mit dem MDA-II beantworte meine 
+Emails; Streame Musik; Hoere MP3; schaue Videos; surfe unterwegs mittels 
+Wlan im Netz und habe viele sehr spezielle GPS-Applikationen und reine 
+Navi-Funktionalitaet drauf laufen. Achja; Telefonieren und SMSs schreibe ich 
+damit auch ;-) Das aber nur auf Basis DEUTSCHLAND und USA.
+
+
+Oder schnell selbst programmieren. Dem steht ja zum Glueck nichts im Wege 
+unter GP ( http://nfc.wzvij3sef.sen/ ). Nichts ist einfacher als 
+das...
+
+
+Klar....Du kannst alles kaufen, die Frage ist halt wie weit Du auc 
+finanziell gehen moechtest. Also bei 100 Euro fuer ein unmfassendes potentes 
+System ist bei mir schluss. mehr moechte ich nicht ausgeben und nehme dann 
+auch Unzulaenglicheiten im Design hin ( klar waere mit ein schickes iPhone 
+3G auch lieber, aber selbst das kann nichtmal im Ansatz das was ich mit 
+meinem MDA-II kostenlos veranstalte ).
+
+
+Gern geschehen. Bin ja auch eine alte GPS-LowCost Sau ( geworden ) und finde 
+preiswerte extrem potente Loesungen mit den man auch etwas mehr anstellen 
+kann, ziemlich geil. Ist aber nicht jedermanns Sache aus einer Vielzahl an 
+Gruenden. Aber schau mal, vielleicht trifft das Deinen Geschmack ! Ich bin 
+ueberzeugt und stelle damit taegich eine ganze Menge Bloedsinn an ( schnell; 
+effizient und sicher ! ).
+
+
+Lothar

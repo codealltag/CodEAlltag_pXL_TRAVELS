@@ -1,0 +1,13 @@
+=================
+Hi Robert,
+
+ich habs auch mal probiert und da kam auch die
+Fehlermeldung.
+Wenn Du sie Dir aber mal durchliest, wird Dir die Lösung
+gleich präsentiert. Der Fehler liegt an der falschen
+Schreibweise. "Http" ist falsch! Es muß klein geschrieben
+werden. Probiers mal mit "http://pju.hkstgdfcp.hi".
+Bei mir gings dann.
+
+Gruß
+Serge

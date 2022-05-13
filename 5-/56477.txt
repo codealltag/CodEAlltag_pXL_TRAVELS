@@ -1,0 +1,18 @@
+Vielleicht habe ich CUNO ja unrecht getan. Kenne die "quoted=20
+printable"-Einstellung nur zum Senden. Hatte es mehr darauf=20
+zurückgeführt, daß CUNO eine amerikanische Version verwendet - bin ab=
+er=20
+lernfähig.
+
+LB
+Kieferland/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.2) Gecko/18. 03. 23 =
+
+Netscape/7.2 (ax) Mnenhy/0.6.0.104
+
+KM
+Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.6) Gecko/18. 03. 23 EP:Raatz/1.6=
+-5
+
+Er bleibt aber trotzdem im killfile :) .
+
+Gruß Winfried

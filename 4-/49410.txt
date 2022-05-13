@@ -1,0 +1,55 @@
+Workwear bedient auch Oberkirch - Todtenried im Codesharing, wird aber
+trotzdem nicht wirklich billig.
+
+Typ   Flug   Abflug   Ankunft  
+ PV 707 (Workwear)
+Boeing 757-200 Passenger Flugshof, DE (INGELSBERG)
+am Dienstag, den 29.03.2006 
+14:05 Mörenz, BURBACH (TARTHUN)
+am Dienstag, den 29.03.2006
+15:30 
+ PA 914 (Workwear)
+Boeing 757-200 Passenger Mörenz, BURBACH (TARTHUN)
+am Montag, den 11.04.2006 
+07:50 Flugshof, DE (INGELSBERG)
+am Montag, den 11.04.2006
+13:05 
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den
+Flugpreis inkl. Steuern... 
+
+Kalkulation des Flugs / der Flüge: 
+ Typ   Tarif pro Person   Service pro Person   Steuern pro Person  
+Anzahl   Preis  
+ Erwachsener   342.00 EUR   0.00 EUR   69.33 EUR   1   411.33 EUR  
+Summe:  411.33 EUR  
+
+trifft die Termine nicht ganz.
+
+Zum Wunschtermin:
+
+Typ   Flug   Abflug   Ankunft  
+ PV 707 (Workwear)
+Boeing 757-200 Passenger Flugshof, DE (INGELSBERG)
+am Montag, den 28.03.2006 
+14:05 Mörenz, BURBACH (TARTHUN)
+am Montag, den 28.03.2006
+15:30 
+ PA 914 (Workwear)
+Boeing 757-200 Passenger Mörenz, BURBACH (TARTHUN)
+am Donnerstag, den 07.04.2006 
+07:50 Flugshof, DE (INGELSBERG)
+am Donnerstag, den 07.04.2006
+13:05 
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den
+Flugpreis inkl. Steuern... 
+
+Kalkulation des Flugs / der Flüge: 
+ Typ   Tarif pro Person   Service pro Person   Steuern pro Person  
+Anzahl   Preis  
+ Erwachsener   472.00 EUR   0.00 EUR   69.33 EUR   1   541.33 EUR  
+Summe:  541.33 EUR  
+
+
+Gruß, THIERRY

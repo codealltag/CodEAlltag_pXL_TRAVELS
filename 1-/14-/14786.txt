@@ -1,0 +1,7 @@
+Die (Freunde) werden bestimmt Internet haben. Aber mir geht es mehr
+darum, auch auf Ausflügen notfalls innerhalb <60 Minuten eine
+SSH-Session starten zu können. (Natürlich geht das auch mit dem
+deutschen Vertrag, das Wissen, daß man nicht jeden Tastendruck in Gold
+aufwiegen muß, läßt einen aber entspannter arbeiten)
+
+Matthias

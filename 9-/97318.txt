@@ -1,0 +1,9 @@
+Aja, noch was:
+
+Beide Linien scheinen das gleiche Reservierungssystem zu verwenden.
+Ich habe wie schon erwähnt 3 Einzelbuchungen getätigt und 3
+Reservierungsnummern bekommen, die sich sehr ähnlich sind. Von der
+6-stelligen Zahlen/Buchstabenkombination sind die erste und die letzten
+zwei Stellen immer ident.
+
+lg Gustav

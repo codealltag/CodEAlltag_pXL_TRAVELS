@@ -1,0 +1,10 @@
+Es kommt darauf an, wie präzise der Impuls zeitlich vorhergesagt
+werden kann, und ob man anhand der potenziellen Erdkrustenregion auf
+stark bewegliche Tektonik schließen kann; letzteres wäre ja eigentlich
+eine Aufgabe für Geologen/Seismologen, die hier die Treffsicherheit
+also bestimmt um ein Vielfaches steigern könnten. Auch könnte man
+mithilfe noch besserer bzw. genauerer Software möglicherweise die
+Treffsicherheit nochmals erhöhen.
+
+
+Dietmar Bruno

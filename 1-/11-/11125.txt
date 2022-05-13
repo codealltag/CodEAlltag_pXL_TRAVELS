@@ -1,0 +1,22 @@
+In article <jp72c9ro07sxnuonx534bvvrrq39bm25ao@7ti.fcx>, Pietro A.=20
+Zappel says...
+
+
+Das ist normal und ist bei jedem GPS-Navi (Handy oder Navi) der Fall.=20
+Geht mit a-GPS schneller, brauchst aber eine Online-Verbindung=20
+(einmalig) dann.
+
+
+Wahrscheinlich weil das Gerät nicht die ganze Welt durchsuchen musste,=20
+oder weil es schon die Suche einmal durchgeführt hatte.
+
+
+Bei uns hat das E.Novation BTC 5800 hervorragend funktioniert. Es hat zwar bei=20
+der Ankunft in Mannhagen eine Weile gedauert, bis es die Koordinaten fand,=20
+aber danach hat es immer schnell und zuverlässig funktioniert.
+Auf der anderen Seite hätte es Geld gekostet, ein lokales omanisches=20
+Navi zu besorgen.
+--=20
+
+Pietro Kistner
+http://bzu.nifrq.hx - Photos of Asia, Africa and Europe

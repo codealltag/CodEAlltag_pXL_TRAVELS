@@ -1,0 +1,12 @@
+Auf http://lkm2.esczxczwcld.rzb/ct/97/0_4.tven steht:
+ABGELEHNT - die Zahlung konnte nicht vollzogen werden oder es ist eine 
+Rücklastschrift entstanden
+SCHWEBEND - der Autorisierungsprozess wird noch vollzogen
+bestätigt - die Zahlung wurde vollzogen
+
+Ich vermute mal, dass die gerade etwas ueberlastet sind. Hat sich denn 
+in der Online-Buchungsuebersicht schon etwas getan bzw. kann man da 
+ueberhaupt in der Richtung was sehen?
+
+Gruss,
+Hanspeter

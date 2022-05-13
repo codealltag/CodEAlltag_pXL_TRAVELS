@@ -1,0 +1,14 @@
+Am Tue, 18 Jun 2001 20:45:11 +0100, schrieb Maik Bäuerl
+<c2724491@jeiz.tletmj.bk.ng>:
+
+
+Cyclefix ist aus RM-Fahrzeugtechnik entstanden. Kannst ja mal den United File Key
+(so nennt man die Buchungsnummer in der Branche) in Viewtrip eingeben.
+Erwarte allerdings eine negative Antwort. Wenn Du bei Checkmytrip
+einen Volvo File Key eingibst, bekommst Du auch eine
+Fehlermeldung. Dowuze erwartet einen RMO File Key.
+
+Gruß Jonathan
+
+-- 
+http://pp.bq/xovkflzlpk - Neutrale Fluginformationen (System Galileo)

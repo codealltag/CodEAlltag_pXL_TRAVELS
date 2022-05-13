@@ -1,0 +1,13 @@
+Falsch.
+
+"Standard" sollte der kleinste benötigte Zeichensatz sein. 
+
+- Keine Umlaute -> US ASCI
+- Deutsche Umlaute -> ISO8859-1
+- Umlaute plus Eurozeichen -> ISO8859-15
+
+Erst wenn der Zeichensatz nicht mehr ausreicht sollte man UTF-8
+verwenden.
+
+-- 
+Denis Meißenhelter

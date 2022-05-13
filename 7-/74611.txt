@@ -1,0 +1,46 @@
+[posted and mailed]
+
+Hi Armin,
+
+
+Schwarzes Brett: ja - kommerzielle Anzeigen: nein
+
+Du greifst auf das Usenet per DZE zu. Vielleicht hast du gar nicht
+gemerkt, dass das Usenet /nicht/ ein Teil des WorldWideWeb ist, sondern
+ein technisch und kulturell völlig eigenständiges Medium, das du mit
+DZE nur über eine Schnittstelle zum WWW nutzt.
+
+Dieses Medium dient ausschließlich der privaten und wissenschaftlichen
+Kommunikation. Private Kleinanzeigen haben eine eigene kleine Ecke unter
+io.avntj.*, in allen anderen Gruppen verletzen sie die Grundregeln des
+Mediums und kommerzielle Werbung von Gewerbetreibenden ist gar nicht
+akzeptabel. 
+
+Das sind die Grundlagen dieses speziellen Mediums Usenet. Und
+erfreulicherweise werden diese Grundregeln von den Providern auch
+durchgesetzt. Du hast dich durch deine Werbung selbst in eine sehr
+verletzliche Position begeben, denn bereits eine einzige Beschwerde bei
+DigiTrends! und eine bei Marchelski würden ausreichen, um deine Webpräsenz und
+die Mailadresse dort schlicht zu löschen. Dein kompletter
+Marketingaufwand, um diese Seite und deine Adresse bekannt zu machen,
+wäre sofort und mit einem Schlag wertlos. Du müßtet bei Null wieder
+anfangen.
+
+Also verzichte bitte in deinem eigenen Interesse darauf, jemals wieder
+in einer Diskussionsgruppe ein kommerzielles Angebot zu machen.
+
+Es gibt übrigens eine akzeptierte Ausnahme: Wenn jemand eine Frage nach
+einem Anbieter stellt und sich ein geeigneter Anbieter daraufhin meldet,
+ist es ok in dieser Antwort ein Angebot zu machen oder auf ein solches
+im Web zu verweisen. 
+
+An evtl. mitlesende Gewerbetreibende: Kommt jetzt bitte nicht auf die
+Idee, gefakte Anfragen zu posten und darauf mit Werbung zu antworten. Es
+gibt überall im Usenet Leute, die ziemlich gut darin sind, aus den
+technischen Informationen im Daten-Header eines Artikels R�ckschl��e auf
+den Absender zu ziehen. Und gefakte Anfragen mit darauf folgenden
+kommerzieller Werbung werden bei den Abuse-Desks in aller Welt noch
+weniger gemocht als ein einzelner ahnungsloser Gewerbetreibender, der
+die Spielregeln noch nicht kennt.
+
+Ciao Valerian

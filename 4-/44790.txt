@@ -1,0 +1,9 @@
+Ich versuchs mal:
+Es gibt viele 2-spurige Kreisel.
+Man muss links blinken, solange man im Kreis bleibt.
+Man darf nicht blinken, wenn man rausfährt.
+Wenn man nun z.B. auf der äußeren Spur führt, aber nicht links blinkt, 
+glaubt der auf der inneren Spur Fahrende, dass man rechts rausfährt.
+Da kommt es immer wieder zum Crash mit Deutschen und Türken, die das Blinken 
+irgendwie grundsätzlich vernachlässigen.
+Gruß, Jochen

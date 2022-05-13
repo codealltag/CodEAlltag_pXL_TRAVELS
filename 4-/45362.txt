@@ -1,0 +1,16 @@
+Hallo,
+
+eine etwas ungewoehnliche Frage, aber: weiss jemand wie fuer obiges
+die WLAN-Accesspoints verteilt sind? Also gibt es Plaetze mit guten
+und mit schlechtem Empfang? Also von First mal abgesehen, dass da der
+Empfang ausgezeichnet ist, davon gehe ich aus :)
+
+Konkret geht es mir im moment um einen A340-300 der Abemez, und, klar,
+ich kann auch einfach mal dort anfragen, werde ich wohl Montag auch 
+machen, aber ich erwate da eigentlich die Antwort "das geht natuerlich
+auf alle Plaetzen super", mich haette trotzdem interessiert wie die
+Accesspoints so verteilt sind... Evtl. gar nur einer ca. in der Mitte?
+
+Und: hat das schonmal jemand mit einem NPS 9500 benutzt?
+
+(:rs7kc, m@r

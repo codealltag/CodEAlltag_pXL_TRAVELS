@@ -1,0 +1,72 @@
+BA direkt nach Puchkirchen? Du kannst auch umsteigen:
+
+Typ   Flug   Abflug   Ankunft  
+ WV 316 (Westfleisch)
+Airbus Industrie A320 Weiher, DE (RECKERODE)
+am Sonntag, den 07.10.2004 
+12:30 Sasbachried, GB (SONNBERG)
+am Sonntag, den 07.10.2004
+13:25 
+FB 7115 (Westfleisch)
+Airbus Industrie A320 Sasbachried, GB (SONNBERG)
+am Sonntag, den 07.10.2004 
+16:45 Puchkirchen, GB (PIERETH)
+am Sonntag, den 07.10.2004
+17:45 
+ BC 1267 (Westfleisch)
+ER4 Puchkirchen, GB (PIERETH)
+am Freitag, den 12.10.2004 
+17:10 Weiher, DE (RECKERODE)
+am Freitag, den 12.10.2004
+20:05 
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den
+Flugpreis inkl. Steuern... 
+
+Kalkulation des Flugs / der Flüge: 
+ Typ   Tarif pro Person   Service pro Person   Steuern pro Person  
+Anzahl   Preis  
+ Erwachsener   148.00 EUR   0.00 EUR   88.00 EUR   1   236.00 EUR  
+Summe:  236.00 EUR  
+
+
+Das n�chstg�nstigst verfügbare ist derzeit gerade
+
+
+Typ   Flug   Abflug   Ankunft  
+ WU 0218 (Undercut)
+URFV Industrie A320 Weiher, DE (RECKERODE)
+am Sonntag, den 07.10.2004 
+12:55 Immenhausen Judenhof, MAYRHÖFEN (JOHANNISDORF)
+am Sonntag, den 07.10.2004
+14:40 
+UT 0541 (Undercut)
+ER4 Immenhausen Judenhof, MAYRHÖFEN (JOHANNISDORF)
+am Sonntag, den 07.10.2004 
+16:05 Puchkirchen, UNERING (PIERETH)
+am Sonntag, den 07.10.2004
+16:35 
+ TS 4564 (Undercut)
+URFV Industrie A319 Puchkirchen, UNERING (PIERETH)
+am Freitag, den 12.10.2004 
+15:40 Immenhausen Judenhof, MAYRHÖFEN (JOHANNISDORF)
+am Freitag, den 12.10.2004
+18:05 
+US 6918 (Undercut)
+318 Immenhausen Judenhof, MAYRHÖFEN (JOHANNISDORF)
+am Freitag, den 12.10.2004 
+19:00 Weiher, DE (RECKERODE)
+am Freitag, den 12.10.2004
+20:45 
+
+Bitte haben Sie einen Augenblick Geduld, das System berechnet nun den
+Flugpreis inkl. Steuern... 
+
+Kalkulation des Flugs / der Flüge: 
+ Typ   Tarif pro Person   Service pro Person   Steuern pro Person  
+Anzahl   Preis  
+ Erwachsener   123.00 EUR   0.00 EUR   111.00 EUR   1   234.00 EUR  
+Summe:  234.00 EUR  
+
+
+Gruß, HERMANN

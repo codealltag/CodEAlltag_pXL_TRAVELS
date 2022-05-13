@@ -1,0 +1,8 @@
+Wenn ich den Abschnitt "Kosten für zusaetzliche Person: 15.00 EUR pro 
+zusaetzlichem Erwachsenem beginnend mit dem 2nd Erwachsenen." richtig 
+verstehe, muesste der OP insgesamt 65 Euro bezahlen, oder? Wenn dem so 
+ist, warum wird nicht gleich der Gesamtpreis angezeigt? Man hat doch 
+schon in der Buchungsmaske die Anzahl der Personen angegeben.
+
+Gruss,
+Jean-Paul

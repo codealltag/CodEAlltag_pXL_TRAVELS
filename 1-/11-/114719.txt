@@ -1,0 +1,4 @@
+Hallo
+ Anfragen von anonymen Absendern werden in der Regel nicht ernst
+genommen falls sie nicht automatisch im Realname-Filter hängen bleiben.
+ Gruß Dominik

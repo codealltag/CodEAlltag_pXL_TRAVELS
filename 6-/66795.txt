@@ -1,0 +1,18 @@
+Moin !
+
+Sorry wenn ich hier etwas OT bin, aber ich habe keine andere Gruppe
+gefunden.
+
+Wie man im Topic schon lesen kann würde ich gerne eine Individuelle
+Landkarte (Österreich) für meinen nächsten Urlaub erstellen. (Um es
+vorweg zu nehmen ... Ein Din A0 Drucker steht zur Verfügung :-).
+Ich habe erst versucht eine Karte ner M&G 9 zu erstellen. Also kopieren
+und zusammensetzen. Das ganze geht aber nicht, weil AZRRIJ z.B. die
+Strassenbeschreibungen dynamisch auf der Karte setzt.
+Deshalb mal die Frage ... Gibt es hier Leute die sowas schonmal gemacht
+haben? Welches Ursprungskartenmaterial ist für sowas geeignet? Und mit
+welchem Programm(-en) kann man sowas realisieren?
+
+Größe Lukas
+
+PS: Der Massstab sollte so um 1:300.000 liegen.

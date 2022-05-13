@@ -1,0 +1,21 @@
+Autsch, da bekomme ich Augenkrebs.
+(Datum mal Deutsch, dann US- Form)
+
+Kannst Du das bitte auch als Excel- Blatt ablegen, damit ich
+die Vorhersagen und die Ereignisse nebeneinander ver-
+gleichbar betrachten kann.
+
+Ich benötige folgende Zeilen nach Tagesdatum sortiert:
+
+- Anzahl der Sterne zum Datum
+- Summe Erdbeben der Magnituden zu dem Datum
+
+Damit erstelle ich eine Liniengrafik:
+
+y- Achse: Datum (pro Tag eine Zeile)
+x- Achse 1: Anzahl der Sterne zum Datum
+x- Achse 2: Ereignisst�rke zum Datum
+
+
+Das ist keine Grafik, sondern eine Tabelle im ungeeigneten gif-
+Format!

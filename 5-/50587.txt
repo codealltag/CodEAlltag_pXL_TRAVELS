@@ -1,0 +1,6 @@
+Anstelle der Unterschrift gibt es ja den Sicherheitscode. Wenn der in 
+Verbindung mit der Kartennummer vorliegt, dann wird es problematisch die 
+Transaktion rückgängig zu machen. Lies mal Deine Vertragsbedinungen zu 
+der Kreditkarte. Zumindest ist es bei meiner MC so.
+
+Tom-Italo

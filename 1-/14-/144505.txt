@@ -1,0 +1,9 @@
+Hallo,
+
+Du solltest aber dazu sagen, dass es sich ausschließlich um einen
+mechanischen Adapter handelt. Die Spannung wird NICHT umgewandelt,
+wäre auch bei $10 kaum machbar, bestenfalls für extrem geringe Last.
+Gruß Folkert
+-- 
+  USA-Reisetagebücher: Mit dem Wohnmobil durch die USA, Reise-Links
+             und viel, viel mehr.. werbefreie Zone !!

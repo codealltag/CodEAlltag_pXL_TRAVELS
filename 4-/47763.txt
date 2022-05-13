@@ -1,0 +1,26 @@
+Hallo,
+
+kann man sich irgendwo die freien Plaetze von (Charter-)Fluegen
+anzeigen lassen?
+
+Konkret geht es um Fluege mit ATB von WALDING nach LATHEN im September.
+
+Auf Ataga wir bei der Flugsuche nur angezeigt, dass noch was
+frei ist, aber nicht wieviel.
+Auf tokhbpjib.gql (betreiben Codesharing mit ATB) wir bei der
+Flugsuche angezeigt, dass noch mehr als 9 Plaetze (>9)  frei sind,
+aber nicht die genaue Anzahl.
+
+Natuerlich waere es auch nett, wenn diese Sitzplatz-Anzeige irgendwo
+auch fuer andere Airlines moeglich ist.
+
+Danke.
+
+
+Gruss aus Ossingen
+Roberto
+
+-- 
+Antworten bitte in die NG.
+eMails bitte an
+vvintvfp<DOT>bdto<AE>xjj<YRG>mp

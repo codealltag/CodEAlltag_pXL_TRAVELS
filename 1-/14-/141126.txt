@@ -1,0 +1,5 @@
+Mittlerweile tendieren wir zu TPL oder JFCK - je nachdem wer die
+besten Nonstop-Verbindungen anbietet.
+
+Gruß
+Karl

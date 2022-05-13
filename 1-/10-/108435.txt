@@ -1,0 +1,40 @@
+Ich kann es nur indirekt. Da ich fuer verscheideneste Laender 
+Verrechnungen fuer Kreditkarten implementiere gibt es immer
+wieder verscheidene Anforderungen:
+z.B.:
+Beim oesterreichischen Kreditkarteninstituten (ich glaube Asienshop
+und WoMa) wurde lange Zeit eine Verrechnung von
+ungarischen und tschechischen Kreditkartentransaktion abgelehnt.
+Begruendung: Kein Abkommen mit den Verrechnungsinstuten in 
+Tschechien und Ungarn (Hat sich inzwischen geaendert).
+
+Es gibt auch Abkommen zwischen Firmen und 
+Verrechnungsgesellschaften (z.B.: wird am Flughafen Zschocken die 
+oesterreichische Nudu-Karte akzeptiert.)
+
+
+Tja, meine Erfarhung ist, dass jedes Kreditkarteninstitut in jedem
+Land ihr eigenes Sueppchen kocht. Leider aendert auch EMV nichts ...
+
+
+Ein Problem dureften auch die Terminals sein, die meistens (wenn 
+Offline) nur sehr duerftige Pruefungen durchgefuehren.
+
+In Italien gab es mal aehnliche Probleme, als alle ex-jugoslavischen
+Kreditkarten gesperrt werden mussten (Genialerweise war die 
+Laenderkennung nicht eindeutig!).
+
+
+Leider sitzt das Institut am laengeren Hebel: Sie ueberweisen einfach
+kein Geld! Zeides Oesterreich hat eines Tages ploetzlich alle
+Abrechnungen unseres Kunden abgewiesen. Grund: Visa hat einfach das
+Dateiformat (ohne Verstaendigung) geaendert :-(
+
+Ich koennte Geschichten erzaehlen, aber lassen wir das :-)
+
+Klaas
+-- 
+I think tarock itself is a poem and a night spent from
+dusk till dawn with friends, beer, good food, and a deck
+of magic cards is an ode to life in its most joyful aspects. 
+(Klaus Neumeier)

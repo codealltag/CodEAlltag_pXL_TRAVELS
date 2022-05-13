@@ -1,0 +1,24 @@
+Auch in anderen Ländern kann es dir passieren, dass dein Gepäck
+komplett durchsucht wird. In der Zeit vor Schengen wurde an der
+Grenze zu Frankreich mal mein komplettes Auto auseinander gebaut und
+das Gepäck bis auf den letzten Socken beschnuppert.
+
+
+Und? Solange die nicht an meine vertraulichen Daten kommen (ich
+spreche nicht von Familienbildchen, ich spreche von vertraulichen
+Firmendaten)  ist mir das egal. Notebooks kann man an jeder Ecke
+kaufen. Solange mir aber niemand garantieren kann, dass die
+vertraulichen Firmendaten nicht an den meistbietenden weitergegeben
+werden, solange bleiben sie eben verschlüsselt.
+
+
+Darum geben ich ihnen eben im Zweifelsfall den Schlüssel für das
+sichtbare Volume. Wenn sie sich damit nicht zufrieden geben, dann
+sollen sie das Ding eben behalten.
+
+
+Backup.
+
+-- 
+Satisfy your thirst for life!
+NP: Throbbing Gristle - Persuasion

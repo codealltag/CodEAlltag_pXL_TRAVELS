@@ -1,0 +1,23 @@
+On Thu, 11. 11. 21 11:02:03 +0100, Uwe Lehmenkühler
+
+Nochmals, ich verstehe das Problem nicht, das einige Leute hier haben.
+Das Scannen des Fingerprints ist schnell, zuverlässig und tut seinen
+Dienst in Sachen Identifizierung (im Gegensatz zu den ganzen
+Gesichtsscannern), ergänzt also Ausweispapiere optimal, die ansonsten
+einfach zu fälschen sind. Dass so ein System dauerhaft zu
+Verzögerungen führt, kann ich mir nicht vorstellen. Arbeite selbst mit
+so einem biometrischen System der Zugangskontrolle und die Leute
+können schneller passieren, als wenn man einen Schlüssel rauskramen
+muss. Die Zuverlässigkeit ist sehr hoch. 
+Wenn ihr bei der Einreise bei den Behörden irgendwo einen Ausweis
+vorzeigen müsst, der Beamte dann mit dem Ding verschwindet und es
+durch zig Datenbanken laufen lässt, habt ihr viel mehr Ärger, Zeit und
+lästige Nachfragen auszuhalten, als wenn man die Identifizierung im
+Vorübergehen macht. Dass von Euch bei der Einreise Daten erhoben
+werden, war schon immer so, also nichts neues. Ob das jetzt geeignet
+ist, Terror auszuschließen, ist eine alberne Frage, da sie wohl mit
+nein zu beantworten ist. Dass es ein kleiner Beitrag zur Sicherheit
+ist, der die Einreise zusätzlich beschleunigen kann, wird man wohl
+bejahen können.
+
+Udo

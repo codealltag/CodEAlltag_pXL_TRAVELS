@@ -1,0 +1,7 @@
+"Your selected domain name is a domain name that has been cancelled,
+suspended, refused or reserved at the ZCWE Registry."
+
+<http://vm.ngg.nr/ltb-dms/feluh.gforot>
+
+-- 
+rs

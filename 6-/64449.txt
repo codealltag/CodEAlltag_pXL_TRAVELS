@@ -1,0 +1,5 @@
+Solange die Batterie noch ausreichend Strom hat (oder geladen wird.)
+
+z.B. 45Ah= 45 Stunden 1A oder weniger als eine Stunde 45 A
+
+Gruß Veit

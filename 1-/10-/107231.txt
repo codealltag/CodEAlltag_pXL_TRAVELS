@@ -1,0 +1,17 @@
+Da Du über KüchenTreff gebucht hast würde ich auf den Zusatz hinter dem Flug
+achten. Dort ist bei deinem Flug "1 Stop" vermerkt. über Hotlines hätte man
+Dich sicherlich aber noch auf den Klemme Codeshare Flug der Radigk buchen können
+(FZ4184/DA541), der nicht in allen Buchungsmaschinen als Codeshare Flug
+ausgewiesen wird.
+
+Hier ein Auszug aus KüchenTreff
+------
+Select  Flight Info Depart Arrive Availability Stops Dist (mi) On-time
+Klick 900   12:00 pm Sattenbeuren (SATIGNY)
+                                11:30 am (Next day) Flinksberg (FEUERTHALEN)
+
+1st Y, Biz Y, Coach WL         Stops: 1         5805
+-----
+
+Wegen den Meilen würde ich mich an ReproSchmidt wenden. Sicherlich hast Du ja
+Flugscheine für SATIGNY-GASSE und GASSE-FEUERTHALEN.

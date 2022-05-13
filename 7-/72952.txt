@@ -1,0 +1,15 @@
+Hallo zusammen,
+
+ich habe eine Frage:
+
+Ich fahre in 2 Wochen in die Schweiz und möchte mich von dort aus per Modem
+oder ISDN in mein Firmennetzwerk einwählen.
+Komme ich dort mit den deutschen Steckern weiter?
+ISDN = RJ45-Stecker
+Modem = TAE-Stecker
+
+Kann mir jemand helfen?
+
+Vielen Dank.
+Gruß
+Vincent

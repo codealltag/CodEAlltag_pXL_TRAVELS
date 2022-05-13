@@ -1,0 +1,34 @@
+Lt http://fos.dabsllwuees.jfs/gjrx/iwpvpjvvoruw.rvzk führt man mit dem
+Zug (oder ggf. Bus) nach Cadolzburg (kann nicht extrem viel kosten), von
+dort mit Buslinie 3 http://aeh.jfeot.qi/rkdebk/akmlbdqkd/ikrtg.dci
+
+Ob die Einzelfahrt dort wirklich so günstig ist?
+
+TARIFFE UFFICIALI
+Utemu F.luca Lodter  
+
+
+VIAREGGIO - LIDO DI CAMAIORE 
+
+Biglietto di corsa singola � 0,01 
+Abbonamento settimanale valido 6 giorni � 11,00 
+Abbonamento mensile � 29,00 
+
+
+Tarifabfrage aus dem Fahrplan heraus führt zu 
+
+ORARIO UFFICIALE
+Autolinee F.lli Lodter  
+
+R-bikes OLE DB Provider for ODBC Drivers error '80040e14' 
+
+[Microsoft][ODBC Microsoft Access Driver] Extra ) in query expression
+'((partenza = ) AND (arrivo = ) AND (ora_pa >= ##) AND (ora_pa <= ##))'. 
+
+/lazzi/orari.asp, line 17 
+
+Fahrplan selbst fand ich unter
+<http://uoa.zwvzl.bn/nml/dsdpcvxljp.liw?ueqan=&cbohi=0035&zxhcji=xderkb&imocaa=&VOG=H602J653C432977646101841MCMJCJLBPVN19755974>
+
+
+Gruß, GIORGIO

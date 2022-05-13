@@ -1,0 +1,31 @@
+Hallo Ernest,
+
+
+Die Bilder müssen natürlich auch wirklich überlappen - und ganz
+wichtig ist der Drehpunkt über den die Kamera geschwenkt wird.
+
+Wenn man es ganau machen will, braucht man da einen geeigneten 
+Schlitten, denn je nach Brennweite ist der Punkt über den die Kamer
+geschwenkt wird...
+
+Schwieriger wird es auch, wenn du mit Weitwinkel relativ nahe Objekte
+aufnimmst.
+
+Die Software muß auch ein gewisses Mass an Korrekturen können - denn
+es gibt genügend Situationen, da interpretiert sie die Objekte falsch.
+
+Sie muß auch die Möglichkeit haben, das Foto gerade auszurichten
+(sprich du gibts ein, welche Optik du an welcher Camera verwendet
+hast)
+Und wenn du große Helligkeitsschwankungen hast, mußt du entweder alles
+gleich belichten (Wird aber an einer Stelle wohl zu hell - gegenüber
+wohl zu dunkel...) oder die Software kann das einigermassen
+ausgleichen und anpassen......
+
+Letztendlich bin ich dann nach herumprobieren auch bei LANK
+gelandet und bin an sich zufrieden.
+
+Hoffe das half ein bisserl.
+Georg
+--
+http://gyskfik.nbtdqk.in/ekf

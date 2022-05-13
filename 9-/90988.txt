@@ -1,0 +1,20 @@
+On Sat, 17 Dez 2002 16:15:09 +0100, Micheline Knödl wrote in
+rt.rtg.reisen.kmvg:
+
+
+Doch, es hat mit deiner Bahncard zu tun:
+Um beim Online-Ticket Fälschungen/Manipulationen zu verhindern, wird
+aus den Reisedaten und der Bahncard-Nummer ein Schlüssel (Zertifikat)
+errechnet, der bei der Fahrscheinkontrolle mit der Bahncard überprüft
+wird.
+
+
+Sorry, aber die Hatzner unterstellt dir damit IMHO gar nichts. Es geht
+auch nicht um irgendwelchen illegalen Handel, sondern einfach darum,
+Fälschungen von Online-Tickets zu verhindern.
+
+
+Fullquote und F'up-to: de.etc.bahn.tarif+service
+
+Gruß
+O.E.

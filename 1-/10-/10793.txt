@@ -1,0 +1,19 @@
+Das geht bei TB so:
+Du klickst LINKS den Newsgroupserver an.
+Dann siehst du: Filter erstellen.
+Dort dann NEU; einen Namen geben. IDEE: "Spinner Klaas Christen"
+Dann -> mindestens eine Bedingung erfüllen anklicken.
+Dann folgende Zeilen mit der PLUS eintragen:
+
+Betreff    enthält    IVO               -> löschen
+Von        enthält    Klaas Valentino    -> löschen
+Von        enthält    tmiTbfuri-Oksgmy  -> löschen
+Von        enthält    K.Ulf  -> löschen
+Betreff    enthält    K.Hans             -> löschen
+Von        enthält    Qgxkb-Olkbmt      -> löschen
+Von        enthält    Kuv Walter        -> löschen
+Von        enthält    Axkai-Sxjbxb      -> löschen
+Von        enthält    Plzmpuftfucg      -> löschen
+
+Das löscht zwar erst einmal nicht die alten, aber neue die kommen, sind weg.
+Kannst du auch jederzeit erweitern.

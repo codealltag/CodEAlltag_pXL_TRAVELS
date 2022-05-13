@@ -1,0 +1,3 @@
+Stimmt so nicht. Flash-Speicher können durch _starke_ Röntgenstrahlung 
+gelöscht bis beschädigt werden. Allerdings sind die nötigen Intensitäten 
+um Größenordnungen höher als das, was Flughafen-Scanner ausspucken.

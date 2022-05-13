@@ -1,0 +1,36 @@
+Thomas Rayss <maxc@nheorbo.qt> wrote:
+
+Hallo,
+
+
+Wenn Du schreibst, dass Ladegeraete, die nicht mit 110 V umgehen
+koennen, _Schnee von vorgestern_ seien, dann halte ich dem einfach
+entgegen, dass es sich bei Ladegeraeten fuer LiIonen-Akkus um die
+neueste Technologie handelt, und dass es sicher Gruende dafuer gibt,
+dass diese nur mit 220 V laufen. 
+
+Mich eigentlich auch, aber ich habe kein einziges Ladegeraet auf dem
+deutschen Markt gefunden, das auch mit 110 V zu betreiben waere, und ich
+gehe einmal davon aus, dass - wenn 230 drauf steht, auch 230 V benoetigt
+werden, ansonsten haetten die das wohl drauf geschrieben.
+Aber wie Du meinst, dann
+
+Eben das war meine urspruengliche Frage, und darauf hast weder Du noch
+irgendjemand hier geantwortet.
+
+Nochmal ganz klar und verstaendlich:
+1. Ich gehe davon aus, dass es z.Zt. (zumindest in Dtld.) keine
+Netzgeraete gibt, die separate LiIonen-Akkulader mit 110 V betreiben
+koennen.
+2. Sollte ich dann einen (schweren) Trafo hier kaufen und mitschleppen
+oder
+3. einen dieser Power Converter in USA, kaufen, die in einem frueheren
+Thread in dieser NG diskutiert wurden, wo aber keine Einigkeit bzgl.
+Leistungsfaehigkeit etc. hergestellt werden konnte. We hat Erfahrung mit
+so was?
+
+Gruss Ottmar
+
+-- 
+Ottmar Trucksäß
+zugzhr@tbf.hh

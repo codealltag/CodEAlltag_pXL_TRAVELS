@@ -1,0 +1,51 @@
+Geht einfach mit dem Fremdcanceln.
+Ganz frisch aus dem Eulenspiegelarchiv:
+
+Foha
+FAQ Nr 7: Kennst Du Cancel?
+Verfasser: Theodor Ertle
+in <news: oa.kcfodxhy.tzahjhicq>
+
+
+Kennst Du Cancel?
+Manchmal möchte ein User seinen Artikel, egal aus welchen Gründen,
+wieder aus dem Usenet entfernen. Auf Fragen, wie man das macht,
+kommt häufig keine befriedigende Antwort und sogenannte "Regulars"
+machen nur geheimnisvolle Andeutungen über diese Cancelei.
+Dabei geht es eigentlich ganz einfach und man kann es in de.test
+ausprobieren.
+Du "sagst" Deinem Newsreader, dass Du diesen, von Dir geschriebenen,
+Artikel wieder canceln willst.:
+Bei Netscape nach Rechtsclick auf die Nachricht wählst Du
+"Nachricht abbrechen".
+Bei Gietz findest Du unter dem Menüeintrag "Nachricht" den Punkt
+"Nachricht abbrechen" bzw  "Nachricht widerrufen".
+Bei anderen Newsreadern heißt das Men auch "Post", "Article" oder
+"Message2 und man muss "Cancel" bzw "Cancel Usenet Message"
+wählen.
+Um zu checken, ob der Cancel ausgeführt wurde, lösche das Posting
+auch in Deinem Newsreader. Danach versuche, das Posting mit der
+Message ID des gelöschten, neu vom Server zu holen.
+Du kannst auch bei zosmqvrhmr.hsd.ja nachschauen, ob der Artikel
+noch vorhanden ist.
+
+Auf Fremdcancel betreffende Fragen werden unsere sogenannten
+^^^^^^^^^^^^^^^^
+"Regulars" noch einsilbiger. Sie meinen nämlich, dass das Wissen
+darüber nur ihnen selbst vorbehalten bleiben sollte. Es kommen dann
+Antworten wie: "Lass es lieber. / Das solltest Du erfahrenen Usern
+überlassen, die schon das Wissen haben und über die soziale
+Kompetenz verfügen; usw. 
+Willst Du einen Artikel canceln, der nicht von Dir stammt, musst Du
+Deinen Newsreader austricksen. Du machst ihm klar, dass der Artikel
+von Dir geschrieben wurde, indem Du die "From- bzw Senderzeile"
+fälscht.
+Wie man beim Canceln vorgeht, kannst Du auch aus dem Netz ziehen.
+Gib bei caveno in der erweiterten Suche unter <Finde Beiträge mit
+allen Worten> "Postings Canceln" oder auch "Fremcancel Faq" ein.
+Wähle "deutsch" und schränke auch den Zeitraum ein. Dann geht es
+leichter.
+^
+Immer zu Diensten
+Euer
+Ronny Fickweil

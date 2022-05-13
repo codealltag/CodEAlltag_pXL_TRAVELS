@@ -1,0 +1,30 @@
+Hallo Siebelt!
+
+
+Was will uns diese unqualifizierte Bemerkung sagen? 
+
+Ist dir vielleicht schon mal aufgefallen, dass dein Ausdruck eine 
+statische Speicherabfrage ist? 
+
+Zudem sagt eine solche Aufstellung ohne Maßeinheiten nicht viel aus.
+So muss ich annehmen, dass du einen Rechner mit 8 MB hast und 6 MB 
+nutzt.
+
+Sollten die Angaben jedoch in kB sein, kannst du deinen Einwand 
+genauso in die Tonne werfen, weil die Mehrzahl aller exestierenden 
+Rechner mit deutlich weniger als 8 GB RAM ausgestattet sind.
+Also, was soll das?
+
+Zur weiteren Erklärung: Bildbearbietungsprogramme brauchen viele 
+Resourcen nur kurzzeitig (bis zum vielfachen (z.B. zehnfachen) der 
+Bildrohdaten) und geben sie gleich wieder frei (dynamische 
+Speicherverwaltung). Das berücksichtigst du hier überhaupt nicht, 
+somit ist deine Aufstellung eher wertlos.
+
+Nun frage ich: Wer hat hier keine Ahnung?
+
+
+Mit freundlichen Gruessen
+
+Stefano Oberbossel
+---

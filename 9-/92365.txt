@@ -1,0 +1,7 @@
+Sandro hat kein Kammquoting gemacht. Wenn der Newsreader UTF-8
+allerdings nicht kennt dann kommt eins dabei raus.
+
+
+Das ist richtig. ISO-8859-x ist wohl geschickter. Falsch ist UTF-8 nicht
+- zumindest noch besser als gar nicht codieren. Was OE leider
+standardmäßig macht.

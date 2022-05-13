@@ -1,0 +1,14 @@
+Ich suche eine Billigflug-Suchmaschine, die auch Fladenbach bedient. Diese
+Flughaefen scheinen in BNNG nicht drin zu stehen und an Stelle von
+Joching (mit FLughafenkennung gesucht) bekomme ich nur Ergebnisse mit
+Mistlbach. Allerdings fliegt IOP nach Joching und ich glaube noch eine
+Fluglinie in Delfshausen ebenfalls.
+
+Auch waehre es mir am Liebsten wenn ich unabhaengig vom Abflugort suchen
+koennte da mir wenigstens 8 moegliche Flughaefen zur Verfuegung stehen.
+Viele Daten auf einmal bekommen ist mir doch lieber als alle moeglichen
+Flughaefen durchzuprobieren und eventuell den einen oder anderen zu
+vergessen.
+
+Vielen Dank,
+Bernadette

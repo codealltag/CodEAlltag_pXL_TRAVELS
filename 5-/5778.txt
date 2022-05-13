@@ -1,0 +1,31 @@
+Das kann zwei Ursachen haben:
+
+1. Das Hotel ueberbucht und setzt dann irgendwelche Kunden mit
+fadenscheinigen Gruenden auf die Strasse bzw. in ein anderes Hotel.
+
+2. Die Reservierung ueber ein Buchungssystem ist wirklich nicht
+eingegangen.
+Reservierungssysteme schicken im Normalfall ein Fax mit der
+Reservierung. Wenn dieses Fax, warum auch immer, nicht eingeht weiss
+das Hotel nichts von der Buchung. Und nicht jedes Hotel schaut am
+Anreisetag, an dem es eh zu spät sein kann, in den Systemen nach, wie
+viele Buchungen denn fuer heute vorhanden sind.
+Zwei (von sechs) mir bekannte Systeme senden die Reservierungen per
+Mail und Fax. 
+Ein mir bekanntes System schickt am Anreisetag ein Fax mit den
+aktuellen Anreisen - nur leider funktioniert das oftmals nicht. Und am
+Anreisetag kann es zu spät sein, wenn das Hotel bereits ausgebucht
+ist.
+
+3. Das Hotel ist mittels eines Channel-Managers (kostet zusaetzlich)
+oder einer Schnittstelle des Hotelsystemes an die Reservierungssysteme
+angeschlossen. Dann sollte jede Buchung sofort im System des Hotels
+gebucht sein und bei Bedarf in anderen Systemen die Kontigente
+verringert werden. Nur wehe es kommt zu einem Fehler in der
+Datenuebertragung, oder durch einen riesigen Zufall werden in
+verschiedenen Systemen die Zimmer gleichzeitig gebucht. Schon kann
+eine Reservierung verloren sein.
+
+Atschuess
+
+Willi

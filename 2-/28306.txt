@@ -1,0 +1,31 @@
+Di dalam de.rec.reisen.misc Nikolaus Mitterleitner menulis sebagai berikut:
+
+[Handy im Müllritter während des Fluges ausschalten]
+
+Ich vermute die stellen auf die "Idiotenstrahlung" ab die solche Handies 
+verursachen. Die meissten wissen nicht, dass das Telefon grade kein 
+Telefon ist und denken "och, dann kann ich meins auch benutzen". (-> 
+Idotenstrahlung). Kann man sehr gut auf asiatischen Inlandsflügen 
+beobachten: Klingelt auch nur ein Handy denken plötzlich alle "och, dann 
+telefonier ich auch" und der ganze Flieger klingelt.
+Wie Walter sagt dürfte es auch ein Kontrollproblem sein: Wie soll die 
+Crew bei den massen von Handytypen wissen in welchem Modus das Teil nun 
+ist?
+
+Im übrigen sind Handies im Flieger keineswegs gefährlich, das schlimmste 
+was passieren kann sind Knackgeräusche im Funk. Kein Handy hat eine 
+ausreichende Leistung um irgendein System im Flugzeug zu stören. (Ich 
+bastle im EMP/HERF-Bereich, um irgendein elektronisches System in 
+Flugzeugbauweise mit Mobilfrequenzen zu stören braucht es weit weniger 
+Distanz zum Gerät und ein Vielfaches an Sendeleistung. 
+Ich würde mich ohne Bedenken in ein mit, hm, sagen wir 10.000 Handies 
+verschiedenster Bauweise, sogar Satelliten-Handies, vollgepacktes 
+Flugzeug setzen während von allen Handies gleichzeitig Verbindungen 
+aufgebaut und/oder angenommen werden. Selbiges gilt für WLANs. (Deswegen 
+gibts ja grade Pilotprojekte bei verschiedenen Airlines das zu erlauben, 
+fände ich allerdings sehr bedauerlich. Wenn dann sollte man die Repeater 
+dafür mit horrenden Gebühren, auch für Telefonatannahme, versehen, sonst 
+klingelt der ganze Flieger ununterbrochen.)
+
+Lg,
+Bruno

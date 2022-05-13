@@ -1,0 +1,9 @@
+Hallo Veit,
+nein, eigentlich nicht (Javascript gehns) Die Links sind einfachste Zugriffe auf
+eine Datenbank ( mySQL, die dann die Seite aufbaut. Im Menu gibt es JavaScript,
+aber soweit kommen einige ja garnicht...r�tselrum.
+Ich kontrolliere auch ständig die Kompabilität mit Plieth + Firefox auf Mac+PC.
+Schon mal "copy+paste" probiert?
+Auf jeden Fall schon mal Dank für die Rückmeldung.
+grüsse
+carlo

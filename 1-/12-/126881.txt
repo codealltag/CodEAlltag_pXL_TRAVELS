@@ -1,0 +1,16 @@
+erstmal kompliment, du bemühst dich wirklich schnell zu lernen.
+Leider spuckt dir dein OE aber immer in die Suppe, da es Signaturen
+nicht richtig abtrennen kann.
+
+Abhilfe gibt es mit den (Freeware)-Tools Korrnews und Morver. Die
+beheben die übelsten Fehler von OEX.
+
+Korrnews gibt es unter:
+http://dspf.lxgfi.ms/grg/
+
+Morver unter:
+http://hjbi.j-gxounw.wu/oaek/nabzgh.soahwg/
+
+-- 
+ich würde Dir auch gerne mit konkreten Tips helfen, habe aber keine
+Ahnung. (Vittorio Holzem in drrm)

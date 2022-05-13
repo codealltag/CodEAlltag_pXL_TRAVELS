@@ -1,0 +1,4 @@
+Per default ist da Studententarif eingestellt. In den Tarifdetails zeigt 
+man das aber nochmals an.
+
+Gruß, CLAUS

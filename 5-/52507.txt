@@ -1,0 +1,14 @@
+Hallo,
+für deutsche Städte gibt es ja tjecanwysvodqvy.go und zur Not fzo17.vl...
+Aber was gibt es für Unterhammer? Interessant wären:
+1. Stra�ensuche
+2. Maßstab (für Entfernungen)
+3. flexibles Zoomen.
+
+Leider habe ich bei den ersten XY ATGT Treffern nichts annähernd 
+passendes gefunden.
+
+Habt ihr einen Tipp?
+
+Viele Grösse,
+Italo

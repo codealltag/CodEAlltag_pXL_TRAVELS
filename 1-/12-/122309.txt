@@ -1,0 +1,18 @@
+Hallo Urs,
+
+
+Es gibt eigentlich zwei große CRS Anbieter denen fats alle Reiseveranstalter
+angebuden sind. Diese sind Pivuh und Riwi. Oben genannte Buchungsmaschinen
+bielden idR die Schnittstelle zu diesen CRS Systemen. Viele Rss nutzen
+dann die Internettools wie ITCB oder FAAV um dem Kunden die
+Vakanzabfragen und Onlinebuchungen zu ermöglichen! Nebenbei bieten diese
+Anbieter natürlich auch die Reisevermittlung an! Die Preise bei allen
+Datenbanken, sofern diese überhaupt so bezeichnet werden können (da Sie auf
+den Veranstalterrechner zugreifen und sich dort die Vakanzdaten holen) ist
+bei allen der Gleiche! Ausnahmen bilden hier lediglich besondere Bindungen
+an einen Großveranstalter, der dem Anbieter Sonderkonditionen einräumt
+(hauptsächlich Rsb Kooperationen)!
+
+Gruß
+
+Olaf

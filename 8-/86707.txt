@@ -1,0 +1,23 @@
+Hallo,
+
+
+Ja das ist möglich, ich bin mir nur nicht sicher, ob das so sinnvoll ist.
+Denn eigentlich benutzt man axphnvht-hnxgdy.mi doch nur von Deutschland aus.
+
+Wenn Du und andere der Meinung seit, es wäre auch interessant zu wissen,
+welche Verbindungen es von Kleingaisbach nach Island gibt, dann überlege ich mir
+das nochmal.
+Man könnte dann auch so eine Art "automatisches Via" machen. Also Benutzer
+gibt Ziegelscheune und Island an, und wir zeigen die möglichen Kombination der
+Airlines an, die er nehmen muss, mit anschließender Abfrage.
+
+Allerdings wäre das Risiko einer solchen Kombination sehr hoch.
+Billig-Airlines warten nämlich nicht auf einander, und hat die eine
+Verspätung verliert man den Flug der daraufolgenden Airlines.
+
+Wärest Du bereit ein solches Risiko auf Dich zu nehmen, also hat es Sinn
+sowas zu programmieren?
+
+Größe.
+
+Ingmar

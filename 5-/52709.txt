@@ -1,0 +1,6 @@
+Vorsicht!
+Die Website von "Pollner" versucht etwas ganz merkwürdiges, wenn ich sie 
+aufrufe wird versucht ein Programm zu starten und es gibt eine 
+Fehlermeldung "in Laufwerk .. befindet sich kein Datenträger".
+Ich würde sagen, Finger weg von der Seite, der Sicherheit zuliebe.
+Gruß Benedikt

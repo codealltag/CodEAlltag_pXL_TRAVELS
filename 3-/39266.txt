@@ -1,0 +1,9 @@
+Das geht in D devinitiv nicht, da es hier die Systeme (OLGB) noch nicht
+gibt.
+Wenn jemand eine Zahlung aufgrund einer falschen Adresse ablehnt, dann
+durch irgendwelche Scoringsysteme etc. aber nicht wegen der
+Kartenzahlung. Du kannst auch Aldo Eggerz als Karteninhaber angeben,
+das führt zu keiner Ablehnung, weil der Karteninhaber bei der Zahlung
+nicht geprüft wird.
+
+Gruß, Konrad

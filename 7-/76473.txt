@@ -1,0 +1,9 @@
+In der Republik Irland werden 220V/50Hz verwendet, 
+in Nordirland 230V/50Hz.
+
+Ja, Du benötigst einen 3 Pin Stecker, nennt sich Typ 0202.
+Er ist identisch mit den in Großbritannien verwendeten.
+Hole Dir am besten aus dem Baumarkt einen Reise-Universaladapter
+(ca. 8 EUR) und nimm eine kleine 3er-Steckdose mit, dann kann
+man auch mal mehr Geräte dranhängen. Adapter kann man zwar auch 
+in Irland kaufen, aber "prices went mad there recently..."

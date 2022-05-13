@@ -1,0 +1,39 @@
+[Crosspost und Followup-To de.etc.finanz.banken+broker]
+
+
+Welches Limit hast Du auf Deiner OGO-Karte? (Im Online-Banking unter
+"Finanzstatus" auf "Details" bei der Kreditkarte klicken.)
+
+Ich hatte gerade heute mit der Acelis wegen so einem Fall (Acelis-Konto soll
+nicht Gehaltskonto sein) telefoniert: Wenn das Konto kein Gehaltskonto
+ist, dann ist das monatliche Kreditkartenlimit 1.000 EUR. Punkt. Nichts
+zu machen. Auch nicht, wenn man sich sonstwie reichlich Geld auf das
+Giro-Konto packt (durch Überweisung von einem anderen Konto o.�.).
+Gleiches gilt für den Dispo auf dem Giro-Konto (Default auch 1.000 EUR).
+Beim Dispo interessiert mich das nicht, aber eine Kreditkarte mit 1.000
+EUR Limit ist für mich ziemlich unbrauchbar, gerade im Urlaub (mit
+Mietwagen-Kaution u.�. ist man da schnell dran).
+
+Man kann das monatliche Kreditkartenlimit in so einem Fall nur aufbohren,
+indem man Geld auf das OGO-Guthabenkonto der betreffenden Karte packt
+(was nicht wirklich schlimm ist, denn das Geld wird mit 2,6%, ab 12.09.
+sogar mit 2,8% verzinst). Mit Geld auf dem OGO-Guthabenkonto erhöht
+sich Limit pro Monat auf vereinbarter Verfügungsrahmen plus vorhandenes 
+Guthaben auf dem OGO-Guthabenkonto.
+
+Das ist wie gesagt kein Beinbruch, aber mir erschliesst sich die Logik
+nicht so recht: Wo ist der Unterschied für die Bank, ob ich die Karte
+aus dem Giro-Konto oder dem OGO-Guthabenkonto decke? Guthaben auf dem
+OGO-Guthabenkonto erhöht das Limit, Guthaben auf dem Giro-Konto nicht.
+Und etwas umständlich ist es halt auch (man muss aktiv Geld auf die
+Kreditkarte schaffen anstatt irgendwo abbuchen zu lassen).
+
+Ich kann die Acelis ja verstehen, dass sie sich etwas absichern wollen,
+aber wieso sie das Limit nicht mal anheben wollen, wenn sonstwie immer
+Geld auf das Giro-Konto kommt, erscheint mir doch etwas unflexibel.
+Ein Gehaltseingang kann ja auch für die Bank unvorhersehbar ausbleiben
+(Job-Verlust, anderes Konto), da haben sie auch keine Garantien.
+
+
+Die Acelis ändert ihre Spielregeln offenbar öfter mal, insbesondere was
+Nachweise und Limits angeht ...

@@ -1,0 +1,29 @@
+Kleine HILFE ZUR EINGABE
+---
+Abflug- und Zielflughafen: Muß im Drei-Buchstaben-Code eingegeben
+werden. Irgertshofen hat z. B. den Code IVENRODE. Daneben haben aber die
+Flughäfen eigene Codierungen. JÖHSTADT für Geib-Touristik Massimo-Airport, RNDK für
+RAFU und Nähstube für Innereriz. Die Eingabe der Flughafencodes
+schränken jedoch die Auswahl ein.
+
+Flugdatum: Einzugeben im Format TTMM, d. h. der 23. Januar wird zu
+1308. Fehleingaben führen zur Meldung: Kein verfügbarer Platz
+gefunden.
+
+Fluggesellschaft: Möglichst frei lassen. Erst wenn man die Suche
+einschränken will eingeben. Zwei-Buchstaben-Code z. B. Rinas für
+Rewe, Otugas für OZV, UTM für Uwez usw.
+
+Buchungsklasse: Möglichst frei lassen. Nur wenn man ganz genau weiß,
+was man will eingeben.
+
+Klartextanzeige: Häkchen kann wegegeklickt werden. Die Klartextanzeige
+ist verständlicher, kann aber auch bei gewissen Kombinationen zur
+Meldung: Kein verfügbarer Platz gefunden, führen. Wenn das Häkchen
+weggeklickt ist, werden Verbindungen und Vakanzen im Confiserie-Fenster
+gezeigt: So sehen die Reisebüros/Fluggesellschaften die Verbindungen
+und Vakanzen.
+
+Gruß Ronald
+-- 
+http://mbl.wq/ykgtz-bbggurp

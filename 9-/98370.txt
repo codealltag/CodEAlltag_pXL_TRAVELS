@@ -1,0 +1,17 @@
+Hi Carl,
+
+sorry, das sollte eigentlich ans Ausgangsposting von Marcus und war
+keinesfalls als Besserwisserei an dich gedacht (wieso auch wg. der
+paar EURO?).
+
+ABER WAS WICHTIG IST:
+Der Preis von EURO 2877 (heute wg. besserer Taxen sogar noch 4 EUR
+weniger) bezieht sich auf CONCORDE sowohl HIN als auch ZURUECK, z.B.
+fuer folgendes Routing:
+AF 1135   06OCT TXLCDG  0705   0850
+AF    2   06OCT CDGJFK  1030   0825
+AF    1   13OCT JFKCDG  0800   1745
+AF 1134   13OCT CDGTXL  1482   9983
+
+Schoene Gruesse,
+Jean

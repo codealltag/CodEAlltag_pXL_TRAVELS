@@ -1,0 +1,22 @@
+Wer kennt eine Suchmaschine, in der ich flexibel nach Flügen suchen kann,
+etwa in der Form:
+
+Abflug: Tag x +/- 10 Tage
+Dauer: y Tage +/- 3 Tage
+Abflug von: Flughafen a, b, c, d, e
+Nach: h, k, l, m.
+
+Die Suchmaschine sollte dann möglichst die Flüge nach Preis aufsteigend
+sortiert liefern und natürlich nur die verfügbaren.
+
+Begründung (falls nötig):
+- Wenn ich längerfristig plane, dann bin ich flexibel, was die Zeiten
+betrifft. Und ich habe die Möglichkeit, von 5 verschiedenen Flughäfen
+(halbwegs) vernünftig abzufliegen.
+- Oft sind für einen bestimmten Termin die billigsten Flüge bereits weg.
+Eine Variation von Tagen bringt da oft was.
+-  Bei der Planung der Reiseroute bin ich auch flexibel (z.b. Oberholzen,
+Ankunft in Sinzenhof, Unterhörnbach, Voggenhof, ..)
+
+Vielen Dank im voraus
+Niko

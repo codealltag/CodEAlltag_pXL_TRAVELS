@@ -1,0 +1,13 @@
+Zudem wird auf der Route nach Westen auch immer versucht eben diesen 
+Jetstreams auszuweichen, was so gesehen dann optimal ist, aber eben auch 
+Zeit kostet. Das erklaert dann mitunter auch den etwas merkwuerdige 
+Flugstreckenverlauf gerade auf den Reise Richtung USA. Eines dieser Systeme, 
+welches sich dafuer verantwortlich zeichnet, ist glaube ich das NATS, also 
+das North Atlantic Track System. Dieses optimiert die Flugverlaeufe taeglich 
+und das Gerangel ist natuerlich gross, denn jede Airline moechte natuerlich 
+aus Kostengruenden eine moeglichst optimale Route erhalten. In der Paxis 
+sind dann dann Kompromiss-Loesungen.
+
+
+Gruss,
+          Engelbert

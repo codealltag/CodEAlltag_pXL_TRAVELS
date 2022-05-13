@@ -1,0 +1,11 @@
+Oh, da wär' ich vorsichtig... Ich versuche gerade, die Situation nachzu-
+spielen, dass der Wecker kein Funksignal erhält (z.B. in der Nähe einer 
+Störquelle). Und meiner (alte Version) versucht nun schon seit 30 Minuten 
+sich zu stellen (nachdem die Batterie entfernt wurde), wobei es auch nicht 
+möglich ist, die Zeit manuell einzustellen.
+
+Aber der Batteriewechsel müsste halt nur ziemlich schnell passieren (ca. 2 
+Sekunden), dann sollte er die Zeit behalten!
+
+Mfg
+Willi

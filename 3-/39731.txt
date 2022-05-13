@@ -1,0 +1,21 @@
+Hallo,
+
+frage mal in lj.rxxz.anbieter.mobil nach, dort sitzen die Freaks.
+Erwähne dann aber:
+
+a) welches Netz nutzt Du zum Versenden?
+b) Bist Du bei einem Provider (Undercut, MAKE etc. oder hast Du
+einen "Original-Vertrag" bei D1, D2 usw.?)
+c) in welchem US-Netz sitzt der Empfänger?
+
+Ich habe von dem Phänomen noch nicht gehört. Entweder die beiden
+Anbieter haben ein Roamingabkommen (oder ggf. SMS Interconnect), dann
+ist der SMS-Austausch möglich, oder es geht nicht.
+
+Vielleicht hat Dein Empfänger aber auch gar kein GSM-Handy? D1 z.B.
+erlaubt auch den Versand an amerikanische non-GSM Netze, also z.B.
+TDMA, oder auch Pager. Vielleicht können die keine 160 Zeichen, und
+deshalb wird abgeschnitten?
+
+Gruss,
+Eckhard

@@ -1,0 +1,18 @@
+Ich konnte letztes Jahr meine Buchungen/Reservierungen recht problemlos
+über Internet (http://dsl.rmclk.en.yn/) vornehmen. Man muß sich allerdings
+registrieren für ein Login, und es wird ein (sehr geringer, 10 Rupien oder
+sowas) Zuschlag für die Internetbuchung erhoben. Zahlen kann man mit Kredit-
+karte.
+
+Die Bedienoberfläche ist ein wenig gewöhnungsbedürftig, da man zuerst die 
+Wagenklasse (wovon es immerhin 7 gibt) auswählen muß und dann Zugverbindungen 
+angezeigt bekommt, in denen freie Plätze dieser Klasse vorhanden sind.
+
+Man kann sich dort auch die Anzahl verfügbarer Plätze für bestimmte Tage
+anzeigen lassen und so mal vorher abschätzen, wie lange im voraus man eine
+bestimmte Verbindung buchen sollte. Das scheint sich je nach Verbindung
+sehr stark zu unterscheiden (so könnten auch die widersprüchlichen Aussagen
+zustandekommen, von denen du schreibst) - manches ist für die nächsten zwei 
+Wochen im wesentlichen "dicht", anderes wäre für morgen problemlos buchbar.
+
+... Christian

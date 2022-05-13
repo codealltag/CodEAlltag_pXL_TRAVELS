@@ -1,0 +1,13 @@
+KK? Du meinst sicher Maestro et al, oder?
+Eine Marge auf dem interbank spot Kurs wirst du aber immer
+noch am Automat zahlen, meist auch einen festen Abhebegebühr
+(außer dein Bank hat einen Partner dort).
+So gesehen hat der OP theoretisch recht. Es ist nur so, daß die
+Marge bei EUR/USD besonders gering ist, typischerweise nur so
+1,5 bis 2%. Wenn man auf diesem kleinen Verlust achtet, so sind
+die täglichen oder stundlichen Schwankungen im Wechselkurs
+mindestens genau so wichtig, so wie die Vereinbarung genau
+welche Kurs man nimmt (Pitterle wurde sicher vieles anbieten -
+es sollte schon eins sein der in beiden Richtungen gleich ist).
+
+Lothar

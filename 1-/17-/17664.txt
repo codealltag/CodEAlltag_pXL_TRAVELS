@@ -1,0 +1,18 @@
+Nennt sich Yield Management. Das ist zwar das Modell, nach dem Preise 
+gebildet werden, es hilft aber nicht wirklich bei der Vorhersage eines 
+guten Kaufzeitpunktes, weil man üblicherweise weder die genauen Regeln 
+noch die genauen Parameter und ihre Werte kennen...
+Und es gibt ja zu einem Zeitpunkt nicht nur einen Preis für einen Flug, 
+sondern viele, deren Verfügbarkeit wiederum an allerlei Bedingungen 
+(neben reiner Nachfrage) geknüpft ist. Auch läuft das natürlich nicht 
+streng regelbasiert, sowas wie Sonderaktionen sind ja auch nicht die 
+Ausnahme...
+Letztendlich hilft ein gewisses Grundverständnis der Preisbildung im 
+Luftfahrtwesen (was sind Tarife, Buchungsklassen, Routings etc.), 
+Beobachtung des Marktes und ein bischen Erfahrung um schöne und 
+bezahlbare Reisen zu machen. Nach meiner Vorstellung sollte genau das 
+ein gutes Reisebüro bieten, scheint sich aber abseits von engen Nischen 
+kaum zu lohnen.
+
+Gruß,
+Leopold

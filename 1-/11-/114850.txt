@@ -1,0 +1,12 @@
+Hallo Paolo,
+während die Buchungsklassen der Vollzahler-Tarif normalerweise einheitlich F,C
+und Y sind, ist der Phantasie der Airlines bei den etlichen
+Sondertarif-Klassen keine Grenzen gesetzt, und ich frage mich manchmal, ob sie
+da selbst noch den Überblick haben.  Das kann besonders ärgerlich sein, wenn
+bestimmte Buchungsklassen bei den Vielfliegerprogrammen nicht angerechnet
+werden. Im Prinzip ist die Klasse umso 'schlechter', je billiger das Ticket
+ist, aber immer stimmt das auch nicht immer. Gelegentlich finden sich auf den
+Homepages der Airlines mehr oder weniger versteckte Infos darüber.
+Direkt hinter/an der Flugnummer kommt mir seltsam vor, müßte eigentlich unter
+'class' stehen.
+Gruß, René

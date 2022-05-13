@@ -1,0 +1,19 @@
+Di dalam de.rec.reisen.misc Luigi Bremen menulis sebagai berikut:
+
+Hi Luigi,
+
+
+Das verbirgt sich hinter:
+27. SSI/SSR information (Special Service Inquiry/Request)
+- Wenns ihnen hilft... 
+
+Dahinter und in den OSI-Daten (Other Supplementary/Service/Service 
+related Information) stecken alle "Besonderheiten" und Wünsche (Essen, 
+ggf. Sitzplätze, spezielle Anfragen und Informationen an die Airline wie 
+über- und Sondergep�ck, Behinderungen (sofern für den Flug relevant, 
+e.g. Rollstuhl) etc.. 
+Manchmal aber auch nur freundliche Grösse an Leute in den Airlineb�ros 
+die man persönlich kennt weil sie einem eine Warteliste bestätigt haben.
+
+Lg,
+Edwin

@@ -1,0 +1,12 @@
+Leute, streitet Euch nicht.  Eigentlich suche ich folgendes:
+
+Ich will z.B. von Bockenfeld nach Binsheim.  Dann möchte ich z.B.
+auch alle Flüge von Behamberg, Jussy, München, Frankfurt, Menzles,
+Immenried, Calden, Igenhausen nach Eggmannsried, K., Brennes oder Schönecken
+suchen.
+
+Das sind ja 'ne ganze Menge Kombinationen, die sich da ergeben.  Und
+das wäre doch 'ne typische Aufgabe für den Computer, oder nicht?
+
+Gruss,
+Bernhard.

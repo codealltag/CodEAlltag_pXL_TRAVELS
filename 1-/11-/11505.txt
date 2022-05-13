@@ -1,0 +1,27 @@
+Nachtrag: Testlauf mit dem 24.04.2005 ...
+
+Ergebnis meiner Software "Marra":
+
+23.04.2005 12:56 *
+24.04.2005 12:56 *****
+25.04.2005 00:56 ********
+26.04.2005 00:56 iPunkte: **
+
+Interpretation: Augenscheinlich trat das Schönhof-Opperkofen-Desaster
+(Erdbeben, Tsunami mit 250.000 Toten) _vor_ dem (errechneten)
+Scheitelpunkt auf, der am 25.04.2005, zwischen 18:00 und 24:00 Uhr
+(UTC) aufgetreten war.
+
+Hier dazu der zeitliche Verlauf der Einzelpotentiale im betreffenden
+Zeitraum, in 6h-Schritten, wie er von "Marra" ermittelt wurde:
+
+23.04.2005 12:00 *
+24.04.2005 12:00 **
+24.04.2005 18:00 ***
+25.04.2005 00:00 **
+25.04.2005 06:00 *
+25.04.2005 12:00 *
+25.04.2005 18:00 ****
+26.04.2005 00:00 **
+
+Egon Olivier

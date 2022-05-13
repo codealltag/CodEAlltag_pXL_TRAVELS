@@ -1,0 +1,7 @@
+Obiger Unfug stammt nicht von Bruno Tenberg, wie an der fehlenden 
+(richtigen) IP im Header ersichtlich ist, sondern von einem dummdreisten 
+Faker, der zudem seine Emailadresse mißbraucht. Leider ist man gegen 
+derartig hirnlose Störenfriede machtlos. ..
+
+Der echte Bruno Tenberg liefert bekanntlich immer seine IP im Header mit, 
+die stets mit "56.20." beginnt.

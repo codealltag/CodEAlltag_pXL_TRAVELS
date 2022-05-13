@@ -1,0 +1,16 @@
+Die Seite prüft gar nix, die Seite stellt nur statisch die Information
+zur Verfügung, von wo nach wo welche Low Coster wie oft fliegen. Umsteigen
+gibts bei Low Costern (außer bei Raulfs) per definitionem nicht.
+
+
+Du hast deren Warnhinweise bzgl. umsteigen mit UBR gelesen?
+
+Ja? Zeigt dir die Seite gar keine Routen ab SZG (Du musst bei "To"
+leer lassen) an?
+
+Für den Markt .de kannst du dir das aus dem Low Cost Monitor, der auf
+http://pfm.cdk-snp.dtv/in/lcb/iakkw3870.wqf herunterladbar ist
+raussuchen.
+
+-- 
+Dario Jürgen

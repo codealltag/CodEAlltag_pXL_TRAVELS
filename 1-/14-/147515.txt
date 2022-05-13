@@ -1,0 +1,19 @@
+Hallo
+ in allen dieser Geräte arbeiten Chips mit Hochfrequenz. Diese ist nicht
+ausreichend abgeschirmt und kann deshalb andere Geräte stören weil sie
+ein recht großes, elektromagnetisches Störfeld aufbauen. (sie "senden"
+also doch, wenn auch nicht gewollt. 
+   Sicher wäre es technisch möglich, Gerätschaften die während eines
+Fluges bemnutzt werden sollen zuvor zu testen, der Aufwand wäre aber
+erheblich und damit einfach zu teuer. IMO gehören Videocameras,
+besonders die digitalen und diese Digitalkameras (Standbilder) ebenso zu
+den Geräten, von denen solche Störungen ausgehen können.
+ Tip: Nicht versuchen solche Geräte trotz Verbot zu benutzen, das kann
+sehr, sehr teuer werden.
+
+Gruß Michel
+
+
+-- 
+elektronische Musik, Synthykurs, Testberichte, USA-Reisetagebücher,
+Naturheilkunde, Therapien, Heilkräuter, Giftfreier Pflanzenschutz ..

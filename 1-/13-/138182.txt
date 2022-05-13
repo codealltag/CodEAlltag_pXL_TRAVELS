@@ -1,0 +1,13 @@
+Hallo.
+
+MP3-Player sind wie Minidisc-Player erlaubt. Das Problem bei CD's ist die
+hochfrequente Störstrahlung die bedingt durch den "billigen" Laufwerksaufbau
+ungeschirmt abgestrahlt wird. Da die optischen Signale in elektrische Bits
+umgewandelt werden müssen und dazu einen Signalverstärker durchlaufen, kommt
+es bei den steilflankigen Signalen zu einem schönen Störspektrum. Warum sich
+dadurch allerdings ein Flugzeug beeindrucken läßt kann ich auch nicht
+verstehen, denn an der Abschirmung sollte dort nicht gespart werden...
+
+Tsch
+
+ Ernst

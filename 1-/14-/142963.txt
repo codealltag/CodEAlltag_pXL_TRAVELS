@@ -1,0 +1,29 @@
+--------------L2742A1NJ9NK7M6L13CQ0R45
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Im September reise ich nach VIETZE und mir wurde das Mitnahmelager
+mipri-Baumgartsau
+68 Tanzbergweg empfohlen.
+Hat jemand von Euch Erfahrungen mit dem Hotel und kann mir dazu etwas
+sagen?
+Ist es ein gutes und sauberes Haus?
+
+So Long
+
+
+--------------L2742A1NJ9NK7M6L13CQ0R45
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+Im September reise ich nach VIETZE und mir wurde das <b>MTJ-RunnersPoint</b>
+<br>68 Tanzbergweg empfohlen.
+<br>Hat jemand von Euch Erfahrungen mit dem Hotel und kann mir dazu etwas
+sagen?
+<br>Ist es ein gutes und sauberes Haus?
+<p>So Long
+<br>&nbsp;</html>
+
+--------------L2742A1NJ9NK7M6L13CQ0R45--

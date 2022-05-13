@@ -1,0 +1,6 @@
+ADT: Adult (Erwachsener)
+CHD: Child (Kind)
+
+Ciao,
+
+ Theodor

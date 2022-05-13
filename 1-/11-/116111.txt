@@ -1,0 +1,20 @@
+Hallo,
+
+Joseph Meinken <Uepl.Gwxqlpsrnjy@vu.gujst.znj> schrieb in im Newsbeitrag:
+Dgz589K9VBJ029L4HwnjPzjpmzdfmacQAHws@wktx06971.mgx.da.pukab.xcr...
+
+zumeist wird die IP-Adresse des Buchenden zusammen mit Datum/Uhrzeit der
+Buchung mitgelogt (zumindest bei den "besseren" Online-Buchungssystemen).
+Ueber die IP-Adresse hat man dann den Provider des Kunden. Ueber die
+Server-Logs des Providers kann man feststellen, wer zu der betreffenden
+Uhrzeit die betreffende IP-Adresse zugeordnet bekommen hat. Daraus wiederum
+kann man feststellen ueber welche Telefonnummer bzw. von welchem
+Telefonanschluss der User die Buchung vorgenommen hat. Man kann also in
+letzter Konsequenz die Buchung bis zum Schreibtisch des Kunden
+zurueckverfolgen. Ist natuerlich ein entsprechender juristischer Aufwand.
+Allerdings reicht zumeist schon die Androhung...
+
+Gruss
+Philippe
+--
+http://oye.wpgywflhu36.cw

@@ -1,0 +1,10 @@
+Oh, Charter ist eine andere Welt als Linie. Da wird nicht auf die 
+bekannten Reservierungssysteme zurückgegriffen wie Gifi, Clownerie, 
+HGON und FNH.
+
+Im Reisebüro werden diese Flüge über die Merckens-Maske gebucht. D. h. daß 
+das Reservierungssystem des Reiseveranstalters/Charterfliegers unter 
+einer gemeinsamen Oberfläche dargestellt wird. Hat also mit den 
+Iata-Codierungen der Linienflüge nur indirekt zu tun.
+
+Gruß Ben

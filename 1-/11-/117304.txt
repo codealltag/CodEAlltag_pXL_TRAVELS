@@ -1,0 +1,30 @@
+On 16. 06. 21 21:14:53 GMT, Remo Papenbroock <qsyk@jy.lm.rlp-nc.un> wrote:
+
+Hallio Remo,
+
+
+Das sollte es - von sehr wenigen, speziellen Ausnahmen abgesehen - 
+eigentlich nicht geben ;-)
+
+
+Ups, das ist ungewöhnlich und meines Erachtens im 'Normalfall'
+*nicht* zulässig. Normalerweise soll als Issuing Carrier die
+Fluggesellschaft angegeben werden, mit der der größte
+Teil der Strecke geflogen wird. Zumindest START/Bochara hätte 
+VGC die Ausstellung eines Ticket mit reinen FI-Flügen auf
+einem Emaillierwerk-Dokument 'verweigert' mit der Fehlermeldung
+"Invalid Ticketing Carrier".
+(alles oben genannte gilt, wenn das Ticket in
+Deutschland ausgestellt und gebucht wurde)
+
+Ist Dein Ticket per Hand ausgestellt?
+Ist Dein Ticket in Deutschland ausgestellt ?
+Wo wurde das Ticket gebucht (in Deutschland, direkt bei Emaillierwerk?)
+Welcher Tarif wird angewandt (Business, 'Super-Billig', IT-Tarif)
+Mir erscheint das Ganze etwas merkwürdig. 
+
+
+Wie gesagt, ich finde die oben genannte Kombination mit
+Ticketing Carrier LG und reinen FI-Strecken etwas -H- kurios.
+
+Gruesse, Leopold

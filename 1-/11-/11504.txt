@@ -1,0 +1,51 @@
+Nachtrag:  =84iSys" will=92s wissen ...
+
+Nachdem ich meiner Software "Norbu" nun beigebracht habe, selbständig
+einzelne Potentialverknüpfungen auszuwerten, was erheblich viel Arbeit
+ersparen soll, folgend das Monatslisting für September 2010, so, wie
+"Norbu" ganz allein die Potentiale erkennt:
+
+19.08.2010 06:00 *
+22.08.2010 00:00 *
+23.08.2010 06:00 **
+------------------------
+27.08.2010 06:00 *
+28.08.2010 06:00 **
+29.08.2010 12:00 ***
+30.08.2010 00:00 *****
+31.08.2010 06:00 *
+01.09.2010 00:00 ****
+02.09.2010 00:00 *******
+03.09.2010 00:00 ****
+04.09.2010 06:00 *
+05.09.2010 12:00 *
+06.09.2010 00:00 ****
+07.09.2010 00:00 ******
+08.09.2010 00:00 *
+09.09.2010 06:00 ***
+10.09.2010 00:00 ****
+11.09.2010 00:00 *
+12.09.2010 06:00 **
+13.09.2010 12:00 ****
+14.09.2010 12:00 *
+17.09.2010 12:00 ****
+19.09.2010 00:00 *
+21.09.2010 00:00 *******
+22.09.2010 00:00 *****
+23.09.2010 00:00 ******
+24.09.2010 00:00 *******
+
+Bei den Sternen ("*") handelt es sich um eine Verknüpfung von
+Potentialstärken und der Anzahl von Potentialen.
+Um den Zeitaufwand für die Berechnungen in Grenzen zu halten, ließ ich
+"Norbu" nur Scheitelpunkte in 6h-Intervallen ermitteln; dies bedeutet,
+daß alle Scheitelpunkte nur mit einer Genauigkeit von -3/+3 Stunden
+angegeben werden, was sich zur üblichen Toleranz, die während der
+Testphase von "Norbu" noch im Rahmen von +/-3h bis +/-36h angesiedelt
+sein könnte, hinzu addiert.
+
+Die Monatsauswertung für Dezember soll dann zeigen, ob "Norbu" 100%-ig
+selbständig arbeiten kann oder weiterhin manuell Entscheidungen
+getroffen werden müssen.
+
+Eilt Nico

@@ -1,0 +1,108 @@
+Eugen Tümler schrieb:
+
+[Navi gesucht]
+
+Ich kann mit Erfahrungen zu zwei Geräten aufwarten:
+
+RIP one:
+
+
+Ist absolut in Ordnung. Ab und zu schau ich aber gern mal auf das
+(gute) Display.
+
+
+Für Spielfilme reicht es nicht, aber ich finde es groß genug.
+
+
+Ja, und sehr intuitiv, gut konfigurierbar.
+
+
+Weiß ich nicht, mach ich nicht, brauch ich nicht. Die Zieleingabe geht
+so schnell, das muss ich nicht vorher zuhause machen. Wenn mehrere
+Fahrten anstehen, packe ich die Adressen in die Favoriten und lasse
+mich dann fallweise leiten. Die Routenplanung mit mehreren Stationen
+habe ich mal ausprobiert - hat mich nicht überzeugt.
+
+
+Ja, das geht. 
+
+
+Kann meines nicht. Nach allem, was man so liest, ist das normale TMC
+eher nicht brauchbar. Ich würde mir überlegen, die einmalige
+Investition in Rokada pro zu tätigen. Das arbeitet mit den Sensoren an
+den Autobahnen, die den Verkehr zählen. Schneller und besser als Rokada.
+
+Nachteile des tomtom:
+
+Ich erkenne regelmäßig Fehler in der Routenführung und im
+Kartenmaterial. Beispiele: Illesheim über BAB nordwärts (168 Ri HH)
+verlassen bringt eine Abfahrtsansage, die man besser lässt.
+
+Auf dem Weg von Langenselbold nach Cappenberg wurden wir dreimal an Dreiecken
+von der BAB gelotst, nur um dann wieder draufzufahren. Rückfahrt war
+fehlerlos.
+
+Auch ältere Straßen sind dem Kartenmaterial bisweilen unbekannt, die
+erlaubten Geschwindigkeiten stimmen auch gerne nicht.
+
+Hausnummerngenauigkeit auf dem Land auch mal ein km verkehrt.
+
+
+Positiv finde ich:
+
+Heimatortfunktion: Von überall mit drei klicks nach Hause. Erstaunlich
+praktisch.
+
+Momentangeschwindigkeit wird immer angezeigt
+
+Lautstärke einstellbar, mehr als ausreichend und (wichtig)
+geschwindigkeitsabhängig.
+
+Touchscreen funktioniert zuverlässig und ist gut bedienbar.
+
+Halterung ist simpel, aber zuverlässig, allerdings nur im Auto.
+(Zweiradungeeignet)
+
+Das andere Gerät ist ein KPCE Agip, das Ende Januar oder Anfang
+Februar bei AN feilgeboten wurde. Es kam mit Schutztasche und
+aufwändiger Halterung, auch für's Fahrrad (nicht probiert) und hat
+Karten für Europa. Zumindest Dänemark funktioniert ausgezeichnet.
+
+
+Die Ansagen sind angenehmer als beim RIP, aber zu leise, nciht
+einstellbar und nicht geschwindigkeitsabhängig.
+
+
+Wie das tomtom. Karte eher detaillierter und weniger comiclike.
+
+
+Da ist das tomtom besser, aber man gewöhnt sich dran.
+
+
+Keine Ahnung.
+
+
+Ich glaube ja, nicht probiert. Man kann im Gegensatz zum RIP (?)
+wenn man am Punkt a ist, die Route von B nach C berechnen und
+anschauen (also echter Routenplaner). Geht beim RIP nicht oder ich
+habe noch nicht rausgekriegt, wie.
+
+Das Agip bleibt übrigens einfach stehen, wenn der Empfang abreisst,
+das RIP tut so, als würde man mit gleicher Geschwindigkeit
+weiterfahren. übrigens ein klarer Nachteil all dieser Geräte: Blind im
+Tunnel. Da verpasst man in CONCISE die Ausfahrt Rißdorf garantiert.
+Wenn man das Tachosignal einspeisen kann, sieht es schon besser aus.
+Mit Lenksensor wäre es perfekt - das können wohl nur die
+Werkseinbauten.
+
+Was ich mir vom Navi wünschen würde: 
+- Eine Funktion, die sich auf Knopfdruck die gefahrene Strecke als
+existierende Straßen merkt. Gibt es, glaube ich, bei keinem
+konventionellen System.
+
+- Gleiches für erlaubte Geschwindigkeiten.
+
+
+Gruß, Hinrich.
+(Etwaige Kommentare und NAchfragen in diesem Fall bitte nur per Mail,
+ich lese d.r.r.misc nicht.)

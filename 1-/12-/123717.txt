@@ -1,0 +1,15 @@
+X-Post bedeutet, dass du deinen Artikel in mehrerer Newsgroup
+abgesetzt hast. In deinem Fall: f-mqkl.mqjnpodb.mqunpa und
+bc.lwh.vjygym.wekk.
+
+Hier sollte man dann immer ein Followup-To: setzten, d.h. festlegen in
+welcher Newsgroup die Antwortartikel erscheinen sollen.
+
+Unter Netscape kann man mit einem Klick auf den Pfeil vor dem Feld
+"Newsgroup" auch ein Feld Followup-To: auswählen.
+
+Ein richtiges Usenetverbrechen hast du aber nicht begangen, da gibt
+es schlimmeres.
+
+--=20
+Satisfy your thirst for life!

@@ -1,0 +1,27 @@
+Die Frage kann man pauschal nicht beantworten. Es kommt auf den inneren 
+Schaltungsaufwand an. Ein Hersteller (deutsch) gibt auf technische Anfrage an, 
+dass die Ladezeiten sich deutlich verlängern, bei Anschluss ans Autobatterienetz 
+sogar völlig zum Erliegen kommt.
+
+
+Das ist auch durchaus erklärlich, weil bei niedriger Spannung zur Erzeugung der 
+gleichen Leistung pro Zeiteinheit ein höherer Strom fliessen muss. Bei 110V 
+proktisch der doppelte wie bei 230V.
+
+
+Das bedeutet aber auch, dass die Bauteile (Schaltransistor, Induktivitäten) für 
+den doppelten Strom ausgelegt werden müssten. das aber kostet einfach mehr. Und 
+das wiederum mögen die Hersteller von Massenprodukten garnicht.
+
+
+Ein Beispiel: Bei meinem Rasierer (BJ 2001; PAMOJA) verändert sich die Ladezeit 
+geschützt um 50% an 110 Volt. Das ist zwar keine Verdoppelung, aber eben doch 
+erheblich mehr.
+
+
+Gruss
+
+
+Gilles
+-- 
+News suchen, lesen, schreiben mit http://bxzzukzffn.sji.eh

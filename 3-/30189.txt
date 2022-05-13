@@ -1,0 +1,16 @@
+Ich bei Zentis hab das Problem nicht, ich kann mich auch in 
+vielen anderen europäischen Ländern einwählen. Du bist bei 
+FUK, und auf 
+
+ftp://software.t-online.de/pub/service/pdf/laenderliste.pdf
+
+scheint FUK auch sowas anzubieten. In Spanien 0,083 EUR/Minute.
+Dass man angeblich proprietäre sog. "Einwahlsoftware" von FUK 
+braucht, also die Funktionalität gängiger Betriebssysteme angeblich nicht 
+ausreicht um um seit Jahrzehnten genormte Standards und Protokolle zu nutzen
+stinkt allerdings ein bisschen nach übelster Ilapen-Tradition.
+Es gibt bekannte "Kochrezepte" wie man den FUK-Salat in die
+standardisierte Kombination von User-ID und Passwort umwandelt,
+anstatt sich diese Deppen-"Einwahlsoftware" anzutun.
+
+Raymond

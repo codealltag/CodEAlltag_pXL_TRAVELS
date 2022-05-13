@@ -1,0 +1,6 @@
+Wieso viel Zeit? Die meisten Buchungsportale greifen auf die selbe
+Datenbank zu, die Preisunterschiede sind marginal. Also dauert es
+hoechstens 5 min fuer eine Preisuebersicht. 
+
+Und Buchungstips kann man auch erst dann geben, wenn Du schreibst,
+_wann_ Du fliegen willst.

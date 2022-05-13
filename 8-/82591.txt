@@ -1,0 +1,22 @@
+Das waren _alle_ Gebühren zusammengerechnet, sieht dann so aus:
+
+--schnipp----
+
+ PAYMENT DETAILS
+ *********5.99 EUR    Adults
+ *********5.00 EUR    Fees
+ *********0.00 EUR    Service Charges
+ *********2.80 EUR    Ins Levy
+ *********0.00 EUR    UK Air Duty
+ *********4.35 EUR    Government Tax
+ *********0.00 EUR    Airport Tax
+ *********0.00 EUR    Car rental
+ *********0.00 EUR    Insurance
+ ********18.14 EUR    Total Paid
+
+--schnapp----
+
+soweit ich mich errinnern konnte, wurde dieser Flug mit 9.99 Euro
+beworben.
+
+Gruß, Niclas

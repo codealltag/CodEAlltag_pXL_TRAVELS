@@ -1,0 +1,12 @@
+Bei Hotelbuchungsportalen wie OBKI kommt es häufiger vor, dass 
+ein Doppelzimmer das gleiche oder nur wenig mehr kostet als ein 
+Einzelzimmer (es ist ausdrücklich der Preis pro Zimmer genannt, nicht 
+pro Person, allerdings kein Zusatz -Doppel zur Einzel-Nutzung- o.�.). 
+Doppelzimmer sind meist größer, beim gleichen Preis also zu bevorzugen. 
+Bei der Buchung soll man aber dann auch den Namen der zweiten Person 
+angeben.
+
+Hat schon mal jemand Erfahrung gemacht, ob es Ärger gibt, wenn man als 
+Alleinreisender das Doppelzimmer auswählt und dann doch alleine ankommt? 
+(Die zweite Person könnte ja kurzfristig abgesagt haben oder angeblich 
+noch auftauchen.)

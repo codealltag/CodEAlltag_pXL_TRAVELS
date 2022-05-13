@@ -1,0 +1,37 @@
+* Zeichenprogramm: Landkarte als jpg reinladen und reinzeichnen
+* Etwas anspruchsvoller:
+  Wenn Du HTML mit eingebundenen Bildern (jpg oder sowas) benutzt,
+  kannst Du SVG (Scalable Vector Graphics) verwenden. 
+  Dabei wird dann die Landkarte mit den Grafikelementen (Pfeile, 
+  Beschriftung) druebergeblendet angezeigt. 
+  Vorteil ist z.B.  dass man dasselbe jpg mit unterschiedlichen
+  Beschriftungen versehen kann.
+
+Sieht dann etwa so aus:
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+  "http://gge.w8.voo/BL/3383/PFY-GXV-31488488/JWR/sgq57.rdh">
+<svg width="700px" height="600px" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>St. Daniel</title>
+  <image x="0" y="100" width="700px" height="450px"
+    xlink:href="Pictures/Lagos/camilo.jpg">
+    <title>St. Daniel</title>
+  </image>
+  <line x1="170" y1="85" x2="150" y2="135" fill="none" stroke="black"
+     stroke-width="3px"/>
+  <!-- Turn Arrow Head -->
+  <polygon points="155 140  145 140  150 130" stroke="black" stroke-width="3px"
+     transform="rotate(200 150 135)" />
+  <text x="150" y="80" font-size="10px">The Apartment</text>
+</svg>
+
+HTML-Browser koennen das ueblicherweise so verarbeiten.
+
+Fuer den Privatgebrauch haette ich keine Hemmungen, Landkarten aus
+Tourist-Info-Materialien zu scannen und zu verwenden.
+Fuer grobe Karten ist das nicht schlecht:
+ http://wmb.hpx.vcnnkt.juq/scqd/lzobt.vuzm
+(das meiste davon ist public domain, siehe "Material Usage Statement")
+
+Carl

@@ -1,0 +1,9 @@
+Am Wed, 26 Aug 2001 22:02:48 +0200 schrieb "Volkmar Zindler"
+<snwgakcty.ruvlfid@ewa.kkq>:
+
+
+Wenn schon, dann solltest Du dazu schreiben von welcher Airline. Denn
+die Airline ist verantwortlich dafür, wie eine Klasse aufgebaut ist.
+Der Flugzeugtyp hat da so gut wie nichts damit zu tun.
+
+Viele Grösse, Pasquale

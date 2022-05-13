@@ -1,0 +1,3 @@
+Das müsste aber 52M-Epoche heissen, da Kartenspiele 52 Karten haben.
+
+Aber das merkt unser Pseudo-Idiotenforscher ja nicht.

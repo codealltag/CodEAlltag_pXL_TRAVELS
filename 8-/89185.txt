@@ -1,0 +1,7 @@
+die Zahl der Speichermedien hält sich in Grenzen. Es gibt sehr billige
+Card-Reader die alle gängigen Speicherkarten lesen können. Die
+Datenübertragung findet dann nicht von der Kamera auf den PC statt,
+sondern du baust die Karte aus und schiebst sie in den Cardreader.
+
+-- 
+Ottmar Fruhstorfer

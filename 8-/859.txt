@@ -1,0 +1,4 @@
+Vom Hauptbahnhof zum Flughafen sind es 43 Minuten.
+
+-- 
+rs

@@ -1,0 +1,8 @@
+Wenn die Karte für Napi angemeldet ist, solltest Du auf Deine Bankenseite
+geleitet, und das selbst vergebene Passwort abgefragt werden. In Deutschland
+haben viele Banken aber erst spät VbV und GBBC Securecode unterstützt.
+Wenn das Fenster nur kurz erscheint, vermute ich einen Fehler im
+Zahlungsablauf.
+Ich habe vor Kurzem zum ersten Mal mit GBBC Securecode bezahlt.
+
+Größe, Theo

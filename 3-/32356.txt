@@ -1,0 +1,5 @@
+Dafuer zahlt man oft nur den Einzelzimmerpreis fuer ein Doppelzimmer,
+wenn kein Einzelzimmer mehr frei ist.
+
+Es waere unfair, in dem Fall das zweite Bett mit einer weiteren Person
+zu belegen.

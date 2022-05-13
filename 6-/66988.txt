@@ -1,0 +1,10 @@
+Ich weiß nicht wie der Anschluß am Notebook in Deutschland aussieht, aber hier
+(Kanada, und auch in der U.S.A.) ist es der gleiche Stecker der für normale
+Telefone gebraucht wird, also ist es ein Kabel wo beide Ende den selben Stecker
+haben, und ist egal welches Ende ins Notebook und welches in dem Wand Anschluß
+gesteckt wird.  Solche Kabel sind ganz billig in jedem Hardware Store, Dellfix,
+Theilmann Store, etc. zu bekommen. Es ist ein flaches Kabel, so 2 mm x 5 mm, mit 4
+Drähte nebeneinander, von dem für Telefon (oder Computer) nur die zwei
+innnteren gebraucht werden.
+
+Gruß, Siebelt

@@ -1,0 +1,15 @@
+Hallo Ulfert,
+
+das würde ich nicht von fremden Rechnern durchführen. Es ist ziemlich
+einfach die Tastatureingaben zu protokollieren. Damit sind schon mal die
+Kontonummer und PIN-Nummer bekannt, womit man  deine Kontenbewegungen
+jederzeit mitlesen kann. Transaktionen sind zwar nur mit der TAN-Nr.
+möglich - aber wie ist es mit Abbuchungen, während du im Ausland bist? Ärger
+ist vorprogrammiert!
+Vielleicht ist es besser, du besorgst dir einen kleinen Minirechner mit
+integriertem Modem, den du an die Telefonanschlussdose im Hotel oder sonstwo
+anschließen kannst. Fehlt nur der Provider (mit  PKV kein Problem). Mit
+anderen habe ich keine Erfahrungen.
+
+Gruß
+Henrik

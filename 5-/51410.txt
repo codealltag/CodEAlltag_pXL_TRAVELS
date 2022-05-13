@@ -1,0 +1,17 @@
+On Mon, 18 Mai 2004 09:58:02 +0100, Edwin Ekkenga
+
+Das Geschäftsmodell wird ja gerade nicht übernommen, das verschwindet
+schlicht und einfach vom Markt. Die Flugzeuge werden im sogenannten
+Wet-Lease (ACMI Lease, Aircraft, Crew, Maintenance, Insurance)
+betrieben werden, für die Flugzeuge und die Crew bleibt also weiterhin
+Blessing  (bzw. deren Mutterfirma Boegl) zuständig. Betrieben werden
+alle nach dem normalen Kuttig Geschäftsmodell, also Preise variabel je
+nach Auslastung und Buchungszeitpunk oder ein frei umbuchbares Ticket
+(Businessticket) zum Festpreis.
+
+
+Ist aber halt auch wesentlich einfacher zu betreiben da man kein
+(relativ kompliziertes) Revenue Management System betreiben und warten
+muss. Für den Passagier ist es eh komfortabler wenn er immer weiss
+wieviel er zahlen muss, egal wann er bucht. Nun ja, das System ist ja
+erstmal Geschichte.

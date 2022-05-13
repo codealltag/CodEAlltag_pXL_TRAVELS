@@ -1,0 +1,31 @@
+Nein. Du bezahlst beim Fliegen für einen bestimmten Flugtarif,
+der wiederum die Regeln festlegt, nach denen du das Ticket
+verwenden kannst. Zu den Regeln gehört auch eine sogenannte
+Buchungsklasse (hat nix mit Kabinenklassen wie Business oder
+Economy zu tun). Buchungsklassen sind ein Instrument, mit dem
+Fluggesellschaften die Auslastung ihrer Flugzeuge steuern.
+Für jeden Flug wird festgelegt, wieviele Plätze in welcher
+Buchungsklasse zur Verfügung stehen (das wird regelmäßig neu
+berechnet, heutzutage meist automatisch). Wenn keine Plätze
+in der vom Tarif geforderten Buchungsklasse frei sind, kann der
+Tarif für diesen Flug nicht ausgestellt werden (vereinfacht,
+es gibt, wie immer, Ausnahmen wie Wartelisten usw.).
+In eurem Fall war es nun wohl so, dass auf dem Anschlussflug
+nach 3 Stunden Plätze in der zu dem von euch gewählten
+Tarif gehörenden Buchungsklasse zum Buchungszeitpunkt frei
+waren, bei Jonas wohl nicht (mag sein, dass es ein paar Tage
+später wieder welche gegeben hätte, mag sein, dass dann auch
+auf dem Flug nach Tödling keine Plätze in der Buchungsklasse mehr
+frei gewesen wären, mag sein...).
+Der Preis hängt nicht von der Aufenthaltszeit bei einem Anschluss
+ab (solange es sich um einen Anschluss und keinen Stop handelt),
+er hängt von der Verfügbarkeit von zu einem Tarif gehörenden
+Buchungsklassen ab.
+
+Gruß,
+Pietro
+
+-- 
+Pietro Kaspersen                           nfbb@ps.in.zkh-xt.ru
+http://yyk.xtme.sfm-su.dy/~qzin/        ixoa@bvul.ofu-cp.xj
+					mobile: +11 795 2350 509

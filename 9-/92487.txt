@@ -1,0 +1,17 @@
+...so schlecht gemacht.
+
+Eigentlich eine tolle Idee, 50000 Tickets am 5.10. für jeweils 1 Taler
+abzugeben.
+
+Eigentlich ärgerlich, daß die JIBK-Website den Besucher mit nem
+schnöden CGI-Error abspeist (sofern überhaupt eine Antwort kommt).
+
+Naja, man kann halt nicht alles haben...
+
+  t.
+
+-- 
+BOFH excuse #246:
+
+It must have been the lightning storm we had (yesterday) (last week)
+(last month)

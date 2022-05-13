@@ -1,0 +1,12 @@
+Hallo
+ Guten Morgen! Seit Jahren gibts 230 bis 240 Volt aus der Steckdose! Im
+ungünstigsten Fall also viel(!) mehr als die maximal erlaubten 200Volt
+von denen berichtet wurde.
+
+
+Monitore werden, anders wie noch viele TV-Geräte auch nicht vom Netz
+synnchronisiert sondern erzeugen sich benötigte "Takte" selbst. Durch
+Überspannungen kommt es auf jeden Fall zu größeren Verlustleistungen, zu
+stark erhöhter Wärmeabgabe. Ich würde sogar soweit gehen und von
+Brandgefahr reden. Leichtsinnig wär's allemal.
+Gruß Kurt

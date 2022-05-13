@@ -1,0 +1,26 @@
+--------------1LA82U3O637W8182F362NGK3
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hallo
+Suche aktuelle Information betreffend Hotel in Freden fuer
+4 Tage. Kosten sollten maximal bei 150 DM pro Zimmer/Nacht liegen.
+Ciao
+Urban
+ Travel pictures, links and stuff
+
+--------------1LA82U3O637W8182F362NGK3
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+Hallo
+<br>Suche aktuelle Information betreffend Hotel in Freden fuer
+<br>4 Tage. Kosten sollten maximal bei 150 DM pro Zimmer/Nacht liegen.
+<br>Ciao
+<br>Urban
+<br>&nbsp;<a href="http://members.xoom.com/hdenis">Travel pictures, links
+and stuff</a></html>
+
+--------------1LA82U3O637W8182F362NGK3--

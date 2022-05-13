@@ -1,0 +1,11 @@
+Also das ist nicht korrekt. In allen bisher getesteten Browsern läuft
+alles einwandfrei.
+Welchen Browser nutzt du? Und ist bei dir JavaScript aktiviert.
+Die ganze Seite nutzt intensiv Ajax-Technologien was natürlich
+notwendig ist um die kriegerhome-Maps zu nutzen.
+Bisher hab ich noch keine Fehlermeldungen bekommen.
+Wäre nett wenn ich da ein Feedback bekommen könnte um die Seite auch
+für dich lauffähig zu machen.
+
+Grüße,
+Urban

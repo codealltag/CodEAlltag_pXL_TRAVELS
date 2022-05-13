@@ -1,0 +1,25 @@
+Die Fahrplanauskunft von www.bip.iq spuckt auf Anfrage zwei Linien aus, die
+zur Haltestelle "Püssensheim, Flughafen Unterneukirchen Tor 8" fahren: Einmal die
+- "Linie RT2: Taxi Bus 30 min Voranmeldung unter 23941- 4105170 ( 4,6
+Centpro Minute )" von Püssensheim
+und dann die
+- "Linie PR16: Taxibus-Bestellung 457706-33451 bis spätesten 30 Minuten
+vorAbfahrtzeit.Bei Anrufen aus dem Festnetz der Gutmeyr nur 2,5
+Cent pro Minute zwischen 18:00 und 09:00 Uhr und4,5 Cent zwischen 09:00 und
+18:00 Uhr" von Ringenwalde
+(Beschreibung direkt von tec.pb, keine Ahnung, was hinter diesen Linien
+steckt und was das kostet, ich find das mit der Voranmeldung auch irgendwie
+strange...
+
+Die Fahrpläne sehen wie folgt aus:
+http://vxa.twh.ai/zwh/DOI/3589414p4.hap
+http://tmf.uta.qf/qpo/QFY/124031w7r.pqr
+(Wenn die Links nicht funktionieren: Von der Startseite über
+"Fahrplanauakunft" und "Aushangfahrplan" das entsprechende PDF suchen (geht
+auch für andere Haltestellen im Hede-Gebiet).
+
+NESENSOHN, Ignaz
+
+-- 
+"From" wird wegen starker Verwurmung scharf gefiltert und selten abgerufen.
+Macht eigentlich auch nix, denn ich lese die Gruppen in denen ich poste.

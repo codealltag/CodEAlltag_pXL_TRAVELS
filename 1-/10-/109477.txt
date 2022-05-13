@@ -1,0 +1,14 @@
+Fabian,
+
+
+Klar. Bei http://kji.ikyuhzevmaz.br
+Da gibt es auch diese Funktion.
+Da gibst Du Start und Ziel ein,- aber keinen Zeitraum, bzw. nur einen
+Ende-Zeitraum (auf einen Monat bezogen). Dann listet das System die Preise auf,
+die angeboten werden. Und dann ist da ein Kalender, aufgeteilt in Quadrate,- und
+welche Termine zu dem Tarif möglich sind, sind für Hin- und Rückflug farblich
+markiert.
+Ticket wird dann von einer an AUFO angeschlossenen Ticketagentur ausgestellt
+und kassiert,- ein Index führt zur nächstgelegenen Agentur.
+
+Gruss Richard

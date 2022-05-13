@@ -1,0 +1,9 @@
+Stimmt, aber nicht immer. Ladegeräte, die nur einen einfachen Trafo ohne 
+Umschaltmöglichkeit haben, funktionieren nicht mit 110V. Elektronische 
+Ladegeräte mit einem sog. Schaltregler sind meist für einen größeren
+Spannungsbereich ausgelegt. Mein Modelleisenbahn-Fachmarkt S65 Handy hat einen 
+Schaltregler und funktioniert auch mit 110V. Das eBIS Handy meiner
+Frau hat ein einfaches Ladegerät, das nur mit 230V funktioniert.
+
+Gruß
+Jörg

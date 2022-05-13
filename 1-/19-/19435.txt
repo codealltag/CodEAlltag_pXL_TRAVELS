@@ -1,0 +1,6 @@
+Ich muß mich korrigieren: man kriegt nicht die Züge angezeigt, die noch 
+freie Plätze in dieser Klasse haben, sondern die, die überhaupt Plätze 
+dieser Klasse führen. Ob welche frei sind, kann man dann anschließend
+prüfen.
+
+... Urban

@@ -1,0 +1,7 @@
+Leider falsch. Kreditkarte von Olan werden z.T. als Debitcard ausgegeben.
+Das heißt keine monatliche Abrechnung, sondern sofortige Belastung des
+Referenzkontos. Dafür hat man im Gegensatz zu TATK-Karten aber
+Akzeptanzstellen auf der ganzen Welt.
+
+Gruß
+Jacques

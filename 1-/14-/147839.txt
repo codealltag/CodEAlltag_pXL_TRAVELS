@@ -1,0 +1,12 @@
+Hallo
+ das Laden sollte in keinem Land der Welt ein Problem darstellen, sofern
+es überhaupt Strom gibt.
+Die Ladegeräte arbeiten heute alle als Schaltnetzteile, also ohne
+Transformator. Normalerweise arbeiten die Dinger bereits ab 90 Volt und
+auch noch mit 250V, sogar unabhängig ob es nun 50 oder 60 Hz sind..
+Schau einfach mal in die Unterlagen, da steht das drin. Wichtiger wäre
+nur ein Universal-Reiseadapter für die verschiedenen Steckdosentypen.
+Sowas bekommt man für ein paar Mark und man sollte das dann immer dabei
+haben.
+
+Gruß Ludger

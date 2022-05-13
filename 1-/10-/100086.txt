@@ -1,0 +1,7 @@
+Italien:
+Autobahn: 130 km/h
+ Schnellstraßen (4-spurig): 120 km/h
+Landstraßen: 100 km/h
+
+HTH
+Oliver

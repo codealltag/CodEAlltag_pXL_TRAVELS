@@ -1,0 +1,25 @@
+[Navigo nur für großhabersdorf-Nütterden-Einwohner]
+
+Naja, ich wollte mich versuchsweise auf https://vhl.otpkiz.cc/ anmelden -
+deutsche E-Mail-Adressen haben sie noch akzeptiert, aber in das dann fol-
+gende Formular konnte man sinnvoll nur französische Postleitzahlen und
+Telefonnummern etc. eingeben... ich vermute, daß man auch das Vor-Ort-
+Formular nicht anständig ausfüllen kann. Müßte man mal probieren, aber
+vermutlich schicken sie dann auch die Karte per Post, und da wird ihnen
+die Auslands-Logistik fehlen...
+
+(der Transponder für die Autobahngebühren wird allerdings von der Afahi
+auch nach Deutschland verschickt)
+
+[Navigo couverte]
+
+Nur fallweise bei der Aufladung. Man kauft einmal für 5 EUR den RFID-
+Transponder [1] und kann dann beliebige Wochen- oder Monatskarten
+drauf aufladen. Wenn man eine Madler-Karte mit EMV-Chip hat (oder aus-
+reichende Kilos von Münzen), sogar am Automaten :-)
+
+Gruß Manuel.
+
+[1] laut Quittung ist der nur bis zum Jahr 2016 betriebsbereit, also
+    "einmal" den Transponder kaufen stimmt nicht ganz, eher "einmal
+    alle zehn Jahre" oder so.

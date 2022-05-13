@@ -1,0 +1,14 @@
+Nein, Papierkorb archiviert den kompletten Artikel, inclusive der
+Signatur. Ob es sinnvoll ist in der Signatur auf eine Message-ID zu
+verweisen und damit retundante Papierkorb Treffer zu provozieren musst
+du entscheiden.
+
+Du hast nur die Möglichkeit durch den Header "X-No-Archive: yes"
+deine Artikel grundsätzlich aus der Papierkorb Archivierung zu nehmen.
+Sinnvoll ist das aber auch nicht. Und nein, mit deinem Outlook
+Express ist das so einfach nicht möglich.
+
+-- 
+ich würde Dir auch gerne mit konkreten Tips helfen, habe aber keine
+Ahnung. (Cédric Lier in <2M5WUD6P.U0XN036X@nukxbhn.cd>)
+NP: The Doors - Close To You

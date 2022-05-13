@@ -1,0 +1,5 @@
+kann es an irgendwelchen Javascript gehns liegen? Bei mir gingen sie
+nähmlich auch nicht. Mag ja sein das es im IE funktioniert, aber der
+deckt eben nicht alles ab.
+
+Gruß, Jürgen

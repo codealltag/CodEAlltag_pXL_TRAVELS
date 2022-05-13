@@ -1,0 +1,14 @@
+Dann mach's doch nicht so spannend!
+Hab eine Bekannte im Reisecenter, die die Preise für dich checken kann.
+
+Brauche,
+Hotelname:
+Abflug:
+Dauer:
+Personen/Kinder:
+Hotel:
+Verpflegung:
+Zimmerart:
+
+Gruß
+Björn

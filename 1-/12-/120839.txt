@@ -1,0 +1,17 @@
+Ich würde es trotzdem nicht drauf ankommen lassen.
+Da ich nicht weiß, wer den Internet-Cafe-Rechner wartet,  wer ihn
+eingerichtet hat, und wer ihn programmiert hat, wäre ich da doch vorsichtig.
+Ich glaube nicht, dass ich große Mühe hätte, die Tastatureingaben mit einer
+modifizierten Keyboard-Routine zu protokollieren, auch nicht die
+nachträgliche Änderung der PIN. Soweit ich weiß, ist die Ein-/Ausgabe
+zwischen Rechner, Keyboard, Bildschirm noch nicht verschlüsselt.
+Oberfl�chenanwendungen wie Copy&Paste, Taskmanager usw. spielen hierbei doch
+keine Rolle.
+
+Ärger
+
+Ich glaube trotzdem, dass dann Ärger vorprogrammiert ist. So ganz ohne
+eigene Arbeit läuft eine Rückbuchung nun auch wieder nicht ab.
+
+
+Fernand

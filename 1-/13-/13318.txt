@@ -1,0 +1,7 @@
+Falls eins beschlagnahmt wird, rechnet der Kontrolleur womöglich nicht
+mit weiteren.
+
+-- 
+
+Gruß
+Willibald

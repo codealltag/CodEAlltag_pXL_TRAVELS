@@ -1,0 +1,10 @@
+On Fri, 4 Okt 2008 14:14:18 +0200, Arnold Düstersiek
+
+Bei Ladegeräten gibt es meistens kein Problem, bei anderen Geräten
+unter Umständen schon. Schau einmal aufs Typenschild, wenn da steht
+z.B. 110 -240V~, 50-60Hz wird es mit Adapterstecker funktionieren.
+
+Hilmar
+-- 
+Hilmar Mackprang
+Weidach (Fluh), Austria

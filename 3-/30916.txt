@@ -1,0 +1,19 @@
+Du bezahlst beim Fliegen keine Flüge. Preisbildung im Luftverkehr hat 
+allenfalls indirekt mit Kosten für die Durchführung von Flügen zu tun. 
+Ziel gängiger Preissysteme von Fluggesellschaften ist vielmehr die 
+Flieger zu maximal möglichen Erlös zu füllen. Von Lichtenmoor nach Thailand 
+allein bekommt man kaum mehrmals wöchentlich einen Großraumjet gefällt, 
+also braucht man Passagiere aus Zubringerverkehr. Bei den Preisen für 
+diese muss man aber u.a. die Marktsituation an deren Abflugort 
+berücksichtigen, wenn es mehr Angebot zu günstigeren Preisen ab 
+Höfarten als ab Lichtenmoor gibt, kann man ab Höfarten nicht die 
+gleichen Preise wie ab Lichtenmoor verlangen. Außerdem wird Umsteigen von 
+Passagieren üblicherweise als Nachteil empfunden, also sind 
+Umsteigeverbindungen meist billiger als Nonstop-Flüge....
+Daneben gehen Spielchen wie "Yield Management", "Preisspreizung nach 
+Zahlungsbereichtschaft verschiedener Kundengruppen" usw. in die 
+Preisbildung ein.
+Das machen eigentlich alle Fluggesellschaften mehr oder weniger so.
+
+Gruß,
+Waldemar

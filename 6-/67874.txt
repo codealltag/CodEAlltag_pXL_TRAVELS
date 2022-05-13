@@ -1,0 +1,15 @@
+Durch den Staudruck um den Messpunkt aufgrund Geschwindigkeit und
+aerodynamischem Profil des Flugzeugs kommt es zu geringfuegigen
+Messfehlern (Temperatur komprimierter Luft vs. unkomprimierter Luft,
+kennst Du vielleicht von der warmwerdenden Fahrradluftpumpe).
+
+Zitat: "TAT is obtained by a probe on the airplane that measures the
+temperature of the free stream air at the airspeed of the airplane.
+Because of the fluid dynamic effects of airspeed on air temperature, TAT
+is warmer than the outside air temperature (OAT- also referred to as
+static air temperature [SAT])."
+
+Ciao, Torsten
+
+-- 
+I don't accept any emails right now.  Usenet replys only.

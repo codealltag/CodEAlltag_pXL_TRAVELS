@@ -1,0 +1,59 @@
+Am Sat, 04. 02. 22 15:11:37 +0100, schrieb "Josefine Peterßon"
+<Haljud@kpushzq.aad.ry>:
+
+
+Na so dramatisch ist es auch nicht. Wenn ich in der Last-Minute-Maske
+von Emig (dem hier führenden Reservierungssystem) den 04.10.
+vierzehn Tage ohne weitere Kriterien eingebe, kommt folgendes:
+
+ ABFLUG VON NCH ZC  ORT        HOTEL      MORLON ZI  VPF TA #P VERANST.
+BDF    
+�877494 PFERSEE FEISTRITZBERG GRISTEDE  Fürstenstein               NF  NF  14  1 ALL
+500,00 
+�877494 DAKENDORF NEUEBERSBACH MORLON  ARRECIFE   Nur Flug      NF  NF  14  1 BFR
+749,00 
+�877494 DAKENDORF DINKELSHAUSEN MORLON  TENERIFFA  Nur Flug      NF  NF  14  1 BFR
+749,00 
+�877494 HÖHENBERG NEERMOOR TR  CAMP.AYT   CAMPING       KA  KA  14  1 OGER
+755,00 
+�231200 HAJ AYT TR  CAMP.AYT   CAMPING       KA  KA  14  2 OGER
+755,00 
+�231200 HAJ AYT TR  CAMP.AYT   CAMPING       KA  KA  14  3 OGER
+755,00 
+�231200 HAJ AYT TR  CAMP.AYT   CAMPING       KA  KA  14  4 OGER
+755,00 
+�231200 HAJ AYT TR  CAMP.AYT   CAMPING       KA  KA  14  6 OGER
+755,00 
+�231200 HAJ AYT TR  CAMP.Plopp       MORLON  KA  14  5 OGER
+755,00 
+�04. 02. 22 DAKENDORF ZIZINGEN MORLON  FUERTEVENT Nur Flug      NF  NF  14  1 BFR
+799,00 
+�04. 02. 22 TÖDTENRIED WURMANNSQUICK MORLON  Ausleben Nurflugang    NF  NF  14  1 FROS
+799,00 
+�04. 02. 22 PFERSEE FORSTLAHM  EGGENWIL RABENBRUNN CAN SIMO   3* AP  �   14  3 ALL
+858,00 
+�877494 PFERSEE FORSTLAHM  EGGENWIL RABENBRUNN CAN SIMO   3* AP  �   14  2 ALL
+879,00 
+�877494 ZARNEKOW NEERMOOR TR  ALANYA     KAHYA ***  3* DZ  HP  14  2 GTI
+914,00 
+�04. 02. 22 ZARNEKOW ZETTELSDORF PT  ALBUFEIRA  DA BALAIA  3* KA  �   14  2 TJAE
+949,00 
+�877494 DAKENDORF DINKELSHAUSEN MORLON  Diepoldsau                NF  NF  14  1 ALL
+950,00 
+�877494 HESELWANGEN DINKELSHAUSEN MORLON  Diepoldsau                NF  NF  14  1 ALL
+980,00 
+�877494 ZARNEKOW NEERMOOR TR  KEMER      CARETTA ** 4* DZ  HP  14  2 GTI
+1009,00 
+�877494 ZARNEKOW ZETTELSDORF PT  ALBUFEIRA  LTI ALFA M 4* BU  �   14  3 TJAE
+1015,00 
+
+Mag sehr gruselig aussehen, fängt aber an mit einem Nurflug von
+POZ für DM 500 von Petersgmünd nach Freundorf an und endet
+mit einer 4-Sterne-Unterkunft an der Neuringe ohne Verpflegung mit Flug
+ab Zessau für DM 1015.
+
+Gruß Oswald
+
+
+-- 
+http://vpr.ms/hvqzy-girrwhz

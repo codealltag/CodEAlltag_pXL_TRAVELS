@@ -1,0 +1,6 @@
+Beim Dynamic Packaging wird nicht "gedacht". Da greift sich der Rechner
+einen Flug aus der einen Datenbank und eine Unterkunft aus der anderen
+Datenbank. Dann wird das ganze zusammengebracht und erscheint mit einem
+gemeinsamen Preis auf dem Bildschirm.
+
+Gruß Jochen

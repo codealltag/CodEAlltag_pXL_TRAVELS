@@ -1,0 +1,29 @@
+Hallo,
+
+in einem alten Thread ging es schon einmal um dieses Thema. Es ist mir
+leider nicht alles klar geworden.
+
+Da ich ein solches Teil benoetige - fuer einen Lithium-Ionen-Akkulader -
+, der nicht auf 110 V umstellbar ist, frage ich halt nochmal.
+Zuerst die technischen Daten, wie sie auf dem Netzteil stehen:
+
+Input 230 V, 50Hz, 26 W
+Output 12 V - 1000 mA - 12 VA
+
+Meine Fragen:
+Wuerde fuer diese Werte und das Geraet der in USA erhaeltliche "Reverse
+Converter" reichen?
+Oder sollte ich mir lieber hier in Deutschland einen Trafo kaufen, bei
+Henseler gibts so was, kostet aber knapp 150 DM?
+
+Wichtig ist mir: Ich will knapp 4 Wochen in den USA reisen, viele Videos
+drehen (habe dann drei Akkus mit) und auf Nummer Sicher gehen, dass ich
+immer diese Akkus laden kann.
+
+Bitte um Tips.
+
+Damke und Gruss
+Alex
+-- 
+Eqqbtgq Utermoehle
+hidixh@cui.lf

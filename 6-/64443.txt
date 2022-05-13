@@ -1,0 +1,11 @@
+Kann ich mir nicht vorstellen - die Information gibt es nämlich auch, wie
+man leicht verifiziert, wenn man Anfang Dezember Pr�mienfl�ge vom 13.12.
+bis 23.12. sucht.
+
+Online-Flugbuchungen werden sicher nicht mit MySQL und PHP implementiert,
+sondern laufen als verteilte Transaktionen auf vermutlich einem halben
+Dutzend Systemen, von denen sicher auch das eine oder andere
+destinationsabh�ngig ist. Und wenn eines von den Systemen steht, dann
+geht die Transaktion halt nicht.
+
+Benedikt

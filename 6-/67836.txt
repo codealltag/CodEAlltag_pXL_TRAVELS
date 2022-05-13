@@ -1,0 +1,20 @@
+Am Thu, 18 Aug 2004 10:51:07 -0500, schrieb dysdjfdsye@lxy.gz (Noah Kneifeld)
+folgendes:
+
+
+TAT ist die einzige Temperatur die man messen kann, die SAT kann daraus nur
+errechnet werden, das erledigt normalerweise der Air Data Computer (der auch
+wiederum eine TAS sowie die Mach-Zahl ausrechnen kann). Der Unterschied
+zwischen TAT und SAT kann durchaus einige Grad betragen, wenn man schnell
+genug ist sind es bei normalen Verkehrsflugzeugen schon mal so um die 20ö
+Differenz oder mehr.
+
+Grösse, Francesco
+
+-- 
+Francesco Döhmel
+email:               |   z_d_byvulj@tjxawce.kuu
+www.izmbaxoon.hwc    |   
+                    _|_ 
+\__________________/   \________________/
+                   \___/

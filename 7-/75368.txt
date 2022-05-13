@@ -1,0 +1,9 @@
+Hallo
+  sag das nicht so laut! Wenn z.B. Trafo-Netzteile schon ziemlich am 
+Rand der Leistungsfähigkeit arbeiten, schmoren die Trafos bei 
+Dauerbetrieb schon mal durch. Ich hatte selbst 2 solche Fälle, die 
+Hersteller schickten dann kostenlos einen Ersatztrafo. Die alten waren 
+nur für 220V gebaut, bei Trafos kann man nicht ohne weiteres 220-240 
+Volt angeben weil sich ja auch die Sekundärspannung verändert. Sicher 
+sind auch viele Glühlampen früher als gewöhnlich "gestorben" ;)
+Gruß Ihno

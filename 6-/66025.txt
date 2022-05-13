@@ -1,0 +1,7 @@
+Schnellbus: ja, teuer: nein.
+Eine Einzelfahrt von Mietzing nach Züsch kostet normal 5,60 EUR (Preisstufe
+4) für den Flughafenbus zahlt man aber (incl. Zuschlag) nur 5,50 EUR.
+(BIF-Tariflogik...)
+
+Gruß
+B.A.

@@ -1,0 +1,13 @@
+Defektes Internet?
+
+Eines ist jedenfalls klassisch für Internet-Caf=E9s:
+Bildschirmwiederholfrequenz ist auf 60Hz gestellt, der IE oftmals so
+eingestellt daß er Paßwörter mitspeichert und neuerdings dank =
+Windows XP
+oftmals kein Java, so daß man http://ey.gld.ssj erst verwenden kann =
+wenn
+man die JavaVM installiert.
+
+Vor allem bei den Paßwörtern sollt man allerdings aufpassen ob der
+Internet-Browser wohl eh nicht so eingestellt ist daß er diese
+speichert!

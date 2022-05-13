@@ -1,0 +1,12 @@
+Die Adresse muss noch nicht bei der Flugbuchung bekannt sein, sie muss 
+aber bei Abflug im Reservierungsdatensatz stehen (sollte also spätestens 
+beim Einchecken eingetragen werden). Es geht dabei um eine Adresse, an 
+der man die erste Nacht nach Einreise zu verbringen gedenkt. Man muss 
+nicht seinen USA-Aufenthalt im Vorraus lückenlos dokumentieren, es geht 
+angeblich um Erreichbarkeit in den ersten Stunden nach Einreise.
+Und wenn man nur zwecks Transit in die USA einreist, so gehts auch ohne 
+Adresse, solange man (durch Weiterflugticket) belegen kann, dass man eh 
+gleich wieder ausreist...
+
+Gruß,
+Tom

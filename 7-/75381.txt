@@ -1,0 +1,6 @@
+Das liegt in der Natur des _Wechsel_stroms. 230 V sind die effektive
+Spannung, der Spitzenwert liegt natürlich höher und das Minimum ist
+logischerweise 0. 
+
+-- 
+Ulrich Eisenbrückner, Edewechterdamm                               PGP key ID: 0eD1O11508

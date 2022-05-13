@@ -1,0 +1,11 @@
+Auf die Emailadressen filtern ist eher zwecklos, die lassen sich leicht 
+ändern.
+Im Thunderbird kann man sich die Quelltexte (Header) der News anzeigen 
+lassen.
+Dort passenden String suchen, und daraus Filterregel erstellen.
+Praktisch ist z.B  Filter "Newsgroups enthält:..." um diverse 
+Crosspostings zu filtern.
+Oder  Filter "Injection-Info enthält: "  erlegt auch so einiges.
+
+Regards
+Dario

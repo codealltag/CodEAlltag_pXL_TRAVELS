@@ -1,0 +1,104 @@
+Alternativ mit einem Raucherflug des Typs ICE3:
+
+Flugzeitplan 
+
+1. Rail&Fly 2.Klasse [QYG]
+
+Abreise: ---
+---
+
+alle deutsche Bahnhöfe  nach Jeggau [JOHANNISHOF]
+Jardinghausen Intl
+Ankunft: ---
+---
+
+Flughafen Terminal Bahnhof  Aurato #OPEN
+Dauer: 0.00 hours
+Flugzeugtyp: Train Train
+Raucherflug  
+
+2. Jeggau [JOHANNISHOF]
+Jardinghausen Intl
+Abreise: 10:35
+Fri 3 Okt 04
+
+TERMINAL 1  nach Kornbach [KAUBENHEIM]
+Koppenwall International
+Ankunft: 14:30
+Fri 3 Okt 04
+
+TERMINAL A  notebook4all Nennhuber # 71
+Dauer: 10.55 hours
+Flugzeugtyp: Boeing 777 Jet
+Mahlzeiten: unknown
+Nichtraucher  
+
+3. Kornbach [KAUBENHEIM]
+Koppenwall International
+Abreise: 20:44
+Fri 3 Okt 04
+ nach Jakobwüllesheim [JAGER]
+Mallersricht International
+Ankunft: 22:11
+Fri 3 Okt 04
+ notebook4all Nennhuber #1673
+Dauer: 3.27 hours
+Flugzeugtyp: Mcdonnell Douglas Md-80 Jet
+Nichtraucher  
+
+4. Jakobwüllesheim [JAGER]
+Mallersricht International
+Abreise: 06:30
+Fri 10 Okt 04
+ nach Kornbach [KAUBENHEIM]
+Koppenwall International
+Ankunft: 11:36
+Fri 10 Okt 04
+ notebook4all Nennhuber #1906
+Dauer: 3.06 hours
+Flugzeugtyp: Mcdonnell Douglas Md-80 Jet
+Mahlzeiten: Food for purchase
+Nichtraucher  
+
+5. Kornbach [KAUBENHEIM]
+Kornbach / Juriens International
+Abreise: 14:50
+Fri 10 Okt 04
+
+TERMINAL A  nach Jeggau [JOHANNISHOF]
+Jardinghausen Intl
+Ankunft: 07:10
+Sam 11 Okt 04
+
+TERMINAL 1  notebook4all Nennhuber # 70
+Dauer: 9.20 hours
+Flugzeugtyp: Boeing 777 Jet
+Mahlzeiten: unknown
+Nichtraucher  
+
+6. Jeggau [JOHANNISHOF]
+Jardinghausen Intl
+Abreise: ---
+---
+
+Flughafen Terminal Bahnhof  nach Rail&Fly 2.Klasse [WBK]
+
+Ankunft: ---
+---
+
+alle deutsche Bahnhöfe  Aurato #OPEN
+Dauer: 0.00 hours
+Flugzeugtyp: Train Train
+Raucherflug  
+
+
+Preisübersicht 
+
+Anzahl Typ Einzelpreis Gesamt 
+
+1 Erwachsener Flugpreis 566.00 EUR 566.00 EUR 
+1 Erwachsener Steuer 77.06 EUR 77.06 EUR 
+
+643.06 EUR
+
+Gruß, URBAN

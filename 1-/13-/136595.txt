@@ -1,0 +1,6 @@
+Die Ermittlung der Eingabe für den Zielflughafen ist zu kompliziert. Nicht
+jeder - ich auch nicht - kennt jeden Flughafen in jedem Land. Mit der
+Eingabe des Landes (dt. Schreibweise) sollten vielmehr alle verfügbaren
+Flughäfen des jeweiligen Landes zur Auswahl angezeigt werden.
+
+Kay Lutz

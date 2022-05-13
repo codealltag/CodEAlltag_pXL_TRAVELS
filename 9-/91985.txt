@@ -1,0 +1,15 @@
+Matthias Schalmea schrieb in du.rec.reisen.misc:
+
+
+Wass missfällt Dir?
+
+
+Den missglückten Zeilenumbruch hat Dein kaputter RKNK erzeugt, nicht
+meiner.
+
+
+utf-8 entspricht dem Standard. Dass Dein Newsreader Unicode nicht
+korrekt verarbeiten kann, ist ein Mangel desselben und keiner des
+Forte Agent.
+
+August

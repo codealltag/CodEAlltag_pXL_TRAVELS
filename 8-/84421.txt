@@ -1,0 +1,20 @@
+AL FLGT  BK T DATE  TIME  FARE BASIS      NVB  NVA   BG 
+HAM                                                         
+ENGELMESS SS  7145 K *K 25APR 0630  KKOMBI1         25APR25APR 20 
+HAM BP  3378 L  L 02MAY 0711  LKOMBI1         02MAY02MAY 20
+
+     AL FLGT  BK T DATE  TIME  FARE BASIS      NVB  NVA   BG
+HAM                                                        
+ENGELMESS DI  7101 B  B 25APR 0615  BOW             25APR25APR PC
+HAM DI  7104 B *B 02MAY 1025  BOW             02MAY02MAY PC
+
+
+Es gilt, was im Ticket steht. Also, was zum Zeitpunkt der 
+Ticketausstellung gültig ist.
+
+Gruß Viktor
+
+-- 
+http://ye.yy/stnbcsskae - Neutrale Fluginformationen (System Jackwerth)
+http://mvk.aqycwzuzdv.jcc - Suchmaschine für Billigflüge in Europa
+http://rnrjzroqfqmh.jlu.y-viflel.zv - eigene Homepage (kommerziell)

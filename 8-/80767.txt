@@ -1,0 +1,7 @@
+F1 geht bei mir nicht. Folgend Schrift fehlt mir auch:
+ <font face="Comic Sans MS" color="#000080">
+
+Evtl. habe ich den falschen Browser, oder das falsche OS oder ist die Seit
+nur fur Janski-User?
+
+Mario

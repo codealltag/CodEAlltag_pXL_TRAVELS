@@ -1,0 +1,9 @@
+Hallo Zusammen,
+
+wir benötigen eine (vollständige) Auflistung von IATA Codes von allen 
+Flughäfen Weltweit. Hat einer einen Tip wo ich einen Texf- oder SQL- File 
+mit den IATA Codes finde. Für jeden Tip bin ich sehr dankbar.
+
+Mit freundlichen Grössen
+
+Uwe Bonekemper

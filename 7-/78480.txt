@@ -1,0 +1,9 @@
+Jede Karte die ich gesehen habe hat nicht nur Minuten Kosten, hat auch Anschluss
+Kosten (connection fee).  Bei manchen ist es per Minute billig, aber die
+Anschluss Kosten ziemlich teuer, bei anderen ist es umgekehrt.
+
+Wenn die meisten Gespräche ganz kurz sind (bei mir der Fall), dann ist es besser,
+eine Karte mit niedrigen Anschluss Kosten und höheren Minuten Kosten zu kaufen.
+Bei lange Gespräche wären billige Minuten Kosten besser.
+
+Oliver

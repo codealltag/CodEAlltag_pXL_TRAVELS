@@ -1,0 +1,11 @@
+Zeit :-) Arbeite daran. Leider ist diese Buchungsmaschine aber nicht so
+einfach zu integrieren. Für Urur gilt das selbe. Da beide eigentlich
+nicht zu den "Billig-Fliegern" gehören (sind Charter-Flieger, die ich aber
+auch bei dem Billig-Flieger Abfrage-Modus integrieren werde), habe ich mir
+hiermit bisehr etwas Zeit gelassen.
+Werde diese zusammen mit den anderen Billig-Fliegern sobald wie möglich
+berücksichtigen.
+
+Gruß.
+
+Ingo

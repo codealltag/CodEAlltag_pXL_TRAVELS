@@ -1,0 +1,18 @@
+Warum? Einfach nicht klauen lassen. Und gerade bei Kontrollen wie
+in den USA kann einem das sogar zum Verhängnis werden. Wenn man dann
+unter Umständen Keys rausrücken muss, hat man möglicherweise mehr
+freigegeben als nur das Notebook. Im Extremfall droht die Zerstörung
+des Gerätes. Vielleicht wird's auch einfach nur beschlagnahmt. Wenn
+man dann aber auch noch rummeckert, statt brav die Klappe zu halten,
+kann man glücklich sein, wenn man wieder zurückreisen darf, statt das
+Hotel bis auf weiteres gegen eine Gefängniszelle tauschen zu müssen.
+
+Bei der Einreise in die USA gehören aufs Notebook überhaupt keine
+vertraulichen oder wichtigen Daten. Die holt man sich *nach* der
+Einreise bequem übers Internet. Eine Installations-CD/DVD ist auch
+nicht verkehrt, denn wenn man das Notebook temporär abgeben muss
+(zum Kopieren des Inhalts), ist natürlich das Risiko groß, dass
+jemand Schn�ffelsoftware installiert. Da hilft's dann auch nicht,
+wenn man die Daten vorher verschlüsselt hat.
+
+	Größe, Klaus

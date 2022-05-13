@@ -1,0 +1,6 @@
+"Mein" Agent kann es auch nicht unmittelbar umsetzen. Dazu gibt es
+dann einen Popup, der fragt, ob es um eine E-Mail Adresse oder Message
+Id geht. Ich hatte auch aufgrund der doch recht merkwürdig klingenden
+Message Id zuerst auf eine Scherzantwort ("Blockwart") getippt ...
+
+Albert Dunkelstein

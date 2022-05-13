@@ -1,0 +1,21 @@
+On Wed, 13 Jan 2002 09:06:27 +0100, Urs Strathaus
+
+Na dann verat mir doch mal, woher die Energie für das Licht kommt.
+
+Kleiner Physikexkurs: Ein Magnetfeld, das durch einen einen Leiter
+fließenden Strom entsteht, ist immer so rum gepolt, daß es dem
+induzierenden Feld entgegen wirkt (1). Je mehr Last an der Lima, je
+stärker der Strom, Gegenfeld und folglich Bremswirkung der Lima - was
+sehr wohl einen höheren Bezinverbrauch zur Folge hat.
+Wieviel kW (PS) braucht man, um ein Auto auf z.B. 60km/h konstant zu
+halten? Sagen wir mal 15kW (ca. 20PS). Dann sind 150Watt Licht
+immerhin doch schon 1%!
+
+
+(1) was sehr schade ist, sonst könnte ich dich zur Erfindung des
+Perpetuum Mobile beglückwünschen.
+
+Roman
+
+-- 
+Wo ein Unwille ist, da ist auch ein Umweg.

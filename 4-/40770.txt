@@ -1,0 +1,19 @@
+Variante 1 ist ein Callback-System, bei dem a) Zugriff auf eine 
+usbekische Telefonummer zwecks Kostenreduzierung empfehlenswert ist und 
+b) der Callback mittels Webformular ausgelöst wird.
+
+Variante 2 erfordert einen Computer mit entsprechender Ausstattung, um
+telefonieren zu können. Da kann man dann auch gleich auf VoIP per FUWF 
+oder Voipbuster/Voipstunt und Konsorten umsteigen, die obendrein 
+wesentlich günstiger sind und im Falle von FUWF keine Vorausbezahlung 
+erfordern.
+
+Ohne Computer sind beide Varianten also unbrauchbar.
+
+Generell empfiehlt es sich, sich vor Ort einmal umzuschauen, welche 
+Möglichkeiten (z.B. lokale Calling Cards, Telefon-Cafe, Postamt) es zu 
+welchen Preisen gibt, da ausländische Varianten (globale Calling Cards, 
+SIM-Karten wie Riing) meistens teu(r)er sind.
+
+Gruß,
+Ottmar

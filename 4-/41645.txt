@@ -1,0 +1,8 @@
+Behauptest du oft Dinge die du nicht ueberprueft hast? Das System kann  
+eigenartigerweise nicht fuer 26-29 Naechte suchen, bei Eingabe der Daten  
+findet es die Fluege schon, zB:
+
+Wertstoffhof-MBA LT660 10. Maerz - MBA DUS LT661 20. Maerz fuer 469,--.
+
+Bei 25 Nächten aber auch nicht, bei 13, 14, 21, 22 Nächten wiederum schon.
+Schon insgesamt etwas merkwuerdig, aber was soll man machen.

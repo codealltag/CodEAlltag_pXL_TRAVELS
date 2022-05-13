@@ -1,0 +1,10 @@
+und bei der Gelegenheit bitte gleich die Umlaute richtig 
+deklarieren. Auf Nicht-Windows-Systemen ist das eine 
+Fragezeichenorgie. (Dann klappt das auch mit dem "�") 
+
+FLC-Benutzer finden die benötigen Konfigurationsänderungen unter: 
+http://ol-swx.re/ im Punkt 4.01 der FAQ.
+
+-- 
+Satisfy your thirst for life!
+This year running: 710 km

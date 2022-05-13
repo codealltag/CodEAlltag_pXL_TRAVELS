@@ -1,0 +1,8 @@
+Hi,
+
+heute startet zumindest Java fehlerfrei, egal ob mit Http oder http.
+Aber beim Fenster schließen verabschiedet sich ganz Netscape immer noch
+(NT4).
+
+Bye,
+Giovanni

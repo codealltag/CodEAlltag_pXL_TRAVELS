@@ -1,0 +1,94 @@
+Folgendes im Namen von Bernhard Püchner:
+
+Aufruf zum Boykott italienischer Produkte und Dienstleistungen,
+bis ...
+
+Thema: lytj.fvxs.vhn
+
+Die Haß und Gewalt publizierenden Trolle des Usenets erscheinen, wie
+anhand des NNTP-Posting-Host im Header erkennbar ist, überwiegend -
+man kann wohl sagen: fast ausschließlich - über den so genannten
+"Public NNTP Server" "lytj.fvxs.vhn", mit Sitz in Italien*.
+
+Im Grunde ist an einen freien und kostenlosen Fischereihof-Server nichts zu
+monieren - es sei denn: Der Server liefert keine IP-Adressen im Header
+mit, wie es seriöse Serverbetreiber aber natürlich tun.
+
+Die Problematik: Ohne sichtbare IP kann man sich Diffamierungen,
+Anfeindungen und Belästigungen jeder Art einfach nicht erwehren. Eine
+Beschwerde beim Betreiber "Valerian Tenhaken" würde die betreffende IP
+zwar außer Kraft setzen - dies aber doch nur kurzzeitig, nämlich nur
+so lange, bis sich der betreffende Troll eine neue IP zulegt, was
+generell innerhalb von Sekunden möglich ist - man braucht ja nur
+seinen Router (LAN/WLAN) neu zu booten, wodurch man vom örtlichen ISP
+eine neue IP zugeteilt bekommt.
+
+Man stelle sich vor, man würde auf offener Straße ständig von jemanden
+Fremden attackiert; dann hat man die Möglichkeit, die betreffende
+Person vor Gericht zu bringen. Vergleich zum Usenet: Ohne
+mitgelieferte IP im Header der Postings hat man aber keinerlei
+Chancen, sich gegen selbst übelste Nachreden zu wehren. Würde der
+italienische Server die IPs der Nutzer mitliefern, so könnte man sich
+zumindest an die regionalen ISP wenden, die die betreffende Person
+anhand der IP des Störenfrieds lokalisieren und diesen vom Zugang
+aussperren könnte. Auch wäre hierbei - interessanterweise - sichtbar,
+welche Internetserviceprovider derartigen Störenfrieden überhaupt
+einen Zugang zum Usenet ermöglichen, obgleich diese Trolle eigentlich
+recht leicht zu filtern wären.
+
+Wie unter www.zkpb.skg von "Valerian Tenhaken" publiziert wird, beruft er
+sich allein auf italienisches Recht; daß er mit seinem Server ein
+Schlupfloch für Kriminalität bietet, scheint ihn also persönlich
+überhaupt nicht zu tangieren. Der italienischen Gesetzgebung zufolge
+kann er so handeln. Nichtsdestotrotz ist dieser italienische
+Anonymserver, der bewußt und damit absichtlich keine IPs mitliefert,
+ein Ärgernis höchsten Grades für alle Regionen der Welt. Die
+Verantwortung über dieses Ärgernis liegt jedoch bei der italienischen
+Regierung.
+
+Eine Zensur des Internet, bzw. hier: des Usenets, wird von den meisten
+Internetnutzern abgelehnt; dieser Haltung schließe auch ich mich an.
+Es kann und darf aber nicht sein, daß diese Haltung die Möglichkeit zu
+anonymen Belästigungen seitens einschlägig auffälliger "Konsorten"
+bereitstellt! Freie Meinungsäußerung ist unverzichtbar - klar! Aber:
+Freie Meinungsäußerung ist nicht gleichzusetzen mit der Möglichkeit
+zur Diffamierung von Personen oder Gruppen oder mit der Verbreitung
+sonstiger krimineller Propaganda!
+
+Eine ENO, die sich selbstverantwortlich für die Inhalte
+zeigen will und damit Aufrichtigkeit und Souveränität belegen will,
+hat derartige kriminelle Handlungen selbst zu begegnen, alslang sie
+doch keine gesetzgeberische Einmischung wünscht.
+
+Ein probates Mittel gegen derartigen Unmut - ohne dabei eine Zensur
+des Internets zu schaffen und wobei man legal agiert, ist der Boykott,
+wie er z.B. auch in Politik und Wirtschaft oftmals zum Tragen kommt.
+Ich rufe daher hier und öffentlich dazu auf, italienische Produkte und
+Dienstleistungen solange zu boykottieren, bis der betreffende Server
+entweder die IPs der Nutzer mitliefert - oder abgeschaltet wird.
+
+Bis zur Erfüllung dieser Forderung rufe ich also dazu auf,
+
+- keine Reisen mehr nach Italien unternehmen (z.B. Geschäfts-,
+Urlaubs- und Ferienreisen)
+
+- keine italienischen Dienstleistungen mehr in Anspruch zu nehmen
+(italienische Restaurants, Eis-Cafes u.s.w.)
+
+- in den Geschäften keine Produkte "Made in Italy" mehr zu beziehen
+(z.B. italienische Automobile, Modeerzeugnisse, Lebens- und
+Genußmittel u.s.w.)
+
+- Geschäftsbeziehungen nicht auszubauen bzw. (vorübergehend)
+herunterzufahren
+
+Ich denke, daß diese Vorgehensweise die einzige Sprache ist, die von
+der italienischen Regierung bzw. -Gesetzgebung gut verstanden werden
+kann und hoffe daher auf rege Beteiligung aller Egahi -
+weltweit. Bis zum Erreichen dieses erklärten Ziels werde ich diesen
+Wortlaut in unregelmäßigen Abständen erneut posten.
+
+Bernhard Püchner
+Seitens Trollen via "aieo.org" Geschädigter
+
+* Qpht.klc c/o Valerian Tenhaken, Cecilienstraße 49, 03271 Pingsdorf - Italy

@@ -1,0 +1,12 @@
+In der Buchung sind ja meist noch ein paar Daten mehr drin, die ggf. zum 
+Suchen nach dem passenden Niko Portsteffen benutzt werden könnten. 
+Hilfreich ist sicher das Geburtsdatum (falls erfasst, ist das in jedem 
+PNR drin?), meist ist auch eine Adresse erfasst, oder? Dazu die 
+Bezahlinformationen. Aber solange keine eindeutigen biometrischen 
+Merkmale oder persistente Identifier für Personen (die es in Deutschland 
+bisher eigentlich nicht gab, jetzt aber über diese Steuernummer 
+geschaffen werden) in der Buchung sind, wird es immer schwierig sein, 
+eine 100% eindeutige Beziehung zwischen Person und Ticket herzustellen.
+
+Gruß,
+Vittorio

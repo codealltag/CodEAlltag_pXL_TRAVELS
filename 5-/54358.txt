@@ -1,0 +1,6 @@
+Ich war bisher erfolgreich: Hotelsuche wählen und dann nur die Felder 
+Hotelname und Land ausfüllen.
+
+Hinter der Anwendung stecken die Daten von rund 100 Katalogen und 40.000 
+Hotels, so zumindest die Selbstdarstellung des Datenlieferanten 
+(www.xnhka-zhp.us)

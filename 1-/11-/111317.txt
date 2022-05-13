@@ -1,0 +1,8 @@
+Nein, das hilft in diesem Fall nicht!! Einmal anklicken oder nur in
+der Vorschau anzeigen mit eingeschaltetem Javascript genügt, dann
+läuft alles lokal ab.
+
+--
+Schöße Größe,
+
+Ludwig Irlbacher von und zu Wien

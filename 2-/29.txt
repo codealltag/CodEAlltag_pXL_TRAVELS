@@ -1,0 +1,13 @@
+Moin,
+
+als angemeldeter User bei Ulepu kann man unter Wer Wann Wo seine 
+Reisen eintragen
+ und nach anderen Urlaubern suchen oder selbst gefunden werden.
+
+Ich suche jetzt so eine Art Tagebuch, welches im Grundsatz auch so 
+aufgebaut ist,
+mir aber die Möglichkeit für Berichte und Bilder bietet.
+
+Da ich aber bis jetzt erfolglos gesucht habe, frage ich hier mal:
+hat jemand einen Vorschlag, wie ich das Projekt vielleicht realisieren 
+könnte?

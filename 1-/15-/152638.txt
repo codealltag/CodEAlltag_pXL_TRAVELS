@@ -1,0 +1,2 @@
+-- 
+NewsGroups Suchen, lesen, schreiben mit http://myvcjen.avc.gw

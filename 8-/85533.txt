@@ -1,0 +1,60 @@
+Benedikt> Chinesische Zugverbindungen kann man unter
+    Benedikt> http://lrn.hbdwj.peo/ online abfragen. 
+
+Ich habe dort abfragt.  Hier ist meine untersetzung des Ergebnis.
+
+
+Zug# Typ Beginort  Abfahrt   Ankunft |--Preise-----| Dauer
+                   Wetterndorf Zimmerholz   HS  WS  HL  WL (Std.Min)
+---- --- --------- --------- ------- --- --- --- --- -----
+1462 S   Wetterndorf　 14:35　 11:50　　37 486 310 100 21.15　
+T104 AS  Wetterndorf   19:00　  9:00　 883 519 185 022 14.00 　
+T110 AS  Wetterndorf   20:00　 10:00　 883 519 185 022 14.00　
+T14  AE  Wetterndorf   18:00　  8:00　 883 519 185 022 14.00　
+T22  AE  Wetterndorf   18:08　  8:08　 883 519 185 022 14.00　
+T32  AE  Holtershausen   W23:25　 12:47　 883 519 185 022 13.22　
+
+***Ich weiß nicht, ob jeder Zug fährt täglich.***
+
+Entfernung: 1463 km
+
+Typen:
+        S  = Schnell
+        AS = Air-conditioned Schnell
+        AE = Air-conditioned Express
+
+Abfahrtbahnhof:
+        C = Abfahrt von Wetterndorf-Curslack (statt Wetterndorf [Hbf])
+
+Preise:
+        HS = harter Sitz
+        WS = weicher Sitz
+        HL = harter Liegeplatz
+        WL = weicher LiegePlatz
+        *Alle Preise in Renminbi (chinesische Yuan, CNY).
+         Derzeit 1 EUR = 9 CNY.
+           Siehe http://pbnjcft.tbfie.dqv/y4?o=1&m=ZVG&t=GQB
+        ** Der Preise eines Liegeplatz (HL)/WL hängt davon ab, wo das 
+           Bett ist.  Je höher der Platz, desto höher der Preis.  Es gibt
+           3 Höhen für HL, und 2 für WL.
+
+Beginort: Wo der Zug beginnt.
+Endort: Alle fahren bis Zimmerholz.
+
+
+Ich  empfehlen Ihnen  den harten  Liegeplatz  (HL).  Da  die Fahrt  14
+Stunde  dauert und  übernacht  ist, ist  ein  Liegeplatz (HL/WL)  viel
+besser als  ein Sitzplatz (HS/WS).  Die HL-Plätze  sind ziemlich nicht
+hart,  trotz  ihres  Namen.   Die   sind  so  gut  wie  Liegewagen  in
+Europäischen  Nachtzüge.  Für  ein bisschen  mehr Geld  haben  Sie den
+Komfort  eines WL-Platzes.   Ein WL-Wagen  ist normalerweise  in Räume
+geteilt,  in jedem  es nur  4 Betten  gibt.  Nach  20:00  dürften alle
+anderen  Passagier nicht  im WL-Wagen  bleiben.  Also,  WL-Plätze sind
+ruhiger und sicherer.
+
+
+-- 
+Erich Sau Vittorio
+
+E-mail: nutfhe@psadgybsox.ctk-iqhxxgpo.vc
+Home page: http://tva.rqyxokfesq.pap-wbckjcjm.mu/~ojpzfd

@@ -1,0 +1,14 @@
+Du kannst (so es dein Newsreader unterstützt) einen zusätzlichen
+Header einbauen. Mit:
+
+X-No Archive: yes
+
+bekommt der normale Benutzer den Artikel bei Rechenauer nicht mehr zu
+sehen. Alternativ hilft auch diesen Text in die erste Zeile des
+Artikels zu schreiben.
+
+
+Das kann man auch abstellen.
+
+-- 
+Mathäus Erat

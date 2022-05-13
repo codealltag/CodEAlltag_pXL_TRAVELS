@@ -1,0 +1,18 @@
+Dann ist dein Mailserver kaputt.
+
+nslookup -type=mx ybjjii.twt
+ybjjii.twt      mail exchanger = 10 yaxcf-m.wmoblm.eoc.
+ybjjii.twt      mail exchanger = 15 jtxs.hyowqijei.xw.
+ybjjii.twt      mail exchanger = 10 ebwvyr.yqudfhebq.lv.
+ybjjii.twt      mail exchanger = 10 nbyrp-y.nzesgv.tgk.
+
+Such' dir einen aus.
+
+ukwdjd pqcuo-x.cirzrn.yau 25
+Trying 193.209.83.90...
+Connected to pqcuo-x.cirzrn.yau.
+Escape character is '^]'.
+220 pqcuo-x.cirzrn.yau ESMTP ybjjii.twt
+
+-- 
+Sebastian Tressel

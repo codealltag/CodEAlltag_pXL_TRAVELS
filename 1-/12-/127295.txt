@@ -1,0 +1,28 @@
+Hallo Winfried!
+
+und
+
+Für (Mittel-) Europa ist der DCF77 _der_ Zeitzeichensender
+schlechthin.
+Er hat eine Reichweite von ca. 1200 - 1500 km (auch abhängig von der
+Tageszeit) und deckt damit einen Großteil Europas ab.
+
+In Europa sind mir sonst solche Sender nicht bekannt, vielfach wird
+auch das Fernseh- oder Radiosignal als Träger verwendet. Auch im GPS
+wird die Zeit quasi als Abfallprodukt dem Benutzer übermittelt.
+
+In Amerika gibt es ebenfalls Zeitzeichensender auf Langwelle, jedoch
+auf einer anderen Frequenz und einem anderen Codierungsverfahren.
+
+Für einen Urlaub außerhalb des Empfangsgebietes vom DCF77 brauchst du
+dir auch keine Gedanken machen, da die bei uns üblichen Uhren für den
+Hausgebrauch ganz normale Quarzuhren sind, die meist nur einmal am Tag
+syncronisiert werden (wegen der besseren Empfangsbedingungen in der
+Nacht, meist 3 Uhr wegen Sommer-/Normalzeitumstellung). Im Urlaub hast
+du somit nur eine "ungenaue" Quarzuhr.
+
+
+IRMGARD!
+
+
+Thomas

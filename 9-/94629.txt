@@ -1,0 +1,26 @@
+BUS                                      
+---                                      
+TO MILAN CENTRAL STATION                 
+JOURNEY TIME: 50 MIN                     
+FREQUENCY: EVERY HALF HOUR FROM 0700-1600
+           EVERY ONE HOUR 1600-2100      
+COST: EUR 6.71 (ITL 13000)               
+
+RAIL                                               
+----                                               
+JOURNEY TIME: 40 MIN (1 STOP IN BOVISA AND SARONNO)
+FREQUENCY   : EVERY 30 MIN                         
+COST        : BY MILANO MALPENSA FROM CADORNA FN   
+              OW ADULT EUR 09.00                   
+              CHILD 4-12 YEARS EUR 04,50           
+              RT IN THE SAME DAY ADULT EUR 12,00   
+              CHILD 4-12 YEARS EUR 06,00           
+
+              CARNET  6 TRAVEL EUR 46,00           
+
+Gruß Roland
+
+-- 
+http://vi.lu/hwpqmgepwv - Neutrale Fluginformationen (System Jump)
+http://plq.axbhovgbwq.yzm - Suchmaschine für Billigflüge in Europa
+http://sik.lprtycexlfnq-eaahzs.qs - eigene Homepage (kommerziell)

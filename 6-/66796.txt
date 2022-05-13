@@ -1,0 +1,10 @@
+Serge Ewerts wrote:
+...
+
+Serge,
+bei uns bietet das Vermessungsamt solche Karten auf CD (in D in DD). Je nach
+Maßstab kann das aber recht teuer werden. Man kann außer dem Maßstab auch
+das Dateiformat auswählen. Im Bitmap vorliegende Karten können dann
+beispielsweise mit Photoshop nachbearbeitet werden.
+
+Arne

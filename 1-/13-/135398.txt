@@ -1,0 +1,12 @@
+Hi,
+
+
+Du solltest Dich mal mir Grafikkomprimierung beschaeftigen := )
+Auf deiner Startseite ist ein Bild 1982*277 mit 52KByte. Viel zu
+viel, ein Bild solcher Groessenordnung kriegt man locke unter 10
+KByte.
+
+Ein "Must" ist eine gute Grafikkomprimierung.
+
+Gruss
+  Rüdiger

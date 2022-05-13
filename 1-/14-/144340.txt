@@ -1,0 +1,5 @@
+Hallo
+ im Prinzip hast Du schon recht, doch Uhren mit Synchronlaufwerk oder
+Uhren ohne Quarz-Oszillator werden AFAIK schon lange nicht mehr
+gebaut.. 
+Gruß Niclas

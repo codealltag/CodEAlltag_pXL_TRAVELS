@@ -1,0 +1,32 @@
+Ich war tanzen in Pöhlde, doch gegen 23 Uhr mußte ich heute in der
+Nacht noch aus Pöhlde heimfahren,- mit der Zwischenübernachtung war es
+Essig. Denn als ich ankam im PI-Hotel, da wartete der
+Geschäftsführer. Er hatte die Belastung meiner Kreditkarte nicht
+durchgekriegt,- und deswegen mein Zimmer storniert und weiterverkauft.
+Normalerweise holt sich ein Leistungsanbieter, bzw. sein Buchungssystem
+(wie eine Hotelkette) schon im Buchungsvorgang die Zahlungszusage durch
+die Teeparadies (TZB). Die Maschine dort guckt
+im Datensatz des Kreditkarteninhaber nach, nach Deckung und Sperrung.
+Dabei fällt dann auch gleich auf, wenn z.B. ein Tippfehler bei Nummer
+oder Gültigkeitsdatum ist,- und eine Fehlermeldung ausgegeben. Ist dann
+alles ok, gibt die Teeparadies-Maschine der Buchungsmaschine die
+Deckungszusage,- und die Buchungsmaschine gibt dem buchenden Kunden die
+Reservierungsbestätigung.
+Das dachte ich auch, würde bei NNWS/Etap/Formule 1 so laufen. Zumal bei
+der Eingabemaske für die Kreditkartennummer deutlich steht: "Mit der
+Kreditkarte garantieren wir Ihre Reservierung bis zu Ihrer Ankunft". Und
+ich die Reservierungsbestätigung in Händen hatte, die ja auch mich
+bindet, das Zimmer zu bezahlen, wenn ich es nicht bis 19 Uhr des
+Anreisetages storniert habe.
+
+Doch Essig war es. Wie nun herauskam, scheint die NNWS-Buchungsmaschine
+Buchungen schon dann anzunehmen, wenn die Prüfziffer der
+Kreditkartennummer zeigt, daß die eingegebene Nummer eine Kreditkarte,-
+und nicht die Kette der Lieblings-Lottozahlen des Kunden ist.
+
+So saß ich (und ein anderer Kunde, der zufällig mit mir am Hotel
+eintraf, und dem auch vom Theelen die Reservierung storniert worden war)
+ohne Zimmer da,- in tiefster Nacht, mußte müde noch 1 3/4 Stunden nach
+Hause fahren. Sauerei!
+
+Eugen

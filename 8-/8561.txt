@@ -1,0 +1,15 @@
+Also man muss schon *sehr* verquer denken (wollen), um unter "Reisedauer: X
+Tage" etwas anderes zu verstehen als schlicht 
+
+  (Datum des Check-Out) - (Datum des Check-In) = X
+
+Wohlgemerkt: es geht um Hotelbuchungen, nicht um dauer von Zugreisen etc.
+
+
+Bye
+
+  werner
+
+-- 
+Congratulations - you're the first human to fail the Turing-Test.
+  (Fischborn)

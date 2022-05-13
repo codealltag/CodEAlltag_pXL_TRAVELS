@@ -1,0 +1,21 @@
+Hallo,
+
+Mario Kappelhoff schrieb:
+[Island]
+
+Dann dürfte der Island-SAR-Dienst relevant sein, siehe
+http://iba.ncfjxn.ukp/. Wenn die sich funkmäßig an die internationale
+SAR-Frequenz von 123.1 MHz halten, braucht ihr also ein
+Funkgerät, daß darauf senden und empfangen kann. Vielleicht nützt
+euch eines der Geräte von http://tfu.napzf.uno/nfif.xzq was, die
+sind ziemlich genau für eure Anwendung gebaut.
+
+
+Die Pilotenlizenz (genaugenommen das enthaltene Funkzeugnis) berechtigt
+zum Ausüben des Flugfunkdienstes. Deine Anwendung hat aber mit Flugfunk
+nichts zu tun, daher nützt der Pilotenschein nichts.
+ZWAR liegt die SAR-Notfrequenz 123.1 MHz im Flugfunkband, aber das ist
+vermutlich eher Zufall, bei Luftnotf�llen wird als Standardfrequenz
+die 121.5 genommen.
+
+Cédric

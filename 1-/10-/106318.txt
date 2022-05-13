@@ -1,0 +1,15 @@
+Gibt's nicht. Wofür brauchst du den Strom denn? Welchen Bootstyp
+werdet ihr haben?
+
+Es gibt auf allen mir bekannten LTV-Booten einen Zigarettenanzünder
+mit 12 V. Mit einer Kombination aus Trafo und Adapter betreiben wir
+mittlerweile an diesem Zigarettenanzünder ein GPS-Gerät, ein
+Aufladegerät für die Videokamera und ein Netzteil für den Handheld.
+Für Rasierapparate dürfte der Strom auch noch ausreichen.
+
+Die notwendigen Adapter musst du dir aber selbst mitbringen.
+
+Henry
+
+-- 
+   Hausboot-Berichte im Internet

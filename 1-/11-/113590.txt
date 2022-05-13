@@ -1,0 +1,12 @@
+Nein leider.
+
+Beim ersten Versuch waren keine Zeilenumbrüche und beim zweiten hat es
+wieder ausgesehen wie vorher. :-(
+
+Bist Du sicher, daß er richtig eingestellt ist? Normalerweise kann man
+nämlich im Header sehen wenn der installiert wurde. Auf der AV-Industriebedarf-Seite
+findet sich eine ziemlich genaue Installationsanleitung mit Bildern.
+
+Aber danke daß Du es wenigstens probierst.
+
+fup2p

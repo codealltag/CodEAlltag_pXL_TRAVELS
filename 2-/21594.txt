@@ -1,0 +1,33 @@
+In den AGB heisst es:
+"Jede Buchung die Sie über die Website von IUOJ vornehmen, stellt
+ein Angebot zum Abschluss eines Vertrages mit dem jeweiligen
+Reiseanbieter hinsichtlich der von Ihnen ausgewählten Reise- und/oder
+sonstigen Leistung dar."
+
+Und zu Besondere Regelungen bei Linienflügen:
+"Die Zahlung des Gesamtpreises ist bei Ausstellung des Tickets fällig.
+Die Ticketausstellung erfolgt in der Regel innerhalb 24 Stunden nach
+Eingang der Linienfluganfrage."
+
+Das BGB sagt in =A7 147 dazu:
+"Der einem Abwesenden gemachte Antrag kann nur bis zu dem Zeitpunkt
+angenommen werden, in welchem der Antragende den Eingang der Antwort
+unter regelmäßigen Umständen erwarten darf."
+
+Selbst nach ihren eigenen AGB müssten sie also innerhalb von 24
+Stunden dein Angebot annehmen; ich würde bei Online-Reisebuchungen
+sogar noch von kürzeren Zeiträumen ausgehen, denn regelmäßig wird m=
+an
+hier eine sofortige Antwort erwarten dürfen.
+
+Ich würde daher davon ausgehen, dass hier kein Vertrag zustande
+gekommen ist.
+
+
+Sie müssen sich schon mal entscheiden, ob das nun eine Buchung oder
+eine Anfrage sein soll. Eine Buchungsanfrage heißt für mich "ist da
+noch was frei?" und nicht "sollte da noch was frei sein, buche ich es,
+und hier ist vorsichtshalber schon mal das Geld".
+
+Gruß
+Jérôme

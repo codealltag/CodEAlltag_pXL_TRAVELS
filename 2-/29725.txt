@@ -1,0 +1,12 @@
+Nadine Paulmayr <prrwnvgqn@xlguxeqwjep.je>:
+
+
+Nein, "pencil" (Bleistift) und "pen" werden schon unterschieden; unter
+"pen" fällt aber so ziemlich alles, was mit Tinte funktionert
+(Kugelschreiber, Füller, Feder ...).
+
+
+Aber der Unterschied als solcher wird ja nur sichtbar, wenn man
+wirklich beide Ziffern schreibt. Und zumindest beim maschinellen Lesen
+kann man sich nicht darauf verlassen, daß solche Unterschiede zwischen
+verschiedenen Zeichen überhaupt berücksichtigt werden.

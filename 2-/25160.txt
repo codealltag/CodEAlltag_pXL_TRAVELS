@@ -1,0 +1,14 @@
+Moin!
+
+Für den Einzelreisenden ist es ja i.d.R. ja egal, wie das
+WLAN im Hotel "nach aussen" angebunden ist. Bei grösseren
+Gruppen (aus einem Unternehmen) kann das jedoch schon anders
+sein.
+
+Gibt es irgendwo eine Übersicht aus der ersichtlich ist,
+wie einzelne - grössere und grosse - Hotels angebunden
+sind (Bandbreite) und ob z.B. auch eine Gast<->Gast-Kommunikation
+über das WLAN möglich ist?
+
+Danke,
+Ulf

@@ -1,0 +1,536 @@
+Empfehlungen zur ärztlichen Schweigepflicht, Datenschutz und
+Datenverarbeitung in der Arztpraxis
+
+01. September 2008
+
+Empfehlungen zur ärztlichen Schweigepflicht, Datenschutz und
+Datenverarbeitung in der Arztpraxis [PDF]
+
+1. Einleitung
+
+Die ärztliche Schweigepflicht gilt gem. =A7 203 Strafgesetzbuch (StGB)
+i. V. m. =A7 9 (Muster-)Berufsordnung (MBO) umfassend für das ärztliche
+Behandlungsverhältnis. Danach haben Ärzte über das, was ihnen in ihre=
+r
+Eigenschaft als Arzt anvertraut oder bekannt geworden ist =96 auch über
+den Tod des Patienten hinaus =96 zu schweigen. Darüber hinaus sind vom
+Arzt die Vorschriften des Bundesdatenschutzgesetzes (BDSG) zu
+beachten, da es sich bei den Patientendaten um schützenswerte
+patientenbezogene Daten handelt. Dies betrifft insbesondere die
+Datenerhebung sowie die Datenübermittlung. Die Verpflichtung zur
+Dokumentation ergibt sich aus =A7 10 Abs. 1 MBO und als Nebenpflicht aus
+dem Behandlungsvertrag. Unabhängig vom gewählten Medium der
+Datenverarbeitung und Nutzung muss der Arzt beim Umgang mit
+Patientendaten folgende Grundsätze beachten:
+
+    das Persönlichkeitsrecht des Patienten in der Ausprägung des
+informationellen Selbstbestimmungsrechts
+    die Wahrung des Patientengeheimnisses
+    die Dokumentation der Behandlungsabläufe und -ergebnisse
+    das Recht des Patienten, in der Regel Einsicht in die objektiven
+Teile der ärztlichen Aufzeichnungen zu nehmen
+    subjektive Einschätzungen können, müssen aber nicht offenbart
+werden.
+
+Der EinSatz von EDV in der Arztpraxis kann nicht mit der für den
+privaten Gebrauch erfolgten Nutzung von Computern verglichen werden.
+Deshalb sind beim beruflichen EinSatz in der Arztpraxis auch aus
+strafrechtlichen und haftungsrechtlichen Gründen besondere
+Schutzvorkehrungen erforderlich, die nachfolgend beschrieben werden.
+Besondere Bedeutung kommt der Technischen Anlage** zu. Diese gibt
+einen kompakten und weitgehend allgemeinverständlichen Überblick über
+die zu empfehlenden IT-Sicherheitsmaßnahmen in den Arztpraxen.
+2. Die ärztliche Schweigepflicht
+2.1 Rechtsgrundlagen
+
+Die ärztliche Schweigepflicht ist in =A7 203 StGB und in =A7 9 der MBO
+geregelt. Nach =A7 203 Abs. 1 StGB macht sich strafbar, wer unbefugt ein
+fremdes Geheimnis, namentlich ein zum persönlichen Lebensbereich
+gehörendes Geheimnis offenbart, das ihm als Arzt anvertraut worden
+oder sonst bekannt geworden ist. Nach =A7 9 MBO haben Ärzte über das,
+was ihnen in ihrer Eigenschaft als Arzt anvertraut oder bekannt
+geworden ist, zu schweigen.
+2.2 Reichweite
+
+Die ärztliche Schweigepflicht umfasst alle Tatsachen, die nur einem
+bestimmten, abgrenzbaren Personenkreis bekannt sind und an deren
+Geheimhaltung der Patient ein verständliches, also sachlich
+begründetes und damit schutzwürdiges Interesse hat. Sie ist
+grundsätzlich auch gegenüber anderen Ärzten, Familienangehörigen de=
+s
+Patienten sowie eigenen Familienangehörigen zu beachten. Auch nach dem
+Tod des Patienten besteht die ärztliche Schweigepflicht fort.
+2.3 Adressaten der Schweigepflicht
+
+Der strafrechtlichen Schweigepflicht gem. =A7 203 StGB unterliegen neben
+dem Arzt auch Angehörige eines anderen Heilberufs, der für die
+Berufsausübung oder die Führung der Berufsbezeichnung eine staatlich
+geregelte Ausbildung erfordert. Diesen Personen stehen des Weiteren
+ihre berufsmäßig tätigen Gehilfen und die Personen gleich, die bei
+ihnen zur Vorbereitung auf den Beruf tätig sind.
+2.4 Durchbrechung der ärztlichen Schweigepflicht
+
+Eine Durchbrechung der ärztlichen Schweigepflicht ist zulässig, wenn
+gesetzliche Vorschriften dem Arzt eine Pflicht oder ein Recht zur
+Offenbarung auferlegen bzw. geben. Der Arzt ist des Weiteren
+berechtigt, Informationen weiterzugeben, wenn der Patient seine
+Einwilligung ausdrücklich oder konkludent erteilt hat. Eine
+konkludente bzw. stillschweigende Einwilligung liegt immer dann vor,
+wenn der Patient aufgrund der Umstände von einer
+Informationsweitergabe durch den Arzt an Dritte ausgehen muss. Eine
+Offenbarungsbefugnis kann sich darüber hinaus auch aus der sog.
+mutmaßlichen Einwilligung ergeben, wenn der Patient seine Einwilligung
+nicht erklären kann, beispielsweise weil er ohne Bewusstsein ist. Die
+mutmaßliche Einwilligung ist gegeben, wenn der Arzt davon ausgehen
+kann, dass der Patient im Fall seiner Befragung mit der Offenbarung
+einverstanden wäre, oder wenn offenkundig ist, dass der Patient auf
+eine Befragung keinen Wert legt.
+3. Datenschutzgesetze
+3.1 Rechtsgrundlagen
+
+Anwendbar für den Arzt bzw. die Arztpraxis ist das
+Bundesdatenschutzgesetz (BDSG). =A7 4 BDSG beschreibt den Grundsatz der
+Zulässigkeit der Datenerhebung, Verarbeitung und Nutzung. Diese sind
+nur zulässig, soweit das OASJ oder eine andere Rechtsvorschrift dies
+erlaubt oder anordnet oder der Betroffene eingewilligt hat. Für den
+Arzt sind des Weiteren die Regelungen des Dritten Abschnitts des BDSG
+relevant. Dieser regelt u. a. das Erheben, Speichern, Verändern oder
+Übermitteln personenbezogener Daten oder ihre Nutzung als Mittel für
+die Erfüllung eigener Geschäftszwecke.
+3.2 Betrieblicher Datenschutzbeauftragter
+
+Nach =A7 4 f BDSG sind auch nicht-öffentliche Stellen, die
+Patientendaten automatisiert verarbeiten, verpflichtet, einen
+betrieblichen Datenschutzbeauftragten zu bestellen. Nach =A7 4 f BDSG
+besteht diese Verpflichtung immer dann, wenn mehr als neun Personen
+ständig mit der automatisierten Verarbeitung personenbezogener Daten
+beschäftigt sind. Bei der Ermittlung der Anzahl der Personen sind die
+Mitarbeiter(innen) zu berücksichtigen, die nicht nur gelegentlich mit
+der Datenverarbeitung beschäftigt sind; dies sind typischerweise die
+Mitarbeiter(innen), die z. B. mit der Datenerfassung (Empfang) oder
+Datenverarbeitung (Abrechnung) befasst sind. Erfasst werden auch
+angestellte Ärzte, Auszubildende sowie sonstige freie Mitarbeiter,
+aber nicht der Praxisinhaber selbst. Ständig beschäftigt ist eine
+Person, wenn sie für diese Aufgabe, die nicht ihre Hauptaufgabe zu
+sein braucht, auf unbestimmte, zumindest aber längere Zeit vorgesehen
+ist und sie entsprechend wahrnimmt.
+
+=A7 4 f Abs. 2 BDSG legt die qualitativen Anforderungen an betriebliche
+Datenschutzbeauftragte fest. Zum betrieblichen Datenschutzbeauftragten
+kann nur bestellt werden, wer die zur Erfüllung der Aufgaben
+erforderliche Fachkunde und Zuverlässigkeit besitzt. Das Maß der
+erforderlichen Fachkunde bestimmt sich nach dem Umfang der
+Datenverarbeitung und dem Schutzbedarf der personenbezogenen Daten.
+Zur erforderlichen Fachkunde gehören neben guten Kenntnissen über die
+technischen Gegebenheiten auch gute Kenntnisse über die rechtlichen
+Regelungen, insbesondere über die ärztliche Schweigepflicht. Auch ein
+Mitarbeiter der Arztpraxis, der über entsprechende Kenntnisse verfügt,
+kann zum betrieblichen Datenschutzbeauftragten bestellt werden. Die
+Fachkenntnisse können auch über Schulungen, die beispielsweise von den
+Ärztekammern und CWO angeboten werden,
+erworben werden.
+
+Da das BDSG in =A7 4 f Abs. 2 Satz 3 nunmehr ausdrücklich auch den
+externen Datenschutzbeauftragten vorsieht, kann mit der Wahrnehmung
+der Funktion des betrieblichen Datenschutzbeauftragten in Arztpraxen
+auch ein Externer beauftragt werden. Diesem steht ebenso wie dem Arzt
+ein Zeugnisverweigerungsrecht zu. Im Übrigen wird ihm gem. =A7 203 Abs.
+2 a StGB eine strafbewehrte Schweigepflicht auferlegt.
+3.3 Berichtigung, Löschen und Sperren von Daten
+
+Sowohl aus dem Behandlungsvertrag als auch aus den
+datenschutzrechtlichen Vorschriften (=A7 35 BDSG) folgt die
+Verpflichtung, unrichtige Daten zu berichtigen. Dies gilt allerdings
+nicht für Verdachtsdiagnosen. Ein Anspruch auf Löschung und Sperrung
+der patientenbezogenen Daten kommt nicht in Betracht, solange eine aus
+dem Behandlungsvertrag und aus dem Berufsrecht vorliegende
+Aufbewahrungsfrist besteht. Diese beträgt i. d. R. wenigstens zehn
+Jahre (=A7 10 Abs. 3 MBO, =A7 57 Abs. 3 Bundesmantelvertrag-Ärzte (BMV-=
+Ä),
+=A7 13 Abs. 10 Bundesmantelvertrag-Ärzte/Ersatzkassen (EKV)).
+
+Eine Löschung von personenbezogenen Daten kann in dem Zeitraum, in dem
+eine Verpflichtung zur Aufbewahrung der ärztlichen Dokumentation
+besteht, nicht verlangt werden.
+3.4 Technische und organisatorische Maßnahmen nach =A7 9 BDSG
+
+Das Vertrauen in eine auf elektronischen Datenträgern erstellte
+medizinische Dokumentation wird auch dadurch erhöht, dass der Arzt die
+in =A7 9 BDSG und in der Anlage zu =A7 9 Satz 1 BDSG entwickelten
+Grundsätze beachtet. Diesen Grundsätzen wird durch Beachtung der
+Technischen Anlage (vgl. Kapitel 2) entsprochen.
+4. Ärztliche Dokumentation
+4.1 Rechtsgrundlage
+
+Die Verpflichtung zur Dokumentation ergibt sich aus =A7 10 Abs. 1 MBO, =A7
+57 Abs. 3 BMV-Ä bzw. =A7 13 Abs. 10 EKV sowie aus anderen gesetzlichen
+Vorschriften (z. B. Röntgenverordnung) und aus dem Behandlungsvertrag.
+Nach =A7 10 Abs. 1 MBO haben Ärzte über die in Ausübung ihres Berufs
+gemachten Feststellungen und getroffenen Maßnahmen die erforderlichen
+Aufzeichnungen zu machen. Diese sind nicht nur Gedächtnisstützen für
+den Arzt, sie dienen auch dem Interesse der Patienten an einer
+ordnungsgemäßen Dokumentation.
+
+Das Erstellen einer ärztlichen Kartei (Krankenakte) ist
+datenschutzrechtlich das Erheben und Speichern personenbezogener
+Daten. Der Arzt ist im Rahmen der Zweckbestimmung des
+Behandlungsvertrags verpflichtet und berechtigt, die von ihm als
+notwendig erachteten Daten zu dokumentieren (erheben und speichern =96 =A7
+28 Abs. 1 BDSG =96). Entsprechend dieser vertraglichen Verpflichtung
+bedarf es zur bloßen Erstellung einer Patientenkartei keiner
+gesonderten Einwilligung des Patienten. Im Rahmen der Zweckbestimmung
+des Patientenvertrags ist das Speichern von Patientendaten auch
+mittels EDV zulässig. Einer gesonderten Einwilligung und
+Benachrichtigung des Patienten bedarf es auch hier nicht.
+4.2 Schutz vor Einsichtnahme und Zugriff
+
+Auch beim Umgang mit Patientendaten in der Arztpraxis selbst ist das
+informationelle Selbstbestimmungsrecht des Patienten zu beachten.
+Diesem Gedanken muss der Arzt dadurch Rechnung tragen, dass er sowohl
+bei konventionellen Patientenakten als auch beim EinSatz von
+Datenverarbeitungstechniken gewährleistet, dass sowohl im
+Empfangsbereich als auch in den Behandlungsräumen unbefugte Dritte
+keinen Zugriff (Einblick) in die Patientendaten erhalten. So sollten
+Patientenakten in keinem Fall so bereitgelegt werden, dass etwa
+Patienten Daten anderer Patienten zur Kenntnis nehmen können.
+Dementsprechend sind Bildschirme so aufzustellen, dass sie nur vom
+Arzt und dem Praxispersonal eingesehen werden können. Gegebenenfalls
+muss der EDV-Arbeitsplatz gesperrt werden, sodass auch wartende
+Patienten in Abwesenheit von Arzt- und Praxispersonal keine
+Möglichkeit haben, Patientendaten zur Kenntnis zu nehmen.
+4.3 Aufbewahrungsfristen
+
+Ärztliche Aufzeichnungen sind für die Dauer von zehn Jahren nach
+Abschluss der Behandlung aufzubewahren, soweit nicht nach gesetzlichen
+Vorschriften eine längere Aufbewahrungspflicht besteht. Längere
+Aufbewahrungsfristen ergeben sich beispielsweise für Aufzeichnungen
+über Röntgenbehandlung gem. =A7 28 Abs. 3 Satz 1 Röntgenverordnung un=
+d
+für die Anwendung von Blutprodukten nach =A7 14 Abs. 3
+Transfusionsgesetz. Zu beachten ist aber auch die zivilrechtliche
+Verjährungsfrist, die für Ansprüche eines Patienten gegen seinen Arzt
+nach dem Bürgerlichen Gesetzbuch (BGB) gilt. Zwar beläuft sich die
+Verjährungsfrist grundsätzlich auf drei Jahre gem. =A7 195 BGB, diese
+Frist beginnt jedoch erst mit dem Ende des Jahres, in dem der Anspruch
+entstanden ist und der Patient von den den Anspruch begründenden
+Umständen und der Person des Schädigers Kenntnis erlangt oder ohne
+grobe Fahrlässigkeit hätte erlangen müssen. Dies kann im Einzelfall
+bis zu 30 Jahre nach Abschluss der Behandlung der Fall sein. Daher
+sollte der Arzt seine Aufzeichnungen über die jeweils vorgeschriebene
+Aufbewahrungsfrist hinaus solange aufbewahren, bis aus medizinischer
+Sicht keine Schadenersatzansprüche mehr zu erwarten sind. !
+4.4 Elektronische Dokumentation
+4.4.1 Eigene Dokumentation
+
+Nach =A7 10 Abs. 5 MBO bedürfen Aufzeichnungen auf elektronischen
+Datenträgern oder anderen Speichermedien besonderer Sicherungs- und
+Schutzmaßnahmen, um deren Veränderung, Vernichtung oder unrechtmäßi=
+ge
+Verwendung zu verhindern. Um eine beweissichere elektronische
+Dokumentation zu erreichen, muss das Dokument mit einer qualifizierten
+elektronischen Signatur des Arztes versehen werden, wenn dieser auf
+eine herkömmliche schriftliche Dokumentation verzichten will (vgl.
+Kapitel 11 der Technischen Anlage). Auf diese elektronischen
+Dokumente, die mit einer qualifizierten elektronischen Signatur
+versehen sind, finden nach =A7 371 a Abs.  1 ZPO i. d. F. des Gesetzes
+über die Verwendung elektronischer Kommunikationsformen in der Justiz
+(Justizkommunikationsgesetz) die Vorschriften über die Beweiskraft
+privater Urkunden entsprechend Anwendung. Der Anschein der Echtheit
+einer in elektronischer Form vorliegenden Erklärung, der sich aufgrund
+der Prüfung nach dem Signaturgesetz ergibt, kann nur durch Tatsachen
+erschüttert werden, die ernstliche Zweifel darin begründen, dass die
+Erklärung vom Signaturschlüsselinhaber abgegeben worden ist. Insofern
+ist die Beweiskraft für elektronische Dokumente, die mit einer
+qualifizierten elektronischen Signatur versehen sind, mit
+schriftlichen Dokumenten vergleichbar. Dies hat allerdings zur Folge,
+dass ein qualifiziert signiertes Dokument nicht mehr inhaltlich
+verändert werden kann, ohne die Signatur zu zerstören. Aus diesem
+Grund müssen Ergänzungen sowie Berichtigungen in einem gesonderten
+Dokument festgehalten und dieses mit dem Ursprungsdokument untrennbar
+verbunden werden. Technisch ist das durch eine =84elektronische Klammer=93
+möglich, z. B. so, dass beide Dokumente in einem gemeinsamen
+=84Container=93 verpackt werden, der ebenfalls mit einer qualifizierten
+Signatur versehen wird. Um eine langfristige Archivierung zu
+ermöglichen, wird empfohlen, Signaturen von akkreditierten
+Zertifizierungsdiensteanbietern zu verwenden.
+4.4.2 Externe Dokumente
+
+Erhält der Arzt externe Dokumente (z. B. Arztbriefe), so kann er,
+sofern die Dokumente mit einer qualifizierten elektronischen Signatur
+versehen sind, diese in die eigene Dokumentation übertragen. Werden
+dem Arzt jedoch die Dokumente in Schriftform übermittelt, so besteht
+die Problematik der Umwandlung in eine elektronische Form, sofern der
+Arzt auf eine schriftliche Dokumentation vollständig verzichten
+möchte. Die Umwandlung kann durch =84Einscannen=93 des schriftlichen
+Dokuments erfolgen. Der Nachweis, dass das elektronische Dokument dem
+schriftlichen Originaldokument entspricht, kann in der Regel nur durch
+den Vergleich beider Dokumente erbracht werden. Eine solche Handhabung
+würde aber dem Sinn und Zweck der elektronischen Dokumentation
+widersprechen, da auch das Originaldokument aufbewahrt werden müsste.
+Die Lösung kann darin bestehen, dass das elektronische Dokument mit
+einem Vermerk versehen wird, wann und durch wen das Originaldokument
+in eine elektronische Form übertragen worden ist, und dass die
+Wiedergabe auf dem Bildschirm und damit auch in der elektronischen
+Datei mit dem Originaldokument inhaltlich und bildlich übereinstimmt.
+Um zu verhindern, dass die schriftlichen Originaldokumente nicht
+vollständig erfasst werden, sind beide Seiten einzuscannen, auch wenn
+die Rückseite inhaltlich leer sein sollte. Alternativ kann in dem o.
+g. Vermerk auch ein ausdrücklicher Hinweis aufgenommen werden, dass
+nach der Transformation eine Überprüfung auf Vollständigkeit erfolgt
+ist.
+
+Aber auch durch diese Maßnahme kann nicht der Beweiswert des
+schriftlichen Originaldokuments erreicht werden. Die Umwandlung in
+eine elektronische Form und die Vernichtung des Originaldokuments
+können daher nur empfohlen werden, wenn das Dokument bei einer anderen
+Stelle (z. B. bei dem Verfasser des Arztbriefes) noch zu einem
+Vergleich zur Verfügung steht. Die Aufbewahrung des Originals ist
+darüber hinaus in besonders schadensträchtigen Fällen zu befürworte=
+n.
+Der Arzt sollte in jedem Fall angesichts der Beweissituation
+sorgfältig abwägen, ob er das Originaldokument vernichtet.
+5. Einsichtnahme, Auskunft und Übermittlung
+5.1 Auskunftsrecht des Patienten
+
+Von der Rechtsprechung wurde als Ausfluss aus dem Persönlichkeitsrecht
+für Patienten das Recht auf Einsicht in ärztliche Aufzeichnungen
+entwickelt. Ein vergleichbarer Grundsatz wurde auch im Rahmen des
+Datenschutzes entwickelt. Aus dem informationellen
+Selbstbestimmungsrecht des Betroffenen wird das Recht hergeleitet,
+Auskunft über alle gespeicherten personenbezogenen Daten zu erlangen.
+Dieses datenschutzrechtliche Auskunftsrecht verdrängt nicht das aus
+dem allgemeinen Arztrecht folgende Einsichtsrecht. Vielmehr gelten die
+von der Rechtsprechung entwickelten Grundsätze zum Einsichtsrecht des
+Patienten uneingeschränkt auch dann, wenn diese Dokumentation auf
+elektronischen Medien erfolgt, d. h., das Einsichtsrecht umfasst den
+objektiven Teil der ärztlichen Aufzeichnungen. Diese sind i. d. R. die
+naturwissenschaftlichen konkretisierbaren Befunde über
+Behandlungsmaßnahmen, Angaben über Medikation und Operationsberichte,
+aber auch z. B. EKG, EEG, Röntgenaufnahmen und Laborergebnisse.
+Demgegenüber ist der Arzt nicht verpflichtet, den Teil der
+Aufzeichnungen zu offenbaren, der seine persönlichen Eindrücke über
+den Patienten oder dessen Angehörige umfasst; auch müssen erste
+Verdachtsdiagnosen oder Bemerkungen zu einem bestimmten Verhalten des
+Patienten zur Behandlung nicht offenbart werden. Der Beschluss des
+Bundesverfassungsgerichts vom 4. 5. 2006 (Az.: 2 WhF 934/48) zu dem
+verfassungsrechtlich geschützten Interesse einer im Maßregelvollzug
+untergebrachten Person stellt eine Einzelfallentscheidung in Bezug auf
+ein besonderes Verhältnis (Strafgefangener) dar und ist nicht
+übertragbar auf andere Bereiche.
+
+In Ausnahmefällen kann das grundsätzlich bestehende Einsichtsrecht im
+Hinblick auf therapeutische Rücksichten eingeschränkt werden. Dies
+gilt insbesondere für psychiatrische Erkrankungen, weil in diesen
+Aufzeichnungen die Persönlichkeit des Arztes ebenso wie dritter
+Personen umfassender einfließt und spezifische therapeutische Risiken
+aus einer Rekonstruktion verarbeiteter Problemfelder für den Patienten
+entstehen können.
+
+Das Einsichtsrecht des Patienten in die ärztliche Aufzeichnung ist bei
+herkömmlicher Dokumentation durch die konkrete Einsichtnahme des
+Patienten in den entsprechenden Teil der ärztlichen Aufzeichnungen zu
+gewähren. Es kann aber auch auf Verlangen des Patienten durch
+Zurverfügungstellen z. B. von Fotokopien oder Ausdrucken
+sichergestellt werden.
+
+Wenn der Arzt demgegenüber einen Praxiscomputer einsetzt, sollte er
+dem Patienten lediglich Zugang zu dem Teil der Patientendatei
+gewähren, der seine personenbezogenen Daten beinhaltet. In keinem Fall
+sollte dem Patienten die Möglichkeit eingeräumt werden, sich etwa
+selbst an den Praxiscomputer zu begeben; vielmehr sollte ein Ausdruck
+der ärztlichen Aufzeichnungen zur Verfügung gestellt oder dem
+Patienten die ihn betreffenden Dokumente mittels geschützter
+elektronischer Kommunikation übermittelt werden (vgl. Kapitel 5 der
+Technischen Anlage).
+5.2 Übermittlung an Dritte
+
+Wenn auch davon ausgegangen werden kann, dass das Erstellen einer
+(elektronischen) Patientendatei bereits aus dem Zweck des
+Behandlungsvertrages hergeleitet werden kann, gilt dieses nicht für
+die Übermittlung von Patientendaten, und zwar unabhängig von der
+Frage, ob diese Daten elektronisch auf Datenträgern oder in
+herkömmlicher Weise an Dritte übermittelt werden.
+
+Die Übermittlung von Patientendaten ist nur zulässig, wenn sie
+entweder durch eine gesetzliche Vorschrift, durch die Einwilligung des
+Patienten oder aber durch einen besonderen Rechtfertigungsgrund
+legitimiert ist; anderenfalls läuft der Arzt Gefahr, die ärztliche
+Schweigepflicht (=A7 203 StGB i. V. m. =A7 9 MBO) zu verletzen und gegen
+datenschutzrechtliche Vorschriften zu verstoßen. Dies gilt
+grundsätzlich auch bei der Übermittlung von Daten von Arzt zu Arzt. In
+Fällen der Mit- und Nachbehandlung (z. B. Überweisung) sind Ärzte
+insoweit von der Schweigepflicht befreit, als dass das Einverständnis
+des Patienten anzunehmen ist.
+
+Gesetzliche Übermittlungsbefugnisse und -pflichten finden sich
+insbesondere
+
+    im Sozialgesetzbuch V (SGB V) für den Bereich der
+vertragsärztlichen Versorgung, zur Übermittlung an die
+Kassenärztlichen Vereinigungen, z. B.
+    zum Zweck der Abrechnung (=A7 295 SGB V auch i. V. m.  =A7 106 a SGB V
+[Abrechnungsprüfung])
+    zum Zweck der Wirtschaftlichkeitsprüfung (=A7=A7 296, 297 SGB V)
+    zum Zweck der Qualitätssicherung (=A7 298 SGB V)
+    zur Übermittlung an die Krankenkasse, z. B.
+Arbeitsunfähigkeitsbescheinigung (=A7 284 i. V. m. =A7 295 SGB V)
+    zur Übermittlung an den medizinischen Dienst (=A7=A7 276, 277 SGB V).
+
+Weitere gesetzliche Übermittlungsbefugnisse und -pflichten finden sich
+in
+
+    dem Infektionsschutzgesetz (=A7=A7 6 ff. IfSG)
+    den Krebsregistergesetzen der Länder
+    der Röntgenverordnung (=A7 17 a RöV, =A7 28 Abs. 8 RöV)
+    der Strahlenschutzverordnung (=A7 42 StrlSchV)
+    dem Betäubungsmittelgesetz i. V. m. der BTMVV (=A7 5 a BTMVV)
+    SGB VII (Gesetzliche Unfallversicherung) (=A7=A7 201 ff. SGB VII)
+    im Personenstandsgesetz (=A7=A7 16, 17 PStG).
+
+Soweit keine gesetzliche Übermittlungsbefugnis vorliegt, kann
+ausnahmsweise ohne Einwilligung des Patienten eine Durchbrechung der
+ärztlichen Schweigepflicht dann gerechtfertigt sein, wenn eine nicht
+anders abwendbare Gefahr für ein höherwertiges Rechtsgut, wie Leben,
+Gesundheit und Freiheit, abgewehrt werden soll (=A7 34 StGB).
+
+Darüber hinaus kann der Arzt im Einzelfall im Rahmen der Wahrnehmung
+berechtigter Interessen, etwa bei strafrechtlichen
+Ermittlungsverfahren, gegen ihn selbst oder aber auch im Rahmen der
+Durchsetzung zivilrechtlicher Ansprüche gegen den Patienten befugt und
+berechtigt sein, die ihm anvertrauten Patientendaten zu offenbaren.
+
+Soweit weder eine gesetzliche Offenbarungsbefugnis besteht, noch
+darüber hinaus ein besonderer Rechtfertigungsgrund vorliegt, darf eine
+Übermittlung personenbezogener Patientendaten nur dann erfolgen, wenn
+eine ausdrückliche oder stillschweigende Einwilligung des Patienten
+vorliegt. Die Einwilligungserklärung muss sich auf den konkreten
+Übermittlungsvorgang beziehen. Es ist nicht ausreichend, wenn beim
+Abschluss eines Behandlungsvertrages pauschal für alle denkbaren Fälle
+der Datenweitergabe eine vorweggenommene Einwilligungserklärung des
+Patienten in eine Datenübermittlung eingeholt wird.
+
+Die Weitergabe von Patientendaten an private Versicherungen muss
+ebenfalls durch die Zustimmung des Patienten legitimiert sein. In
+diesen Fällen sollte die Schweigepflichtentbindung auf den aktuellen
+Anlass bezogen sein, auch hier reicht eine pauschale Einwilligung
+nicht aus. Die Auskunft ist nur im Rahmen der
+Schweigepflichtentbindung zulässig. Es wird empfohlen, die Unterlagen
+dem Patienten zu übergeben, damit dieser entscheidet, was er an die
+Versicherung weitergibt.
+
+Auch die Weitergabe von Daten an privatärztliche Verrechnungsstellen
+bedarf der Einwilligung des Patienten.
+
+Die Weitergabe von Daten im Rahmen einer Praxisveräußerung kann
+grundsätzlich ebenfalls nur dann erfolgen, wenn eine Einwilligung des
+Patienten in die Datenweitergabe herbeigeführt worden ist. Soweit in
+diesen Fällen keine Einwilligung der Patienten herbeigeführt werden
+kann, kann der abgebende Arzt seine ärztlichen Aufzeichnungen dem
+übernehmenden Arzt im Rahmen eines Verwahrungsvertrages in Obhut
+geben. Der übernehmende Arzt muss diese Patientendaten unter
+Verschluss halten und darf sie nur mit Einwilligung des Patienten
+einsehen oder weitergeben (=A7 10 Abs. 4 MBO).
+
+Soweit der Arzt nicht zweifelsfrei klären kann, ob eine
+Übermittlungsbefugnis besteht, empfiehlt es sich, eine schriftliche
+Einwilligungserklärung des Patienten vor der Datenübermittlung
+einzuholen. Gemäß =A7 73 Abs. 1 b SGB V ist bei der Übermittlung von
+patientenbezogenen Daten vom Facharzt an den Hausarzt eine
+schriftliche Einwilligung des Patienten zwingend erforderlich.
+5.3 Externe elektronische Kommunikation
+
+Die sicherste Möglichkeit, Patientendaten zu schützen, ist es, den
+Rechner mit Patientendaten von dem Rechner zu trennen, über den die
+Internetverbindung hergestellt werden soll (sog. Standalone-Gerät).
+Soweit eine Verbindung mit dem Praxisrechner erfolgt, sollten die
+Patientendaten auf dem Praxiscomputer verschlüsselt gespeichert und
+eine hochwertige, regelmäßig gewartete und aktualisierte Firewall
+verwendet werden. Auf diese Weise kann verhindert werden, dass Dritte
+unbemerkt eine Verbindung aufbauen, Schaden stiftende Programme in dem
+Praxiscomputer installieren und/oder den Datenbestand ausspähen,
+verändern oder löschen. Es wird empfohlen, den in der Anlage (vgl.
+Kapitel 3 der Technischen Anlage) dargestellten technischen Vorgaben
+zu folgen. Kann dies nicht sichergestellt werden, so sind
+Patientendaten auf einem Praxiscomputer zu speichern, der über keinen
+Internetanschluss verfügt.
+
+Übermittelt der Arzt Dokumente über ein öffentliches Datennetz
+(Internet), so sollte er sicherstellen, dass der Zugriff Unbefugter
+auf die Dokumente ausgeschlossen ist. Die zu übermittelnden Daten
+müssen daher durch ein hinreichend sicheres Verfahren verschlüsselt
+werden (vgl. Kapitel 5 der Technischen Anlage).
+
+Zur Sicherung der Authentizität bedarf es einer qualifizierten
+elektronischen Signatur. Ein noch höheres Sicherheitsniveau wird durch
+die Nutzung eines gesicherten Datennetzes, in dem die Datenpakete
+nochmals verschlüsselt werden, erreicht. Dies kann insbesondere für
+die Nutzung in Praxisnetzen relevant sein.
+
+Bei einer Übertragung per Fax ist darauf zu achten, dass im Rahmen
+einer Abgangskontrolle die richtige Faxnummer und der richtige
+Adressat angewählt werden. Bei der Übersendung ist sicherzustellen,
+dass dort, wo die Daten ankommen, nur Berechtigte von den Daten
+Kenntnis nehmen können. Vor Absendung des Faxes ist deshalb
+gegebenenfalls eine telefonische Rücksprache mit dem Empfänger
+erforderlich.
+
+Nutzt der Arzt die sogenannte Internet-Telefonie (Voice-over-IP), so
+ist darauf zu achten, dass keine Daten von Patienten weitergegeben
+werden, da die Gespräche in der Regel derzeit nicht abhörsicher sind.
+Die =84Internet-Telefonie=93 kann daher nicht als ErSatz für die
+herkömmliche telefonische Kommunikation dienen, wenn nicht besondere
+Schutzvorkehrungen (vgl. Kapitel 4.3 der Technischen Anlage) getroffen
+werden.
+6. Weitere Grundsätze beim Einsatz von EDV in der Arztpraxis
+
+Der Einsatz von EDV-Technik in der Praxis des niedergelassenen Arztes
+erfordert nicht nur die Beachtung der aufgezeigten rechtlichen
+Rahmenbedingungen, sondern macht es auch erforderlich, dass der
+organisatorische Ablauf den Besonderheiten des Einsatzes dieses
+Mediums Rechnung trägt. Auch durch die Beachtung dieser
+organisatorischen Hinweise kann dazu beigetragen werden, den in =A7 10
+Abs. 5 der MBO aufgestellten Anforderungen Genüge zu tun. Im Einzelnen
+sollte der Arzt Folgendes beachten:
+
+    Zur Sicherung der Patientendaten sind täglich Sicherungskopien auf
+geeigneten externen Medien zu erstellen.
+    Der Arzt muss während der vorgeschriebenen Aufbewahrungsfristen
+(i. d. R. zehn Jahre =96 =A7 10 Abs. 3 MBO) in der Lage sein, auch nach
+einem Wechsel des EDV-Systems oder der Programme innerhalb
+angemessener Zeit die EDV-mäßig dokumentierten Informationen lesbar
+und verfügbar zu machen.
+    Die (Fern-)Wartung von EDV-Systemen in Arztpraxen ist dann
+zulässig, wenn das System die Möglichkeit bietet, dass die einzelnen
+Maßnahmen durch den Arzt autorisiert und überwacht werden können. Es
+handelt sich hierbei um eine Prüfung oder Wartung automatisierter
+Verfahren oder von Datenverarbeitungsanlagen durch Externe gem. =A7 11
+Abs. 5 BDSG. Dabei sind die für die Datenverarbeitung im Auftrag
+geltenden Grundsätze gem. =A7 11 Abs. 1 bis Abs. 4 BDSG zu beachten. Der
+Arzt ist weiterhin für die Einhaltung der datenschutzrechtlichen
+Vorschriften verantwortlich. Er hat den Auftragnehmer unter besonderer
+Berücksichtigung der Eignung der von ihm getroffenen technischen und
+organisatorischen Maßnahmen sorgfältig auszuwählen. Er hat sich also
+vor der Auftragserteilung zu vergewissern, dass der Auftragnehmer in
+der Lage und Willens ist, die erforderlichen Sicherungsmaßnahmen
+auszuführen. In dem schriftlich abzuschließenden Auftragsverhältnis
+müssen sich der Auftragnehmer und seine Mitarbeiter zur
+Verschwiegenheit verpflichten. Die im Rahmen der (Fern-)Wartung
+durchgeführten Maßnahmen sowie der Name der Wartungsperson sind zu
+protokollieren (vgl. Kapitel 10 der Technischen Anlage).
+    Auszumusternde Datenträger müssen unter Beachtung des
+Datenschutzes (z. B. durch mehrfaches Überschreiben mittels geeigneter
+Software) fachgerecht unbrauchbar gemacht werden.
+    Der Arzt sollte beim Abschluss von EDV-Verträgen und in jedem
+einzelnen Wartungs- oder Reparaturfall darauf achten, dass die
+genannten Vorschriften eingehalten werden.
+    Drahtlose Verbindungen in der Arztpraxis können ein
+Sicherheitsrisiko darstellen. Daher sollten die in der Technischen
+Anlage (Kapitel 4) beschriebenen Vorgaben beachtet werden.
+
+* Diese für den Bereich der ärztlichen Praxis entwickelten
+datenschutzrechtlichen Empfehlungen können auf den Bereich des
+Krankenhauses nicht uneingeschränkt übertragen werden, da der Bereich
+der Datenverarbeitung im Krankenhaus zum Teil durch besondere
+Landesdatenschutzgesetze geregelt ist und zudem die
+Organisationsabläufe in Krankenhäusern Modifikationen der hier
+entwickelten Grundsätze erfordern.

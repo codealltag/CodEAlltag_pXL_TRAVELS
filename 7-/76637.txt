@@ -1,0 +1,5 @@
+Ein gutes Reisebüro lässt das bereits in die PSM (Passenger Service
+Message) schreiben ;-)
+
+Gruss
+Sebastian

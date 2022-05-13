@@ -1,0 +1,6 @@
+ATM = Automatic Teller Machine
+
+(Teller ist eigentlich der Mensch hinterm Bankschalter)
+
+Gruß
+Lennart

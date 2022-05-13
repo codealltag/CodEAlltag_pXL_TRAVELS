@@ -1,0 +1,10 @@
+Killfile entry
+Name = "Kornelia Zacharias-Langhans (udkulvlb@yaajm.cw)"
+Reason = "dubiose Spendenaufrufe, x-Post"
+Hit Points = "3"
+E-Time = "48 Hours"
+--
+else = "*plonk*"
+/Killfile entry
+
+-helmut-

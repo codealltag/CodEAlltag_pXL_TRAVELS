@@ -1,0 +1,27 @@
+HI!
+
+
+In Ft. Clages' (OK, ist etwas weiter oben) waren wir sehr gut im GIL
+untergebracht.
+
+
+Sehr teuer, aber geht recht gut. Kostet AFAIK mind. DM 4.- pro Minute.
+Ansonsten nehme ich lieber Telefonkarte ($0.17 pro Minute).
+
+
+Ich habe schon 2 Varianten ausprobiert:
+
+1.
+Mit Kokolores Deutschland Account dort problemlos eingewühlt. Kostet dann
+halt, wenn Du Dich nicht das erste Mal bei Kokolores anmeldest, DM 10.- pro
+Monat und 3.9 Pf/Minute, auch in USA.
+
+2.
+Einer der kostenlosen, werbe-finanzierten Internetprovider, z.B. Radkontor.
+Das ging auch ganz gut, aber SMTP ging seltsamerweise nicht. POP3 und
+WWW schon.
+
+An Telefongebühren zahlst Du ja in der Regel nur eine Einwahlgeb�hr
+zwischen $0 und $1 im Hotel für ein Ortsgespräch.
+
+Karsten

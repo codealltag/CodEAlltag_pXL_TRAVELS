@@ -1,0 +1,18 @@
+Nein, ist er sehr wahrscheinlich nicht. In K wird üblicherweise "full 
+fare" gebucht, das dürfte teurer sein.
+Das Groneß-Buchungsdings zeigt leider auch keine Verfügbarkeit nach 
+Buchungsklassen mehr an. Was da in der Preisübersicht in der zweiten 
+Spalte angezeigt wird, ist die Service-Klasse, als Economy (Y), Business 
+(C) oder First (F). Du kannst die Buchungsklasse eines Tarifes aber 
+rausfinden, indem du auf die Tarifbestimmungen klickst (i in der Spalte 
+Tarif). Dann siehst du auch die Tarifkennung oben fett in der gelben 
+Zeile, sowas wie QKUQDE2. Der erste Buchstabe ist (von vielen Ausnahmen 
+abgesehen) üblicherweise die Buchungsklasse des Tarifs, bei z.B. QKUQDE2 
+also Q. Du musst allerdings eben den korrekten Tarif finden. Ein 
+Vergleich über den Preis führt da nicht unbedingt zum Ziel. Verlange vom 
+Anbieter des Fluges, den du da ursprünglich gefunden hast, dass er dir 
+Tarifbedingungen und Buchungsklasse mitteilt. Das ist schließlich 
+Vertragsbestandteil. Wenn er sich weigert, ist er unseriös.
+
+Gruß,
+Mathias

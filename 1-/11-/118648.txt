@@ -1,0 +1,39 @@
+this format, some or all of this message may not be legible.
+
+--N_2231716443_7000600
+Content-type: text/plain; charset="ISO-8859-1"
+Content-transfer-encoding: 8bit
+
+Wer noch Infos über die USA sucht, der findet ziemlich viel bei den USA
+Experten. 
+
+Es ist ein nicht kommerzielles Forum für Freunde der USA:
+http://uph.uwdjuwkkmgv.mfp
+
+Gruß aus Rüting,
+Tino
+
+
+--N_2231716443_7000600
+Content-type: text/html; charset="ISO-8859-1"
+Content-transfer-encoding: quoted-printable
+
+<HTML>
+<HEAD>
+<TITLE>USA Forum</TITLE>
+</HEAD>
+<BODY>
+<FONT FACE=3D"Verdana">Wer noch Infos &uuml;ber die USA sucht, der findet zie=
+mlich viel bei den &#8220;USA Experten&#8221;. <BR>
+<BR>
+Es ist ein nicht kommerzielles Forum f&uuml;r Freunde der USA:<BR>
+http://uph.uwdjuwkkmgv.mfp<BR>
+<BR>
+Gru&szlig; aus Rüting,<BR>
+Tino<BR>
+</FONT>
+</BODY>
+</HTML>
+
+
+--N_2231716443_7000600--

@@ -1,0 +1,61 @@
+Number of threads  ................... 11
+Number of articles  .................. 47
+Average articles per thread  ......... 4,27
+Number of unanswered posts  .......... 4
+Number of posts from Nieweler users .. 0
+
+
+Top Threads
+
+Ranking  Articles  Subject
+-------  --------  ----------------------------
+      1        19  G.u.T.: Zu: Kosmische Impulse und ihr Bezug zu
+Evolution und zuKrankheiten (z.B. Entstehung von Krebs)
+      2         6
+=?ISO-8859-1?Q?G=2Eu=2ET=2E=3A_Weiteres_Desaster=2DPotential_von_der_St=
+E4rke_?==?ISO-8859-1?Q?=22Haiti=2D12=2E01=2E2010=22_entdeckt=3A_04=2E_Ju
+li_2011_=2E=2E=2E?=
+      3         5  Re: Ignore. ..
+      4         5
+=?ISO-8859-1?Q?G=2Eu=2ET=2E=3A_Zunehmende_Erdbebendichte_in_Island_lä=
+DFt_a?==?ISO-8859-1?Q?ufkommenden_Vulkanismus_erwarten_=2E=2E=2E?=
+      5         4  Re: Photo-Beweis: Gebaeude auf dem Mars
+      6         2  Re: G.u.T.: Groessere Sonnenflecken für August
+2011 korrekt vorhergesagt! ...
+      7         2  Re: G.u.T.: Nach
+=?ISO-8859-15?Q?Überschwemmungen_und_Erdr?==?ISO-8859-15?Q?utschen_in_
+Mexiko_nun_auch_=22Landunter_in_?==?ISO-8859-15?Q?Elsholz=22_=2E=2E?=
+
+
+Top Posters
+
+Ranking  Articles  Name
+-------  --------  ----------------------------
+      1        15  senFrxnsl-Qsiaph
+      2        11  Clemens Perghammer
+      3         4  Gert Fesenfeldt
+      4         3  Uwe
+      5         2  Ejclbbernd
+      6         2  Uwe Schmidl
+      7         2  Isd Carsten
+      8         1  Pasquale Lampl
+      9         1  Vtbruno
+     10         1  Charles Lewicki
+     11         1  Karsten Possink
+     12         1  Norman Mols
+     13         1  Yupbruno
+
+
+Top Newsreaders
+
+Ranking  Articles  Newsreader
+-------  --------  ----------------------------
+      1        20  Panoptikum Outlook Express
+      2        11  G2
+      3         8  Pagnia
+      4         3  Thunderbird
+      5         2  Xnews
+
+
+-- 
+Harm Arns
